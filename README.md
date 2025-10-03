@@ -7,11 +7,12 @@
 This repository contains the complete SASAP (Statewide Alaska Salmon Assessment Program) historical fish count dataset, converted to the ADFG standard format for compatibility with the Alaska Fish Count App.
 
 ### Statistics
-- **Total Files**: 8,147 JSON files
-- **Time Period**: 1922-2017 (96 years)
+- **Total Files**: 7,940 JSON files
+- **Time Period**: 1921-2017 (97 years)
 - **Locations**: 148 monitoring stations
-- **Species**: 21 different fish species
+- **Species**: 17 different fish species
 - **Format**: ADFG JSONDataSet standard
+- **Manifest**: Version 3.0.0 with organized index structure
 
 ## Data Structure
 
@@ -81,15 +82,29 @@ The dataset includes data for 21 fish species:
 
 ## Usage
 
-This dataset is designed for use with the Alaska Fish Count App and follows the same data structure as other ADFG datasets. Files can be accessed directly via GitHub raw URLs:
+This dataset is designed for use with the Alaska Fish Count App and follows the same data structure as other ADFG datasets. The manifest.json file provides the organized index structure for efficient data access.
 
+### Manifest Structure
+The manifest.json follows the same format as the sport dataset:
+- **Version**: 3.0.0
+- **Index**: Location and species mappings
+- **Organized**: Nested structure by location → species → year
+- **Statistics**: Complete dataset metrics
+
+### Data Access
+Files can be accessed directly via GitHub raw URLs:
 ```
 https://raw.githubusercontent.com/alaskafishcounts/adfg-sasap-dataset/master/[LOCATION_ID]/[SPECIES_ID]/[FILENAME].json
 ```
 
+### Manifest Access
+```
+https://raw.githubusercontent.com/alaskafishcounts/adfg-sasap-dataset/master/manifest.json
+```
+
 ## Historical Coverage
 
-- **Earliest Data**: 1922 (Chignik River)
+- **Earliest Data**: 1921 (Karluk River)
 - **Latest Data**: 2017
 - **Most Complete Locations**: Karluk, Chignik River, Pilot Station
 - **Data Gaps**: Some locations have intermittent coverage
@@ -100,6 +115,8 @@ https://raw.githubusercontent.com/alaskafishcounts/adfg-sasap-dataset/master/[LO
 - Metadata verified for consistency
 - Column structure standardized
 - Data integrity preserved during conversion
+- Manifest generated with organized index structure
+- Compatible with Alaska Fish Count App data loading system
 
 ## Repository Information
 

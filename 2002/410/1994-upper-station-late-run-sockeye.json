@@ -1,0 +1,715 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "1994-07-16",
+      6,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-17",
+      15,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-18",
+      2,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-19",
+      183,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-20",
+      1984,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-21",
+      221,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-22",
+      472,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-23",
+      9,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-24",
+      4,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-25",
+      134,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-26",
+      2395,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-27",
+      887,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-28",
+      1854,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-29",
+      1902,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-30",
+      1325,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-31",
+      2,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-01",
+      227,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-02",
+      777,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-03",
+      9368,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-04",
+      5291,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-05",
+      6223,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-06",
+      6673,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-07",
+      165,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-08",
+      3332,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-09",
+      189,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-10",
+      5514,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-11",
+      9508,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-12",
+      8513,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-13",
+      10075,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-14",
+      11399,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-15",
+      13588,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-16",
+      6890,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-17",
+      12610,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-18",
+      17530,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-19",
+      12534,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-20",
+      12180,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-21",
+      6537,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-22",
+      10911,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-23",
+      9463,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-24",
+      3516,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-25",
+      378,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-26",
+      2527,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-27",
+      2403,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-28",
+      2658,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-29",
+      6010,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-30",
+      169,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-31",
+      1900,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-01",
+      378,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-02",
+      1522,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-03",
+      481,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-04",
+      1812,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-05",
+      606,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-06",
+      170,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-07",
+      1980,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-08",
+      2196,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-09",
+      1077,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-10",
+      500,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-11",
+      500,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-12",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-13",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-14",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-15",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-16",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-17",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-18",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-19",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-20",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-21",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-22",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-23",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-24",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-25",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-26",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-27",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-28",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-29",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-30",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1994",
+    "totalRecords": 77,
+    "totalCount": 221675,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.498426"
+  }
+}

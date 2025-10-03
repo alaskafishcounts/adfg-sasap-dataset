@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-08-04",
+      2,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-05",
+      3,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-06",
+      6,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-07",
+      22,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-08",
+      12,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-09",
+      14,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-10",
+      51,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-11",
+      31,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-12",
+      56,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-13",
+      61,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-14",
+      58,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-15",
+      91,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-16",
+      87,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-17",
+      234,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-18",
+      135,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-08-19",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "440",
+    "year": "2014",
+    "totalRecords": 16,
+    "totalCount": 863,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:47.974450"
+  }
+}

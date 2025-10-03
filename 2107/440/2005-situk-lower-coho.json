@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-07-01",
+      1,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "440",
+    "year": "2005",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.082866"
+  }
+}

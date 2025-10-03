@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "1994-08-23",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-01",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-11",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-12",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-13",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-16",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-18",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-19",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-20",
+      12,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-21",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-22",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-23",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-09-24",
+      3,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1994,
+      "1994-10-07",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "530",
+    "year": "1994",
+    "totalRecords": 14,
+    "totalCount": 34,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.521330"
+  }
+}

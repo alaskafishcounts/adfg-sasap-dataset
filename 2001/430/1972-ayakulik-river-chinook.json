@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1972,
+      "1972-06-04",
+      41,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-05",
+      34,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-06",
+      78,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-07",
+      46,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-08",
+      52,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-09",
+      24,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-10",
+      52,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-11",
+      55,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-12",
+      82,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-13",
+      129,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-14",
+      146,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-15",
+      93,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-16",
+      82,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-17",
+      60,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-18",
+      54,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-19",
+      27,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-20",
+      31,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-21",
+      25,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-22",
+      14,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-23",
+      15,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-24",
+      6,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-25",
+      5,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-26",
+      27,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-27",
+      24,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-28",
+      32,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-29",
+      30,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-06-30",
+      45,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-01",
+      30,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-02",
+      44,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-03",
+      18,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-04",
+      54,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-05",
+      20,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-06",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-07",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-08",
+      4,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-09",
+      12,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-10",
+      18,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-11",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-12",
+      7,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-13",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-14",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-15",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-16",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-17",
+      4,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-18",
+      12,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-19",
+      10,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-20",
+      3,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-21",
+      3,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-22",
+      7,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-23",
+      3,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-24",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-25",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-26",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-27",
+      5,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-28",
+      5,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-29",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-30",
+      4,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-07-31",
+      13,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-01",
+      5,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-02",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-03",
+      5,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-04",
+      7,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-05",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-06",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-07",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-08",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-09",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-10",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-11",
+      9,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-12",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "1972-08-13",
+      10,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "430",
+    "year": "1972",
+    "totalRecords": 71,
+    "totalCount": 1644,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.021821"
+  }
+}

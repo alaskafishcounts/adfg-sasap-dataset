@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-06-20",
+      1,
+      530,
+      2114,
+      "Karta River",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2114,
+    "species_id": "530",
+    "year": "2005",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.387654"
+  }
+}

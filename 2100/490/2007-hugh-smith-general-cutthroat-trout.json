@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "2007-05-16",
+      2,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "2007-05-18",
+      1,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "2007-05-22",
+      1,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "2007-05-23",
+      1,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "2007-05-25",
+      3,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "2007-05-26",
+      3,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "2007-05-29",
+      2,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "2007-05-30",
+      1,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "490",
+    "year": "2007",
+    "totalRecords": 8,
+    "totalCount": 14,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.981045"
+  }
+}

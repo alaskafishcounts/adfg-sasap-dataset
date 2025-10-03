@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "1990-07-16",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-08-24",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-10-02",
+      20,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-10-03",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-10-05",
+      4,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-10-07",
+      3,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-10-22",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-10-27",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-10-29",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-11-07",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1990,
+      "1990-11-09",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "450",
+    "year": "1990",
+    "totalRecords": 11,
+    "totalCount": 35,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.287485"
+  }
+}

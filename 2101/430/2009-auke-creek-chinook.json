@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-08-18",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-19",
+      8,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-20",
+      12,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-21",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-23",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-25",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-26",
+      5,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-27",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-29",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-30",
+      5,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-08-31",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-09-01",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "2009-09-05",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "430",
+    "year": "2009",
+    "totalRecords": 13,
+    "totalCount": 54,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.348683"
+  }
+}

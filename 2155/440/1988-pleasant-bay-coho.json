@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-08-25",
+      1,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-08-30",
+      3,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-08-31",
+      13,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-09-02",
+      11,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-09-03",
+      15,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-09-04",
+      18,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-09-05",
+      7,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-09-06",
+      5,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-09-07",
+      5,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-09-08",
+      4,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-09-09",
+      3,
+      440,
+      2155,
+      "Pleasant Bay",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2155,
+    "species_id": "440",
+    "year": "1988",
+    "totalRecords": 11,
+    "totalCount": 85,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.802492"
+  }
+}

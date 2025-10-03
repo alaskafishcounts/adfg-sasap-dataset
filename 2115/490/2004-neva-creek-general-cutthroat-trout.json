@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "2004-07-04",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2004,
+      "2004-09-03",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2004,
+      "2004-10-04",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2004,
+      "2004-10-07",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2004,
+      "2004-10-12",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2115,
+    "species_id": "490",
+    "year": "2004",
+    "totalRecords": 5,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.540764"
+  }
+}

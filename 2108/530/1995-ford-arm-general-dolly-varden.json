@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-08-16",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-08-18",
+      11,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-08-27",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-08-28",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-08-29",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-08-31",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-09-06",
+      6,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-09-08",
+      5,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-09-10",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-09-13",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-09-15",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-10-01",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-10-08",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "530",
+    "year": "1995",
+    "totalRecords": 13,
+    "totalCount": 36,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.519081"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-05-09",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2015,
+      "2015-05-12",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2015,
+      "2015-08-24",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2015,
+      "2015-09-25",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2015,
+      "2015-09-29",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2015,
+      "2015-10-02",
+      4,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "480",
+    "year": "2015",
+    "totalRecords": 6,
+    "totalCount": 9,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.442922"
+  }
+}

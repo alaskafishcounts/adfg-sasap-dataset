@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "1975-06-01",
+      30,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-02",
+      19,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-03",
+      48,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-04",
+      30,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-05",
+      23,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-06",
+      64,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-07",
+      117,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-08",
+      111,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-09",
+      289,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-10",
+      175,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-11",
+      345,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-12",
+      450,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-13",
+      531,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-14",
+      761,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-15",
+      1712,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-16",
+      807,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-17",
+      2213,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-18",
+      1032,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-19",
+      2645,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-20",
+      1652,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-21",
+      2227,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-22",
+      1148,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-23",
+      2106,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-24",
+      765,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-25",
+      2540,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-26",
+      1331,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-27",
+      1314,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-28",
+      1707,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-29",
+      1400,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-06-30",
+      663,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-01",
+      1024,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-02",
+      1261,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-03",
+      980,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-04",
+      680,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-05",
+      1950,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-06",
+      1812,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-07",
+      3112,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-08",
+      3836,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-09",
+      5225,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-10",
+      2344,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-11",
+      1645,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-12",
+      957,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-13",
+      1133,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-14",
+      3570,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-15",
+      1237,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-16",
+      1412,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-17",
+      4048,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-18",
+      685,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-19",
+      436,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-20",
+      2492,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-21",
+      380,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-22",
+      50,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-23",
+      1656,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-24",
+      2065,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-25",
+      141,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-26",
+      275,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-27",
+      3460,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-28",
+      187,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-29",
+      12,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-30",
+      556,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-07-31",
+      865,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-01",
+      1207,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-02",
+      2415,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-03",
+      1115,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-04",
+      1649,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-05",
+      1000,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-06",
+      306,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-07",
+      550,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-08",
+      920,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-09",
+      393,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-10",
+      300,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-11",
+      205,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-12",
+      150,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-13",
+      265,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-14",
+      143,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-15",
+      1114,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-16",
+      1265,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-17",
+      790,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-18",
+      157,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-19",
+      731,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-20",
+      1107,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-21",
+      227,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-22",
+      367,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "1975-08-23",
+      400,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "1975",
+    "totalRecords": 84,
+    "totalCount": 94517,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.071979"
+  }
+}

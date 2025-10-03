@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "1989-09-06",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-07",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-10",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-12",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-15",
+      5,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-18",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-20",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-22",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-23",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-24",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-26",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-09-29",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-10-03",
+      5,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-10-06",
+      7,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-10-07",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-10-20",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1989,
+      "1989-10-21",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "530",
+    "year": "1989",
+    "totalRecords": 17,
+    "totalCount": 40,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.516440"
+  }
+}

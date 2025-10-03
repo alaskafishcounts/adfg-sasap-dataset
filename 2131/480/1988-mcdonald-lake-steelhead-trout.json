@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-04-20",
+      2,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1988,
+      "1988-04-27",
+      3,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1988,
+      "1988-05-04",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1988,
+      "1988-05-09",
+      2,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1988,
+      "1988-05-11",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1988,
+      "1988-05-12",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1988,
+      "1988-05-13",
+      3,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1988,
+      "1988-05-14",
+      3,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1988,
+      "1988-05-22",
+      2,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "480",
+    "year": "1988",
+    "totalRecords": 9,
+    "totalCount": 18,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.868031"
+  }
+}

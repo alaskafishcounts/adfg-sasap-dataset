@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-07-31",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-08-07",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-08-10",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-08-12",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-08-13",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-08-26",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-08-27",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-08-29",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-08-30",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-09-01",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-09-02",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-09-04",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-09-07",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-09-12",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1988,
+      "1988-09-13",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "430",
+    "year": "1988",
+    "totalRecords": 15,
+    "totalCount": 28,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.353695"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "2006-08-24",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2114,
+    "species_id": "480",
+    "year": "2006",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.423440"
+  }
+}

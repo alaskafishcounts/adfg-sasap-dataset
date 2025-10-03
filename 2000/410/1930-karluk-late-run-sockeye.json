@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1930,
+      "1930-07-16",
+      2158,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-17",
+      754,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-18",
+      1018,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-19",
+      2274,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-20",
+      1826,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-21",
+      1467,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-22",
+      372,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-23",
+      23,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-24",
+      629,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-25",
+      374,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-26",
+      15,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-27",
+      28,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-28",
+      18,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-29",
+      360,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-30",
+      1551,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-31",
+      5277,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-01",
+      3923,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-02",
+      31782,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-03",
+      29663,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-04",
+      14752,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-05",
+      7133,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-06",
+      4263,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-07",
+      3738,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-08",
+      7168,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-09",
+      16831,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-10",
+      10079,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-11",
+      5086,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-12",
+      1352,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-13",
+      3876,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-14",
+      3176,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-15",
+      12213,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-16",
+      26902,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-17",
+      13567,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-18",
+      6260,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-19",
+      1886,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-20",
+      13195,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-21",
+      38605,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-22",
+      19498,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-23",
+      5480,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-24",
+      6004,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-25",
+      158,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-26",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-27",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-28",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-29",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-30",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-31",
+      67,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-01",
+      80,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-02",
+      56812,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-03",
+      32607,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-04",
+      7038,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-05",
+      1490,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-06",
+      20876,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-07",
+      37411,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-08",
+      11892,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-09",
+      9820,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-10",
+      3461,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-11",
+      8,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-12",
+      15,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-13",
+      2785,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-14",
+      23173,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-15",
+      13794,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-16",
+      5623,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-17",
+      338,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-18",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-19",
+      186,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-20",
+      12471,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-21",
+      19853,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-22",
+      60110,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-23",
+      55163,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-24",
+      316,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-25",
+      15,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-26",
+      11,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-27",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-28",
+      7,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-29",
+      2,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-30",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-01",
+      15,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-02",
+      119,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-03",
+      1054,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-04",
+      291,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-05",
+      1093,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-06",
+      2218,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-07",
+      23436,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-08",
+      17974,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-09",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-10",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-11",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-12",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-13",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-14",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1930,
+      "1930-10-15",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "410",
+    "year": "1930",
+    "totalRecords": 92,
+    "totalCount": 726358,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.777552"
+  }
+}

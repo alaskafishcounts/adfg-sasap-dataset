@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "1991-06-25",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-06-26",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-06-27",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-06-28",
+      539,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-06-29",
+      1,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-06-30",
+      75,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-01",
+      149,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-02",
+      87,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-03",
+      108,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-04",
+      192,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-05",
+      168,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-06",
+      211,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-07",
+      183,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-08",
+      595,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-09",
+      938,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-10",
+      755,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-11",
+      447,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-12",
+      751,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-13",
+      257,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-14",
+      117,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-15",
+      56,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-16",
+      368,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-17",
+      957,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-18",
+      484,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-19",
+      749,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-20",
+      1068,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-21",
+      1053,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-22",
+      1132,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-23",
+      1496,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-24",
+      1774,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-25",
+      924,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-26",
+      890,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-27",
+      1411,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-28",
+      586,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-29",
+      1014,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-30",
+      915,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-07-31",
+      903,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-01",
+      1124,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-02",
+      754,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-03",
+      526,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-04",
+      656,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-05",
+      303,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-06",
+      540,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-07",
+      159,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-08",
+      172,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-09",
+      237,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-10",
+      293,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-11",
+      178,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-12",
+      290,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-13",
+      113,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-14",
+      42,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-15",
+      97,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-16",
+      124,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-17",
+      152,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-18",
+      62,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-19",
+      60,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-20",
+      59,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-21",
+      30,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-22",
+      76,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-23",
+      23,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-24",
+      48,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-25",
+      54,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-26",
+      26,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-27",
+      22,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-28",
+      19,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-29",
+      16,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-30",
+      13,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-08-31",
+      11,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-01",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-02",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-03",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-04",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-05",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-06",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-07",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-08",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-09",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-10",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-11",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-12",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-13",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-14",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-15",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-16",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-17",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1991,
+      "1991-09-18",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "450",
+    "year": "1991",
+    "totalRecords": 86,
+    "totalCount": 27632,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.691832"
+  }
+}

@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "2006-06-08",
+      330,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-09",
+      100,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-10",
+      740,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-11",
+      231,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-12",
+      557,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-13",
+      454,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-14",
+      850,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-15",
+      1153,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-16",
+      523,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-17",
+      3879,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-18",
+      13952,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-19",
+      6042,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-20",
+      9175,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-21",
+      5842,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-22",
+      3612,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-23",
+      9353,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-24",
+      6581,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-25",
+      12734,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-26",
+      34003,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-27",
+      12164,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-28",
+      12280,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-29",
+      17150,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-06-30",
+      19744,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-01",
+      9575,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-02",
+      7928,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-03",
+      3543,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-04",
+      6589,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-05",
+      5644,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-06",
+      1188,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-07",
+      1002,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-08",
+      2932,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-09",
+      1653,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-10",
+      3228,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-11",
+      1514,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-12",
+      2315,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-13",
+      1720,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-14",
+      2353,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-15",
+      1606,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-16",
+      505,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-17",
+      408,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-18",
+      295,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-19",
+      475,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-20",
+      366,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-21",
+      417,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-22",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-23",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-24",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-25",
+      560,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-26",
+      529,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-27",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-28",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-29",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-30",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-07-31",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-01",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-02",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-03",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-04",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-05",
+      969,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "430",
+    "year": "2006",
+    "totalRecords": 59,
+    "totalCount": 228763,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.713045"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1978,
+      "1978-08-30",
+      241,
+      410,
+      2104,
+      "Klawock River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "1978-08-31",
+      1,
+      410,
+      2104,
+      "Klawock River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "1978-09-01",
+      4,
+      410,
+      2104,
+      "Klawock River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "1978-10-02",
+      0,
+      410,
+      2104,
+      "Klawock River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "1978-10-03",
+      0,
+      410,
+      2104,
+      "Klawock River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "1978-10-13",
+      0,
+      410,
+      2104,
+      "Klawock River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "1978-10-14",
+      0,
+      410,
+      2104,
+      "Klawock River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "1978-10-19",
+      0,
+      410,
+      2104,
+      "Klawock River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "410",
+    "year": "1978",
+    "totalRecords": 8,
+    "totalCount": 246,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.490875"
+  }
+}

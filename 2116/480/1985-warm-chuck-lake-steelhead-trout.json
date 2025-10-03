@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "1985-09-22",
+      1,
+      480,
+      2116,
+      "Warm Chuck Lake",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-10-10",
+      1,
+      480,
+      2116,
+      "Warm Chuck Lake",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-10-11",
+      1,
+      480,
+      2116,
+      "Warm Chuck Lake",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "480",
+    "year": "1985",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.621675"
+  }
+}

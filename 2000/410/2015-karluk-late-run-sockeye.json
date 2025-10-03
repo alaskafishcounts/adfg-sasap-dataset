@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-07-16",
+      8920,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-17",
+      9711,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-18",
+      449,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-19",
+      2915,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-20",
+      1107,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-21",
+      4620,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-22",
+      5083,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-23",
+      2391,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-24",
+      3741,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-25",
+      2532,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-26",
+      2983,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-27",
+      2512,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-28",
+      5917,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-29",
+      677,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-30",
+      695,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-31",
+      1282,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-01",
+      373,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-02",
+      991,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-03",
+      4622,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-04",
+      3629,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-05",
+      1097,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-06",
+      1378,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-07",
+      2370,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-08",
+      363,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-09",
+      10438,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-10",
+      1139,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-11",
+      4893,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-12",
+      1447,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-13",
+      3352,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-14",
+      485,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-15",
+      4749,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-16",
+      1004,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-17",
+      27230,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-18",
+      7199,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-19",
+      622,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-20",
+      205,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-21",
+      2353,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-22",
+      1080,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-23",
+      817,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-24",
+      1405,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-25",
+      1411,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-26",
+      1613,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-27",
+      22211,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-28",
+      1820,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-29",
+      951,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-30",
+      1651,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-31",
+      142,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-01",
+      16880,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-02",
+      5943,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-03",
+      7258,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-04",
+      1484,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-05",
+      2042,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-06",
+      1051,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-07",
+      2605,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-08",
+      550,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-09",
+      435,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-10",
+      25000,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-11",
+      45000,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-12",
+      30000,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-13",
+      2551,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-14",
+      8020,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-15",
+      4149,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-16",
+      182,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-17",
+      646,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-18",
+      1046,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-19",
+      1040,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-20",
+      1161,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      2015,
+      "2015-09-21",
+      71000,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "410",
+    "year": "2015",
+    "totalRecords": 68,
+    "totalCount": 396618,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.814939"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "1987-08-17",
+      1,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-19",
+      1,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-21",
+      3,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-22",
+      7,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-23",
+      2,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-25",
+      1,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-26",
+      4,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-27",
+      2,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-29",
+      3,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-08-30",
+      37,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-09-02",
+      1,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-09-03",
+      2,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-09-04",
+      7,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-09-05",
+      11,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "1987-09-12",
+      2,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2163,
+    "species_id": "450",
+    "year": "1987",
+    "totalRecords": 15,
+    "totalCount": 84,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.802089"
+  }
+}

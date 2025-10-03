@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "1993-09-07",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-09-21",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-09-26",
+      15,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-09-27",
+      58,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-09-28",
+      33,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-09-29",
+      33,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-09-30",
+      17,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-01",
+      20,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-02",
+      255,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-03",
+      49,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-04",
+      94,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-05",
+      78,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-06",
+      14,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-07",
+      16,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-08",
+      11,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-09",
+      16,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-10",
+      34,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-11",
+      26,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1993,
+      "1993-10-12",
+      17,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "440",
+    "year": "1993",
+    "totalRecords": 19,
+    "totalCount": 788,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.816250"
+  }
+}

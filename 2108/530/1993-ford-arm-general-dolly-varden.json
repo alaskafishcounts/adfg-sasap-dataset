@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "1993-08-22",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-08-23",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-10",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-15",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-17",
+      5,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-18",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-21",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-23",
+      3,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-29",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-10-16",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "530",
+    "year": "1993",
+    "totalRecords": 10,
+    "totalCount": 17,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.518622"
+  }
+}

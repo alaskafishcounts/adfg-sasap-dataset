@@ -1,0 +1,913 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1922,
+      "1922-07-16",
+      1904,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-17",
+      2536,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-18",
+      3042,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-19",
+      728,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-20",
+      207,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-21",
+      242,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-22",
+      187,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-23",
+      1835,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-24",
+      3728,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-25",
+      216,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-26",
+      462,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-27",
+      362,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-28",
+      507,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-29",
+      371,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-30",
+      655,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-07-31",
+      1032,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-01",
+      3427,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-02",
+      1681,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-03",
+      2020,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-04",
+      1499,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-05",
+      2326,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-06",
+      4513,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-07",
+      2980,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-08",
+      4168,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-09",
+      1897,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-10",
+      908,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-11",
+      1541,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-12",
+      568,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-13",
+      512,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-14",
+      1597,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-15",
+      1258,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-16",
+      1535,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-17",
+      2681,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-18",
+      1411,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-19",
+      1147,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-20",
+      356,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-21",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-22",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-23",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-24",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-25",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-26",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-27",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-28",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-29",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-30",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-08-31",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-01",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-02",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-03",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-04",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-05",
+      197,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-06",
+      41,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-07",
+      174,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-08",
+      941,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-09",
+      507,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-10",
+      313,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-11",
+      550,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-12",
+      17065,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-13",
+      4793,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-14",
+      1617,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-15",
+      16247,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-16",
+      9531,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-17",
+      6049,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-18",
+      1476,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-19",
+      339,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-20",
+      359,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-21",
+      34,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-22",
+      4,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-23",
+      16,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-24",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-25",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-26",
+      7,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-27",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-28",
+      12,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-29",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-09-30",
+      27,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-01",
+      33,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-02",
+      220,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-03",
+      12756,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-04",
+      2673,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-05",
+      32,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-06",
+      48,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-07",
+      32,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-08",
+      8294,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-09",
+      17179,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-10",
+      3231,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-11",
+      300,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-12",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-13",
+      7141,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-14",
+      16328,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-15",
+      8836,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-16",
+      1680,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-17",
+      268,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-18",
+      83,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-19",
+      54,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-20",
+      27,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-21",
+      54,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1922,
+      "1922-10-22",
+      100,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "410",
+    "year": "1922",
+    "totalRecords": 99,
+    "totalCount": 195707,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.848683"
+  }
+}

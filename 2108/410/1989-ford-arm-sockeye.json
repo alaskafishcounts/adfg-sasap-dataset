@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "1989-08-19",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-08-20",
+      3,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-08-21",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-08-22",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-08-26",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-08-30",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-09-04",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-09-05",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-09-06",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-09-07",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "1989-09-26",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "410",
+    "year": "1989",
+    "totalRecords": 11,
+    "totalCount": 17,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.526112"
+  }
+}

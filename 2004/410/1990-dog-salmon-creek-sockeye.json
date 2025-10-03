@@ -1,0 +1,940 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "1990-06-21",
+      23,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-22",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-23",
+      68,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-24",
+      35326,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-25",
+      71610,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-26",
+      41040,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-27",
+      21898,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-28",
+      430,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-29",
+      6037,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-06-30",
+      205,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-01",
+      352,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-02",
+      1204,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-03",
+      2345,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-04",
+      372,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-05",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-06",
+      78,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-07",
+      177,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-08",
+      2061,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-09",
+      197,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-10",
+      848,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-11",
+      13,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-12",
+      4556,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-13",
+      408,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-14",
+      125,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-15",
+      4310,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-16",
+      5235,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-17",
+      4210,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-18",
+      580,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-19",
+      120,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-20",
+      12666,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-21",
+      741,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-22",
+      6918,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-23",
+      8995,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-24",
+      51,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-25",
+      798,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-26",
+      5901,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-27",
+      1294,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-28",
+      605,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-29",
+      2616,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-30",
+      51,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-07-31",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-01",
+      606,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-02",
+      181,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-03",
+      539,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-04",
+      359,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-05",
+      10,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-06",
+      1519,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-07",
+      503,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-08",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-09",
+      145,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-10",
+      3,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-11",
+      1976,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-12",
+      43,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-13",
+      119,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-14",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-15",
+      557,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-16",
+      323,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-17",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-18",
+      657,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-19",
+      11,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-20",
+      14,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-21",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-22",
+      308,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-23",
+      169,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-24",
+      78,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-25",
+      114,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-26",
+      347,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-27",
+      278,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-28",
+      35,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-29",
+      48,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-30",
+      22,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-08-31",
+      129,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-01",
+      40,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-02",
+      26,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-03",
+      605,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-04",
+      12,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-05",
+      300,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-06",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-07",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-08",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-09",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-10",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-11",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-12",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-13",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-14",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-15",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-16",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-17",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-18",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-19",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-20",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-21",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-22",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-23",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-24",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-25",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-26",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-27",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-28",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-29",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-30",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "410",
+    "year": "1990",
+    "totalRecords": 102,
+    "totalCount": 254540,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.103887"
+  }
+}

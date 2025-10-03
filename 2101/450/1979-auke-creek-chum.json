@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1979,
+      "1979-08-02",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1979,
+      "1979-09-06",
+      3,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1979,
+      "1979-09-07",
+      5,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1979,
+      "1979-09-12",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1979,
+      "1979-09-13",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1979,
+      "1979-09-14",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1979,
+      "1979-09-22",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "450",
+    "year": "1979",
+    "totalRecords": 7,
+    "totalCount": 13,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.466224"
+  }
+}

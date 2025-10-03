@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-08-14",
+      5,
+      420,
+      2160,
+      "Eek Lake",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-15",
+      7,
+      420,
+      2160,
+      "Eek Lake",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-18",
+      2,
+      420,
+      2160,
+      "Eek Lake",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-27",
+      0,
+      420,
+      2160,
+      "Eek Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2160,
+    "species_id": "420",
+    "year": "2016",
+    "totalRecords": 4,
+    "totalCount": 14,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.843560"
+  }
+}

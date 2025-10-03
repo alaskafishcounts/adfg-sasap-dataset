@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1978,
+      "1978-09-07",
+      98,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-08",
+      8,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-09",
+      2,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-10",
+      2,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-11",
+      1,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-12",
+      108,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-13",
+      4,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-19",
+      35,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-24",
+      1,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-27",
+      10,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-09-28",
+      1,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-10-02",
+      8,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1978,
+      "1978-10-08",
+      3,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "420",
+    "year": "1978",
+    "totalRecords": 13,
+    "totalCount": 281,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.509887"
+  }
+}

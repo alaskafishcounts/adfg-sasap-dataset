@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "2004-06-13",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-06-17",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-04",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-08",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-09",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-10",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-11",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-13",
+      2,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-15",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-16",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-17",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-18",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-20",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-21",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-22",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-08-02",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "430",
+    "year": "2004",
+    "totalRecords": 16,
+    "totalCount": 17,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.925747"
+  }
+}

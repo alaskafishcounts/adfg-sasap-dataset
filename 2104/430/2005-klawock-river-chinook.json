@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-08-06",
+      2,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "2005-08-10",
+      2,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "2005-08-13",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "2005-08-19",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "2005-08-25",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "2005-08-29",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "2005-09-05",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "430",
+    "year": "2005",
+    "totalRecords": 7,
+    "totalCount": 9,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.304295"
+  }
+}

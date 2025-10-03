@@ -1,0 +1,643 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "1992-08-07",
+      11,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-08",
+      15,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-09",
+      13,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-10",
+      20,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-11",
+      4,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-12",
+      38,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-13",
+      89,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-14",
+      117,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-15",
+      86,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-16",
+      232,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-17",
+      230,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-18",
+      141,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-19",
+      190,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-20",
+      153,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-21",
+      52,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-22",
+      205,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-23",
+      263,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-24",
+      209,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-25",
+      328,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-26",
+      387,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-27",
+      260,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-28",
+      146,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-29",
+      155,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-30",
+      161,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-08-31",
+      135,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-01",
+      114,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-02",
+      258,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-03",
+      134,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-04",
+      225,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-05",
+      127,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-06",
+      148,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-07",
+      311,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-08",
+      218,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-09",
+      141,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-10",
+      138,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-11",
+      167,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-12",
+      105,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-13",
+      105,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-14",
+      106,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-15",
+      84,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-16",
+      51,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-17",
+      54,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-18",
+      27,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-19",
+      33,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-20",
+      75,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-21",
+      23,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-22",
+      70,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-23",
+      9,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-24",
+      6,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-25",
+      9,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-26",
+      13,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-27",
+      13,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-28",
+      18,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-29",
+      15,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-09-30",
+      8,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-01",
+      19,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-02",
+      10,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-03",
+      9,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-04",
+      8,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-05",
+      8,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-06",
+      7,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-07",
+      1,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-08",
+      5,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-09",
+      7,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-10",
+      2,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-11",
+      5,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-12",
+      3,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-13",
+      4,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "1992-10-14",
+      3,
+      410,
+      2126,
+      "Little Tatsamenie",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2126,
+    "species_id": "410",
+    "year": "1992",
+    "totalRecords": 69,
+    "totalCount": 6536,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.390729"
+  }
+}

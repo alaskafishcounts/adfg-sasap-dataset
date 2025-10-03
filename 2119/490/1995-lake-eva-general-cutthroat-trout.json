@@ -1,0 +1,886 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-04-21",
+      1,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-04-22",
+      5,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-04-23",
+      4,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-04-24",
+      5,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-04-26",
+      7,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-04-27",
+      7,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-04-28",
+      20,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-04-29",
+      10,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-04-30",
+      17,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-01",
+      52,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-02",
+      4,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-03",
+      33,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-04",
+      86,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-05",
+      47,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-06",
+      44,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-07",
+      56,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-08",
+      69,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-09",
+      106,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-10",
+      108,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-11",
+      334,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-12",
+      13,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-13",
+      29,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-14",
+      13,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-15",
+      14,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-16",
+      122,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-17",
+      29,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-18",
+      1,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-19",
+      80,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-20",
+      30,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-21",
+      73,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-22",
+      89,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-23",
+      43,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-24",
+      41,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-25",
+      19,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-26",
+      106,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-27",
+      54,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-28",
+      47,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-29",
+      10,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-30",
+      3,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-05-31",
+      14,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-02",
+      4,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-03",
+      2,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-04",
+      68,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-05",
+      11,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-06",
+      5,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-07",
+      21,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-09",
+      22,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-10",
+      23,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-11",
+      55,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-12",
+      23,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-13",
+      6,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-14",
+      18,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-15",
+      6,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-16",
+      31,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-17",
+      29,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-18",
+      10,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-19",
+      7,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-20",
+      1,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-21",
+      34,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-22",
+      55,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-23",
+      55,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-24",
+      46,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-25",
+      43,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-26",
+      12,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-27",
+      18,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-28",
+      8,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-29",
+      21,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-06-30",
+      28,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-01",
+      14,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-02",
+      17,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-03",
+      8,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-04",
+      18,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-05",
+      22,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-06",
+      25,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-07",
+      12,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-08",
+      10,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-09",
+      7,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-10",
+      10,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-11",
+      10,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-12",
+      11,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-13",
+      15,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-14",
+      13,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-15",
+      3,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-16",
+      3,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-17",
+      5,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-18",
+      5,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-19",
+      1,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-21",
+      6,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-22",
+      1,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-23",
+      2,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-24",
+      2,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-25",
+      1,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-26",
+      4,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-28",
+      1,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-29",
+      3,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ],
+    [
+      1995,
+      "1995-07-30",
+      1,
+      490,
+      2119,
+      "Lake Eva",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2119,
+    "species_id": "490",
+    "year": "1995",
+    "totalRecords": 96,
+    "totalCount": 2737,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.048972"
+  }
+}

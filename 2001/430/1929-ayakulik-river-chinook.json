@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1929,
+      "1929-05-31",
+      15,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-01",
+      79,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-02",
+      93,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-03",
+      155,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-04",
+      108,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-05",
+      89,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-06",
+      84,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-07",
+      62,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-08",
+      52,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-09",
+      34,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-10",
+      41,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-11",
+      41,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-12",
+      52,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-13",
+      30,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-14",
+      21,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-15",
+      22,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-16",
+      51,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-17",
+      21,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-18",
+      22,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-19",
+      24,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-20",
+      30,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-21",
+      31,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-22",
+      17,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-23",
+      20,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-24",
+      6,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-25",
+      6,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-26",
+      21,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-27",
+      15,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-28",
+      16,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-29",
+      18,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-06-30",
+      21,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-01",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-02",
+      6,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-03",
+      9,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-04",
+      3,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-05",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-06",
+      15,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-07",
+      10,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-08",
+      4,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-09",
+      11,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-10",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-11",
+      3,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-12",
+      6,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-13",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-14",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-15",
+      7,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-16",
+      4,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-17",
+      6,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-18",
+      1,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-19",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-20",
+      3,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-21",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-22",
+      2,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-23",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-24",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-25",
+      7,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-26",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-27",
+      5,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-28",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-29",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-30",
+      0,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      1929,
+      "1929-07-31",
+      5,
+      430,
+      2001,
+      "Ayakulik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "430",
+    "year": "1929",
+    "totalRecords": 62,
+    "totalCount": 1407,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.016572"
+  }
+}

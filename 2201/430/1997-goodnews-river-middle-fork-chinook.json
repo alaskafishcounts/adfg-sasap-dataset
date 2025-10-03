@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "1997-06-25",
+      64,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-06-26",
+      130,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-06-27",
+      87,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-06-28",
+      167,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-06-29",
+      113,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-06-30",
+      58,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-01",
+      59,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-02",
+      58,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-03",
+      159,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-04",
+      134,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-05",
+      275,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-06",
+      123,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-07",
+      185,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-08",
+      109,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-09",
+      10,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-10",
+      35,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-11",
+      38,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-12",
+      154,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-13",
+      55,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-14",
+      50,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-15",
+      37,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-16",
+      36,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-17",
+      24,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-18",
+      95,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-19",
+      107,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-20",
+      108,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-21",
+      47,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-22",
+      31,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-23",
+      34,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-24",
+      23,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-25",
+      14,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-26",
+      50,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-27",
+      50,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-28",
+      21,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-29",
+      19,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-30",
+      17,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-07-31",
+      16,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-01",
+      12,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-02",
+      6,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-03",
+      10,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-04",
+      10,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-05",
+      11,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-06",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-07",
+      8,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-08",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-09",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-10",
+      10,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-11",
+      5,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-12",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-13",
+      3,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-14",
+      5,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-15",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-16",
+      5,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-17",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-18",
+      2,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-19",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-20",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-21",
+      3,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-22",
+      2,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-23",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-24",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-25",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-26",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-27",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-28",
+      3,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-29",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-30",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-08-31",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-01",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-02",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-03",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-04",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-05",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-06",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-07",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-08",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-09",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-10",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-11",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-12",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-13",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-14",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-15",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-16",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-17",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1997,
+      "1997-09-18",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "430",
+    "year": "1997",
+    "totalRecords": 86,
+    "totalCount": 2897,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.663941"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "1985-09-07",
+      30,
+      440,
+      2135,
+      "Salmon Bay",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2135,
+    "species_id": "440",
+    "year": "1985",
+    "totalRecords": 1,
+    "totalCount": 30,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.431440"
+  }
+}

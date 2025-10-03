@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1928,
+      "1928-07-26",
+      3,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-07-27",
+      36,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-07-28",
+      63,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-07-29",
+      215,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-07-30",
+      76,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-07-31",
+      42,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-08-01",
+      41,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-08-02",
+      54,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-08-03",
+      85,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-08-04",
+      16,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-08-05",
+      41,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ],
+    [
+      1928,
+      "1928-08-06",
+      13,
+      420,
+      2011,
+      "Uganik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2011,
+    "species_id": "420",
+    "year": "1928",
+    "totalRecords": 12,
+    "totalCount": 685,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.212538"
+  }
+}

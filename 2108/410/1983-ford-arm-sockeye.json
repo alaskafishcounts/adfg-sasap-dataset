@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "1983-08-23",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "1983-08-26",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "1983-09-02",
+      3,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "1983-09-03",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "1983-09-12",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "1983-09-15",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "1983-09-17",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "1983-09-24",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "1983-09-27",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "410",
+    "year": "1983",
+    "totalRecords": 9,
+    "totalCount": 13,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.525547"
+  }
+}

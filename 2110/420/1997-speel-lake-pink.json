@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "1997-08-07",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "420",
+    "year": "1997",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.474227"
+  }
+}

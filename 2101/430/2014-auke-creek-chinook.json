@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-07-13",
+      14,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-14",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-21",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-28",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-30",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-31",
+      10,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-01",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-02",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-10",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-11",
+      68,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-12",
+      34,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-13",
+      12,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-14",
+      7,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-15",
+      12,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-16",
+      19,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-17",
+      16,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-18",
+      7,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-19",
+      8,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-20",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-09-01",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 20,
+    "totalCount": 226,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.355655"
+  }
+}

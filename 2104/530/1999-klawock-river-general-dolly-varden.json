@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "1999-07-11",
+      4,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-07-13",
+      1,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-07-18",
+      1,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-08-07",
+      2,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-08-12",
+      1,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-09-17",
+      4,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-09-22",
+      1,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-09-25",
+      3,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-10-11",
+      3,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-10-13",
+      2,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-10-15",
+      30,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ],
+    [
+      1999,
+      "1999-10-19",
+      4,
+      530,
+      2104,
+      "Klawock River",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "530",
+    "year": "1999",
+    "totalRecords": 12,
+    "totalCount": 56,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.366955"
+  }
+}

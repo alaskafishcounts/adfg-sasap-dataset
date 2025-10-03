@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "1968-09-21",
+      45227,
+      420,
+      2137,
+      "Whale Pass",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2137,
+    "species_id": "420",
+    "year": "1968",
+    "totalRecords": 1,
+    "totalCount": 45227,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.489737"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-08-23",
+      1,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-08-30",
+      3,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-09-02",
+      1,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-09-05",
+      2,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-09-07",
+      2,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-09-08",
+      1,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-09-09",
+      1,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-09-22",
+      1,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "480",
+    "year": "2009",
+    "totalRecords": 8,
+    "totalCount": 12,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.546290"
+  }
+}

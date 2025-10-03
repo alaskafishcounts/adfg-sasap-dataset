@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "2013-06-17",
+      1,
+      560,
+      2701,
+      "Coghill River",
+      "Mixed"
+    ],
+    [
+      2013,
+      "2013-06-18",
+      0,
+      560,
+      2701,
+      "Coghill River",
+      "Mixed"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2701,
+    "species_id": "560",
+    "year": "2013",
+    "totalRecords": 2,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.359158"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-08-14",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-15",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-16",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-17",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-23",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-24",
+      6,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-26",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-27",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-28",
+      3,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-29",
+      11,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-30",
+      8,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-08-31",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-03",
+      17,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-05",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-06",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-14",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-21",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-23",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-25",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-26",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-09-30",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-01",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-02",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-03",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-04",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-05",
+      4,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-06",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-07",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-08",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-09",
+      1,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-12",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-10-13",
+      2,
+      530,
+      2108,
+      "Ford Arm",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "530",
+    "year": "2005",
+    "totalRecords": 32,
+    "totalCount": 99,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.515835"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "1973-09-20",
+      2,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-09-22",
+      5,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-09-24",
+      11,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-09-30",
+      2,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-10-02",
+      3,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-10-03",
+      4,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-10-04",
+      7,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-10-08",
+      115,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-10-15",
+      4,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1973,
+      "1973-10-16",
+      4,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "440",
+    "year": "1973",
+    "totalRecords": 10,
+    "totalCount": 157,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.246779"
+  }
+}

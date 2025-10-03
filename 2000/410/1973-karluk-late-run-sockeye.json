@@ -1,0 +1,958 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "1973-07-16",
+      714,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-17",
+      714,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-18",
+      715,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-19",
+      714,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-20",
+      714,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-21",
+      714,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-22",
+      468,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-23",
+      468,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-24",
+      468,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-25",
+      467,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-26",
+      468,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-27",
+      468,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-28",
+      468,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-29",
+      1144,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-30",
+      1144,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-07-31",
+      1144,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-01",
+      1143,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-02",
+      1144,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-03",
+      1144,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-04",
+      1144,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-05",
+      5321,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-06",
+      5320,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-07",
+      5321,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-08",
+      5320,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-09",
+      5321,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-10",
+      5320,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-11",
+      5321,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-12",
+      669,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-13",
+      669,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-14",
+      669,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-15",
+      669,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-16",
+      669,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-17",
+      669,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-18",
+      669,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-19",
+      4025,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-20",
+      4026,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-21",
+      4025,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-22",
+      4025,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-23",
+      4025,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-24",
+      4026,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-25",
+      4025,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-26",
+      1211,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-27",
+      1212,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-28",
+      1211,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-29",
+      1212,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-30",
+      1211,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-08-31",
+      1212,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-01",
+      1211,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-02",
+      1168,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-03",
+      1167,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-04",
+      1168,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-05",
+      1167,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-06",
+      1168,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-07",
+      1167,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-08",
+      1168,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-09",
+      947,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-10",
+      946,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-11",
+      947,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-12",
+      947,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-13",
+      947,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-14",
+      946,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-15",
+      947,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-16",
+      726,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-17",
+      726,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-18",
+      726,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-19",
+      727,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-20",
+      726,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-21",
+      726,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-22",
+      726,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-23",
+      192,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-24",
+      192,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-25",
+      192,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-26",
+      191,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-27",
+      192,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-28",
+      192,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-29",
+      192,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-09-30",
+      433,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-01",
+      432,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-02",
+      433,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-03",
+      433,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-04",
+      433,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-05",
+      432,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-06",
+      433,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-07",
+      1474,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-08",
+      1474,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-09",
+      1474,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-10",
+      1475,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-11",
+      1474,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-12",
+      1474,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-13",
+      1474,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-14",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-15",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-16",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-17",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-18",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-19",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-20",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-21",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-22",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-23",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-24",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-25",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-26",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1973,
+      "1973-10-27",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "410",
+    "year": "1973",
+    "totalRecords": 104,
+    "totalCount": 128725,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.871263"
+  }
+}

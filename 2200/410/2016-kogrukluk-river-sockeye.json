@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-06-26",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-06-27",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-06-28",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-06-29",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-06-30",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-01",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-02",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-03",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-04",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-05",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-06",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-07",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-08",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-09",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-10",
+      17,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-11",
+      35,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-12",
+      51,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-13",
+      149,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-14",
+      102,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-15",
+      173,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-16",
+      300,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-17",
+      134,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-18",
+      1197,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-19",
+      391,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-20",
+      309,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-21",
+      1248,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-22",
+      757,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-23",
+      403,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-24",
+      1433,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-25",
+      1599,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-26",
+      1651,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-27",
+      1302,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-28",
+      1359,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-29",
+      1005,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-30",
+      780,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-07-31",
+      778,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-01",
+      1350,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-02",
+      526,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-03",
+      695,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-04",
+      278,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-05",
+      351,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-06",
+      426,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-07",
+      215,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-08",
+      239,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-09",
+      104,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-10",
+      125,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-11",
+      181,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-12",
+      94,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-13",
+      72,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-14",
+      56,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-15",
+      43,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-16",
+      33,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-17",
+      25,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-18",
+      15,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-19",
+      18,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-20",
+      29,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-21",
+      11,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-22",
+      6,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-23",
+      5,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-24",
+      3,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-25",
+      3,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-26",
+      2,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-27",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-28",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-29",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-30",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-08-31",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-01",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-02",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-03",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-04",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-05",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-06",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-07",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-08",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-09",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-10",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-11",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-12",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-13",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-14",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-15",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-16",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-17",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-18",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-19",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-20",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-21",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-22",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-23",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-24",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "2016-09-25",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2200,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 92,
+    "totalCount": 20085,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.356798"
+  }
+}

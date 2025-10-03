@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1966,
+      "1966-07-12",
+      13,
+      430,
+      2146,
+      "Klakas Lake",
+      "Chinook"
+    ],
+    [
+      1966,
+      "1966-07-17",
+      66,
+      430,
+      2146,
+      "Klakas Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2146,
+    "species_id": "430",
+    "year": "1966",
+    "totalRecords": 2,
+    "totalCount": 79,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.497137"
+  }
+}

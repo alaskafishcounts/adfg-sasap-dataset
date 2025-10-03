@@ -1,0 +1,940 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "2004-06-11",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-12",
+      13,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-13",
+      1,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-14",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-15",
+      18,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-16",
+      14,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-17",
+      1,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-18",
+      86,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-19",
+      373,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-20",
+      22,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-21",
+      172,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-22",
+      34,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-23",
+      96,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-24",
+      145,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-25",
+      1202,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-26",
+      2649,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-27",
+      392,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-28",
+      4001,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-29",
+      919,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-06-30",
+      8014,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-01",
+      6942,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-02",
+      1071,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-03",
+      1189,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-04",
+      2112,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-05",
+      1167,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-06",
+      808,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-07",
+      1860,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-08",
+      3033,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-09",
+      2745,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-10",
+      1281,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-11",
+      796,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-12",
+      993,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-13",
+      1102,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-14",
+      652,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-15",
+      1438,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-16",
+      1531,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-17",
+      2148,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-18",
+      1473,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-19",
+      1367,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-20",
+      875,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-21",
+      616,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-22",
+      677,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-23",
+      1169,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-24",
+      2832,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-25",
+      2037,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-26",
+      1674,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-27",
+      786,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-28",
+      947,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-29",
+      1332,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-30",
+      692,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-07-31",
+      899,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-01",
+      14,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-02",
+      9040,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-03",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-04",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-05",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-06",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-07",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-08",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-09",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-10",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-11",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-12",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-13",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-14",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-15",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-16",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-17",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-18",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-19",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-20",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-21",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-22",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-23",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-24",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-25",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-26",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-27",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-28",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-29",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-30",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-08-31",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-01",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-02",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-03",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-04",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-05",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-06",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-07",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-08",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-09",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-10",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-11",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-12",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-13",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-14",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-15",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-16",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-17",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-18",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-19",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "2004-09-20",
+      0,
+      410,
+      2304,
+      "Orzinski River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2304,
+    "species_id": "410",
+    "year": "2004",
+    "totalRecords": 102,
+    "totalCount": 75450,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.902687"
+  }
+}

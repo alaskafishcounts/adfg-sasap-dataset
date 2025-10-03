@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "2000-08-27",
+      1,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-08-28",
+      2,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-08-29",
+      3,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-08-30",
+      1,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-08-31",
+      2,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-02",
+      4,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-03",
+      6,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-04",
+      7,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-05",
+      2,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-06",
+      1,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-08",
+      1,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-09",
+      5,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-10",
+      4,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-11",
+      3,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2000,
+      "2000-09-12",
+      5,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "440",
+    "year": "2000",
+    "totalRecords": 15,
+    "totalCount": 47,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.897235"
+  }
+}

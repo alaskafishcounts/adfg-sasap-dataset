@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1959,
+      "1959-07-16",
+      150,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-17",
+      324,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-18",
+      89,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-19",
+      411,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-20",
+      493,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-21",
+      40,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-22",
+      355,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-23",
+      79,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-24",
+      116,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1959,
+      "1959-07-25",
+      346,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1959",
+    "totalRecords": 10,
+    "totalCount": 2403,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.925420"
+  }
+}

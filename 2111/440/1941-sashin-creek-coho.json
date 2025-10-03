@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1941,
+      "1941-09-24",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "440",
+    "year": "1941",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.638309"
+  }
+}

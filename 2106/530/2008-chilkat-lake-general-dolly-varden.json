@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "2008-08-10",
+      1,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-09-01",
+      1,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-09-05",
+      1,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-09-06",
+      6,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-09-08",
+      1,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-09-09",
+      6,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-09-15",
+      2,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-09-25",
+      5,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-10-11",
+      2,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-10-12",
+      1,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ],
+    [
+      2008,
+      "2008-10-13",
+      1,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "530",
+    "year": "2008",
+    "totalRecords": 11,
+    "totalCount": 27,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.247938"
+  }
+}

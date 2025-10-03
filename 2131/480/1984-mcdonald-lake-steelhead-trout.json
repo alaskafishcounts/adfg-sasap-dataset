@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "1984-04-29",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-03",
+      2,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-11",
+      2,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-12",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-13",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-14",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-16",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-18",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-20",
+      3,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-23",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-24",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-25",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1984,
+      "1984-05-27",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "480",
+    "year": "1984",
+    "totalRecords": 13,
+    "totalCount": 17,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.867061"
+  }
+}

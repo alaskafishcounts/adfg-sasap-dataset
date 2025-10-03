@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1939,
+      "1939-05-26",
+      3,
+      430,
+      2007,
+      "Akalura Creek",
+      "Chinook"
+    ],
+    [
+      1939,
+      "1939-05-27",
+      4,
+      430,
+      2007,
+      "Akalura Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "430",
+    "year": "1939",
+    "totalRecords": 2,
+    "totalCount": 7,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.487816"
+  }
+}

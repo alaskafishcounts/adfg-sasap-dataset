@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "1985-06-17",
+      30,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-18",
+      117,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-19",
+      167,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-23",
+      262,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-24",
+      798,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-25",
+      2517,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-26",
+      952,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-27",
+      96,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-28",
+      136,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-29",
+      2081,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-30",
+      3828,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-01",
+      1964,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-02",
+      2277,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-03",
+      1821,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-04",
+      3847,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-05",
+      3601,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-06",
+      2682,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-07",
+      3800,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-08",
+      2744,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-09",
+      3223,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-10",
+      2269,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-11",
+      1950,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-12",
+      2725,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-13",
+      2399,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-14",
+      2006,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-15",
+      3262,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-16",
+      2567,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-17",
+      2190,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-18",
+      3390,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-19",
+      2070,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-20",
+      1557,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-21",
+      1388,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-22",
+      1783,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-23",
+      854,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-24",
+      2658,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-25",
+      2652,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-26",
+      2211,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-27",
+      2000,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-28",
+      2199,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-29",
+      1009,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-30",
+      1981,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-31",
+      1977,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-01",
+      1273,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-02",
+      3159,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-03",
+      634,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-04",
+      691,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-05",
+      1316,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-06",
+      3919,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-07",
+      1483,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-08",
+      2079,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-09",
+      1489,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-10",
+      1938,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-11",
+      1605,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-12",
+      1635,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-13",
+      1121,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-14",
+      573,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-15",
+      358,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-16",
+      273,
+      410,
+      2122,
+      "Situk Nine Mile",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2122,
+    "species_id": "410",
+    "year": "1985",
+    "totalRecords": 58,
+    "totalCount": 107586,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.374356"
+  }
+}

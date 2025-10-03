@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "1968-08-05",
+      1,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-15",
+      1,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-18",
+      2,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "420",
+    "year": "1968",
+    "totalRecords": 3,
+    "totalCount": 4,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.284210"
+  }
+}

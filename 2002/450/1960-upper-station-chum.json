@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1960,
+      "1960-08-04",
+      3,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-05",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-06",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-07",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-08",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-09",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-10",
+      4,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-11",
+      8,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-12",
+      11,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-13",
+      4,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-14",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      1960,
+      "1960-08-15",
+      9,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "450",
+    "year": "1960",
+    "totalRecords": 12,
+    "totalCount": 39,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.889563"
+  }
+}

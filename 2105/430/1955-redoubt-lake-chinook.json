@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1955,
+      "1955-07-06",
+      404,
+      430,
+      2105,
+      "Redoubt Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2105,
+    "species_id": "430",
+    "year": "1955",
+    "totalRecords": 1,
+    "totalCount": 404,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.084388"
+  }
+}

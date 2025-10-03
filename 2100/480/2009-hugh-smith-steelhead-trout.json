@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-05-29",
+      2,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-05-30",
+      9,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-05-31",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-06-01",
+      2,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-06-02",
+      29,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-06-03",
+      11,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-06-04",
+      2,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-06-05",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-06-06",
+      16,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2009,
+      "2009-06-07",
+      10,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "480",
+    "year": "2009",
+    "totalRecords": 10,
+    "totalCount": 87,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.054612"
+  }
+}

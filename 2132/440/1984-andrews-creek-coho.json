@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "1984-08-24",
+      2,
+      440,
+      2132,
+      "Andrews Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2132,
+    "species_id": "440",
+    "year": "1984",
+    "totalRecords": 1,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.443561"
+  }
+}

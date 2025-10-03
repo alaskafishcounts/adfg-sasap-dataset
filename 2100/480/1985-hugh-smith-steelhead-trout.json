@@ -1,0 +1,211 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "1985-05-17",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-20",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-22",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-23",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-24",
+      9,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-25",
+      2,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-27",
+      2,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-28",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-29",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-05-31",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-06-01",
+      5,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-06-02",
+      4,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-06-03",
+      8,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-06-04",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-06-05",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-06-06",
+      9,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-06-07",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-06-10",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-08-30",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-10-14",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      1985,
+      "1985-10-26",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "480",
+    "year": "1985",
+    "totalRecords": 21,
+    "totalCount": 65,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.064558"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-06-24",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "450",
+    "year": "2010",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.192397"
+  }
+}

@@ -1,0 +1,715 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "1993-07-16",
+      32,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-17",
+      54,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-18",
+      135,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-19",
+      1562,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-20",
+      955,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-21",
+      1624,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-22",
+      3532,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-23",
+      1926,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-24",
+      2631,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-25",
+      731,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-26",
+      560,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-27",
+      820,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-28",
+      1261,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-29",
+      9473,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-30",
+      1607,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-07-31",
+      1389,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-01",
+      1307,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-02",
+      707,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-03",
+      1033,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-04",
+      1476,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-05",
+      2930,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-06",
+      2514,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-07",
+      2520,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-08",
+      1075,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-09",
+      1516,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-10",
+      3703,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-11",
+      10837,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-12",
+      7877,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-13",
+      11010,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-14",
+      1332,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-15",
+      3998,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-16",
+      4135,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-17",
+      5614,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-18",
+      2358,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-19",
+      16319,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-20",
+      5506,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-21",
+      7646,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-22",
+      8132,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-23",
+      4886,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-24",
+      7157,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-25",
+      4222,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-26",
+      3249,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-27",
+      3036,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-28",
+      3448,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-29",
+      4240,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-30",
+      2498,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-08-31",
+      3549,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-01",
+      3627,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-02",
+      4244,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-03",
+      3592,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-04",
+      2847,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-05",
+      2159,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-06",
+      2000,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-07",
+      500,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-08",
+      1500,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-09",
+      2000,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-10",
+      1000,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-11",
+      300,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-12",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-13",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-14",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-15",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-16",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-17",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-18",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-19",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-20",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-21",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-22",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-23",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-24",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-25",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-26",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-27",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-28",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-29",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1993,
+      "1993-09-30",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1993",
+    "totalRecords": 77,
+    "totalCount": 191891,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.151077"
+  }
+}

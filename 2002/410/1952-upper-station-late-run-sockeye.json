@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1952,
+      "1952-07-16",
+      2,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-17",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-18",
+      26,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-19",
+      18,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-20",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-21",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-22",
+      74,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-23",
+      2,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-24",
+      39,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-25",
+      12,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-26",
+      114,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-27",
+      35,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-28",
+      1868,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-29",
+      45,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-30",
+      162,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-31",
+      236,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-01",
+      485,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-02",
+      72,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-03",
+      2447,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-04",
+      886,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-05",
+      2330,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-06",
+      7469,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-07",
+      60,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-08",
+      4343,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-09",
+      8741,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-10",
+      11509,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-11",
+      7176,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-12",
+      4708,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-13",
+      16362,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-14",
+      9124,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-15",
+      1614,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-16",
+      56,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-17",
+      1131,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-18",
+      11769,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-19",
+      3328,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-20",
+      238,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-21",
+      4216,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-22",
+      9026,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-23",
+      633,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-24",
+      1628,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-25",
+      651,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-26",
+      252,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-27",
+      546,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-28",
+      5316,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-29",
+      912,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-30",
+      8079,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-31",
+      292,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-01",
+      32,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-02",
+      1413,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-03",
+      130,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-04",
+      57,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-05",
+      335,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-06",
+      236,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-07",
+      152,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-08",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-09",
+      11,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-10",
+      87,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-11",
+      13,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-12",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-13",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-14",
+      26,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-15",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-16",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-17",
+      9,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-18",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-19",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1952",
+    "totalRecords": 66,
+    "totalCount": 130536,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.482704"
+  }
+}

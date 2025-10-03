@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "2006-08-16",
+      1,
+      430,
+      2164,
+      "Kutlaku Creek",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-17",
+      1,
+      430,
+      2164,
+      "Kutlaku Creek",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-21",
+      4,
+      430,
+      2164,
+      "Kutlaku Creek",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-24",
+      1,
+      430,
+      2164,
+      "Kutlaku Creek",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-09-09",
+      3,
+      430,
+      2164,
+      "Kutlaku Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2164,
+    "species_id": "430",
+    "year": "2006",
+    "totalRecords": 5,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.654961"
+  }
+}

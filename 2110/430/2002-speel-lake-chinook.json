@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "2002-08-13",
+      2,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-14",
+      8,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-15",
+      4,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-17",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-23",
+      3,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-24",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-25",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-26",
+      2,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-27",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-29",
+      5,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-08-30",
+      3,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-09-01",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-09-02",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-09-04",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "2002-09-05",
+      13,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 15,
+    "totalCount": 47,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.415145"
+  }
+}

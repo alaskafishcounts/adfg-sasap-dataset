@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "2001-07-08",
+      6,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-08-24",
+      1,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-08-26",
+      2,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-08-29",
+      1,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-08-30",
+      6,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-08-31",
+      2,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-09-03",
+      2,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-09-07",
+      1,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-09-08",
+      1,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2001,
+      "2001-09-10",
+      1,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "430",
+    "year": "2001",
+    "totalRecords": 10,
+    "totalCount": 23,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.436949"
+  }
+}

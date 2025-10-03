@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "2013-07-06",
+      2,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-07-08",
+      1,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-07-24",
+      1,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-08-10",
+      2,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-08-19",
+      1,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-08-24",
+      34,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-08-26",
+      11,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-08-27",
+      10,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-09-04",
+      2,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ],
+    [
+      2013,
+      "2013-09-05",
+      73,
+      530,
+      2118,
+      "Klag Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2118,
+    "species_id": "530",
+    "year": "2013",
+    "totalRecords": 10,
+    "totalCount": 137,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.694836"
+  }
+}

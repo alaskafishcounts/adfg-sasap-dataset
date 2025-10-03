@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1928,
+      "1928-08-10",
+      12,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-11",
+      40,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-12",
+      51,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-13",
+      14,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-14",
+      47,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-15",
+      159,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-16",
+      14,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-17",
+      90,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-18",
+      135,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-19",
+      54,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-20",
+      93,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-21",
+      14,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1928,
+      "1928-08-22",
+      318,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2011,
+    "species_id": "440",
+    "year": "1928",
+    "totalRecords": 13,
+    "totalCount": 1041,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.200765"
+  }
+}

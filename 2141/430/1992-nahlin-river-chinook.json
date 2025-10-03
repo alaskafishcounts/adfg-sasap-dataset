@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "1992-08-05",
+      1,
+      430,
+      2141,
+      "Nahlin River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-06",
+      2,
+      430,
+      2141,
+      "Nahlin River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-08",
+      6,
+      430,
+      2141,
+      "Nahlin River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-10",
+      2,
+      430,
+      2141,
+      "Nahlin River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-11",
+      1,
+      430,
+      2141,
+      "Nahlin River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-19",
+      1,
+      430,
+      2141,
+      "Nahlin River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2141,
+    "species_id": "430",
+    "year": "1992",
+    "totalRecords": 6,
+    "totalCount": 13,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.490994"
+  }
+}

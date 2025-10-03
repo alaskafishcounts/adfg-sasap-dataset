@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1936,
+      "1936-08-11",
+      3,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-12",
+      3,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-13",
+      3,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-14",
+      3,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-15",
+      11,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-16",
+      12,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-17",
+      21,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-18",
+      24,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-19",
+      14,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-20",
+      13,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-21",
+      55,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1936,
+      "1936-08-22",
+      44,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "440",
+    "year": "1936",
+    "totalRecords": 12,
+    "totalCount": 206,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.466340"
+  }
+}

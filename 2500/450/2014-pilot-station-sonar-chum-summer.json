@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-06-03",
+      1750,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-04",
+      2062,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-05",
+      13495,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-06",
+      11652,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-07",
+      9030,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-08",
+      11023,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-09",
+      18754,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-10",
+      89646,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-11",
+      91126,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-12",
+      51470,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-13",
+      31638,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-14",
+      39298,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-15",
+      14563,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-16",
+      19751,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-17",
+      66731,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-18",
+      71305,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-19",
+      75415,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-20",
+      125542,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-21",
+      114254,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-22",
+      102953,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-23",
+      103807,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-24",
+      84789,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-25",
+      76869,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-26",
+      58441,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-27",
+      51358,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-28",
+      30938,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-29",
+      53358,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-06-30",
+      64855,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-01",
+      82870,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-02",
+      55600,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-03",
+      29612,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-04",
+      37492,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-05",
+      51997,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-06",
+      54330,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-07",
+      20497,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-08",
+      25762,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-09",
+      25857,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-10",
+      17161,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-11",
+      11083,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-12",
+      11014,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-13",
+      15008,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-14",
+      23856,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-15",
+      22637,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-16",
+      16274,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-17",
+      15925,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ],
+    [
+      2014,
+      "2014-07-18",
+      17461,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Summer"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "450",
+    "year": "2014",
+    "totalRecords": 46,
+    "totalCount": 2020309,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.770760"
+  }
+}

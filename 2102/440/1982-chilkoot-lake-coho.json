@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-09-13",
+      4,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-14",
+      1,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "440",
+    "year": "1982",
+    "totalRecords": 2,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.910280"
+  }
+}

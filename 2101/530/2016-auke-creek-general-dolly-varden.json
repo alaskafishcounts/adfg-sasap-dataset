@@ -1,0 +1,958 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-06-18",
+      11,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-19",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-20",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-22",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-25",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-26",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-27",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-28",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-29",
+      9,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-06-30",
+      24,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-01",
+      78,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-02",
+      40,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-03",
+      81,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-04",
+      20,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-05",
+      14,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-06",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-07",
+      32,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-08",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-09",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-10",
+      14,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-11",
+      19,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-12",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-17",
+      10,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-19",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-23",
+      186,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-24",
+      437,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-25",
+      62,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-26",
+      63,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-27",
+      20,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-28",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-29",
+      24,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-30",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-07-31",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-03",
+      9,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-04",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-05",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-06",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-07",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-08",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-09",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-10",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-11",
+      9,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-12",
+      10,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-13",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-14",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-15",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-16",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-17",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-18",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-19",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-20",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-21",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-22",
+      25,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-23",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-24",
+      23,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-25",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-26",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-27",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-28",
+      19,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-29",
+      41,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-30",
+      16,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-08-31",
+      67,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-01",
+      98,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-02",
+      21,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-03",
+      50,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-04",
+      16,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-05",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-06",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-07",
+      24,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-08",
+      9,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-09",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-10",
+      57,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-11",
+      215,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-12",
+      102,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-13",
+      11,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-14",
+      18,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-15",
+      10,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-16",
+      40,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-17",
+      35,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-18",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-19",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-20",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-21",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-22",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-23",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-24",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-28",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-29",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-09-30",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-01",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-02",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-03",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-05",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-06",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-12",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-18",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-19",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-20",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-21",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-22",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-23",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-24",
+      11,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-25",
+      10,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2016,
+      "2016-10-26",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "530",
+    "year": "2016",
+    "totalRecords": 104,
+    "totalCount": 2390,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.377104"
+  }
+}

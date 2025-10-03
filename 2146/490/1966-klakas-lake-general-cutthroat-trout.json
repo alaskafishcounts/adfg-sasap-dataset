@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1966,
+      "1966-07-02",
+      475,
+      490,
+      2146,
+      "Klakas Lake",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2146,
+    "species_id": "490",
+    "year": "1966",
+    "totalRecords": 1,
+    "totalCount": 475,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.497400"
+  }
+}

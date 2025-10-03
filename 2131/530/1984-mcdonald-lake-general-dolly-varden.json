@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "1984-04-29",
+      2,
+      530,
+      2131,
+      "McDonald Lake",
+      "General dolly varden"
+    ],
+    [
+      1984,
+      "1984-05-06",
+      1,
+      530,
+      2131,
+      "McDonald Lake",
+      "General dolly varden"
+    ],
+    [
+      1984,
+      "1984-05-19",
+      2,
+      530,
+      2131,
+      "McDonald Lake",
+      "General dolly varden"
+    ],
+    [
+      1984,
+      "1984-05-20",
+      3,
+      530,
+      2131,
+      "McDonald Lake",
+      "General dolly varden"
+    ],
+    [
+      1984,
+      "1984-05-22",
+      1,
+      530,
+      2131,
+      "McDonald Lake",
+      "General dolly varden"
+    ],
+    [
+      1984,
+      "1984-05-26",
+      1,
+      530,
+      2131,
+      "McDonald Lake",
+      "General dolly varden"
+    ],
+    [
+      1984,
+      "1984-05-27",
+      1,
+      530,
+      2131,
+      "McDonald Lake",
+      "General dolly varden"
+    ],
+    [
+      1984,
+      "1984-05-29",
+      1,
+      530,
+      2131,
+      "McDonald Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "530",
+    "year": "1984",
+    "totalRecords": 8,
+    "totalCount": 12,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.858676"
+  }
+}

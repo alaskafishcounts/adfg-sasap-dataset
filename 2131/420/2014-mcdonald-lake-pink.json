@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-07-10",
+      1,
+      420,
+      2131,
+      "McDonald Lake",
+      "Pink"
+    ],
+    [
+      2014,
+      "2014-07-23",
+      1,
+      420,
+      2131,
+      "McDonald Lake",
+      "Pink"
+    ],
+    [
+      2014,
+      "2014-07-25",
+      1,
+      420,
+      2131,
+      "McDonald Lake",
+      "Pink"
+    ],
+    [
+      2014,
+      "2014-07-26",
+      3,
+      420,
+      2131,
+      "McDonald Lake",
+      "Pink"
+    ],
+    [
+      2014,
+      "2014-07-27",
+      31,
+      420,
+      2131,
+      "McDonald Lake",
+      "Pink"
+    ],
+    [
+      2014,
+      "2014-07-28",
+      12,
+      420,
+      2131,
+      "McDonald Lake",
+      "Pink"
+    ],
+    [
+      2014,
+      "2014-07-29",
+      2,
+      420,
+      2131,
+      "McDonald Lake",
+      "Pink"
+    ],
+    [
+      2014,
+      "2014-07-31",
+      1,
+      420,
+      2131,
+      "McDonald Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "420",
+    "year": "2014",
+    "totalRecords": 8,
+    "totalCount": 52,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.864870"
+  }
+}

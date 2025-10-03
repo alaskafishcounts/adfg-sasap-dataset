@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "2004-07-11",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      2004,
+      "2004-07-17",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      2004,
+      "2004-07-27",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      2004,
+      "2004-07-29",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      2004,
+      "2004-08-01",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      2004,
+      "2004-08-02",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      2004,
+      "2004-08-03",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      2004,
+      "2004-08-13",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "530",
+    "year": "2004",
+    "totalRecords": 8,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.740309"
+  }
+}

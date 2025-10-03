@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "1997-07-09",
+      219,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-07-19",
+      123,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-07-20",
+      137,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-07-24",
+      78,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-07-26",
+      83,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-07-30",
+      688,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-08-13",
+      1048,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-08-18",
+      1024,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-08-28",
+      318,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "1997-08-31",
+      154,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "420",
+    "year": "1997",
+    "totalRecords": 10,
+    "totalCount": 3872,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.749765"
+  }
+}

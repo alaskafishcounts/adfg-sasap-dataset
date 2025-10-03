@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "2003-06-25",
+      22,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-06-26",
+      16,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-06-27",
+      14,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-06-28",
+      10,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-06-29",
+      7,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-06-30",
+      70,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-01",
+      82,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-02",
+      29,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-03",
+      15,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-04",
+      33,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-05",
+      6,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-06",
+      91,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-07",
+      50,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-08",
+      83,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-09",
+      185,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-10",
+      23,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-11",
+      37,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-12",
+      28,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-13",
+      131,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-14",
+      117,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-15",
+      198,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-16",
+      51,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-17",
+      32,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-18",
+      77,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-19",
+      60,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-20",
+      199,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-21",
+      81,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-22",
+      55,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-23",
+      25,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-24",
+      50,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-25",
+      85,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-26",
+      14,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-27",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-28",
+      53,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-29",
+      28,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-30",
+      6,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-07-31",
+      23,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-01",
+      6,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-02",
+      16,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-03",
+      9,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-04",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-05",
+      8,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-06",
+      26,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-07",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-08",
+      23,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-09",
+      3,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-10",
+      3,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-11",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-12",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-13",
+      13,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-14",
+      5,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-15",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-16",
+      7,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-17",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-18",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-19",
+      2,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-20",
+      7,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-21",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-22",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-23",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-24",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-25",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-26",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-27",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-28",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-29",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-30",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-31",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-01",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-02",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-03",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-04",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-05",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-06",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-07",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-08",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-09",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-10",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-11",
+      2,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-12",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-13",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-14",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-15",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-16",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-17",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-09-18",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "430",
+    "year": "2003",
+    "totalRecords": 86,
+    "totalCount": 2248,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.675457"
+  }
+}

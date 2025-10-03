@@ -1,0 +1,913 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1930,
+      "1930-05-27",
+      7,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-05-28",
+      1,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-05-29",
+      182,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-05-30",
+      111,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-05-31",
+      13,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-01",
+      89,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-02",
+      151,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-03",
+      451,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-04",
+      252,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-05",
+      436,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-06",
+      143,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-07",
+      123,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-08",
+      7,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-09",
+      163,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-10",
+      326,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-11",
+      341,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-12",
+      151,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-13",
+      71,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-14",
+      1241,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-15",
+      58,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-16",
+      192,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-17",
+      1589,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-18",
+      18,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-19",
+      1800,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-20",
+      108,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-21",
+      1322,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-22",
+      6,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-23",
+      1952,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-24",
+      1662,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-25",
+      334,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-26",
+      158,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-27",
+      151,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-28",
+      3300,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-29",
+      353,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-06-30",
+      288,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-01",
+      1595,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-02",
+      341,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-03",
+      2089,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-04",
+      1515,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-05",
+      375,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-06",
+      610,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-07",
+      3668,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-08",
+      3,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-09",
+      4589,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-10",
+      4113,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-11",
+      3662,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-12",
+      3835,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-13",
+      4671,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-14",
+      1365,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-15",
+      4409,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-16",
+      3316,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-17",
+      1672,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-18",
+      6222,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-19",
+      2944,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-20",
+      2912,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-21",
+      2113,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-22",
+      2085,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-23",
+      1433,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-24",
+      3187,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-25",
+      5012,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-26",
+      1511,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-27",
+      1403,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-28",
+      3724,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-29",
+      2309,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-30",
+      5095,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-07-31",
+      1812,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-01",
+      977,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-02",
+      2106,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-03",
+      1090,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-04",
+      750,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-05",
+      358,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-06",
+      1513,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-07",
+      1526,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-08",
+      1361,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-09",
+      2589,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-10",
+      3445,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-11",
+      1109,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-12",
+      4562,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-13",
+      3135,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-14",
+      306,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-15",
+      424,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-16",
+      106,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-17",
+      417,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-18",
+      120,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-19",
+      600,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-20",
+      157,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-21",
+      1238,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-22",
+      1002,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-23",
+      216,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-24",
+      225,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-25",
+      541,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-26",
+      557,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-27",
+      738,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-28",
+      376,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-29",
+      299,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-30",
+      201,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-08-31",
+      210,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-01",
+      94,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1930,
+      "1930-09-02",
+      298,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "1930",
+    "totalRecords": 99,
+    "totalCount": 133786,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.049185"
+  }
+}

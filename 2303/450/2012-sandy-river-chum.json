@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-07-11",
+      1,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-12",
+      2,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-13",
+      0,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-14",
+      1,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-15",
+      0,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-16",
+      0,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-17",
+      0,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-18",
+      0,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-19",
+      1,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-20",
+      4,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-21",
+      5,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-07-22",
+      4,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2303,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 12,
+    "totalCount": 18,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.850951"
+  }
+}

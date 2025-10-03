@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "2000-10-25",
+      121,
+      530,
+      2156,
+      "Slippery Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2156,
+    "species_id": "530",
+    "year": "2000",
+    "totalRecords": 1,
+    "totalCount": 121,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.876250"
+  }
+}

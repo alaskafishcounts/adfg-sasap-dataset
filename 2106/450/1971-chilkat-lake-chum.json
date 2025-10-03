@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1971,
+      "1971-10-08",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1971,
+      "1971-10-23",
+      5,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "450",
+    "year": "1971",
+    "totalRecords": 2,
+    "totalCount": 6,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.288701"
+  }
+}

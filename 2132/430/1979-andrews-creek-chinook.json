@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1979,
+      "1979-07-07",
+      0,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-23",
+      0,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-24",
+      0,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-25",
+      0,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-26",
+      256,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-27",
+      26,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-28",
+      31,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-29",
+      9,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-30",
+      8,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-07-31",
+      32,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-08-01",
+      57,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-08-02",
+      10,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-08-03",
+      0,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-08-04",
+      4,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-08-05",
+      0,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ],
+    [
+      1979,
+      "1979-08-06",
+      0,
+      430,
+      2132,
+      "Andrews Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2132,
+    "species_id": "430",
+    "year": "1979",
+    "totalRecords": 16,
+    "totalCount": 433,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.451655"
+  }
+}

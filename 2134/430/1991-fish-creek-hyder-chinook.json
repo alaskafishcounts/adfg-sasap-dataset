@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "1991-08-31",
+      1,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2134,
+    "species_id": "430",
+    "year": "1991",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.305051"
+  }
+}

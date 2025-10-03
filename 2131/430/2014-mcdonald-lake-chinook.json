@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-07-11",
+      1,
+      430,
+      2131,
+      "McDonald Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.858338"
+  }
+}

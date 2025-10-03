@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "1986-09-02",
+      1,
+      440,
+      2163,
+      "Black Bear Creek",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-09-04",
+      1,
+      440,
+      2163,
+      "Black Bear Creek",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-09-10",
+      1,
+      440,
+      2163,
+      "Black Bear Creek",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-09-18",
+      2,
+      440,
+      2163,
+      "Black Bear Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2163,
+    "species_id": "440",
+    "year": "1986",
+    "totalRecords": 4,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.800252"
+  }
+}

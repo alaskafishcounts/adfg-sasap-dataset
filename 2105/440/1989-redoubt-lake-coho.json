@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "1989-07-14",
+      1,
+      440,
+      2105,
+      "Redoubt Lake",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-03",
+      1,
+      440,
+      2105,
+      "Redoubt Lake",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-10",
+      2,
+      440,
+      2105,
+      "Redoubt Lake",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-12",
+      1,
+      440,
+      2105,
+      "Redoubt Lake",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-13",
+      8,
+      440,
+      2105,
+      "Redoubt Lake",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-15",
+      2,
+      440,
+      2105,
+      "Redoubt Lake",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-16",
+      4,
+      440,
+      2105,
+      "Redoubt Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2105,
+    "species_id": "440",
+    "year": "1989",
+    "totalRecords": 7,
+    "totalCount": 19,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.067838"
+  }
+}

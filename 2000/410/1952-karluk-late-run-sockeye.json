@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1952,
+      "1952-07-19",
+      7172,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-07-26",
+      6180,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-02",
+      3751,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-09",
+      3619,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-16",
+      99,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-23",
+      1549,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-08-30",
+      19940,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-06",
+      111843,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-13",
+      32927,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-20",
+      27170,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-09-27",
+      10828,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-10-04",
+      47747,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1952,
+      "1952-10-07",
+      420,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "410",
+    "year": "1952",
+    "totalRecords": 13,
+    "totalCount": 273245,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.857621"
+  }
+}

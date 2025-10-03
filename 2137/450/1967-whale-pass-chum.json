@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1967,
+      "1967-10-01",
+      357,
+      450,
+      2137,
+      "Whale Pass",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2137,
+    "species_id": "450",
+    "year": "1967",
+    "totalRecords": 1,
+    "totalCount": 357,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.494844"
+  }
+}

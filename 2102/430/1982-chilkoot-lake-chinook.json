@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-08-23",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1982,
+      "1982-09-13",
+      4,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1982,
+      "1982-09-14",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "430",
+    "year": "1982",
+    "totalRecords": 3,
+    "totalCount": 6,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.911919"
+  }
+}

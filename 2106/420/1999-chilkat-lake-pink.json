@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "1999-07-29",
+      2,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ],
+    [
+      1999,
+      "1999-08-27",
+      1,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ],
+    [
+      1999,
+      "1999-09-04",
+      2,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ],
+    [
+      1999,
+      "1999-09-25",
+      1,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ],
+    [
+      1999,
+      "1999-10-02",
+      2,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ],
+    [
+      1999,
+      "1999-10-03",
+      2,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "420",
+    "year": "1999",
+    "totalRecords": 6,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.283594"
+  }
+}

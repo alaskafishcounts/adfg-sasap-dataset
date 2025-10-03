@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "2013-08-07",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-08",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-14",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-18",
+      5,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-22",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-01",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-05",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-10",
+      4,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-11",
+      2,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-12",
+      4,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-13",
+      2,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-14",
+      2,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-16",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-19",
+      19,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-20",
+      4,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-24",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "450",
+    "year": "2013",
+    "totalRecords": 16,
+    "totalCount": 50,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.796795"
+  }
+}

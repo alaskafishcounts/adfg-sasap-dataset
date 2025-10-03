@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-08-14",
+      1,
+      420,
+      2158,
+      "Falls Lake Trap",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-08-15",
+      2,
+      420,
+      2158,
+      "Falls Lake Trap",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-08-16",
+      1,
+      420,
+      2158,
+      "Falls Lake Trap",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-08-18",
+      1,
+      420,
+      2158,
+      "Falls Lake Trap",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2158,
+    "species_id": "420",
+    "year": "2010",
+    "totalRecords": 4,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.848715"
+  }
+}

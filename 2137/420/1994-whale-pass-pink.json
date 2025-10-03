@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "1994-08-03",
+      2560,
+      420,
+      2137,
+      "Whale Pass",
+      "Pink"
+    ],
+    [
+      1994,
+      "1994-08-12",
+      11000,
+      420,
+      2137,
+      "Whale Pass",
+      "Pink"
+    ],
+    [
+      1994,
+      "1994-08-23",
+      100000,
+      420,
+      2137,
+      "Whale Pass",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2137,
+    "species_id": "420",
+    "year": "1994",
+    "totalRecords": 3,
+    "totalCount": 113560,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.489475"
+  }
+}

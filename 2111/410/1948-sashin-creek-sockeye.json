@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1948,
+      "1948-09-12",
+      2,
+      410,
+      2111,
+      "Sashin Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "410",
+    "year": "1948",
+    "totalRecords": 1,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.646254"
+  }
+}

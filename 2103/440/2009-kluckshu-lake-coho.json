@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-09-19",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-09-21",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-09-24",
+      7,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-09-25",
+      12,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-09-26",
+      17,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-09-27",
+      7,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-09-28",
+      9,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-09-29",
+      4,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-09-30",
+      36,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-10-01",
+      330,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "440",
+    "year": "2009",
+    "totalRecords": 10,
+    "totalCount": 424,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.843314"
+  }
+}

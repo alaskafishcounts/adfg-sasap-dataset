@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "2007-07-11",
+      2,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-08-01",
+      3,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-08-03",
+      1,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-08-05",
+      1,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-08-12",
+      2,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-08-13",
+      4,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-08-29",
+      1,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-01",
+      2,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-06",
+      3,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-07",
+      8,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-08",
+      10,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-09",
+      12,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-10",
+      3,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-11",
+      1,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-12",
+      2,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "2007-09-13",
+      1,
+      530,
+      2127,
+      "Kook Lake Outlet",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "530",
+    "year": "2007",
+    "totalRecords": 16,
+    "totalCount": 56,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.715746"
+  }
+}

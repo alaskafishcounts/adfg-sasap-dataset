@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1964,
+      "1964-08-10",
+      76,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-11",
+      130,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-12",
+      174,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-13",
+      64,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-14",
+      18,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-15",
+      11,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-16",
+      4,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-17",
+      5,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-18",
+      19,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-19",
+      347,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-20",
+      306,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-21",
+      93,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-22",
+      51,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1964,
+      "1964-08-23",
+      30,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "420",
+    "year": "1964",
+    "totalRecords": 14,
+    "totalCount": 1328,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.121021"
+  }
+}

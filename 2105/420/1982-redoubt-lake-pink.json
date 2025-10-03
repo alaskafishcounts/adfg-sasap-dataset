@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-08-04",
+      1,
+      420,
+      2105,
+      "Redoubt Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-06",
+      2,
+      420,
+      2105,
+      "Redoubt Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-07",
+      1,
+      420,
+      2105,
+      "Redoubt Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-09",
+      2,
+      420,
+      2105,
+      "Redoubt Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-10",
+      1,
+      420,
+      2105,
+      "Redoubt Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-11",
+      1,
+      420,
+      2105,
+      "Redoubt Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-13",
+      1,
+      420,
+      2105,
+      "Redoubt Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-22",
+      1,
+      420,
+      2105,
+      "Redoubt Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2105,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 8,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.124186"
+  }
+}

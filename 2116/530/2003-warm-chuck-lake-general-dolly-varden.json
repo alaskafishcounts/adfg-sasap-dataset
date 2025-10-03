@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "2003-09-04",
+      1,
+      530,
+      2116,
+      "Warm Chuck Lake",
+      "General dolly varden"
+    ],
+    [
+      2003,
+      "2003-09-10",
+      1,
+      530,
+      2116,
+      "Warm Chuck Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "530",
+    "year": "2003",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.603114"
+  }
+}

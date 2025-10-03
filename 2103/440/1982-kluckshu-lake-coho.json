@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-09-13",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-15",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-16",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-17",
+      6,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-20",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-21",
+      21,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-22",
+      7,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-29",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-30",
+      2,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-07",
+      3,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-08",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-10",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-11",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-12",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-13",
+      126,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-14",
+      3,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-19",
+      4,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-20",
+      4,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-10-21",
+      4,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "440",
+    "year": "1982",
+    "totalRecords": 19,
+    "totalCount": 189,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.845371"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1977,
+      "1977-06-06",
+      40,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-06-07",
+      27,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-06-08",
+      32,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-06-09",
+      13,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-06-10",
+      5,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-06-11",
+      0,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-07-02",
+      525,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-07-09",
+      495,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-07-30",
+      18,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-08-06",
+      9,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ],
+    [
+      1977,
+      "1977-10-04",
+      0,
+      460,
+      2000,
+      "Karluk",
+      "Steelhead Down"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "460",
+    "year": "1977",
+    "totalRecords": 11,
+    "totalCount": 1164,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.916353"
+  }
+}

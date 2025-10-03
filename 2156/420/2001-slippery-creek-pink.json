@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "2001-10-17",
+      3984,
+      420,
+      2156,
+      "Slippery Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2156,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 1,
+    "totalCount": 3984,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.878090"
+  }
+}

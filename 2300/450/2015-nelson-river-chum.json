@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-07-10",
+      9,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-11",
+      2,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-12",
+      2,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-13",
+      5,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-14",
+      77,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-15",
+      91,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-16",
+      269,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-17",
+      17,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-18",
+      370,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-19",
+      115,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-20",
+      159,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-21",
+      184,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-22",
+      82,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-23",
+      219,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-24",
+      115,
+      450,
+      2300,
+      "Nelson River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "450",
+    "year": "2015",
+    "totalRecords": 15,
+    "totalCount": 1716,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.169429"
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-06-25",
+      77,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-06-26",
+      159,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-06-27",
+      40,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-06-28",
+      148,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-06-29",
+      110,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-06-30",
+      384,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-01",
+      1004,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-02",
+      1607,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-03",
+      845,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-04",
+      804,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-05",
+      691,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-06",
+      811,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-07",
+      333,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-08",
+      950,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-09",
+      567,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-10",
+      2492,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-11",
+      2192,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-12",
+      1290,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-13",
+      715,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-14",
+      1214,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-15",
+      1134,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-16",
+      1284,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-17",
+      914,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-18",
+      1043,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-19",
+      1212,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-20",
+      1815,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-21",
+      802,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-22",
+      335,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-23",
+      1109,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-24",
+      985,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-25",
+      532,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-26",
+      1107,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-27",
+      586,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-28",
+      162,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-29",
+      213,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-30",
+      450,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-07-31",
+      516,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-01",
+      313,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-02",
+      313,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-03",
+      346,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-04",
+      238,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-05",
+      210,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-06",
+      235,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-07",
+      155,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-08",
+      147,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-09",
+      218,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-10",
+      118,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-11",
+      72,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-12",
+      131,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-13",
+      41,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-14",
+      65,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-15",
+      33,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-16",
+      32,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-17",
+      29,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-18",
+      45,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-19",
+      15,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-20",
+      25,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-21",
+      10,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-22",
+      13,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-23",
+      7,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-24",
+      7,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-25",
+      7,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-26",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-27",
+      4,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-28",
+      2,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-29",
+      35,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-30",
+      32,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-08-31",
+      29,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-01",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-02",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-03",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-04",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-05",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-06",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-07",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-08",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-09",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-10",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-11",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-12",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-13",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-14",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-15",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-16",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-17",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1995,
+      "1995-09-18",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "450",
+    "year": "1995",
+    "totalRecords": 86,
+    "totalCount": 33559,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.698978"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "2002-05-01",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-02",
+      2,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-03",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-12",
+      4,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-13",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-15",
+      2,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-16",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-18",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-21",
+      3,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-24",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-25",
+      1,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-28",
+      6,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-29",
+      12,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-05-30",
+      5,
+      480,
+      2100,
+      "Hugh Smith",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "480",
+    "year": "2002",
+    "totalRecords": 14,
+    "totalCount": 41,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.058910"
+  }
+}

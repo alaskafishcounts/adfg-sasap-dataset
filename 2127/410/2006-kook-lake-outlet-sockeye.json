@@ -1,0 +1,886 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "2006-06-16",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-17",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-18",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-19",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-20",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-21",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-22",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-23",
+      1,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-24",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-25",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-26",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-27",
+      5,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-28",
+      8,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-29",
+      14,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-30",
+      29,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-01",
+      16,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-02",
+      17,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-03",
+      7,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-04",
+      8,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-05",
+      13,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-06",
+      128,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-07",
+      107,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-08",
+      50,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-09",
+      143,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-10",
+      150,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-11",
+      195,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-12",
+      74,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-13",
+      53,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-14",
+      8,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-15",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-16",
+      2,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-17",
+      7,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-18",
+      13,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-19",
+      46,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-20",
+      116,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-21",
+      327,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-22",
+      271,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-23",
+      350,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-24",
+      268,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-25",
+      440,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-26",
+      760,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-27",
+      142,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-28",
+      666,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-29",
+      367,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-30",
+      211,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-31",
+      157,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-01",
+      303,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-02",
+      376,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-03",
+      381,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-04",
+      203,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-05",
+      838,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-06",
+      687,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-07",
+      352,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-08",
+      210,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-09",
+      110,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-10",
+      104,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-11",
+      63,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-12",
+      135,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-13",
+      94,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-14",
+      56,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-15",
+      82,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-16",
+      54,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-17",
+      35,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-18",
+      45,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-19",
+      51,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-20",
+      52,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-21",
+      55,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-22",
+      49,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-23",
+      43,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-24",
+      43,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-25",
+      41,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-26",
+      39,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-27",
+      29,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-28",
+      21,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-29",
+      43,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-30",
+      23,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-31",
+      24,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-01",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-02",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-03",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-04",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-05",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-06",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-07",
+      0,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-08",
+      1,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-09",
+      4,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-10",
+      4,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-11",
+      2,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-12",
+      8,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-13",
+      3,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-14",
+      8,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-15",
+      5,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-16",
+      4,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-17",
+      2,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-18",
+      2,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-19",
+      3,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "410",
+    "year": "2006",
+    "totalRecords": 96,
+    "totalCount": 9856,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.722949"
+  }
+}

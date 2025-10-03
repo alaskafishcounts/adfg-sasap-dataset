@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "2008-08-26",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "440",
+    "year": "2008",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.498887"
+  }
+}

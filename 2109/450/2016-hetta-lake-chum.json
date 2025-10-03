@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-08-27",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-08-29",
+      5,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-08-31",
+      8,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-09-01",
+      3,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-09-02",
+      2,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-09-03",
+      3,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-09-04",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-09-05",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-09-06",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-09-07",
+      10,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      2016,
+      "2016-09-13",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "450",
+    "year": "2016",
+    "totalRecords": 11,
+    "totalCount": 36,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.948163"
+  }
+}

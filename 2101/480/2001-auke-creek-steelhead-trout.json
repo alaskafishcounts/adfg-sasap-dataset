@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "2001-09-24",
+      2,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-09-29",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-10-04",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-10-05",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-10-06",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-10-09",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-10-10",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-10-14",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-10-15",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2001,
+      "2001-10-19",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "480",
+    "year": "2001",
+    "totalRecords": 10,
+    "totalCount": 11,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.444128"
+  }
+}

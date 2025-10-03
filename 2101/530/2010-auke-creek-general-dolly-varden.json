@@ -1,0 +1,940 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-06-25",
+      26,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-06-26",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-06-27",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-06-28",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-06-30",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-01",
+      23,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-02",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-03",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-04",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-05",
+      19,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-06",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-08",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-11",
+      11,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-12",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-13",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-14",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-16",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-17",
+      13,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-18",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-19",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-22",
+      16,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-23",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-24",
+      25,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-25",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-26",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-28",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-07-31",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-01",
+      13,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-02",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-03",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-04",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-05",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-06",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-07",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-09",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-10",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-11",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-12",
+      16,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-13",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-14",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-15",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-16",
+      16,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-17",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-18",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-19",
+      44,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-20",
+      11,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-21",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-22",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-23",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-24",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-25",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-26",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-27",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-28",
+      41,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-29",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-30",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-08-31",
+      20,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-01",
+      16,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-02",
+      31,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-03",
+      17,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-04",
+      62,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-05",
+      42,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-06",
+      21,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-07",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-08",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-09",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-10",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-11",
+      89,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-12",
+      66,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-13",
+      45,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-14",
+      23,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-15",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-16",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-17",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-24",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-25",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-26",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-27",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-28",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-29",
+      40,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-09-30",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-01",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-02",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-03",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-04",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-07",
+      9,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-10",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-11",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-12",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-13",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-14",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-16",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-17",
+      10,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-18",
+      27,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-19",
+      17,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-20",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-21",
+      21,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-22",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-23",
+      17,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-24",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-25",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      2010,
+      "2010-10-26",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "530",
+    "year": "2010",
+    "totalRecords": 102,
+    "totalCount": 1250,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.383612"
+  }
+}

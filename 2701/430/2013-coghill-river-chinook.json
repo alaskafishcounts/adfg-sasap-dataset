@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "2013-07-23",
+      1,
+      430,
+      2701,
+      "Coghill River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "2013-07-25",
+      2,
+      430,
+      2701,
+      "Coghill River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "2013-07-26",
+      1,
+      430,
+      2701,
+      "Coghill River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2701,
+    "species_id": "430",
+    "year": "2013",
+    "totalRecords": 3,
+    "totalCount": 4,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.360804"
+  }
+}

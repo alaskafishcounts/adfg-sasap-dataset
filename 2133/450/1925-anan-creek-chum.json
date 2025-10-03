@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1925,
+      "1925-07-25",
+      21,
+      450,
+      2133,
+      "Anan Creek",
+      "Chum"
+    ],
+    [
+      1925,
+      "1925-08-01",
+      26,
+      450,
+      2133,
+      "Anan Creek",
+      "Chum"
+    ],
+    [
+      1925,
+      "1925-08-08",
+      15,
+      450,
+      2133,
+      "Anan Creek",
+      "Chum"
+    ],
+    [
+      1925,
+      "1925-08-22",
+      16,
+      450,
+      2133,
+      "Anan Creek",
+      "Chum"
+    ],
+    [
+      1925,
+      "1925-08-29",
+      28,
+      450,
+      2133,
+      "Anan Creek",
+      "Chum"
+    ],
+    [
+      1925,
+      "1925-09-05",
+      27,
+      450,
+      2133,
+      "Anan Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2133,
+    "species_id": "450",
+    "year": "1925",
+    "totalRecords": 6,
+    "totalCount": 133,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.299966"
+  }
+}

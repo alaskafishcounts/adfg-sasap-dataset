@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-07-14",
+      1,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-15",
+      5,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-16",
+      5,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-17",
+      4,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-18",
+      5,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-19",
+      4,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-20",
+      2,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-21",
+      2,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-07-22",
+      16,
+      450,
+      2303,
+      "Sandy River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2303,
+    "species_id": "450",
+    "year": "2015",
+    "totalRecords": 9,
+    "totalCount": 44,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.847432"
+  }
+}

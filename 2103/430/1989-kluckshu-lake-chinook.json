@@ -1,0 +1,733 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "1989-06-03",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-06",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-09",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-11",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-14",
+      2,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-15",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-16",
+      3,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-17",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-20",
+      4,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-21",
+      6,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-22",
+      3,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-23",
+      3,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-24",
+      4,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-25",
+      2,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-26",
+      6,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-27",
+      4,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-28",
+      5,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-29",
+      23,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-06-30",
+      10,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-01",
+      23,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-02",
+      14,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-03",
+      286,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-04",
+      232,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-05",
+      75,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-06",
+      152,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-07",
+      431,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-08",
+      57,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-09",
+      222,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-10",
+      63,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-11",
+      26,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-12",
+      28,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-13",
+      31,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-14",
+      31,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-15",
+      30,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-16",
+      24,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-17",
+      21,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-18",
+      24,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-19",
+      23,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-20",
+      21,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-21",
+      22,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-22",
+      13,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-23",
+      15,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-24",
+      22,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-25",
+      20,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-26",
+      45,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-27",
+      32,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-28",
+      31,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-29",
+      36,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-30",
+      14,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-07-31",
+      122,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-01",
+      28,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-02",
+      12,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-03",
+      12,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-04",
+      5,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-05",
+      11,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-06",
+      22,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-07",
+      6,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-08",
+      5,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-09",
+      2,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-10",
+      4,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-11",
+      7,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-12",
+      13,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-13",
+      2,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-14",
+      12,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-15",
+      8,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-16",
+      5,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-17",
+      3,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-18",
+      3,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-19",
+      2,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-20",
+      2,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-21",
+      13,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-22",
+      3,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-23",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-24",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-25",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-26",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-29",
+      2,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-08-31",
+      2,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1989,
+      "1989-09-01",
+      1,
+      430,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "430",
+    "year": "1989",
+    "totalRecords": 79,
+    "totalCount": 2456,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.869971"
+  }
+}

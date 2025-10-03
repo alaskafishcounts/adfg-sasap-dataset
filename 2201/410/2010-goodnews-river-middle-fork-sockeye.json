@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-06-25",
+      261,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-06-26",
+      680,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-06-27",
+      1061,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-06-28",
+      1478,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-06-29",
+      797,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-06-30",
+      1252,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-01",
+      1075,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-02",
+      712,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-03",
+      1500,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-04",
+      1881,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-05",
+      1227,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-06",
+      2052,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-07",
+      1859,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-08",
+      1099,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-09",
+      1942,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-10",
+      3379,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-11",
+      916,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-12",
+      2130,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-13",
+      2130,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-14",
+      1447,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-15",
+      1175,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-16",
+      920,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-17",
+      788,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-18",
+      764,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-19",
+      653,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-20",
+      369,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-21",
+      125,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-22",
+      213,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-23",
+      162,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-24",
+      376,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-25",
+      202,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-26",
+      244,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-27",
+      154,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-28",
+      129,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-29",
+      203,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-30",
+      176,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-07-31",
+      152,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-01",
+      132,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-02",
+      114,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-03",
+      99,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-04",
+      85,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-05",
+      38,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-06",
+      25,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-07",
+      11,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-08",
+      6,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-09",
+      6,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-10",
+      3,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-11",
+      4,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-12",
+      13,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-13",
+      7,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-14",
+      19,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-15",
+      17,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-16",
+      14,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-17",
+      12,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-18",
+      11,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-19",
+      9,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-20",
+      8,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-21",
+      7,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-22",
+      6,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-23",
+      5,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-24",
+      4,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-25",
+      4,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-26",
+      12,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-27",
+      20,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-28",
+      46,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-29",
+      30,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-30",
+      10,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-08-31",
+      19,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-01",
+      3,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-02",
+      2,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-03",
+      1,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-04",
+      3,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-05",
+      20,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-06",
+      12,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-07",
+      12,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-08",
+      1,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-09",
+      8,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-10",
+      14,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-11",
+      7,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-12",
+      1,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-13",
+      4,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-14",
+      1,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-15",
+      0,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-16",
+      5,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-17",
+      0,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-09-18",
+      1,
+      410,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "410",
+    "year": "2010",
+    "totalRecords": 86,
+    "totalCount": 36574,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.678239"
+  }
+}

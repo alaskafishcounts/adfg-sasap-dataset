@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "1983-08-31",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-01",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-02",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-05",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-07",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-15",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-18",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-19",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-28",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-29",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-10-02",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-10-03",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-10-04",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-10-07",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-10-08",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-10-20",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-10-23",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "450",
+    "year": "1983",
+    "totalRecords": 17,
+    "totalCount": 23,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.626670"
+  }
+}

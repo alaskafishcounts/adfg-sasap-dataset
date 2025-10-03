@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-07-19",
+      2,
+      530,
+      2145,
+      "Hatchery Creek",
+      "General dolly varden"
+    ],
+    [
+      2012,
+      "2012-08-09",
+      1,
+      530,
+      2145,
+      "Hatchery Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2145,
+    "species_id": "530",
+    "year": "2012",
+    "totalRecords": 2,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.762342"
+  }
+}

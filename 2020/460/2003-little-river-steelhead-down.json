@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "2003-08-09",
+      14,
+      460,
+      2020,
+      "Little River",
+      "Steelhead Down"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2020,
+    "species_id": "460",
+    "year": "2003",
+    "totalRecords": 1,
+    "totalCount": 14,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.192082"
+  }
+}

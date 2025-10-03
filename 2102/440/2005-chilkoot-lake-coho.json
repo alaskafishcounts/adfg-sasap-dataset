@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-09-05",
+      1,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "2005-09-06",
+      1,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "2005-09-09",
+      2,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "2005-09-10",
+      11,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "2005-09-11",
+      6,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "2005-09-12",
+      2,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "440",
+    "year": "2005",
+    "totalRecords": 6,
+    "totalCount": 23,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.909215"
+  }
+}

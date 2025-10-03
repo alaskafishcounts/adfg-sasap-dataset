@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-08-01",
+      2,
+      450,
+      2115,
+      "Neva Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-26",
+      2,
+      450,
+      2115,
+      "Neva Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-27",
+      1,
+      450,
+      2115,
+      "Neva Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2115,
+    "species_id": "450",
+    "year": "2015",
+    "totalRecords": 3,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.561606"
+  }
+}

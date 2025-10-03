@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "2006-08-30",
+      1,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2006,
+      "2006-08-31",
+      1,
+      430,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "430",
+    "year": "2006",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.435027"
+  }
+}

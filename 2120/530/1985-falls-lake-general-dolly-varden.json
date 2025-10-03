@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "1985-07-02",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-11",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-15",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-19",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-20",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-21",
+      4,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-22",
+      7,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-23",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-24",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-25",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-26",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-28",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-07-31",
+      2,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-08-01",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1985,
+      "1985-08-04",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "530",
+    "year": "1985",
+    "totalRecords": 15,
+    "totalCount": 31,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.735956"
+  }
+}

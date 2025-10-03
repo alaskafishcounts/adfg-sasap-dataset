@@ -1,0 +1,706 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "1996-04-12",
+      1,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-15",
+      6,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-16",
+      15,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-17",
+      17,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-18",
+      13,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-19",
+      40,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-20",
+      15,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-21",
+      4,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-22",
+      1,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-23",
+      13,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-24",
+      16,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-25",
+      20,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-26",
+      8,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-27",
+      21,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-28",
+      18,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-29",
+      64,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-04-30",
+      29,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-01",
+      40,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-02",
+      55,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-03",
+      7,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-04",
+      35,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-05",
+      6,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-06",
+      2,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-07",
+      12,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-08",
+      22,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-09",
+      17,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-10",
+      8,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-11",
+      20,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-12",
+      32,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-13",
+      87,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-14",
+      73,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-15",
+      30,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-16",
+      26,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-17",
+      43,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-18",
+      19,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-19",
+      15,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-20",
+      148,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-21",
+      11,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-22",
+      40,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-23",
+      88,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-24",
+      581,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-25",
+      280,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-26",
+      186,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-27",
+      42,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-28",
+      139,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-29",
+      204,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-30",
+      176,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-05-31",
+      185,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-01",
+      238,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-02",
+      221,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-03",
+      300,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-04",
+      31,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-05",
+      113,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-06",
+      238,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-07",
+      235,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-08",
+      17,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-09",
+      137,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-10",
+      404,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-11",
+      260,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-12",
+      221,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-13",
+      41,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-14",
+      16,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-15",
+      5,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-16",
+      37,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-17",
+      10,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-18",
+      10,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-19",
+      3,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-20",
+      6,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-21",
+      4,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-22",
+      5,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-23",
+      2,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-26",
+      1,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-28",
+      16,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-06-29",
+      15,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-07-04",
+      1,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ],
+    [
+      1996,
+      "1996-07-05",
+      1,
+      480,
+      2117,
+      "Sitkoh Lake Creek",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "480",
+    "year": "1996",
+    "totalRecords": 76,
+    "totalCount": 5518,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.558061"
+  }
+}

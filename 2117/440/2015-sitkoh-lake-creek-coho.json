@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-08-31",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-09-01",
+      2,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-09-03",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-09-06",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-09-08",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-09-11",
+      2,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "440",
+    "year": "2015",
+    "totalRecords": 6,
+    "totalCount": 8,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.530279"
+  }
+}

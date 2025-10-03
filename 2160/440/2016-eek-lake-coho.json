@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-07-30",
+      6,
+      440,
+      2160,
+      "Eek Lake",
+      "Coho"
+    ],
+    [
+      2016,
+      "2016-07-31",
+      4,
+      440,
+      2160,
+      "Eek Lake",
+      "Coho"
+    ],
+    [
+      2016,
+      "2016-08-13",
+      1,
+      440,
+      2160,
+      "Eek Lake",
+      "Coho"
+    ],
+    [
+      2016,
+      "2016-08-14",
+      3,
+      440,
+      2160,
+      "Eek Lake",
+      "Coho"
+    ],
+    [
+      2016,
+      "2016-08-15",
+      2,
+      440,
+      2160,
+      "Eek Lake",
+      "Coho"
+    ],
+    [
+      2016,
+      "2016-08-17",
+      1,
+      440,
+      2160,
+      "Eek Lake",
+      "Coho"
+    ],
+    [
+      2016,
+      "2016-08-18",
+      1,
+      440,
+      2160,
+      "Eek Lake",
+      "Coho"
+    ],
+    [
+      2016,
+      "2016-08-20",
+      18,
+      440,
+      2160,
+      "Eek Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2160,
+    "species_id": "440",
+    "year": "2016",
+    "totalRecords": 8,
+    "totalCount": 36,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.841239"
+  }
+}

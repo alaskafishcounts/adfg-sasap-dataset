@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1974,
+      "1974-09-23",
+      11,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1974,
+      "1974-09-27",
+      150,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "440",
+    "year": "1974",
+    "totalRecords": 2,
+    "totalCount": 161,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.245606"
+  }
+}

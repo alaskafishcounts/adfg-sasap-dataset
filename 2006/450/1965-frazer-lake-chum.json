@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1965,
+      "1965-07-13",
+      4,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-14",
+      3,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-15",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-16",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-17",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-18",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-19",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-20",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-21",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-22",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-23",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-24",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-25",
+      1,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "1965-07-26",
+      1,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "450",
+    "year": "1965",
+    "totalRecords": 14,
+    "totalCount": 9,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.281162"
+  }
+}

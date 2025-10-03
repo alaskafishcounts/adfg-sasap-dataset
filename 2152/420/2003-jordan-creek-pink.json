@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "2003-08-22",
+      6,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-08-23",
+      4,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-08-24",
+      3,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-08-25",
+      7,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-08-26",
+      6,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-08-27",
+      3,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-08-28",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-08-31",
+      5,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-02",
+      25,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-03",
+      10,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-05",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-06",
+      3,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-07",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-08",
+      2,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-09",
+      6,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-10",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-12",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "2003-09-13",
+      2,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2152,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 18,
+    "totalCount": 87,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.809666"
+  }
+}

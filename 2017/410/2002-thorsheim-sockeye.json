@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "2002-06-30",
+      497,
+      410,
+      2017,
+      "Thorsheim",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "2002-07-01",
+      2214,
+      410,
+      2017,
+      "Thorsheim",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2017,
+    "species_id": "410",
+    "year": "2002",
+    "totalRecords": 2,
+    "totalCount": 2711,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.147367"
+  }
+}

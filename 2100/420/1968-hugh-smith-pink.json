@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "1968-08-14",
+      1,
+      420,
+      2100,
+      "Hugh Smith",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-15",
+      1,
+      420,
+      2100,
+      "Hugh Smith",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-16",
+      2,
+      420,
+      2100,
+      "Hugh Smith",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-17",
+      1,
+      420,
+      2100,
+      "Hugh Smith",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-18",
+      2,
+      420,
+      2100,
+      "Hugh Smith",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-19",
+      3,
+      420,
+      2100,
+      "Hugh Smith",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-20",
+      6,
+      420,
+      2100,
+      "Hugh Smith",
+      "Pink"
+    ],
+    [
+      1968,
+      "1968-08-21",
+      8,
+      420,
+      2100,
+      "Hugh Smith",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "420",
+    "year": "1968",
+    "totalRecords": 8,
+    "totalCount": 24,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.045122"
+  }
+}

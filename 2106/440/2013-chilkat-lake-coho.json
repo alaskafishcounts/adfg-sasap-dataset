@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "2013-09-25",
+      56,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-09-26",
+      77,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-09-27",
+      56,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-09-28",
+      146,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-09-29",
+      604,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-09-30",
+      356,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-10-01",
+      746,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-10-02",
+      258,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-10-03",
+      213,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-10-04",
+      145,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-10-05",
+      131,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "2013-10-06",
+      307,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "440",
+    "year": "2013",
+    "totalRecords": 12,
+    "totalCount": 3095,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.244994"
+  }
+}

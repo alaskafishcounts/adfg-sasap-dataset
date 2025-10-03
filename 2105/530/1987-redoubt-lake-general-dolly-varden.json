@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "1987-06-30",
+      3,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-03",
+      1,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-04",
+      22,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-05",
+      18,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-06",
+      70,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-07",
+      10,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-08",
+      4,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-10",
+      44,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-12",
+      31,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-13",
+      15,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-15",
+      1,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-16",
+      15,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-19",
+      1,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-20",
+      4,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-21",
+      4,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-25",
+      2,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-07-26",
+      2,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-08-01",
+      2,
+      530,
+      2105,
+      "Redoubt Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2105,
+    "species_id": "530",
+    "year": "1987",
+    "totalRecords": 18,
+    "totalCount": 249,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.094871"
+  }
+}

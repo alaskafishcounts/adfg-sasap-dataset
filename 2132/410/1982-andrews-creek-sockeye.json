@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-07-25",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "1982-07-29",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "1982-08-13",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "1982-08-15",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "1982-08-16",
+      2,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "1982-08-18",
+      4,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "1982-08-21",
+      3,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2132,
+    "species_id": "410",
+    "year": "1982",
+    "totalRecords": 7,
+    "totalCount": 13,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.461309"
+  }
+}

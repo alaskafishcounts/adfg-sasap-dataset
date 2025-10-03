@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-05-20",
+      8056,
+      410,
+      2700,
+      "Miles Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-05-20",
+      6354,
+      410,
+      2700,
+      "Miles Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-05-23",
+      4325,
+      410,
+      2700,
+      "Miles Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-05-23",
+      18293,
+      410,
+      2700,
+      "Miles Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-06-15",
+      10720,
+      410,
+      2700,
+      "Miles Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-28",
+      426,
+      410,
+      2700,
+      "Miles Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2700,
+    "species_id": "410",
+    "year": "2014",
+    "totalRecords": 6,
+    "totalCount": 48174,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.886840"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "2007-08-26",
+      1,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-08-27",
+      2,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-09-04",
+      5,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-09-05",
+      5,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-09-06",
+      1,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-09-08",
+      1,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-09-09",
+      1,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-09-16",
+      3,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-09-17",
+      4,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      2007,
+      "2007-09-18",
+      10,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "440",
+    "year": "2007",
+    "totalRecords": 10,
+    "totalCount": 33,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.406528"
+  }
+}

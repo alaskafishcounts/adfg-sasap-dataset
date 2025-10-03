@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1939,
+      "1939-08-25",
+      9,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-08-26",
+      7,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-08-29",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-08-30",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-02",
+      5,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-04",
+      11,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-05",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-06",
+      7,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-08",
+      49,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-09",
+      7,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-11",
+      11,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-12",
+      4,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-21",
+      5,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1939,
+      "1939-09-23",
+      3,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "440",
+    "year": "1939",
+    "totalRecords": 14,
+    "totalCount": 122,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.638671"
+  }
+}

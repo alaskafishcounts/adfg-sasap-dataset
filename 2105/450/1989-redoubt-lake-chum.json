@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "1989-07-31",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-03",
+      3,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-04",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-05",
+      4,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-06",
+      7,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-08",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-09",
+      4,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-10",
+      2,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-11",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-13",
+      4,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-14",
+      2,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-15",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-16",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1989,
+      "1989-08-17",
+      2,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2105,
+    "species_id": "450",
+    "year": "1989",
+    "totalRecords": 14,
+    "totalCount": 34,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.144347"
+  }
+}

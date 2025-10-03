@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-06-19",
+      0,
+      440,
+      2302,
+      "Ilnik River",
+      "Coho"
+    ],
+    [
+      2014,
+      "2014-06-20",
+      0,
+      440,
+      2302,
+      "Ilnik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2302,
+    "species_id": "440",
+    "year": "2014",
+    "totalRecords": 2,
+    "totalCount": 0,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.601698"
+  }
+}

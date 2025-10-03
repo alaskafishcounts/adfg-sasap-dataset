@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-08-10",
+      4,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "2012-08-19",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "2012-08-20",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "2012-08-23",
+      5,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "2012-08-25",
+      2,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "2012-08-28",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "430",
+    "year": "2012",
+    "totalRecords": 6,
+    "totalCount": 14,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.315984"
+  }
+}

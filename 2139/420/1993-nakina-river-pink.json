@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "1993-08-07",
+      1,
+      420,
+      2139,
+      "Nakina River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2139,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.304157"
+  }
+}

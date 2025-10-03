@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-07-25",
+      1,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-07-26",
+      1,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-07-27",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-07-28",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-07-29",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-07-30",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "440",
+    "year": "2010",
+    "totalRecords": 6,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.486825"
+  }
+}

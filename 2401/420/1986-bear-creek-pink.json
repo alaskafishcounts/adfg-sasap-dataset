@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "1986-09-01",
+      8,
+      420,
+      2401,
+      "Bear Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "1986-09-02",
+      10,
+      420,
+      2401,
+      "Bear Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "1986-09-03",
+      6,
+      420,
+      2401,
+      "Bear Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "1986-09-04",
+      6,
+      420,
+      2401,
+      "Bear Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "1986-09-05",
+      4,
+      420,
+      2401,
+      "Bear Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "1986-09-06",
+      0,
+      420,
+      2401,
+      "Bear Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2401,
+    "species_id": "420",
+    "year": "1986",
+    "totalRecords": 6,
+    "totalCount": 34,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.102632"
+  }
+}

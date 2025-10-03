@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-08-15",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2011,
+      "2011-08-16",
+      4,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2011,
+      "2011-08-20",
+      4,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2011,
+      "2011-08-25",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 4,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.494220"
+  }
+}

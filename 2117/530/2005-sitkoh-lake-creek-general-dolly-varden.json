@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-04-12",
+      2,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-16",
+      15,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-17",
+      35,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-18",
+      21,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-19",
+      40,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-20",
+      376,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-21",
+      470,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-22",
+      67,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-23",
+      493,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-24",
+      1742,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-25",
+      716,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-26",
+      1218,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-27",
+      1232,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-28",
+      350,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-29",
+      247,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-04-30",
+      759,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-01",
+      261,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-02",
+      685,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-03",
+      566,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-04",
+      559,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-05",
+      556,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-06",
+      293,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-07",
+      387,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-08",
+      1200,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-09",
+      1751,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-10",
+      518,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-11",
+      2606,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-12",
+      1519,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-13",
+      9184,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-14",
+      7264,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-15",
+      100,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-16",
+      25,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-17",
+      22,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-18",
+      280,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-19",
+      153,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-20",
+      149,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-21",
+      74,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-22",
+      387,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-23",
+      306,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-24",
+      52,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-25",
+      89,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-26",
+      519,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-27",
+      4,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-28",
+      167,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-29",
+      456,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-30",
+      7,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-05-31",
+      11,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-01",
+      11,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-02",
+      105,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-03",
+      6,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-04",
+      38,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-05",
+      76,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-06",
+      3,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-07",
+      5,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-08",
+      5,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-09",
+      15,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-10",
+      12,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-11",
+      9,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-13",
+      1,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-14",
+      49,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-15",
+      7,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-18",
+      3,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-19",
+      19,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-20",
+      1,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-21",
+      2,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-22",
+      2,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "2005-06-23",
+      93,
+      530,
+      2117,
+      "Sitkoh Lake Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "530",
+    "year": "2005",
+    "totalRecords": 67,
+    "totalCount": 38395,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.537822"
+  }
+}

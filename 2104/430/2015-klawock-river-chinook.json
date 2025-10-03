@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-08-08",
+      0,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-08-09",
+      0,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "430",
+    "year": "2015",
+    "totalRecords": 2,
+    "totalCount": 0,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.314802"
+  }
+}

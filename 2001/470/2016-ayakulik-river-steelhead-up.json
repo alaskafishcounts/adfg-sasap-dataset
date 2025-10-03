@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-08-17",
+      5,
+      470,
+      2001,
+      "Ayakulik River",
+      "Steelhead Up"
+    ],
+    [
+      2016,
+      "2016-08-18",
+      9,
+      470,
+      2001,
+      "Ayakulik River",
+      "Steelhead Up"
+    ],
+    [
+      2016,
+      "2016-08-19",
+      21,
+      470,
+      2001,
+      "Ayakulik River",
+      "Steelhead Up"
+    ],
+    [
+      2016,
+      "2016-08-20",
+      23,
+      470,
+      2001,
+      "Ayakulik River",
+      "Steelhead Up"
+    ],
+    [
+      2016,
+      "2016-08-21",
+      0,
+      470,
+      2001,
+      "Ayakulik River",
+      "Steelhead Up"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "470",
+    "year": "2016",
+    "totalRecords": 5,
+    "totalCount": 58,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.996982"
+  }
+}

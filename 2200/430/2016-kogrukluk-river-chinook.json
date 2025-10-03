@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-06-26",
+      21,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-06-27",
+      54,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-06-28",
+      42,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-06-29",
+      25,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-06-30",
+      5,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-01",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-02",
+      5,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-03",
+      192,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-04",
+      42,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-05",
+      23,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-06",
+      30,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-07",
+      154,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-08",
+      61,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-09",
+      137,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-10",
+      137,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-11",
+      301,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-12",
+      282,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-13",
+      587,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-14",
+      277,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-15",
+      281,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-16",
+      157,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-17",
+      116,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-18",
+      1444,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-19",
+      130,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-20",
+      194,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-21",
+      538,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-22",
+      148,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-23",
+      135,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-24",
+      178,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-25",
+      233,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-26",
+      206,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-27",
+      199,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-28",
+      89,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-29",
+      139,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-30",
+      81,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-07-31",
+      58,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-01",
+      98,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-02",
+      56,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-03",
+      30,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-04",
+      8,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-05",
+      36,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-06",
+      20,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-07",
+      17,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-08",
+      11,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-09",
+      8,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-10",
+      12,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-11",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-12",
+      11,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-13",
+      6,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-14",
+      6,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-15",
+      5,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-16",
+      4,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-17",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-18",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-19",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-20",
+      5,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-21",
+      5,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-22",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-23",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-24",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-25",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-26",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-27",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-28",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-29",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-30",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-08-31",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-01",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-02",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-03",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-04",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-05",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-06",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-07",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-08",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-09",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-10",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-11",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-12",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-13",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-14",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-15",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-16",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-17",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-18",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-19",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-20",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-21",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-22",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-23",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-24",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "2016-09-25",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2200,
+    "species_id": "430",
+    "year": "2016",
+    "totalRecords": 92,
+    "totalCount": 7056,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.335704"
+  }
+}

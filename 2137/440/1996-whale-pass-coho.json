@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "1996-08-08",
+      601,
+      440,
+      2137,
+      "Whale Pass",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-06",
+      10,
+      440,
+      2137,
+      "Whale Pass",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2137,
+    "species_id": "440",
+    "year": "1996",
+    "totalRecords": 2,
+    "totalCount": 611,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.482093"
+  }
+}

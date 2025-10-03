@@ -1,0 +1,814 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-07-05",
+      4866,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-06",
+      8976,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-07",
+      5450,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-08",
+      2410,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-09",
+      637,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-10",
+      3593,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-11",
+      2201,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-12",
+      3113,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-13",
+      6009,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-14",
+      8282,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-15",
+      8989,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-16",
+      6463,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-17",
+      10103,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-18",
+      16290,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-19",
+      8123,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-20",
+      13226,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-21",
+      8498,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-22",
+      24080,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-23",
+      12451,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-24",
+      9172,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-25",
+      7286,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-26",
+      2802,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-27",
+      3963,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-28",
+      2796,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-29",
+      4317,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-30",
+      5249,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-31",
+      3445,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-01",
+      1978,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-02",
+      3793,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-03",
+      3058,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-04",
+      2341,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-05",
+      3141,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-06",
+      2318,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-07",
+      1442,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-08",
+      1790,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-09",
+      1050,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-10",
+      2307,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-11",
+      1325,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-12",
+      1331,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-13",
+      2502,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-14",
+      2170,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-15",
+      2452,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-16",
+      1450,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-17",
+      1952,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-18",
+      1355,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-19",
+      2768,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-20",
+      1470,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-21",
+      1785,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-22",
+      2397,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-23",
+      2488,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-24",
+      2027,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-25",
+      1819,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-26",
+      2260,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-27",
+      2800,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-28",
+      1877,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-29",
+      1271,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-30",
+      1418,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-31",
+      1624,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-01",
+      939,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-02",
+      814,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-03",
+      728,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-04",
+      650,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-05",
+      581,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-06",
+      520,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-07",
+      464,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-08",
+      415,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-09",
+      371,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-10",
+      332,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-11",
+      296,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-12",
+      265,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-13",
+      237,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-14",
+      212,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-15",
+      189,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-16",
+      169,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-17",
+      151,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-18",
+      135,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-19",
+      121,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-20",
+      108,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-21",
+      97,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-22",
+      86,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-23",
+      77,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-24",
+      69,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-25",
+      62,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-26",
+      55,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-27",
+      49,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-28",
+      44,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-29",
+      39,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-30",
+      35,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 88,
+    "totalCount": 264859,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.356597"
+  }
+}

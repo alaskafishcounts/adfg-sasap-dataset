@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-08-27",
+      1,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-08-28",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-08-29",
+      1,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-08-30",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-08-31",
+      2,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-01",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-02",
+      1,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-03",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-04",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-05",
+      1,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-06",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-07",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-08",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-09",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-10",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-11",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-12",
+      0,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-13",
+      1,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 18,
+    "totalCount": 7,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.887862"
+  }
+}

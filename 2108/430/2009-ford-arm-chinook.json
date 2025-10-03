@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-08-27",
+      1,
+      430,
+      2108,
+      "Ford Arm",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "430",
+    "year": "2009",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.512200"
+  }
+}

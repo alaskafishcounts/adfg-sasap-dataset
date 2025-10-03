@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-07-13",
+      4,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-14",
+      18,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-15",
+      15,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-16",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-17",
+      7,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-18",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-19",
+      9,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-20",
+      3,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-21",
+      15,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-22",
+      28,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-23",
+      20,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-24",
+      9,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-25",
+      14,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-26",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-27",
+      2,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-28",
+      11,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-29",
+      13,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-30",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-07-31",
+      10,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-01",
+      19,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-02",
+      5,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-03",
+      2,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-04",
+      14,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-05",
+      36,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-06",
+      7,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-07",
+      9,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-08",
+      33,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-09",
+      3,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-10",
+      5,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-11",
+      11,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-12",
+      22,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-13",
+      9,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-14",
+      24,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-15",
+      5,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-16",
+      8,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-17",
+      4,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-18",
+      10,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-19",
+      8,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-20",
+      1,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-21",
+      10,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-22",
+      9,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-23",
+      6,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-24",
+      3,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-25",
+      5,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-26",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-27",
+      1,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-28",
+      1,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-29",
+      2,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-30",
+      1,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-31",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-01",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-02",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-03",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-04",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-05",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-06",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-07",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-08",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-09",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-10",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-11",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-12",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-13",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-14",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-15",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-16",
+      0,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2158,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 66,
+    "totalCount": 451,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.846004"
+  }
+}

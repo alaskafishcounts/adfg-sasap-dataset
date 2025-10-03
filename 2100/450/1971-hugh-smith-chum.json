@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1971,
+      "1971-07-09",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1971,
+      "1971-07-14",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1971,
+      "1971-08-19",
+      6,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "450",
+    "year": "1971",
+    "totalRecords": 3,
+    "totalCount": 8,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.073270"
+  }
+}

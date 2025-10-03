@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "1986-07-27",
+      1,
+      440,
+      2144,
+      "Naha River",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-08-01",
+      1,
+      440,
+      2144,
+      "Naha River",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-08-06",
+      1,
+      440,
+      2144,
+      "Naha River",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-08-07",
+      2,
+      440,
+      2144,
+      "Naha River",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-08-08",
+      3,
+      440,
+      2144,
+      "Naha River",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-08-15",
+      3,
+      440,
+      2144,
+      "Naha River",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-08-16",
+      1,
+      440,
+      2144,
+      "Naha River",
+      "Coho"
+    ],
+    [
+      1986,
+      "1986-08-17",
+      2,
+      440,
+      2144,
+      "Naha River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2144,
+    "species_id": "440",
+    "year": "1986",
+    "totalRecords": 8,
+    "totalCount": 14,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.568261"
+  }
+}

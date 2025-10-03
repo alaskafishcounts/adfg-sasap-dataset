@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1978,
+      "1978-10-01",
+      2,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1978,
+      "1978-10-08",
+      28,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "440",
+    "year": "1978",
+    "totalRecords": 2,
+    "totalCount": 30,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.847595"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-08-21",
+      1,
+      440,
+      2123,
+      "Kadashan West",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-08-22",
+      1,
+      440,
+      2123,
+      "Kadashan West",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2123,
+    "species_id": "440",
+    "year": "1988",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.563748"
+  }
+}

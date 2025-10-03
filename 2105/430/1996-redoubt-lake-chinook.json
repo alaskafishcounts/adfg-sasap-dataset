@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "1996-08-12",
+      2,
+      430,
+      2105,
+      "Redoubt Lake",
+      "Chinook"
+    ],
+    [
+      1996,
+      "1996-08-23",
+      1,
+      430,
+      2105,
+      "Redoubt Lake",
+      "Chinook"
+    ],
+    [
+      1996,
+      "1996-08-27",
+      1,
+      430,
+      2105,
+      "Redoubt Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2105,
+    "species_id": "430",
+    "year": "1996",
+    "totalRecords": 3,
+    "totalCount": 4,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.086293"
+  }
+}

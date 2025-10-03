@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "1990-07-03",
+      1,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-04",
+      4,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-05",
+      4,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-06",
+      1,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-07",
+      3,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-08",
+      25,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-09",
+      5,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-10",
+      24,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-11",
+      1,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-12",
+      3,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-13",
+      1,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-15",
+      36,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-16",
+      4,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-17",
+      2,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-18",
+      9,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-19",
+      2,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-20",
+      11,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-21",
+      15,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-22",
+      5,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-23",
+      13,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-24",
+      4,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-26",
+      6,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-27",
+      6,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-28",
+      11,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-29",
+      6,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1990,
+      "1990-07-30",
+      3118,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2140,
+    "species_id": "420",
+    "year": "1990",
+    "totalRecords": 26,
+    "totalCount": 3320,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.307893"
+  }
+}

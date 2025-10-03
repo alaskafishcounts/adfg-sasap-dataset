@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-08-02",
+      1,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-03",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-04",
+      12,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-05",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-06",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "440",
+    "year": "2009",
+    "totalRecords": 5,
+    "totalCount": 13,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.961888"
+  }
+}

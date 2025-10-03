@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "1996-07-30",
+      1,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-25",
+      3,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-26",
+      4,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-30",
+      3,
+      440,
+      2110,
+      "Speel Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "440",
+    "year": "1996",
+    "totalRecords": 4,
+    "totalCount": 11,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.395001"
+  }
+}

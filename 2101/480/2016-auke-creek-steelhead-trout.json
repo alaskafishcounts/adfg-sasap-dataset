@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-10-16",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ],
+    [
+      2016,
+      "2016-10-19",
+      1,
+      480,
+      2101,
+      "Auke Creek",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "480",
+    "year": "2016",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.443654"
+  }
+}

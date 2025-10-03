@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-06-21",
+      2,
+      480,
+      2127,
+      "Kook Lake Outlet",
+      "Steelhead trout"
+    ],
+    [
+      1995,
+      "1995-06-30",
+      1,
+      480,
+      2127,
+      "Kook Lake Outlet",
+      "Steelhead trout"
+    ],
+    [
+      1995,
+      "1995-07-02",
+      3,
+      480,
+      2127,
+      "Kook Lake Outlet",
+      "Steelhead trout"
+    ],
+    [
+      1995,
+      "1995-07-03",
+      1,
+      480,
+      2127,
+      "Kook Lake Outlet",
+      "Steelhead trout"
+    ],
+    [
+      1995,
+      "1995-07-04",
+      2,
+      480,
+      2127,
+      "Kook Lake Outlet",
+      "Steelhead trout"
+    ],
+    [
+      1995,
+      "1995-07-05",
+      1,
+      480,
+      2127,
+      "Kook Lake Outlet",
+      "Steelhead trout"
+    ],
+    [
+      1995,
+      "1995-07-06",
+      6,
+      480,
+      2127,
+      "Kook Lake Outlet",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "480",
+    "year": "1995",
+    "totalRecords": 7,
+    "totalCount": 16,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.726184"
+  }
+}

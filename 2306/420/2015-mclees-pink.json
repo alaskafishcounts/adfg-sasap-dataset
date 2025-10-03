@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-07-19",
+      1,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-07-20",
+      0,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-07-21",
+      0,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-07-22",
+      0,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-07-23",
+      0,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-07-24",
+      0,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-07-25",
+      0,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-07-26",
+      7,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-07-27",
+      5,
+      420,
+      2306,
+      "McLees",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2306,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 9,
+    "totalCount": 13,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.343676"
+  }
+}

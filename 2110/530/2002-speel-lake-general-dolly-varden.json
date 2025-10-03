@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "2002-07-23",
+      11,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "530",
+    "year": "2002",
+    "totalRecords": 1,
+    "totalCount": 11,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.433650"
+  }
+}

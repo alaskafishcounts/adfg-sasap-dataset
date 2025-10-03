@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "1981-06-14",
+      2,
+      460,
+      2003,
+      "Litnik",
+      "Steelhead Down"
+    ],
+    [
+      1981,
+      "1981-06-15",
+      0,
+      460,
+      2003,
+      "Litnik",
+      "Steelhead Down"
+    ],
+    [
+      1981,
+      "1981-06-16",
+      1,
+      460,
+      2003,
+      "Litnik",
+      "Steelhead Down"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "460",
+    "year": "1981",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:47.575595"
+  }
+}

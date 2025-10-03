@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-08-04",
+      1,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      2009,
+      "2009-08-05",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      2009,
+      "2009-08-06",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "470",
+    "year": "2009",
+    "totalRecords": 3,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:47.057817"
+  }
+}

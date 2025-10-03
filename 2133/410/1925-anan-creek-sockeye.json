@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1925,
+      "1925-07-25",
+      6,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1925,
+      "1925-08-22",
+      9,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1925,
+      "1925-09-05",
+      43,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1925,
+      "1925-09-07",
+      17,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2133,
+    "species_id": "410",
+    "year": "1925",
+    "totalRecords": 4,
+    "totalCount": 75,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.293140"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "2001-08-20",
+      6,
+      420,
+      2159,
+      "Mill Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-08-22",
+      2,
+      420,
+      2159,
+      "Mill Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-08-23",
+      2,
+      420,
+      2159,
+      "Mill Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2159,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 3,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.388511"
+  }
+}

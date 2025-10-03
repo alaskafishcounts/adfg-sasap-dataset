@@ -1,0 +1,904 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "2013-06-15",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-16",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-17",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-18",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-19",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-20",
+      1,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-21",
+      6,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-22",
+      6,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-23",
+      4,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-24",
+      18,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-25",
+      23,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-26",
+      47,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-27",
+      144,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-28",
+      62,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-29",
+      283,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-06-30",
+      122,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-01",
+      165,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-02",
+      269,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-03",
+      322,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-04",
+      544,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-05",
+      802,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-06",
+      856,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-07",
+      563,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-08",
+      567,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-09",
+      617,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-10",
+      696,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-11",
+      1311,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-12",
+      1676,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-13",
+      1759,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-14",
+      1779,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-15",
+      1183,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-16",
+      1642,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-17",
+      2807,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-18",
+      2777,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-19",
+      2065,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-20",
+      1167,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-21",
+      736,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-22",
+      802,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-23",
+      615,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-24",
+      547,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-25",
+      541,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-26",
+      500,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-27",
+      982,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-28",
+      657,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-29",
+      530,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-30",
+      276,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-07-31",
+      318,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-01",
+      237,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-02",
+      144,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-03",
+      127,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-04",
+      166,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-05",
+      103,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-06",
+      39,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-07",
+      52,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-08",
+      59,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-09",
+      57,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-10",
+      97,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-11",
+      55,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-12",
+      64,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-13",
+      29,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-14",
+      42,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-15",
+      24,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-16",
+      32,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-17",
+      27,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-18",
+      37,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-19",
+      20,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-20",
+      17,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-21",
+      18,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-22",
+      3,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-23",
+      1,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-24",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-25",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-26",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-27",
+      2,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-28",
+      4,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-29",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-30",
+      1,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-08-31",
+      2,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-01",
+      2,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-02",
+      1,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-03",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-04",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-05",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-06",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-07",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-08",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-09",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-10",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-11",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-12",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-13",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-14",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-15",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-16",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-17",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-18",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-19",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2013,
+      "2013-09-20",
+      0,
+      450,
+      2203,
+      "Tatlawiksuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2203,
+    "species_id": "450",
+    "year": "2013",
+    "totalRecords": 98,
+    "totalCount": 32249,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.089292"
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-06-06",
+      2,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-07",
+      2,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-08",
+      6,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-09",
+      7,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-10",
+      8,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-11",
+      5,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-12",
+      13,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-13",
+      23,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-14",
+      12,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-15",
+      12,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-16",
+      584,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-17",
+      26,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-18",
+      19,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-19",
+      7,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-20",
+      2,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-21",
+      11,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-22",
+      7,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-23",
+      70,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-24",
+      1019,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-25",
+      2790,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-26",
+      441,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-27",
+      423,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-28",
+      777,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-29",
+      399,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-06-30",
+      112,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-01",
+      56,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-02",
+      23,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-03",
+      43,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-04",
+      30,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-05",
+      16,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-06",
+      191,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-07",
+      78,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-08",
+      37,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-09",
+      170,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-10",
+      327,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-11",
+      44,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-12",
+      10,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-13",
+      28,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-14",
+      34,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-15",
+      31,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-16",
+      26,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-17",
+      13,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-18",
+      10,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-19",
+      301,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-20",
+      64,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-21",
+      12,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-22",
+      19,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-23",
+      15,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-24",
+      16,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-25",
+      19,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-26",
+      7,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-27",
+      11,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-28",
+      20,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-29",
+      25,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-30",
+      30,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-31",
+      28,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-01",
+      1,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-02",
+      21,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-03",
+      8,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-04",
+      9,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-05",
+      4,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-07",
+      5,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-08",
+      16,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-09",
+      7,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-11",
+      3,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-12",
+      4,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-13",
+      1,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-16",
+      3,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-18",
+      2,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-19",
+      2,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-25",
+      1,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-28",
+      1,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-29",
+      7,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-08-30",
+      6,
+      410,
+      2145,
+      "Hatchery Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2145,
+    "species_id": "410",
+    "year": "2012",
+    "totalRecords": 74,
+    "totalCount": 8612,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.762636"
+  }
+}

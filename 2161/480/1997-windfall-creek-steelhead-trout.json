@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "1997-06-01",
+      3,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-02",
+      1,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-04",
+      3,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-05",
+      4,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-06",
+      6,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-07",
+      2,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-08",
+      4,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-09",
+      4,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-10",
+      1,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-11",
+      2,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-13",
+      5,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-14",
+      36,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-06-15",
+      4,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ],
+    [
+      1997,
+      "1997-08-06",
+      0,
+      480,
+      2161,
+      "Windfall Creek",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2161,
+    "species_id": "480",
+    "year": "1997",
+    "totalRecords": 14,
+    "totalCount": 75,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.422315"
+  }
+}

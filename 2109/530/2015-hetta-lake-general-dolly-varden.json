@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-07-31",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-08-03",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-08-13",
+      2,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-08-31",
+      6,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "530",
+    "year": "2015",
+    "totalRecords": 4,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.924067"
+  }
+}

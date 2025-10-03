@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-07-29",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "480",
+    "year": "2012",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.189040"
+  }
+}

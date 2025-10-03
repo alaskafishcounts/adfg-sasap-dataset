@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1976,
+      "1976-10-13",
+      5,
+      530,
+      2106,
+      "Chilkat Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "530",
+    "year": "1976",
+    "totalRecords": 1,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.247678"
+  }
+}

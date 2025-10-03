@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-08-12",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-13",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-14",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-18",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-19",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-23",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-25",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-28",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-08-31",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-09-04",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-09-06",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2015,
+      "2015-09-12",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "450",
+    "year": "2015",
+    "totalRecords": 12,
+    "totalCount": 16,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.492275"
+  }
+}

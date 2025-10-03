@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-05-11",
+      6,
+      430,
+      2149,
+      "Ratz Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2149,
+    "species_id": "430",
+    "year": "2011",
+    "totalRecords": 1,
+    "totalCount": 6,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.335512"
+  }
+}

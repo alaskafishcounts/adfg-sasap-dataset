@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-06-07",
+      5443,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-08",
+      5951,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-09",
+      3353,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-10",
+      6290,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-11",
+      14818,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-12",
+      9672,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-13",
+      13220,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-14",
+      18192,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-15",
+      5189,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-16",
+      7587,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-17",
+      4733,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-18",
+      11034,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-19",
+      17227,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-20",
+      11351,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-21",
+      944,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-22",
+      1727,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-23",
+      5838,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-24",
+      4986,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-25",
+      3349,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-26",
+      11242,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-27",
+      13971,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-28",
+      1420,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-29",
+      4480,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-06-30",
+      4054,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-01",
+      1173,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-02",
+      2964,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-03",
+      747,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-04",
+      3033,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-05",
+      1549,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-06",
+      2004,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-07",
+      1134,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-08",
+      1365,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-09",
+      1499,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-10",
+      1419,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-11",
+      1062,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-12",
+      1065,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-13",
+      258,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-14",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-15",
+      839,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-16",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-17",
+      239,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-18",
+      1375,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-19",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-20",
+      835,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-21",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-22",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-23",
+      216,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-24",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-25",
+      292,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-26",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-27",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-28",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-29",
+      1602,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-30",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-31",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-01",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-02",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-03",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-04",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-05",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-06",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-07",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-08",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-09",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-10",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-11",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 66,
+    "totalCount": 210741,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.711770"
+  }
+}

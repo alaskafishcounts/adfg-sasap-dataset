@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "1986-08-23",
+      1,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-08-24",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-08-25",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-08-26",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-08-27",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-08-28",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-08-29",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-08-30",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-08-31",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-09-01",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-09-02",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ],
+    [
+      1986,
+      "1986-09-03",
+      0,
+      450,
+      2014,
+      "Little Waterfall",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2014,
+    "species_id": "450",
+    "year": "1986",
+    "totalRecords": 12,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.774328"
+  }
+}

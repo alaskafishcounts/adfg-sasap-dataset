@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-06-27",
+      0,
+      420,
+      2302,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-08",
+      1,
+      420,
+      2302,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-09",
+      4,
+      420,
+      2302,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-10",
+      0,
+      420,
+      2302,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-11",
+      3,
+      420,
+      2302,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-12",
+      2,
+      420,
+      2302,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-13",
+      0,
+      420,
+      2302,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-14",
+      0,
+      420,
+      2302,
+      "Ilnik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2302,
+    "species_id": "420",
+    "year": "2016",
+    "totalRecords": 8,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.633792"
+  }
+}

@@ -1,0 +1,994 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "1998-06-15",
+      15000,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-16",
+      9000,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-17",
+      14573,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-18",
+      2871,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-19",
+      1152,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-20",
+      3053,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-21",
+      2384,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-22",
+      1005,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-23",
+      360,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-24",
+      2249,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-25",
+      11072,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-26",
+      2878,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-27",
+      14481,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-28",
+      15139,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-29",
+      7505,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-06-30",
+      1299,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-01",
+      2216,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-02",
+      2071,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-03",
+      9643,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-04",
+      5147,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-05",
+      13187,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-06",
+      4653,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-07",
+      2235,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-08",
+      2340,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-09",
+      88,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-10",
+      3038,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-11",
+      4668,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-12",
+      3052,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-13",
+      4440,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-14",
+      17698,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-15",
+      2418,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-16",
+      849,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-17",
+      5225,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-18",
+      2471,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-19",
+      6634,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-20",
+      10076,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-21",
+      4358,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-22",
+      1868,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-23",
+      436,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-24",
+      110,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-25",
+      2719,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-26",
+      1172,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-27",
+      1789,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-28",
+      2742,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-29",
+      5200,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-30",
+      72,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-31",
+      2193,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-01",
+      3203,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-02",
+      2060,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-03",
+      2421,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-04",
+      1261,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-05",
+      1060,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-06",
+      472,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-07",
+      781,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-08",
+      244,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-09",
+      806,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-10",
+      346,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-11",
+      178,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-12",
+      636,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-13",
+      348,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-14",
+      605,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-15",
+      324,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-16",
+      203,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-17",
+      127,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-18",
+      132,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-19",
+      41,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-20",
+      210,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-21",
+      75,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-22",
+      90,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-23",
+      103,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-24",
+      82,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-25",
+      123,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-26",
+      33,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-27",
+      600,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-28",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-29",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-30",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-31",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-01",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-02",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-03",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-04",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-05",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-06",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-07",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-08",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-09",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-10",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-11",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-12",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-13",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-14",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-15",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-16",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-17",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-18",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-19",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-20",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-21",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-22",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-23",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-24",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-25",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-26",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-27",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-28",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-29",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-09-30",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "410",
+    "year": "1998",
+    "totalRecords": 108,
+    "totalCount": 245393,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.102341"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "2001-08-04",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-08-05",
+      5,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-08-06",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-08-07",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "450",
+    "year": "2001",
+    "totalRecords": 4,
+    "totalCount": 9,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.190979"
+  }
+}

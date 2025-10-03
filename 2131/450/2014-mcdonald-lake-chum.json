@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-07-13",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      2014,
+      "2014-07-20",
+      4,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      2014,
+      "2014-07-23",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      2014,
+      "2014-07-28",
+      10,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "450",
+    "year": "2014",
+    "totalRecords": 4,
+    "totalCount": 17,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.868285"
+  }
+}

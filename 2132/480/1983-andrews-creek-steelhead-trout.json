@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "1983-07-26",
+      1,
+      480,
+      2132,
+      "Andrews Creek",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "1983-08-19",
+      1,
+      480,
+      2132,
+      "Andrews Creek",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2132,
+    "species_id": "480",
+    "year": "1983",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.475480"
+  }
+}

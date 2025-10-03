@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "2008-08-03",
+      2,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "2008-08-13",
+      1,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "2008-08-15",
+      1,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "2008-08-24",
+      7,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "2008-08-25",
+      13,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "2008-08-28",
+      13,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "2008-08-30",
+      2,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "2008-09-01",
+      1,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "2008-09-02",
+      1,
+      440,
+      2115,
+      "Neva Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2115,
+    "species_id": "440",
+    "year": "2008",
+    "totalRecords": 9,
+    "totalCount": 41,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.536767"
+  }
+}

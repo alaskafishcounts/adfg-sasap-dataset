@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "1984-08-21",
+      4,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-08-27",
+      1,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-08-29",
+      4,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-08-30",
+      4,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-03",
+      10,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-04",
+      12,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-05",
+      11,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-06",
+      16,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-07",
+      22,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-08",
+      6,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-09",
+      50,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-10",
+      41,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-11",
+      48,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-12",
+      48,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-13",
+      30,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-14",
+      4,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ],
+    [
+      1984,
+      "1984-09-15",
+      10,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "440",
+    "year": "1984",
+    "totalRecords": 17,
+    "totalCount": 321,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.888885"
+  }
+}

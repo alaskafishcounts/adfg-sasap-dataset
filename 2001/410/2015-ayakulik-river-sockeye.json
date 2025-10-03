@@ -1,0 +1,868 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-05-23",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-05-24",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-05-25",
+      405,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-05-26",
+      54,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-05-27",
+      42,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-05-28",
+      767,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-05-29",
+      1204,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-05-30",
+      3949,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-05-31",
+      4482,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-01",
+      2669,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-02",
+      5199,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-03",
+      4152,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-04",
+      2562,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-05",
+      796,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-06",
+      10887,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-07",
+      5595,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-08",
+      278,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-09",
+      1821,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-10",
+      480,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-11",
+      1150,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-12",
+      1111,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-13",
+      37582,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-14",
+      7935,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-15",
+      8882,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-16",
+      4908,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-17",
+      949,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-18",
+      3180,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-19",
+      2049,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-20",
+      2908,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-21",
+      933,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-22",
+      4510,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-23",
+      4576,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-24",
+      10726,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-25",
+      2630,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-26",
+      9596,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-27",
+      7818,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-28",
+      1801,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-29",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-06-30",
+      31,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-01",
+      286,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-02",
+      2581,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-03",
+      3836,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-04",
+      5848,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-05",
+      3212,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-06",
+      2921,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-07",
+      956,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-08",
+      5567,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-09",
+      7437,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-10",
+      6401,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-11",
+      5851,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-12",
+      2002,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-13",
+      6259,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-14",
+      6185,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-15",
+      219,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-16",
+      495,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-17",
+      2987,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-18",
+      885,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-19",
+      2894,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-20",
+      436,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-21",
+      2160,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-22",
+      264,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-23",
+      451,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-24",
+      400,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-25",
+      4743,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-26",
+      4310,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-27",
+      3099,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-28",
+      5859,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-29",
+      3693,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-30",
+      4201,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-07-31",
+      1495,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-01",
+      1181,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-02",
+      2341,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-03",
+      5399,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-04",
+      1425,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-05",
+      3434,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-06",
+      2478,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-07",
+      1542,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-08",
+      611,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-09",
+      3240,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-10",
+      2368,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-11",
+      6136,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-12",
+      3422,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-13",
+      4126,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-14",
+      5424,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-15",
+      4595,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-16",
+      1032,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-17",
+      2000,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-18",
+      500,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-19",
+      200,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-20",
+      1649,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-21",
+      3974,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-22",
+      6276,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-23",
+      5312,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "2015-08-24",
+      1220,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "2015",
+    "totalRecords": 94,
+    "totalCount": 326435,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.052658"
+  }
+}

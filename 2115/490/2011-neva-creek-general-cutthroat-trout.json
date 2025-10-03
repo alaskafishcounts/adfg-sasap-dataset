@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-06-24",
+      3,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-06-28",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-07-04",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-08-03",
+      5,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-08-04",
+      10,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-08-13",
+      2,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-08-28",
+      4,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-08-29",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-08-30",
+      5,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-08-31",
+      3,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-09-01",
+      4,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-09-02",
+      8,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-09-03",
+      5,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-09-04",
+      33,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-09-05",
+      2,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-09-06",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2011,
+      "2011-09-12",
+      1,
+      490,
+      2115,
+      "Neva Creek",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2115,
+    "species_id": "490",
+    "year": "2011",
+    "totalRecords": 17,
+    "totalCount": 89,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.541768"
+  }
+}

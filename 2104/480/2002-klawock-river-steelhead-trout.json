@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "2002-11-01",
+      1,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ],
+    [
+      2002,
+      "2002-11-14",
+      1,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "480",
+    "year": "2002",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.658943"
+  }
+}

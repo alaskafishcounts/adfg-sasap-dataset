@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "2008-06-03",
+      1,
+      480,
+      2109,
+      "Hetta Lake",
+      "Steelhead trout"
+    ],
+    [
+      2008,
+      "2008-06-05",
+      1,
+      480,
+      2109,
+      "Hetta Lake",
+      "Steelhead trout"
+    ],
+    [
+      2008,
+      "2008-06-06",
+      1,
+      480,
+      2109,
+      "Hetta Lake",
+      "Steelhead trout"
+    ],
+    [
+      2008,
+      "2008-09-11",
+      1,
+      480,
+      2109,
+      "Hetta Lake",
+      "Steelhead trout"
+    ],
+    [
+      2008,
+      "2008-09-12",
+      6,
+      480,
+      2109,
+      "Hetta Lake",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "480",
+    "year": "2008",
+    "totalRecords": 5,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.944232"
+  }
+}

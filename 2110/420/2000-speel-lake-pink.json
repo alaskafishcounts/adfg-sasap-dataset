@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "2000-08-08",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-15",
+      10,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-20",
+      14,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-21",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-22",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-23",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-24",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-26",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-28",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-08-30",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2000,
+      "2000-09-01",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "420",
+    "year": "2000",
+    "totalRecords": 11,
+    "totalCount": 42,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.479602"
+  }
+}

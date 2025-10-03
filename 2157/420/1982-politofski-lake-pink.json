@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-08-24",
+      1,
+      420,
+      2157,
+      "Politofski Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-26",
+      2,
+      420,
+      2157,
+      "Politofski Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-28",
+      1,
+      420,
+      2157,
+      "Politofski Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-08-29",
+      2,
+      420,
+      2157,
+      "Politofski Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-09-02",
+      1,
+      420,
+      2157,
+      "Politofski Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-09-03",
+      2,
+      420,
+      2157,
+      "Politofski Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-09-04",
+      1,
+      420,
+      2157,
+      "Politofski Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "1982-09-06",
+      1,
+      420,
+      2157,
+      "Politofski Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2157,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 8,
+    "totalCount": 11,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.357515"
+  }
+}

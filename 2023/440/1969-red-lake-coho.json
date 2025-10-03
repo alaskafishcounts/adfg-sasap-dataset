@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1969,
+      "1969-08-25",
+      2,
+      440,
+      2023,
+      "Red Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2023,
+    "species_id": "440",
+    "year": "1969",
+    "totalRecords": 1,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.780215"
+  }
+}

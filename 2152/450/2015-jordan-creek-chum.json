@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-06-23",
+      12,
+      450,
+      2152,
+      "Jordan Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2152,
+    "species_id": "450",
+    "year": "2015",
+    "totalRecords": 1,
+    "totalCount": 12,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.810580"
+  }
+}

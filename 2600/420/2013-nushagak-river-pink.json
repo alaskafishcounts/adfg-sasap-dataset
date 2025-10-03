@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "2013-07-23",
+      2480,
+      420,
+      2600,
+      "Nushagak River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2600,
+    "species_id": "420",
+    "year": "2013",
+    "totalRecords": 1,
+    "totalCount": 2480,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.615437"
+  }
+}

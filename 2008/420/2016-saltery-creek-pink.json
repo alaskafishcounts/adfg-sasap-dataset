@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-07-16",
+      2,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-17",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-18",
+      22,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-19",
+      59,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-20",
+      360,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-21",
+      294,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-22",
+      220,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-23",
+      39,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-24",
+      225,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-25",
+      82,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-26",
+      133,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-27",
+      102,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-28",
+      100,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-29",
+      173,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-30",
+      65,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-07-31",
+      159,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-01",
+      65,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-02",
+      33,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2008,
+    "species_id": "420",
+    "year": "2016",
+    "totalRecords": 18,
+    "totalCount": 2133,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.900498"
+  }
+}

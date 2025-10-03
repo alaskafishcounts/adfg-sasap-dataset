@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1963,
+      "1963-08-21",
+      57,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-22",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-23",
+      8,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-24",
+      25,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-25",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-26",
+      21,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-27",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-28",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-29",
+      51,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-30",
+      28,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-08-31",
+      131,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-01",
+      29,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-02",
+      12,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-03",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-04",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-05",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-06",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-07",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-08",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1963,
+      "1963-09-09",
+      6,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "440",
+    "year": "1963",
+    "totalRecords": 20,
+    "totalCount": 368,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.877828"
+  }
+}

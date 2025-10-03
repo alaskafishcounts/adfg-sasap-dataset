@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-07-04",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-05",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-06",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-07",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-08",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-09",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-10",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-11",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-12",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-13",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-14",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-15",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-16",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-17",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-18",
+      2,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-19",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-20",
+      2,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-22",
+      2,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-23",
+      2,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-24",
+      2,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-07-31",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-08-02",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-08-03",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-08-04",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-08-15",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-09-05",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-09-06",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-09-07",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      2015,
+      "2015-09-08",
+      0,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "430",
+    "year": "2015",
+    "totalRecords": 29,
+    "totalCount": 22,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.922962"
+  }
+}

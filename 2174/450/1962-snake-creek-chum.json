@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1962,
+      "1962-07-08",
+      4,
+      450,
+      2174,
+      "Snake Creek",
+      "Chum"
+    ],
+    [
+      1962,
+      "1962-07-09",
+      8,
+      450,
+      2174,
+      "Snake Creek",
+      "Chum"
+    ],
+    [
+      1962,
+      "1962-07-16",
+      4,
+      450,
+      2174,
+      "Snake Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2174,
+    "species_id": "450",
+    "year": "1962",
+    "totalRecords": 3,
+    "totalCount": 16,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.758260"
+  }
+}

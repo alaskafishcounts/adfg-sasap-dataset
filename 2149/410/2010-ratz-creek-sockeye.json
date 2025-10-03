@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-06-07",
+      2,
+      410,
+      2149,
+      "Ratz Creek",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-06-10",
+      1,
+      410,
+      2149,
+      "Ratz Creek",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-06-13",
+      1,
+      410,
+      2149,
+      "Ratz Creek",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "2010-06-14",
+      2,
+      410,
+      2149,
+      "Ratz Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2149,
+    "species_id": "410",
+    "year": "2010",
+    "totalRecords": 4,
+    "totalCount": 6,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.337881"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1970,
+      "1970-07-16",
+      1,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-07-18",
+      1,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-08-12",
+      4,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-08-13",
+      5,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-08-14",
+      1,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-08-18",
+      4,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-08-20",
+      5,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-08-27",
+      15,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-08-30",
+      3,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-08-31",
+      4,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-09-02",
+      104,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1970,
+      "1970-09-03",
+      24,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "440",
+    "year": "1970",
+    "totalRecords": 12,
+    "totalCount": 171,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.920044"
+  }
+}

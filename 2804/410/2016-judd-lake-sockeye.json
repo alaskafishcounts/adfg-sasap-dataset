@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-07-19",
+      0,
+      410,
+      2804,
+      "Judd Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2804,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.455344"
+  }
+}

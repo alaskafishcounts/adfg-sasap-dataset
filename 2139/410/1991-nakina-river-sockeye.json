@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "1991-08-03",
+      3,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-08",
+      7,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-10",
+      3,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-12",
+      3,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-14",
+      25,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-15",
+      26,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-16",
+      12,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-17",
+      28,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-18",
+      20,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-19",
+      10,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-20",
+      59,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-21",
+      45,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-22",
+      81,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-23",
+      57,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-24",
+      107,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-25",
+      47,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "1991-08-26",
+      24,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2139,
+    "species_id": "410",
+    "year": "1991",
+    "totalRecords": 17,
+    "totalCount": 557,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.299107"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-08-26",
+      1,
+      450,
+      2152,
+      "Jordan Creek",
+      "Chum"
+    ],
+    [
+      2005,
+      "2005-08-27",
+      2,
+      450,
+      2152,
+      "Jordan Creek",
+      "Chum"
+    ],
+    [
+      2005,
+      "2005-09-07",
+      3,
+      450,
+      2152,
+      "Jordan Creek",
+      "Chum"
+    ],
+    [
+      2005,
+      "2005-09-08",
+      1,
+      450,
+      2152,
+      "Jordan Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2152,
+    "species_id": "450",
+    "year": "2005",
+    "totalRecords": 4,
+    "totalCount": 7,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.811007"
+  }
+}

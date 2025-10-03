@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-04-29",
+      105,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-04-30",
+      59,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-01",
+      76,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-02",
+      72,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-03",
+      143,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-04",
+      119,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-05",
+      142,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-06",
+      38,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-07",
+      62,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-08",
+      99,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-09",
+      113,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-10",
+      307,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-11",
+      555,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-12",
+      973,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-13",
+      1200,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-14",
+      512,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-15",
+      623,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-16",
+      862,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-17",
+      465,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-18",
+      644,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-19",
+      1034,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-20",
+      567,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-21",
+      743,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-22",
+      671,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-23",
+      250,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-24",
+      155,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-25",
+      238,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-26",
+      265,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-27",
+      295,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-28",
+      111,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-29",
+      202,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-30",
+      106,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-05-31",
+      43,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-01",
+      160,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-02",
+      85,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-03",
+      140,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-04",
+      73,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-05",
+      138,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-06",
+      77,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-07",
+      49,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-09",
+      10,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-11",
+      8,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-12",
+      6,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-13",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-14",
+      25,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-15",
+      18,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-16",
+      16,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-17",
+      19,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-18",
+      81,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-19",
+      26,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-20",
+      20,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-21",
+      9,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-22",
+      31,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-23",
+      20,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-24",
+      6,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-25",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-26",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-27",
+      13,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-28",
+      27,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-29",
+      23,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-06-30",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-07-01",
+      20,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-07-02",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-07-03",
+      22,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-07-07",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-07-10",
+      17,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-07-14",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "2005-07-17",
+      32,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "480",
+    "year": "2005",
+    "totalRecords": 68,
+    "totalCount": 13030,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.185403"
+  }
+}

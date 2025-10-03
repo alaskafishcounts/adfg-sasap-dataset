@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "1998-07-15",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-23",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-26",
+      3,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-27",
+      2,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-07-28",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-07",
+      8,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-08",
+      15,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-09",
+      6,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-10",
+      5,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "1998-08-11",
+      3,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2132,
+    "species_id": "410",
+    "year": "1998",
+    "totalRecords": 10,
+    "totalCount": 45,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.460420"
+  }
+}

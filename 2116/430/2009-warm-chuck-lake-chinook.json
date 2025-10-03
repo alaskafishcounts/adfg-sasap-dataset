@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-09-03",
+      31,
+      430,
+      2116,
+      "Warm Chuck Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "430",
+    "year": "2009",
+    "totalRecords": 1,
+    "totalCount": 31,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.600199"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "1987-07-07",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-08-07",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-08-20",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-08-21",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-08-25",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-08-27",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-08-28",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-08-31",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-01",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-02",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-04",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-07",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-10",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-11",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-12",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-13",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-14",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1987,
+      "1987-09-16",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "530",
+    "year": "1987",
+    "totalRecords": 18,
+    "totalCount": 26,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.367041"
+  }
+}

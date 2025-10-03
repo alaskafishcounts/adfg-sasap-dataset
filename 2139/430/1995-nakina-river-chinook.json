@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-07-30",
+      21,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-03",
+      4,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-04",
+      16,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-05",
+      15,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-06",
+      15,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-10",
+      40,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-11",
+      39,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-13",
+      8,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-14",
+      2,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-17",
+      2,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-18",
+      2,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-19",
+      3,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2139,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 12,
+    "totalCount": 167,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.295923"
+  }
+}

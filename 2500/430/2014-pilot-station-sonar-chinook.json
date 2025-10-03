@@ -1,0 +1,805 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-06-03",
+      138,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-04",
+      163,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-05",
+      3072,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-06",
+      2677,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-07",
+      550,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-08",
+      6017,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-09",
+      10454,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-10",
+      9367,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-11",
+      4143,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-12",
+      3133,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-13",
+      2722,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-14",
+      2800,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-15",
+      8322,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-16",
+      5753,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-17",
+      7727,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-18",
+      10877,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-19",
+      9067,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-20",
+      9248,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-21",
+      5103,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-22",
+      9223,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-23",
+      6956,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-24",
+      9870,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-25",
+      2281,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-26",
+      5684,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-27",
+      5995,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-28",
+      2073,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-29",
+      2686,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-06-30",
+      2525,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-01",
+      2531,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-02",
+      2191,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-03",
+      1321,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-04",
+      1018,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-05",
+      586,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-06",
+      621,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-07",
+      667,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-08",
+      1031,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-09",
+      1675,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-10",
+      1147,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-11",
+      144,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-12",
+      244,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-13",
+      269,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-14",
+      378,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-15",
+      130,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-16",
+      77,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-17",
+      168,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-18",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-19",
+      103,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-20",
+      103,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-21",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-22",
+      409,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-23",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-24",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-25",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-26",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-27",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-28",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-29",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-30",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-07-31",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-01",
+      185,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-02",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-03",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-04",
+      271,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-05",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-06",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-07",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-08",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-09",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-10",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-11",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-12",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-13",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-14",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-15",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-16",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-17",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-18",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-19",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-20",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-21",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-22",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-23",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-24",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-25",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-26",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-27",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2014,
+      "2014-08-28",
+      0,
+      430,
+      2500,
+      "Pilot Station Sonar",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 87,
+    "totalCount": 163895,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.705838"
+  }
+}

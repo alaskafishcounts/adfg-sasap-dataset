@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "1987-09-01",
+      4,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1987,
+      "1987-09-06",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1987,
+      "1987-09-10",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1987,
+      "1987-09-16",
+      3,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "440",
+    "year": "1987",
+    "totalRecords": 4,
+    "totalCount": 9,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.639537"
+  }
+}

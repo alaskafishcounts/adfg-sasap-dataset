@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-07-19",
+      13121,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-20",
+      19355,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-21",
+      14810,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-22",
+      10421,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-23",
+      5393,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-24",
+      4236,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-25",
+      4437,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-26",
+      4476,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-27",
+      8243,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-28",
+      12759,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-29",
+      12395,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-30",
+      16405,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-07-31",
+      20568,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-01",
+      64647,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-02",
+      90970,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-03",
+      58326,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-04",
+      20710,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-05",
+      13890,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-06",
+      8060,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-07",
+      11368,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-08",
+      56795,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-09",
+      24330,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-10",
+      16361,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-11",
+      13079,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-12",
+      15859,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-13",
+      5798,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-14",
+      4115,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-15",
+      7436,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-16",
+      19559,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-17",
+      15777,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-18",
+      40836,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-19",
+      13167,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-20",
+      3298,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-21",
+      897,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-22",
+      25256,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-23",
+      48092,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-24",
+      55442,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-25",
+      21223,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-26",
+      7323,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-27",
+      3792,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-28",
+      4044,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-29",
+      3473,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-30",
+      1719,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-08-31",
+      4613,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-09-01",
+      4020,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-09-02",
+      15177,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-09-03",
+      15880,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-09-04",
+      5230,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-09-05",
+      2729,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-09-06",
+      2999,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ],
+    [
+      2011,
+      "2011-09-07",
+      968,
+      450,
+      2500,
+      "Pilot Station Sonar",
+      "Chum - Fall"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 51,
+    "totalCount": 873877,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.765916"
+  }
+}

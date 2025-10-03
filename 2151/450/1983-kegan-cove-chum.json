@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "1983-09-01",
+      3,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-02",
+      9,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-03",
+      2,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-04",
+      2,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-05",
+      1,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-06",
+      6,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-07",
+      4,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-09",
+      1,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-10",
+      3,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-09-11",
+      2,
+      450,
+      2151,
+      "Kegan Cove",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2151,
+    "species_id": "450",
+    "year": "1983",
+    "totalRecords": 10,
+    "totalCount": 33,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.855399"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-08-26",
+      1,
+      450,
+      2157,
+      "Politofski Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-02",
+      1,
+      450,
+      2157,
+      "Politofski Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-09",
+      1,
+      450,
+      2157,
+      "Politofski Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-26",
+      2,
+      450,
+      2157,
+      "Politofski Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2157,
+    "species_id": "450",
+    "year": "1982",
+    "totalRecords": 4,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.358260"
+  }
+}

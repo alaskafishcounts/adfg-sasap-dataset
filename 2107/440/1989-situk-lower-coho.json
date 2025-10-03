@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "1989-08-03",
+      8,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-04",
+      1,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-06",
+      9,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-08",
+      12,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-09",
+      2,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-10",
+      5,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-11",
+      3,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-13",
+      21,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-14",
+      17,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-15",
+      6,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      1989,
+      "1989-08-16",
+      28,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "440",
+    "year": "1989",
+    "totalRecords": 11,
+    "totalCount": 112,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.085092"
+  }
+}

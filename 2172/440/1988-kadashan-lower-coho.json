@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-08-22",
+      1,
+      440,
+      2172,
+      "Kadashan Lower",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-08-23",
+      1,
+      440,
+      2172,
+      "Kadashan Lower",
+      "Coho"
+    ],
+    [
+      1988,
+      "1988-08-24",
+      1,
+      440,
+      2172,
+      "Kadashan Lower",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2172,
+    "species_id": "440",
+    "year": "1988",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.575998"
+  }
+}

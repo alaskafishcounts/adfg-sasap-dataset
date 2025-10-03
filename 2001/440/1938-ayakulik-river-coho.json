@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1938,
+      "1938-08-10",
+      122,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-11",
+      97,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-12",
+      64,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-13",
+      78,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-14",
+      151,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-15",
+      103,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-16",
+      155,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-17",
+      165,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-18",
+      68,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-19",
+      126,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-20",
+      168,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-21",
+      139,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-22",
+      380,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-23",
+      150,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1938,
+      "1938-08-24",
+      203,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "440",
+    "year": "1938",
+    "totalRecords": 15,
+    "totalCount": 2169,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.986832"
+  }
+}

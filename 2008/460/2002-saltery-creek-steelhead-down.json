@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "2002-07-18",
+      8,
+      460,
+      2008,
+      "Saltery Creek",
+      "Steelhead Down"
+    ],
+    [
+      2002,
+      "2002-07-19",
+      0,
+      460,
+      2008,
+      "Saltery Creek",
+      "Steelhead Down"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2008,
+    "species_id": "460",
+    "year": "2002",
+    "totalRecords": 2,
+    "totalCount": 8,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.914870"
+  }
+}

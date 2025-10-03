@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1931,
+      "1931-08-24",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-08-25",
+      1,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-08-26",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-08-27",
+      1,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-08-28",
+      4,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-08-29",
+      2,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-08-30",
+      6,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-08-31",
+      4,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-09-01",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-09-02",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-09-03",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-09-04",
+      2,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "1931-09-05",
+      2,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2019,
+    "species_id": "450",
+    "year": "1931",
+    "totalRecords": 13,
+    "totalCount": 31,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.185568"
+  }
+}

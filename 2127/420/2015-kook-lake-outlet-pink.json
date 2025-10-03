@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-07-21",
+      3,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-02",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-13",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-18",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-19",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-22",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-23",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-24",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-26",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-27",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-31",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-04",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-05",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-06",
+      4,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-07",
+      3,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-08",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-09",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 17,
+    "totalCount": 29,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.724452"
+  }
+}

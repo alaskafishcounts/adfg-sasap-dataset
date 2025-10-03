@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "1983-08-09",
+      1,
+      450,
+      2120,
+      "Falls Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-08-11",
+      2,
+      450,
+      2120,
+      "Falls Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-08-27",
+      1,
+      450,
+      2120,
+      "Falls Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "1983-08-28",
+      1,
+      450,
+      2120,
+      "Falls Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "450",
+    "year": "1983",
+    "totalRecords": 4,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.754160"
+  }
+}

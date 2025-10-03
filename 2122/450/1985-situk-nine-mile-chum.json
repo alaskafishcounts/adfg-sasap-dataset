@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "1985-08-02",
+      1,
+      450,
+      2122,
+      "Situk Nine Mile",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2122,
+    "species_id": "450",
+    "year": "1985",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.379761"
+  }
+}

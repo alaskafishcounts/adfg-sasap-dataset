@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "2001-08-03",
+      1,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      2001,
+      "2001-08-04",
+      1,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      2001,
+      "2001-08-05",
+      14,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      2001,
+      "2001-08-06",
+      3,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ],
+    [
+      2001,
+      "2001-08-08",
+      2,
+      440,
+      2107,
+      "Situk Lower",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "440",
+    "year": "2001",
+    "totalRecords": 5,
+    "totalCount": 21,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.084827"
+  }
+}

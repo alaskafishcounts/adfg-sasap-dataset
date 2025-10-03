@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1962,
+      "1962-08-23",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-08-24",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-07",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-08",
+      24,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-09",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-10",
+      7,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-12",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-13",
+      21,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-14",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-15",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-19",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-22",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-23",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-26",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1962,
+      "1962-09-29",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "440",
+    "year": "1962",
+    "totalRecords": 15,
+    "totalCount": 67,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.641507"
+  }
+}

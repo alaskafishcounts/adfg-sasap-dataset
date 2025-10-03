@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-09-02",
+      1,
+      480,
+      2108,
+      "Ford Arm",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "480",
+    "year": "2010",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.546139"
+  }
+}

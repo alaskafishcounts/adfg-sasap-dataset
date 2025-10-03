@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1949,
+      "1949-08-23",
+      3,
+      440,
+      2000,
+      "Karluk",
+      "Coho"
+    ],
+    [
+      1949,
+      "1949-08-24",
+      0,
+      440,
+      2000,
+      "Karluk",
+      "Coho"
+    ],
+    [
+      1949,
+      "1949-08-25",
+      3,
+      440,
+      2000,
+      "Karluk",
+      "Coho"
+    ],
+    [
+      1949,
+      "1949-08-26",
+      3,
+      440,
+      2000,
+      "Karluk",
+      "Coho"
+    ],
+    [
+      1949,
+      "1949-08-27",
+      5,
+      440,
+      2000,
+      "Karluk",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "440",
+    "year": "1949",
+    "totalRecords": 5,
+    "totalCount": 14,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.655809"
+  }
+}

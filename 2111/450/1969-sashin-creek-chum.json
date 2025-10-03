@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1969,
+      "1969-08-25",
+      893,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "450",
+    "year": "1969",
+    "totalRecords": 1,
+    "totalCount": 893,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.684404"
+  }
+}

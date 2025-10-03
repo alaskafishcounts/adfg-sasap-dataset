@@ -1,0 +1,589 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "1994-07-15",
+      7,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-16",
+      13,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-17",
+      121,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-18",
+      134,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-19",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-20",
+      4,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-21",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-22",
+      7,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-23",
+      5,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-24",
+      4,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-25",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-26",
+      38,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-27",
+      3,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-28",
+      4,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-29",
+      171,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-30",
+      51,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-07-31",
+      201,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-01",
+      714,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-02",
+      162,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-03",
+      72,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-04",
+      1548,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-05",
+      708,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-06",
+      139,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-07",
+      392,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-08",
+      331,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-09",
+      2264,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-10",
+      2301,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-11",
+      3304,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-12",
+      595,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-13",
+      306,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-14",
+      11,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-15",
+      887,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-16",
+      168,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-17",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-18",
+      223,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-19",
+      839,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-20",
+      260,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-21",
+      444,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-22",
+      1058,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-23",
+      569,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-24",
+      498,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-25",
+      188,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-26",
+      627,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-27",
+      79,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-28",
+      1550,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-29",
+      1500,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-30",
+      1500,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-08-31",
+      1000,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-01",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-02",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-03",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-04",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-05",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-06",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-07",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-08",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-09",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-10",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-11",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-12",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-13",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-14",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "1994-09-15",
+      0,
+      410,
+      2309,
+      "Thin Point Cove",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2309,
+    "species_id": "410",
+    "year": "1994",
+    "totalRecords": 63,
+    "totalCount": 25000,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.814804"
+  }
+}

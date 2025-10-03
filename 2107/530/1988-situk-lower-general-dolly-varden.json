@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-07-05",
+      1,
+      530,
+      2107,
+      "Situk Lower",
+      "General dolly varden"
+    ],
+    [
+      1988,
+      "1988-07-17",
+      2,
+      530,
+      2107,
+      "Situk Lower",
+      "General dolly varden"
+    ],
+    [
+      1988,
+      "1988-07-29",
+      2,
+      530,
+      2107,
+      "Situk Lower",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "530",
+    "year": "1988",
+    "totalRecords": 3,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.100733"
+  }
+}

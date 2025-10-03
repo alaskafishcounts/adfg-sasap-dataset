@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "2006-07-20",
+      310,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-21",
+      0,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-22",
+      285,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-23",
+      328,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-24",
+      0,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-25",
+      522,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-26",
+      146,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-27",
+      578,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-28",
+      227,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-29",
+      1009,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-30",
+      1695,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-07-31",
+      2680,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-01",
+      1718,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-02",
+      1463,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-03",
+      5769,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-04",
+      1753,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-05",
+      1675,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-06",
+      3236,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-07",
+      2650,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-08",
+      3726,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-09",
+      4379,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-10",
+      2920,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-11",
+      1852,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-12",
+      3487,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-13",
+      3661,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-14",
+      1980,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-15",
+      2856,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-16",
+      3470,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-17",
+      5805,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-18",
+      8036,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-19",
+      9192,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-20",
+      7575,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-21",
+      8909,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-22",
+      9779,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-23",
+      13608,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-24",
+      9955,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-25",
+      5422,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-26",
+      3845,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-27",
+      8604,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-28",
+      5593,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-29",
+      3381,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-30",
+      4904,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2006,
+      "2006-08-31",
+      4906,
+      440,
+      2500,
+      "Pilot Station Sonar",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "440",
+    "year": "2006",
+    "totalRecords": 43,
+    "totalCount": 163889,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.693028"
+  }
+}

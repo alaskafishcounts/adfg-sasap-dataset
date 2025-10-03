@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1967,
+      "1967-10-01",
+      2,
+      410,
+      2128,
+      "Disappearance Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "410",
+    "year": "1967",
+    "totalRecords": 1,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.499590"
+  }
+}

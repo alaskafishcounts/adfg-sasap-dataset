@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-08-29",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      1995,
+      "1995-08-31",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "530",
+    "year": "1995",
+    "totalRecords": 2,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.937830"
+  }
+}

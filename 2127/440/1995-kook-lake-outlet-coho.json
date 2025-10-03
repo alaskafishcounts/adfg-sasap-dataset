@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-08-14",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-16",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-17",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-20",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-23",
+      3,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-25",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-26",
+      2,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-28",
+      3,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-29",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-30",
+      20,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-31",
+      4,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "440",
+    "year": "1995",
+    "totalRecords": 11,
+    "totalCount": 38,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.713317"
+  }
+}

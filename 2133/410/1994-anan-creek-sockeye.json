@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "1994-06-12",
+      30,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2133,
+    "species_id": "410",
+    "year": "1994",
+    "totalRecords": 1,
+    "totalCount": 30,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.293342"
+  }
+}

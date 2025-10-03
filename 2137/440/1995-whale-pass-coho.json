@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-08-10",
+      344,
+      440,
+      2137,
+      "Whale Pass",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-08-24",
+      174,
+      440,
+      2137,
+      "Whale Pass",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-09-08",
+      44,
+      440,
+      2137,
+      "Whale Pass",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2137,
+    "species_id": "440",
+    "year": "1995",
+    "totalRecords": 3,
+    "totalCount": 562,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.484081"
+  }
+}

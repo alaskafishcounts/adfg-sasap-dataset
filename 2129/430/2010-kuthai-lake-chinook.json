@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-08-22",
+      2,
+      430,
+      2129,
+      "Kuthai Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2129,
+    "species_id": "430",
+    "year": "2010",
+    "totalRecords": 1,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.578275"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-08-15",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-08-17",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-10",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.809588"
+  }
+}

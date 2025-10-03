@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1969,
+      "1969-07-13",
+      2,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "1969-07-14",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "1969-07-15",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "1969-07-16",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "1969-07-17",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "1969-07-18",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "1969-07-19",
+      2,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "450",
+    "year": "1969",
+    "totalRecords": 7,
+    "totalCount": 4,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.283522"
+  }
+}

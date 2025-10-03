@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-07-27",
+      1,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-07-28",
+      0,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-07-29",
+      0,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-07-30",
+      2,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-07-31",
+      1,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-08-01",
+      1,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-08-02",
+      0,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-08-03",
+      159,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-08-04",
+      11,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ],
+    [
+      2010,
+      "2010-08-05",
+      10,
+      420,
+      2304,
+      "Orzinski River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2304,
+    "species_id": "420",
+    "year": "2010",
+    "totalRecords": 10,
+    "totalCount": 185,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.911479"
+  }
+}

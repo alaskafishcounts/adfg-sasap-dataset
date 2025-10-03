@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "1968-08-17",
+      1,
+      440,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2146,
+    "species_id": "440",
+    "year": "1968",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.496054"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1949,
+      "1949-08-19",
+      1,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-20",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-21",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-23",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-24",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-25",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-26",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-27",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-28",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-29",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-30",
+      0,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1949,
+      "1949-08-31",
+      1,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "420",
+    "year": "1949",
+    "totalRecords": 12,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.128070"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1934,
+      "1934-08-07",
+      20,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-08",
+      46,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-09",
+      91,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-10",
+      83,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-11",
+      195,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-12",
+      387,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-13",
+      360,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-14",
+      1250,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-15",
+      1561,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-16",
+      290,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-17",
+      1503,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-18",
+      4722,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-19",
+      3512,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1934,
+      "1934-08-20",
+      1475,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "420",
+    "year": "1934",
+    "totalRecords": 14,
+    "totalCount": 15495,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.630332"
+  }
+}

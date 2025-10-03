@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1932,
+      "1932-08-25",
+      2,
+      450,
+      2003,
+      "Litnik",
+      "Chum"
+    ],
+    [
+      1932,
+      "1932-08-26",
+      2,
+      450,
+      2003,
+      "Litnik",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "450",
+    "year": "1932",
+    "totalRecords": 2,
+    "totalCount": 4,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:47.888242"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-08-17",
+      4,
+      450,
+      2120,
+      "Falls Lake",
+      "Chum"
+    ],
+    [
+      2005,
+      "2005-08-18",
+      1,
+      450,
+      2120,
+      "Falls Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "450",
+    "year": "2005",
+    "totalRecords": 2,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.753919"
+  }
+}

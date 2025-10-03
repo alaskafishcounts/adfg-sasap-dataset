@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-09-07",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2012,
+      "2012-09-12",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "480",
+    "year": "2012",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.474304"
+  }
+}

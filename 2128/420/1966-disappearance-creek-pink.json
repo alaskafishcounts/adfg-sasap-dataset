@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1966,
+      "1966-09-15",
+      181,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-16",
+      8,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-17",
+      30,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-18",
+      36,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-19",
+      1,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-22",
+      1,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-24",
+      4,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-26",
+      14,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-27",
+      2,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-28",
+      1,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-09-30",
+      8,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-10-02",
+      2,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-10-03",
+      3,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1966,
+      "1966-10-05",
+      4,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "420",
+    "year": "1966",
+    "totalRecords": 14,
+    "totalCount": 295,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.510532"
+  }
+}

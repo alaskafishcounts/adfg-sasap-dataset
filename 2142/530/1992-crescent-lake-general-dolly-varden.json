@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "1992-07-15",
+      1,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-07-20",
+      1,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-07-30",
+      1,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-07-31",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-01",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-02",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-03",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-07",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-22",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-23",
+      3,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-24",
+      4,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-25",
+      6,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "1992-08-26",
+      7,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2142,
+    "species_id": "530",
+    "year": "1992",
+    "totalRecords": 13,
+    "totalCount": 35,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.769605"
+  }
+}

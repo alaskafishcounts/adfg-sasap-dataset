@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-06-10",
+      3,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-14",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-19",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-20",
+      2,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-21",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-22",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-23",
+      5,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-25",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-27",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-06-28",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-01",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-02",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-03",
+      5,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-04",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-12",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-20",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-23",
+      2,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-28",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-07-31",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ],
+    [
+      2009,
+      "2009-08-10",
+      1,
+      530,
+      2109,
+      "Hetta Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "530",
+    "year": "2009",
+    "totalRecords": 20,
+    "totalCount": 32,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.923666"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1964,
+      "1964-08-18",
+      1,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-19",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-20",
+      2,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-21",
+      22,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-22",
+      4,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-23",
+      1,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-24",
+      52,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-25",
+      13,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-26",
+      54,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-27",
+      17,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-28",
+      39,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1964,
+      "1964-08-29",
+      26,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "440",
+    "year": "1964",
+    "totalRecords": 12,
+    "totalCount": 231,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.881792"
+  }
+}

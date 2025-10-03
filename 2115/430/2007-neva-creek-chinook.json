@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "2007-06-27",
+      10,
+      430,
+      2115,
+      "Neva Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2115,
+    "species_id": "430",
+    "year": "2007",
+    "totalRecords": 1,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.539200"
+  }
+}

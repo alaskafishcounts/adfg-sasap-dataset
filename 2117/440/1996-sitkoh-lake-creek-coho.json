@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "1996-08-13",
+      3,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-18",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-20",
+      2,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-21",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-22",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-23",
+      3,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-24",
+      2,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-25",
+      4,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-26",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-27",
+      4,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-28",
+      5,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-29",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-30",
+      21,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-31",
+      9,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-01",
+      15,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-03",
+      10,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-04",
+      14,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-05",
+      4,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-06",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-07",
+      2,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "440",
+    "year": "1996",
+    "totalRecords": 20,
+    "totalCount": 104,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.530672"
+  }
+}

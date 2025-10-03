@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-08-19",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-21",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-22",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-23",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-24",
+      3,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-25",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-30",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-31",
+      4,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-09-05",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-09-09",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-09-11",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-09-28",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-10-06",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-10-19",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "410",
+    "year": "1988",
+    "totalRecords": 14,
+    "totalCount": 21,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.532029"
+  }
+}

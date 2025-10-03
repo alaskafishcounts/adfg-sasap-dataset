@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "1992-08-10",
+      1,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-12",
+      1,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-14",
+      1,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-15",
+      1,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-16",
+      2,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-19",
+      2,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-21",
+      1,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-22",
+      4,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-23",
+      5,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-24",
+      4,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-25",
+      18,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-26",
+      27,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ],
+    [
+      1992,
+      "1992-08-27",
+      6,
+      440,
+      2142,
+      "Crescent Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2142,
+    "species_id": "440",
+    "year": "1992",
+    "totalRecords": 13,
+    "totalCount": 73,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.767816"
+  }
+}

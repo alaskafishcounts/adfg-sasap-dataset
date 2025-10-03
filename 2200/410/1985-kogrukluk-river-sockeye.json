@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "1985-06-26",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-27",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-28",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-29",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-06-30",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-01",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-02",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-03",
+      2,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-04",
+      6,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-05",
+      12,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-06",
+      23,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-07",
+      19,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-08",
+      50,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-09",
+      76,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-10",
+      91,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-11",
+      129,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-12",
+      221,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-13",
+      234,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-14",
+      145,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-15",
+      178,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-16",
+      208,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-17",
+      185,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-18",
+      173,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-19",
+      259,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-20",
+      176,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-21",
+      207,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-22",
+      127,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-23",
+      115,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-24",
+      227,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-25",
+      242,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-26",
+      160,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-27",
+      164,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-28",
+      194,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-29",
+      157,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-30",
+      131,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-07-31",
+      93,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-01",
+      108,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-02",
+      57,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-03",
+      43,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-04",
+      41,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-05",
+      27,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-06",
+      27,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-07",
+      11,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-08",
+      27,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-09",
+      8,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-10",
+      7,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-11",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-12",
+      13,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-13",
+      2,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-14",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-15",
+      1,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-16",
+      14,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-17",
+      12,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-18",
+      10,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-19",
+      9,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-20",
+      8,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-21",
+      7,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-22",
+      6,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-23",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-24",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-25",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-26",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-27",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-28",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-29",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-30",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-08-31",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-01",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-02",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-03",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-04",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-05",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-06",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-07",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-08",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-09",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-10",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-11",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-12",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-13",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-14",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-15",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-16",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-17",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-18",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-19",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-20",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-21",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-22",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-23",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-24",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "1985-09-25",
+      0,
+      410,
+      2200,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2200,
+    "species_id": "410",
+    "year": "1985",
+    "totalRecords": 92,
+    "totalCount": 4445,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.371935"
+  }
+}

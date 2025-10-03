@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "2007-09-07",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2007,
+      "2007-09-08",
+      3,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2007,
+      "2007-09-10",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2007,
+      "2007-09-14",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "420",
+    "year": "2007",
+    "totalRecords": 4,
+    "totalCount": 8,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.725854"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "2004-07-28",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-07-29",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-08-02",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-08-28",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-08-29",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-08-30",
+      6,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-08-31",
+      6,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-09-01",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-09-02",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-09-03",
+      6,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-09-04",
+      7,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-09-05",
+      5,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-09-06",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "2004-09-09",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "430",
+    "year": "2004",
+    "totalRecords": 14,
+    "totalCount": 46,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.352336"
+  }
+}

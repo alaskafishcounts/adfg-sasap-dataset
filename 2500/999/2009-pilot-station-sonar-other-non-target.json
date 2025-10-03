@@ -1,0 +1,913 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-06-01",
+      62,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-02",
+      75,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-03",
+      150,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-04",
+      137,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-05",
+      123,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-06",
+      150,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-07",
+      148,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-08",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-09",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-10",
+      282,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-11",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-12",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-13",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-14",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-15",
+      181,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-16",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-17",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-18",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-19",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-20",
+      135,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-21",
+      95,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-22",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-23",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-24",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-25",
+      306,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-26",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-27",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-28",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-29",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-06-30",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-01",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-02",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-03",
+      1069,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-04",
+      1043,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-05",
+      679,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-06",
+      551,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-07",
+      512,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-08",
+      1246,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-09",
+      761,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-10",
+      855,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-11",
+      1048,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-12",
+      1401,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-13",
+      566,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-14",
+      491,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-15",
+      698,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-16",
+      386,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-17",
+      380,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-18",
+      1302,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-19",
+      1053,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-20",
+      590,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-21",
+      286,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-22",
+      827,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-23",
+      125,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-24",
+      187,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-25",
+      131,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-26",
+      215,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-27",
+      219,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-28",
+      488,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-29",
+      154,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-30",
+      814,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-07-31",
+      584,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-01",
+      419,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-02",
+      668,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-03",
+      627,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-04",
+      873,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-05",
+      632,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-06",
+      531,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-07",
+      523,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-08",
+      269,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-09",
+      951,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-10",
+      671,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-11",
+      263,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-12",
+      521,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-13",
+      767,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-14",
+      322,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-15",
+      316,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-16",
+      249,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-17",
+      374,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-18",
+      2031,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-19",
+      328,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-20",
+      1349,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-21",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-22",
+      670,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-23",
+      603,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-24",
+      644,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-25",
+      1758,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-26",
+      2941,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-27",
+      1588,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-28",
+      318,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-29",
+      98,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-30",
+      232,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-08-31",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-09-01",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-09-02",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-09-03",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-09-04",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-09-05",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-09-06",
+      72,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2009,
+      "2009-09-07",
+      556,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "999",
+    "year": "2009",
+    "totalRecords": 99,
+    "totalCount": 42669,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.681353"
+  }
+}

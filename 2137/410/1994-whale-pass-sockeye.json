@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "1994-08-12",
+      1,
+      410,
+      2137,
+      "Whale Pass",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2137,
+    "species_id": "410",
+    "year": "1994",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.486737"
+  }
+}

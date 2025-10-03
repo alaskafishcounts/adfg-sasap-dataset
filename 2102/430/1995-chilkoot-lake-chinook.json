@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-07-20",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-22",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-27",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-07-29",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-17",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-21",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-09-04",
+      1,
+      430,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 7,
+    "totalCount": 7,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.920581"
+  }
+}

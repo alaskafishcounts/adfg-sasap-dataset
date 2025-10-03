@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-07-17",
+      918,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-18",
+      625,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-19",
+      30,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-25",
+      38,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-26",
+      379,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-27",
+      487,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-28",
+      752,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-29",
+      665,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "2012-07-30",
+      154,
+      410,
+      2173,
+      "Italio River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2173,
+    "species_id": "410",
+    "year": "2012",
+    "totalRecords": 9,
+    "totalCount": 4048,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.759351"
+  }
+}

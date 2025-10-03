@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1930,
+      "1930-09-02",
+      11,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-03",
+      400,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-04",
+      23,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-05",
+      9,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-06",
+      0,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-07",
+      4,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-08",
+      6,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-09",
+      1,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-10",
+      2,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ],
+    [
+      1930,
+      "1930-09-11",
+      1,
+      440,
+      2019,
+      "Horse Marine Stream",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2019,
+    "species_id": "440",
+    "year": "1930",
+    "totalRecords": 10,
+    "totalCount": 457,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.180377"
+  }
+}

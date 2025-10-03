@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "2003-08-17",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-08-20",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-08-21",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-01",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-03",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-05",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-06",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-07",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-08",
+      4,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-09",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-11",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-13",
+      1,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ],
+    [
+      2003,
+      "2003-09-15",
+      2,
+      450,
+      2110,
+      "Speel Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "450",
+    "year": "2003",
+    "totalRecords": 13,
+    "totalCount": 21,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.495346"
+  }
+}

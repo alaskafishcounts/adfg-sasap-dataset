@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "1992-08-02",
+      116,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-03",
+      65,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-04",
+      111,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-05",
+      19,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-06",
+      35,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-07",
+      31,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-08",
+      8,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-09",
+      29,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-10",
+      36,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-11",
+      11,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-12",
+      3,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-13",
+      2,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-14",
+      5,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-15",
+      8,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-16",
+      6,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-18",
+      1,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2139,
+    "species_id": "430",
+    "year": "1992",
+    "totalRecords": 16,
+    "totalCount": 486,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.295455"
+  }
+}

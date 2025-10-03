@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-08-06",
+      1,
+      420,
+      2145,
+      "Hatchery Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2145,
+    "species_id": "420",
+    "year": "2011",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.765763"
+  }
+}

@@ -1,0 +1,886 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1950,
+      "1950-06-09",
+      28,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-10",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-11",
+      32,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-12",
+      26,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-13",
+      11,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-14",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-15",
+      137,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-16",
+      75,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-17",
+      32,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-18",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-19",
+      41,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-20",
+      99,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-21",
+      61,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-22",
+      35,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-23",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-24",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-25",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-26",
+      42,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-27",
+      54,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-28",
+      19,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-29",
+      21,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-06-30",
+      17,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-01",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-02",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-03",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-04",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-05",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-06",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-07",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-08",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-09",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-10",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-11",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-12",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-13",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-14",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-15",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-16",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-17",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-18",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-19",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-20",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-21",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-22",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-23",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-24",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-25",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-26",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-27",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-28",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-29",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-30",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-07-31",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-01",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-02",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-03",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-04",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-05",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-06",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-07",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-08",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-09",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-10",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-11",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-12",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-13",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-14",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-15",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-16",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-17",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-18",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-19",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-20",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-21",
+      1748,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-22",
+      74,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-23",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-24",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-25",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-26",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-27",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-28",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-29",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-30",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-08-31",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-01",
+      8,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-02",
+      2,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-03",
+      2741,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-04",
+      48,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-05",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-06",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-07",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-08",
+      95,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-09",
+      384,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-10",
+      304,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-11",
+      14,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1950,
+      "1950-09-12",
+      32,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "410",
+    "year": "1950",
+    "totalRecords": 96,
+    "totalCount": 6180,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.502413"
+  }
+}

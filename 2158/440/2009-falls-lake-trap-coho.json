@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "2009-07-29",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-01",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-03",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-04",
+      2,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-07",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-08",
+      2,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-09",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-11",
+      2,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-13",
+      2,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-15",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-16",
+      2,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-17",
+      8,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-18",
+      9,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-20",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-23",
+      8,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-24",
+      3,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2009,
+      "2009-08-26",
+      2,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2158,
+    "species_id": "440",
+    "year": "2009",
+    "totalRecords": 17,
+    "totalCount": 47,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.844310"
+  }
+}

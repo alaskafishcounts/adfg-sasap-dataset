@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "2014-07-10",
+      2,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-13",
+      1,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-17",
+      28,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-19",
+      1,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-20",
+      295,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-21",
+      185,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-22",
+      472,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-23",
+      486,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-24",
+      68,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-25",
+      48,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-26",
+      648,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-27",
+      4212,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-28",
+      733,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-29",
+      121,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-30",
+      17,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-07-31",
+      7,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-08-01",
+      22,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "2014-08-03",
+      429,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "410",
+    "year": "2014",
+    "totalRecords": 18,
+    "totalCount": 7775,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.859655"
+  }
+}

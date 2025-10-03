@@ -1,0 +1,823 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-06-07",
+      131,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-08",
+      150,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-09",
+      116,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-10",
+      118,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-11",
+      227,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-12",
+      412,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-13",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-14",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-15",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-16",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-17",
+      276,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-18",
+      487,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-19",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-20",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-21",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-22",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-23",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-24",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-25",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-26",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-27",
+      1075,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-28",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-29",
+      1009,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-06-30",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-01",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-02",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-03",
+      3017,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-04",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-05",
+      2635,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-06",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-07",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-08",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-09",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-10",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-11",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-12",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-13",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-14",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-15",
+      395,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-16",
+      196,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-17",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-18",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-19",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-20",
+      1710,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-21",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-22",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-23",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-24",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-25",
+      242,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-26",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-27",
+      678,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-28",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-29",
+      840,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-30",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-07-31",
+      293,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-01",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-02",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-03",
+      540,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-04",
+      360,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-05",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-06",
+      232,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-07",
+      644,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-08",
+      705,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-09",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-10",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-11",
+      361,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-12",
+      603,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-13",
+      453,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-14",
+      511,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-15",
+      606,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-16",
+      2662,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-17",
+      2464,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-18",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-19",
+      433,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-20",
+      296,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-21",
+      704,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-22",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-23",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-24",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-25",
+      3100,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-26",
+      59,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-27",
+      250,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-28",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-29",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-30",
+      767,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-08-31",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-09-01",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-09-02",
+      3000,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      1995,
+      "1995-09-03",
+      85,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "999",
+    "year": "1995",
+    "totalRecords": 89,
+    "totalCount": 32842,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.683786"
+  }
+}

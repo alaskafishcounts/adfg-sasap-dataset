@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1959,
+      "1959-08-25",
+      1,
+      530,
+      2111,
+      "Sashin Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "530",
+    "year": "1959",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.645491"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1944,
+      "1944-08-20",
+      1367,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-21",
+      1433,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-22",
+      980,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-23",
+      817,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-24",
+      631,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-25",
+      573,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-26",
+      361,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-27",
+      413,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-28",
+      309,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-29",
+      673,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-30",
+      416,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-08-31",
+      337,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1944,
+      "1944-09-01",
+      293,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "420",
+    "year": "1944",
+    "totalRecords": 13,
+    "totalCount": 8603,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.618728"
+  }
+}

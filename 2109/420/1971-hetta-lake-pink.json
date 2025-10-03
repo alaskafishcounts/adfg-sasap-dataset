@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1971,
+      "1971-08-04",
+      5,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-08-15",
+      1,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-08-17",
+      3,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-08-18",
+      3,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-08-19",
+      44,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-08-20",
+      11,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-08-29",
+      38,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-08-31",
+      10,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-09-01",
+      6,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ],
+    [
+      1971,
+      "1971-09-02",
+      76,
+      420,
+      2109,
+      "Hetta Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "420",
+    "year": "1971",
+    "totalRecords": 10,
+    "totalCount": 197,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.940305"
+  }
+}

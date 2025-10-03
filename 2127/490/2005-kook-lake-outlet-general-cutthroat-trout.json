@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "2005-08-14",
+      1,
+      490,
+      2127,
+      "Kook Lake Outlet",
+      "General cutthroat trout"
+    ],
+    [
+      2005,
+      "2005-08-21",
+      1,
+      490,
+      2127,
+      "Kook Lake Outlet",
+      "General cutthroat trout"
+    ],
+    [
+      2005,
+      "2005-08-27",
+      1,
+      490,
+      2127,
+      "Kook Lake Outlet",
+      "General cutthroat trout"
+    ],
+    [
+      2005,
+      "2005-09-03",
+      1,
+      490,
+      2127,
+      "Kook Lake Outlet",
+      "General cutthroat trout"
+    ],
+    [
+      2005,
+      "2005-09-15",
+      3,
+      490,
+      2127,
+      "Kook Lake Outlet",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "490",
+    "year": "2005",
+    "totalRecords": 5,
+    "totalCount": 7,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.715093"
+  }
+}

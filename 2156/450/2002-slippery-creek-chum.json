@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "2002-10-12",
+      7,
+      450,
+      2156,
+      "Slippery Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2156,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 1,
+    "totalCount": 7,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.880075"
+  }
+}

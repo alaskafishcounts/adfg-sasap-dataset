@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-08-24",
+      1,
+      410,
+      2155,
+      "Pleasant Bay",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-29",
+      1,
+      410,
+      2155,
+      "Pleasant Bay",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2155,
+    "species_id": "410",
+    "year": "1988",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.803164"
+  }
+}

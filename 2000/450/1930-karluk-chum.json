@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1930,
+      "1930-06-08",
+      1810,
+      450,
+      2000,
+      "Karluk",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "450",
+    "year": "1930",
+    "totalRecords": 1,
+    "totalCount": 1810,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.966563"
+  }
+}

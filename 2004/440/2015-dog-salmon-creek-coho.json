@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-07-29",
+      1,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-07-30",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-07-31",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-01",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-02",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-03",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-04",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-05",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-06",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-07",
+      1,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "440",
+    "year": "2015",
+    "totalRecords": 10,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:47.977457"
+  }
+}

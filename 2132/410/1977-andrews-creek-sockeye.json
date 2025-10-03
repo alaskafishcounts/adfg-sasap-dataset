@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1977,
+      "1977-07-31",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-02",
+      2,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-04",
+      19,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-05",
+      11,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-07",
+      24,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-10",
+      4,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-11",
+      4,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-12",
+      14,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-13",
+      5,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-14",
+      6,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-15",
+      11,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-16",
+      2,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-17",
+      1,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "1977-08-21",
+      4,
+      410,
+      2132,
+      "Andrews Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2132,
+    "species_id": "410",
+    "year": "1977",
+    "totalRecords": 14,
+    "totalCount": 108,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.467192"
+  }
+}

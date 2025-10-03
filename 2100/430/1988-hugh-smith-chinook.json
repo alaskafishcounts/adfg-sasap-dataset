@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-08-05",
+      2,
+      430,
+      2100,
+      "Hugh Smith",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "430",
+    "year": "1988",
+    "totalRecords": 1,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.978599"
+  }
+}

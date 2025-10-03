@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-08-18",
+      1,
+      410,
+      2172,
+      "Kadashan Lower",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-22",
+      1,
+      410,
+      2172,
+      "Kadashan Lower",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "1988-08-24",
+      1,
+      410,
+      2172,
+      "Kadashan Lower",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2172,
+    "species_id": "410",
+    "year": "1988",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.576319"
+  }
+}

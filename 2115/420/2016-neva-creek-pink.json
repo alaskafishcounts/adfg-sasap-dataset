@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "2016-08-14",
+      3,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-16",
+      1,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-17",
+      5,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-24",
+      1,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-08-27",
+      1,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2016,
+      "2016-09-14",
+      3,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2115,
+    "species_id": "420",
+    "year": "2016",
+    "totalRecords": 6,
+    "totalCount": 14,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.560175"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-08-01",
+      2,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-08-23",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-03",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-05",
+      2,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-06",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2012,
+      "2012-09-08",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2118,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 6,
+    "totalCount": 8,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.710946"
+  }
+}

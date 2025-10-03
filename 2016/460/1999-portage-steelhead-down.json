@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "1999-06-12",
+      13,
+      460,
+      2016,
+      "Portage",
+      "Steelhead Down"
+    ],
+    [
+      1999,
+      "1999-06-13",
+      0,
+      460,
+      2016,
+      "Portage",
+      "Steelhead Down"
+    ],
+    [
+      1999,
+      "1999-06-14",
+      0,
+      460,
+      2016,
+      "Portage",
+      "Steelhead Down"
+    ],
+    [
+      1999,
+      "1999-06-15",
+      0,
+      460,
+      2016,
+      "Portage",
+      "Steelhead Down"
+    ],
+    [
+      1999,
+      "1999-06-16",
+      0,
+      460,
+      2016,
+      "Portage",
+      "Steelhead Down"
+    ],
+    [
+      1999,
+      "1999-06-17",
+      0,
+      460,
+      2016,
+      "Portage",
+      "Steelhead Down"
+    ],
+    [
+      1999,
+      "1999-06-18",
+      0,
+      460,
+      2016,
+      "Portage",
+      "Steelhead Down"
+    ],
+    [
+      1999,
+      "1999-06-19",
+      0,
+      460,
+      2016,
+      "Portage",
+      "Steelhead Down"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2016,
+    "species_id": "460",
+    "year": "1999",
+    "totalRecords": 8,
+    "totalCount": 13,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.229080"
+  }
+}

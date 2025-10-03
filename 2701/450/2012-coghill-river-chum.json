@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-07-03",
+      5,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2701,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 1,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.367614"
+  }
+}

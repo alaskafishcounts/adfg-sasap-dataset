@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "1990-09-18",
+      1,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-19",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-20",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-21",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-22",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-23",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-24",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-25",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-26",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-27",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-28",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-29",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "1990-09-30",
+      0,
+      410,
+      2012,
+      "Big Bay Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2012,
+    "species_id": "410",
+    "year": "1990",
+    "totalRecords": 13,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.825572"
+  }
+}

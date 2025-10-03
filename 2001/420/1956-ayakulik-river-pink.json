@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1956,
+      "1956-08-12",
+      27,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1956,
+      "1956-08-13",
+      318,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1956,
+      "1956-08-14",
+      1672,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1956,
+      "1956-08-15",
+      744,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1956,
+      "1956-08-16",
+      370,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1956,
+      "1956-08-17",
+      163,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1956,
+      "1956-08-18",
+      17,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "420",
+    "year": "1956",
+    "totalRecords": 7,
+    "totalCount": 3311,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.116439"
+  }
+}

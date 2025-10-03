@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "2006-09-23",
+      1,
+      410,
+      2152,
+      "Jordan Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2152,
+    "species_id": "410",
+    "year": "2006",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.809303"
+  }
+}

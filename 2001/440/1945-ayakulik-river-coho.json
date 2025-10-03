@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1945,
+      "1945-08-07",
+      9,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1945,
+      "1945-08-08",
+      24,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1945,
+      "1945-08-09",
+      19,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1945,
+      "1945-08-10",
+      13,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "440",
+    "year": "1945",
+    "totalRecords": 4,
+    "totalCount": 65,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.982642"
+  }
+}

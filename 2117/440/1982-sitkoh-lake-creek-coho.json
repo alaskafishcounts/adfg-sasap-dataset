@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-08-28",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-08-29",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-08-31",
+      1,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-01",
+      4,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-02",
+      14,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-03",
+      8,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ],
+    [
+      1982,
+      "1982-09-04",
+      6,
+      440,
+      2117,
+      "Sitkoh Lake Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "440",
+    "year": "1982",
+    "totalRecords": 7,
+    "totalCount": 35,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.531060"
+  }
+}

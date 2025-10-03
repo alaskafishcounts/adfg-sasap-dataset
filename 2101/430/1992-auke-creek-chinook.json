@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "1992-07-28",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-07-29",
+      7,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-02",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-04",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-27",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-29",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-31",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-01",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-02",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-03",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-04",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-07",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-08",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-09",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-10",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-09-11",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "430",
+    "year": "1992",
+    "totalRecords": 16,
+    "totalCount": 35,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.348956"
+  }
+}

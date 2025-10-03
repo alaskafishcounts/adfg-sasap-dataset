@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1974,
+      "1974-09-24",
+      5,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-09-25",
+      5,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-09-26",
+      5,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-09-27",
+      5,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-09-28",
+      3,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-09-29",
+      8,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-09-30",
+      12,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-10-01",
+      5,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-10-02",
+      1,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-10-03",
+      2,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-10-04",
+      2,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-10-06",
+      2,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ],
+    [
+      1974,
+      "1974-10-09",
+      1,
+      420,
+      2170,
+      "Salt Chuck-Security",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2170,
+    "species_id": "420",
+    "year": "1974",
+    "totalRecords": 13,
+    "totalCount": 56,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.480295"
+  }
+}

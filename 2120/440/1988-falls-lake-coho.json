@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-07-11",
+      1,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "440",
+    "year": "1988",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.731544"
+  }
+}

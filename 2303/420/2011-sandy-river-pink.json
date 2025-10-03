@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-07-14",
+      2,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-15",
+      6,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-16",
+      0,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-17",
+      2,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-18",
+      5,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-19",
+      2,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-20",
+      2,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-21",
+      2,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-22",
+      0,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-07-23",
+      0,
+      420,
+      2303,
+      "Sandy River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2303,
+    "species_id": "420",
+    "year": "2011",
+    "totalRecords": 10,
+    "totalCount": 21,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.838849"
+  }
+}

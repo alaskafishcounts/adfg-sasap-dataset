@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "2001-07-17",
+      268,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-18",
+      239,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-22",
+      689,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-23",
+      396,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-24",
+      140,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-25",
+      202,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-27",
+      284,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-28",
+      92,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-29",
+      50,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-30",
+      75,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-07-31",
+      70,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-08-01",
+      76,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "2001-08-02",
+      265,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 13,
+    "totalCount": 2846,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.751108"
+  }
+}

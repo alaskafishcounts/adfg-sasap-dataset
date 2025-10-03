@@ -1,0 +1,706 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "2008-06-19",
+      2465,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-20",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-21",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-22",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-23",
+      574,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-24",
+      657,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-25",
+      1187,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-26",
+      2122,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-27",
+      2658,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-28",
+      3249,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-29",
+      6030,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-06-30",
+      41387,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-01",
+      8430,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-02",
+      36018,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-03",
+      29437,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-04",
+      78990,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-05",
+      24995,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-06",
+      19310,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-07",
+      19872,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-08",
+      17589,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-09",
+      13178,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-10",
+      8240,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-11",
+      13144,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-12",
+      15510,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-13",
+      16032,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-14",
+      6638,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-15",
+      8554,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-16",
+      21645,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-17",
+      15563,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-18",
+      13455,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-19",
+      14861,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-20",
+      10461,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-21",
+      12455,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-22",
+      6301,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-23",
+      6629,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-24",
+      9226,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-25",
+      16378,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-26",
+      6934,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-27",
+      9988,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-28",
+      9285,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-29",
+      13836,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-30",
+      4673,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-07-31",
+      2591,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-01",
+      4271,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-02",
+      6131,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-03",
+      4075,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-04",
+      2811,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-05",
+      1126,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-06",
+      1256,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-07",
+      1207,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-08",
+      817,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-09",
+      1197,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-10",
+      167,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-11",
+      1289,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-12",
+      755,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-13",
+      324,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-14",
+      627,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-15",
+      151,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-16",
+      204,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-17",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-18",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-19",
+      2076,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-20",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-21",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-22",
+      163,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-23",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-24",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-25",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-26",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-27",
+      570,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-28",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-29",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-30",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-08-31",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-09-01",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "2008-09-02",
+      363,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 76,
+    "totalCount": 580127,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.744563"
+  }
+}

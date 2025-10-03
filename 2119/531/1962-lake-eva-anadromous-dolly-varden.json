@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1962,
+      "1962-05-24",
+      0,
+      531,
+      2119,
+      "Lake Eva",
+      "Anadromous dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2119,
+    "species_id": "531",
+    "year": "1962",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.309923"
+  }
+}

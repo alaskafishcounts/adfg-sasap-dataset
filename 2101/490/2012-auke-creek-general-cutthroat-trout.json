@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "2012-06-20",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-06-24",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-06-25",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-06-28",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-06-29",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-06-30",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-01",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-05",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-06",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-09",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-11",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-12",
+      3,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-13",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-14",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-15",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-07-22",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-01",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-03",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-04",
+      4,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-05",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-08",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-11",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-12",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-13",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-15",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-18",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-25",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-28",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-08-29",
+      3,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-06",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-07",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-08",
+      3,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-09",
+      10,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-10",
+      11,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-11",
+      11,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-12",
+      11,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-13",
+      13,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-15",
+      8,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-16",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-17",
+      4,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-18",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-19",
+      3,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-20",
+      3,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-21",
+      8,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-22",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-24",
+      4,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-26",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-28",
+      6,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-29",
+      3,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-09-30",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-10-03",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-10-06",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-10-08",
+      2,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-10-14",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-10-15",
+      1,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-10-16",
+      4,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2012,
+      "2012-10-24",
+      5,
+      490,
+      2101,
+      "Auke Creek",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "490",
+    "year": "2012",
+    "totalRecords": 57,
+    "totalCount": 171,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.359610"
+  }
+}

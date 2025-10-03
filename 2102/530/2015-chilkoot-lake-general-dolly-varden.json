@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-06-05",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-06-08",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-06-09",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-06-11",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-06-17",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-06-18",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-06-20",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-06-21",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-07-02",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-07-04",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-07-15",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-07-17",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "2015-07-24",
+      3,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "530",
+    "year": "2015",
+    "totalRecords": 13,
+    "totalCount": 19,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.938602"
+  }
+}

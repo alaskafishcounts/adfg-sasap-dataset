@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-08-19",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-24",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-25",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-26",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-29",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-08-30",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-04",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-07",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-08",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-11",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-09-15",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-10-04",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "2011-10-07",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 13,
+    "totalCount": 16,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.523543"
+  }
+}

@@ -1,0 +1,940 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "1997-07-09",
+      323,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-10",
+      12,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-11",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-13",
+      137,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-14",
+      148,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-15",
+      41,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-16",
+      116,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-17",
+      28,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-18",
+      23,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-19",
+      46,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-20",
+      28,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-21",
+      49,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-22",
+      18,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-23",
+      30,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-24",
+      36,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-25",
+      168,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-26",
+      89,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-27",
+      71,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-28",
+      105,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-29",
+      30,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-30",
+      23,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-07-31",
+      21,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-01",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-02",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-03",
+      17,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-04",
+      10,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-05",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-06",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-07",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-13",
+      36,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-14",
+      284,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-15",
+      84,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-16",
+      79,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-17",
+      84,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-18",
+      41,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-19",
+      39,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-20",
+      19,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-21",
+      25,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-22",
+      37,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-23",
+      55,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-24",
+      19,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-25",
+      29,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-26",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-28",
+      27,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-29",
+      25,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-30",
+      13,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-08-31",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-01",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-04",
+      23,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-05",
+      38,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-06",
+      20,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-07",
+      11,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-08",
+      34,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-09",
+      129,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-10",
+      82,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-11",
+      31,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-12",
+      35,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-13",
+      48,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-14",
+      23,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-15",
+      36,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-16",
+      44,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-17",
+      39,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-18",
+      64,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-19",
+      237,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-20",
+      94,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-21",
+      191,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-22",
+      182,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-23",
+      265,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-24",
+      87,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-25",
+      46,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-26",
+      99,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-27",
+      172,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-28",
+      140,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-29",
+      180,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-09-30",
+      72,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-01",
+      93,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-02",
+      151,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-03",
+      113,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-04",
+      26,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-05",
+      67,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-06",
+      51,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-07",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-08",
+      14,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-09",
+      13,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-10",
+      19,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-13",
+      29,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-14",
+      19,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-15",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-16",
+      25,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-17",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-20",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-22",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-23",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-24",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-27",
+      76,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-28",
+      6,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-29",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-10-31",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-11-03",
+      25,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-11-04",
+      4,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-11-05",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1997,
+      "1997-11-07",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "530",
+    "year": "1997",
+    "totalRecords": 102,
+    "totalCount": 5705,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.365506"
+  }
+}

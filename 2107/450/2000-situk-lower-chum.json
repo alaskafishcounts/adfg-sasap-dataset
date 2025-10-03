@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "2000-07-09",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-14",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-17",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-18",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-19",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-21",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-26",
+      9,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-27",
+      4,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-28",
+      3,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-07-29",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-08-02",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-08-04",
+      5,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-08-05",
+      5,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-08-06",
+      7,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      2000,
+      "2000-08-07",
+      7,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "450",
+    "year": "2000",
+    "totalRecords": 15,
+    "totalCount": 53,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.193018"
+  }
+}

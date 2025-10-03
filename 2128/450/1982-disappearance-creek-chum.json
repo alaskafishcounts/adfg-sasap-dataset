@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-09-13",
+      1010,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-14",
+      2,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-15",
+      200,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-16",
+      117,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-17",
+      1018,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-18",
+      130,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-19",
+      118,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-20",
+      121,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-21",
+      564,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-22",
+      62,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-23",
+      655,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-24",
+      150,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-25",
+      2762,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-26",
+      402,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-27",
+      850,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-28",
+      306,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-29",
+      533,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-09-30",
+      4000,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-04",
+      2085,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-05",
+      4915,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-06",
+      14,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-07",
+      8,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-09",
+      1356,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-10",
+      1373,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-11",
+      2249,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-12",
+      599,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-13",
+      1337,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-14",
+      604,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-15",
+      460,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-20",
+      406,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      1982,
+      "1982-10-21",
+      1594,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "450",
+    "year": "1982",
+    "totalRecords": 31,
+    "totalCount": 30000,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.523581"
+  }
+}

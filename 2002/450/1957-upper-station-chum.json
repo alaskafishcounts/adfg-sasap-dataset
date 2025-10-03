@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1957,
+      "1957-08-20",
+      1,
+      450,
+      2002,
+      "Upper Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "450",
+    "year": "1957",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.847111"
+  }
+}

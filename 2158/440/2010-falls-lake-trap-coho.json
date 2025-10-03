@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "2010-07-31",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-08-07",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-08-18",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-08-19",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-08-20",
+      2,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-08-24",
+      5,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ],
+    [
+      2010,
+      "2010-08-26",
+      1,
+      440,
+      2158,
+      "Falls Lake Trap",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2158,
+    "species_id": "440",
+    "year": "2010",
+    "totalRecords": 7,
+    "totalCount": 12,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.844743"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "1996-08-12",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-13",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-08-23",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-15",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-16",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-17",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-19",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-20",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-23",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-25",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-26",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "1996-09-27",
+      24,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "440",
+    "year": "1996",
+    "totalRecords": 12,
+    "totalCount": 41,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.642492"
+  }
+}

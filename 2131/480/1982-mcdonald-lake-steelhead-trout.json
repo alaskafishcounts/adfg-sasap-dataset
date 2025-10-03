@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "1982-04-25",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-04-26",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-04-27",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-04-28",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-04-30",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-03",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-05",
+      2,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-06",
+      3,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-07",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-08",
+      2,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-09",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-11",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-12",
+      2,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ],
+    [
+      1982,
+      "1982-06-13",
+      1,
+      480,
+      2131,
+      "McDonald Lake",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "480",
+    "year": "1982",
+    "totalRecords": 14,
+    "totalCount": 19,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.867474"
+  }
+}

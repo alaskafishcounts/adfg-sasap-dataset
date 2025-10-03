@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "2011-08-18",
+      4,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-08-19",
+      6,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-08-20",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-02",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-09",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-10",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-11",
+      10,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-12",
+      1,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-13",
+      8,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-14",
+      2,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-15",
+      3,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      2011,
+      "2011-09-16",
+      3,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "420",
+    "year": "2011",
+    "totalRecords": 12,
+    "totalCount": 43,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.725536"
+  }
+}

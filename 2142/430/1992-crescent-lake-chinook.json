@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "1992-07-17",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-07-22",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-07-24",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-07-27",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-07-28",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-07-31",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-01",
+      2,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-04",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-09",
+      2,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-11",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-12",
+      2,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-14",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-16",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-22",
+      3,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ],
+    [
+      1992,
+      "1992-08-24",
+      1,
+      430,
+      2142,
+      "Crescent Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2142,
+    "species_id": "430",
+    "year": "1992",
+    "totalRecords": 15,
+    "totalCount": 20,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.769270"
+  }
+}

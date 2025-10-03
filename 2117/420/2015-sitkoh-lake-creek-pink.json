@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-08-26",
+      1,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-29",
+      3,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-30",
+      12,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-08-31",
+      2,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-01",
+      6,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-02",
+      1,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-04",
+      1,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-10",
+      26,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-11",
+      57,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-13",
+      14,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-14",
+      1,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-15",
+      8,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "2015-09-16",
+      3,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 13,
+    "totalCount": 135,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.551354"
+  }
+}

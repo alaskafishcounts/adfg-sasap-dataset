@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "2007-05-27",
+      1,
+      410,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "2007-06-14",
+      1,
+      410,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "2007-06-17",
+      1,
+      410,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "2007-06-22",
+      10,
+      410,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "2007-06-23",
+      25,
+      410,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "410",
+    "year": "2007",
+    "totalRecords": 5,
+    "totalCount": 38,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.549940"
+  }
+}

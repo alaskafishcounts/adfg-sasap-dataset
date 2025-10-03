@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "2001-09-03",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-04",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-06",
+      4,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-07",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-08",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-09",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-13",
+      3,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-18",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-19",
+      4,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-21",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-24",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-09-29",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2001,
+      "2001-10-18",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "450",
+    "year": "2001",
+    "totalRecords": 13,
+    "totalCount": 24,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.625093"
+  }
+}

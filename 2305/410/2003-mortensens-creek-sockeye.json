@@ -1,0 +1,940 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "2003-07-04",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-05",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-06",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-07",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-08",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-09",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-10",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-11",
+      87,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-12",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-13",
+      6,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-14",
+      4,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-15",
+      3,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-16",
+      232,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-17",
+      403,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-18",
+      248,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-19",
+      155,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-20",
+      209,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-21",
+      150,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-22",
+      19,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-23",
+      83,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-24",
+      88,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-25",
+      289,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-26",
+      376,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-27",
+      12,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-28",
+      204,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-29",
+      13,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-30",
+      15,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-07-31",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-01",
+      12,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-02",
+      1662,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-03",
+      1072,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-04",
+      380,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-05",
+      1995,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-06",
+      52,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-07",
+      868,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-08",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-09",
+      223,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-10",
+      540,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-11",
+      234,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-12",
+      1312,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-13",
+      555,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-14",
+      306,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-15",
+      99,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-16",
+      34,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-17",
+      19,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-18",
+      16,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-19",
+      81,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-20",
+      49,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-21",
+      63,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-22",
+      310,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-23",
+      129,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-24",
+      248,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-25",
+      267,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-26",
+      119,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-27",
+      143,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-28",
+      502,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-29",
+      251,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-30",
+      435,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-08-31",
+      149,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-01",
+      519,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-02",
+      416,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-03",
+      56,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-04",
+      32,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-05",
+      54,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-06",
+      47,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-07",
+      6,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-08",
+      17,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-09",
+      45,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-10",
+      64,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-11",
+      12,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-12",
+      21,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-13",
+      204,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-14",
+      262,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-15",
+      66,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-16",
+      80,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-17",
+      52,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-18",
+      14,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-19",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-20",
+      5,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-21",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-22",
+      4,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-23",
+      10,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-24",
+      33,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-25",
+      14,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-26",
+      15,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-27",
+      6,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-28",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-29",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-09-30",
+      2,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-01",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-02",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-03",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-04",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-05",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-06",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-07",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-08",
+      4,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-09",
+      1,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-10",
+      3,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-11",
+      2,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-12",
+      5,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "2003-10-13",
+      4,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2305,
+    "species_id": "410",
+    "year": "2003",
+    "totalRecords": 102,
+    "totalCount": 16804,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.475097"
+  }
+}

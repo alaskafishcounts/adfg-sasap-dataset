@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "1991-07-03",
+      1,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-04",
+      1,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-07",
+      1,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-11",
+      4,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-12",
+      4,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-13",
+      38,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-14",
+      189,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-15",
+      54,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-16",
+      1481,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-17",
+      201,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-18",
+      31,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-19",
+      21,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-20",
+      390,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-21",
+      75,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-22",
+      1391,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-23",
+      66,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-24",
+      24,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-25",
+      288,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-26",
+      12,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1991,
+      "1991-07-27",
+      14000,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2140,
+    "species_id": "420",
+    "year": "1991",
+    "totalRecords": 20,
+    "totalCount": 18272,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.310154"
+  }
+}

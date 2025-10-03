@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "2006-06-23",
+      11,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-25",
+      13,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-26",
+      27,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-27",
+      6,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-28",
+      3,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-29",
+      4,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-06-30",
+      73,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-01",
+      88,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-02",
+      37,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-03",
+      13,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-04",
+      6,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-05",
+      60,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-06",
+      25,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-07",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-09",
+      254,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-10",
+      97,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-11",
+      29,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-12",
+      21,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-13",
+      4,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-14",
+      37,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-15",
+      14,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-16",
+      7,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-17",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-18",
+      5,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-19",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-20",
+      3,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-21",
+      4,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-22",
+      25,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-23",
+      31,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-24",
+      12,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-25",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-26",
+      21,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-27",
+      6,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-28",
+      18,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-30",
+      0,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-07-31",
+      0,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-01",
+      29,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-02",
+      108,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-03",
+      66,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-04",
+      39,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-05",
+      7,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-06",
+      61,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-07",
+      9,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-09",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-10",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-13",
+      7,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-14",
+      3,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-18",
+      0,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-19",
+      6,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-23",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-25",
+      33,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-26",
+      9,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-28",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-29",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-30",
+      4,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-08-31",
+      17,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-01",
+      0,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-06",
+      0,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-07",
+      0,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2006,
+      "2006-09-12",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "410",
+    "year": "2006",
+    "totalRecords": 60,
+    "totalCount": 1366,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.451040"
+  }
+}

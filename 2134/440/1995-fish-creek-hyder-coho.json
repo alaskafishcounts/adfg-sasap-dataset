@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-09-13",
+      2,
+      440,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-10-05",
+      11,
+      440,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-10-09",
+      1,
+      440,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1995,
+      "1995-10-14",
+      1,
+      440,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2134,
+    "species_id": "440",
+    "year": "1995",
+    "totalRecords": 4,
+    "totalCount": 15,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.302483"
+  }
+}

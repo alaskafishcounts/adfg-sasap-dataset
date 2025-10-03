@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "1968-06-13",
+      3,
+      470,
+      2007,
+      "Akalura Creek",
+      "Steelhead Up"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "470",
+    "year": "1968",
+    "totalRecords": 1,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.484811"
+  }
+}

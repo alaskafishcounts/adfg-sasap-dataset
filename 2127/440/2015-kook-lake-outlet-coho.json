@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "2015-08-18",
+      2,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-26",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-08-30",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-09-08",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2015,
+      "2015-09-09",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "440",
+    "year": "2015",
+    "totalRecords": 5,
+    "totalCount": 6,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.711487"
+  }
+}

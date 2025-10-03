@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "1995-08-17",
+      1,
+      430,
+      2127,
+      "Kook Lake Outlet",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-22",
+      1,
+      430,
+      2127,
+      "Kook Lake Outlet",
+      "Chinook"
+    ],
+    [
+      1995,
+      "1995-08-23",
+      1,
+      430,
+      2127,
+      "Kook Lake Outlet",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.713971"
+  }
+}

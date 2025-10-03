@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "1988-07-14",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-07-18",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-06",
+      3,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-08",
+      3,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-12",
+      3,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-13",
+      7,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-14",
+      13,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-15",
+      19,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-16",
+      12,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-17",
+      24,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-18",
+      12,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-19",
+      39,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-20",
+      59,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1988,
+      "1988-08-21",
+      34,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "450",
+    "year": "1988",
+    "totalRecords": 14,
+    "totalCount": 230,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.193275"
+  }
+}

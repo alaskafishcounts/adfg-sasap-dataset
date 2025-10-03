@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1959,
+      "1959-07-24",
+      3,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1959,
+      "1959-07-25",
+      7,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "440",
+    "year": "1959",
+    "totalRecords": 2,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.869247"
+  }
+}

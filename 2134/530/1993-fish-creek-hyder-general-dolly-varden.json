@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "1993-07-08",
+      1,
+      530,
+      2134,
+      "Fish Creek (Hyder)",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-07-09",
+      1,
+      530,
+      2134,
+      "Fish Creek (Hyder)",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-23",
+      1,
+      530,
+      2134,
+      "Fish Creek (Hyder)",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-09-29",
+      1,
+      530,
+      2134,
+      "Fish Creek (Hyder)",
+      "General dolly varden"
+    ],
+    [
+      1993,
+      "1993-10-05",
+      1,
+      530,
+      2134,
+      "Fish Creek (Hyder)",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2134,
+    "species_id": "530",
+    "year": "1993",
+    "totalRecords": 5,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.307963"
+  }
+}

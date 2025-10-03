@@ -1,0 +1,211 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "2003-08-01",
+      2,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-02",
+      4,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-03",
+      2,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-04",
+      32,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-05",
+      38,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-06",
+      62,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-07",
+      108,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-08",
+      132,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-09",
+      129,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-10",
+      158,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-11",
+      248,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-12",
+      252,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-13",
+      254,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-14",
+      291,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-15",
+      241,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-16",
+      202,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-17",
+      257,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-18",
+      125,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-19",
+      83,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-20",
+      39,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "2003-08-21",
+      21,
+      430,
+      2139,
+      "Nakina River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2139,
+    "species_id": "430",
+    "year": "2003",
+    "totalRecords": 21,
+    "totalCount": 2680,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.294272"
+  }
+}

@@ -4,7 +4,7 @@
 
 ## Dataset Overview
 
-This repository contains the complete SASAP (Statewide Alaska Salmon Assessment Program) historical fish count dataset, converted to the ADFG standard format for compatibility with the Alaska Fish Count App.
+This repository contains the complete SASAP (State of Alaska Salmon and People) historical fish count dataset, converted to the ADFG standard format for compatibility with the Alaska Fish Count App.
 
 ### Statistics
 - **Total Files**: 7,940 JSON files
@@ -60,9 +60,6 @@ This dataset contains **148 locations** across Alaska with historical fish count
 
 ### Complete Location List
 
-| Location ID | Location Name | Species Available |
-|-------------|---------------|-------------------|
-
 ## Species Coverage
 
 The dataset includes data for 21 fish species:
@@ -73,7 +70,7 @@ The dataset includes data for 21 fish species:
 
 ## Data Sources
 
-- **Primary Source**: SASAP (Statewide Alaska Salmon Assessment Program)
+- **Primary Source**: State of Alaska Salmon and People (SASAP)
 - **Original Format**: Converted from legacy SASAP format
 - **Conversion Date**: October 2, 2025
 - **Standard**: ADFG JSONDataSet format v3.0.0
@@ -136,6 +133,8 @@ For questions about this dataset, please contact the Alaska Fish Counts project 
 ---
 
 *This dataset represents one of the most comprehensive historical fish count collections in Alaska, spanning nearly a century of salmon and other fish species monitoring data.*
+| Location ID | Location Name | Species Available |
+|-------------|---------------|-------------------|
 | 2000 | <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2000">Karluk Late Run</a> | <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2000/410">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2000/420">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2000/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2000/440">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2000/450">chum</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2000/460">steelhead-up</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2000/470">steelhead-down</a> |
 | 2001 | <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2001">Ayakulik River</a> | <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2001/410">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2001/420">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2001/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2001/440">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2001/450">chum</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2001/460">steelhead-up</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2001/470">steelhead-down</a> |
 | 2002 | <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2002">Upper Station Late Run</a> | <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2002/410">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2002/420">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2002/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2002/440">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2002/450">chum</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2002/460">steelhead-up</a>, <a href="https://github.com/alaskafishcounts/adfg-sasap-dataset/tree/master/2002/470">steelhead-down</a> |

@@ -165,7 +165,7 @@ def generate_manifest():
             "format": "organized_by_location_year_species",
             "repository": "alaskafishcounts/adfg-sasap-dataset",
             "description": "SASAP Historical Fish Count Dataset",
-            "source": "SASAP (Statewide Alaska Salmon Assessment Program)",
+            "source": "State of Alaska Salmon and People (SASAP)",
             "years_covered": years_covered,
             "locations_with_data": len(organized),
             "species_covered": len(index_species),

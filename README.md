@@ -60,6 +60,157 @@ This dataset contains **148 locations** across Alaska with historical fish count
 
 ### Complete Location List
 
+| ID | Location Name | Species Available | Region |
+|----|---------------|------------------|--------|
+| 2000 | Karluk | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2001 | Ayakulik River | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2002 | Upper Station | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2003 | Litnik | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2004 | Dog Salmon Creek | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2005 | Buskin River | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2006 | Frazer Lake | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2007 | Akalura Creek | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2008 | Saltery Creek | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2009 | Pauls Bay | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2010 | Malina Creek | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2011 | Uganik River | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2012 | Big Bay Creek | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2013 | Lake Louise | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2014 | Little Waterfall | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2015 | Little Kitoi | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2016 | Portage | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2017 | Thorsheim | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2018 | Pasagshak River | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2019 | Horse Marine Stream | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2020 | Little River Steelhead | Steelhead Upstream, Steelhead Downstream | Kodiak |
+| 2021 | Seal Bay Creek | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2022 | Sturgeon River Steelhead | Steelhead Upstream, Steelhead Downstream | Kodiak |
+| 2023 | Red Lake | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2024 | Big Kitoi Creek | Chinook, Sockeye, Coho, Pink, Chum | Kodiak |
+| 2100 | Hugh Smith | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2101 | Auke Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2102 | Chilkoot Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2103 | Kluckshu Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2104 | Klawock River | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2105 | Redoubt Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2106 | Chilkat Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2107 | Situk Lower | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2108 | Ford Arm | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2109 | Hetta Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2110 | Speel Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2111 | Sashin Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2112 | Tahltan Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2113 | Salmon Lake Stream | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2114 | Karta River | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2115 | Neva Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2116 | Warm Chuck Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2117 | Sitkoh Lake Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2118 | Klag Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2119 | Lake Eva | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2120 | Falls Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2121 | Little Trapper Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2122 | Situk Nine Mile | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2123 | Kadashan West | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2124 | Kadashan East | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2125 | Little Tahltan River | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2126 | Little Tatsamenie | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2127 | Kook Lake Outlet | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2128 | Disappearance Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2129 | Kuthai Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2130 | Tatsamenie Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2131 | Mcdonald Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2132 | Andrews Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2133 | Anan Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2134 | Fish Creek Hyder | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2135 | Salmon Bay | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2136 | Redfish Bay | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2137 | Whale Pass | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2138 | Eagle Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2139 | Nakina River | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2140 | King Salmon River | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2141 | Nahlin River | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2142 | Crescent Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2143 | Kanalku Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2144 | Naha River | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2145 | Hatchery Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2146 | Klakas Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2147 | Hackett River | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2148 | King Salmon Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2149 | Ratz Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2150 | Yehring | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2151 | Kegan Cove | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2152 | Jordan Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2153 | Kanalku Lake Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2154 | Tahltan Lake Smolt | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2155 | Pleasant Bay | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2156 | Slippery Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2157 | Politofski Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2158 | Falls Lake Trap | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2159 | Mill Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2160 | Eek Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2161 | Windfall Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2162 | Sarkar | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2163 | Black Bear Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2164 | Kutlaku Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2165 | Ward Creek Steelhead | Steelhead Upstream, Steelhead Downstream | Southeast |
+| 2166 | Jordan Creek Smolt | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2167 | Cripple Ck Unuk R | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2168 | Kah Sheets | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2169 | Peterson Creek Steelhead | Steelhead Upstream, Steelhead Downstream | Southeast |
+| 2170 | Salt Chuck Security | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2171 | Duck Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2172 | Kadashan Lower | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2173 | Italio River General Dolly | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2174 | Snake Creek | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2175 | Natzuhini Creek Steelhead | Steelhead Upstream, Steelhead Downstream | Southeast |
+| 2176 | Harris Steelhead | Steelhead Upstream, Steelhead Downstream | Southeast |
+| 2177 | Duck Creek Smolt | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2178 | Mountain Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2179 | Ketili R Barns Lake | Chinook, Sockeye, Coho, Pink, Chum | Southeast |
+| 2200 | Kogrukluk River | Chinook, Sockeye, Coho, Pink, Chum | Southwest |
+| 2201 | Goodnews River Middle Fork | Chinook, Sockeye, Coho, Pink, Chum | Southwest |
+| 2202 | George River | Chinook, Sockeye, Coho, Pink, Chum | Southwest |
+| 2203 | Tatlawiksuk River | Chinook, Sockeye, Coho, Pink, Chum | Southwest |
+| 2204 | Takotna River | Chinook, Sockeye, Coho, Pink, Chum | Southwest |
+| 2205 | Salmon River Aniak | Chinook, Sockeye, Coho, Pink, Chum | Southwest |
+| 2206 | Kanektok River Unknown | Chinook, Sockeye, Coho, Pink, Chum | Southwest |
+| 2207 | Telaquana River | Chinook, Sockeye, Coho, Pink, Chum | Southwest |
+| 2300 | Nelson River | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2301 | Bear River | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2302 | Ilnik River | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2303 | Sandy River | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2304 | Orzinski River | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2305 | Mortensens Creek | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2306 | Mclees | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2307 | Frosty Creek | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2308 | Summer Bay | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2309 | Thin Point Cove | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2310 | Middle Lagoon | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2311 | Morris Cove | Chinook, Sockeye, Coho, Pink, Chum | Southcentral |
+| 2400 | Chignik River | Chinook, Sockeye, Coho, Pink, Chum | Alaska Peninsula |
+| 2401 | Bear Creek | Chinook, Sockeye, Coho, Pink, Chum | Alaska Peninsula |
+| 2402 | Black Lake | Chinook, Sockeye, Coho, Pink, Chum | Alaska Peninsula |
+| 2500 | Pilot Station Sonar Whitefish | Whitefish | Yukon River |
+| 2501 | Anvik River | Chinook, Sockeye, Coho, Pink, Chum | Yukon River |
+| 2502 | Eagle Sonar Yukon Canadian Border | Chinook, Sockeye, Coho, Pink, Chum | Yukon River |
+| 2600 | Nushagak River | Chinook, Sockeye, Coho, Pink, Chum | Bristol Bay |
+| 2601 | Egegik River | Chinook, Sockeye, Coho, Pink, Chum | Bristol Bay |
+| 2602 | Wood River | Chinook, Sockeye, Coho, Pink, Chum | Bristol Bay |
+| 2603 | Naknek River | Chinook, Sockeye, Coho, Pink, Chum | Bristol Bay |
+| 2604 | Kvichak River | Chinook, Sockeye, Coho, Pink, Chum | Bristol Bay |
+| 2605 | Togiak River | Chinook, Sockeye, Coho, Pink, Chum | Bristol Bay |
+| 2606 | Igushik River | Chinook, Sockeye, Coho, Pink, Chum | Bristol Bay |
+| 2607 | Ugashik River | Chinook, Sockeye, Coho, Pink, Chum | Bristol Bay |
+| 2700 | Miles Lake | Chinook, Sockeye, Coho, Pink, Chum | Copper River |
+| 2701 | Coghill River | Chinook, Sockeye, Coho, Pink, Chum | Copper River |
+| 2702 | Eshamy River | Chinook, Sockeye, Coho, Pink, Chum | Copper River |
+| 2800 | Kasilof River | Chinook, Sockeye, Coho, Pink, Chum | Cook Inlet |
+| 2801 | Kenai River | Chinook, Sockeye, Coho, Pink, Chum | Cook Inlet |
+| 2802 | Larson Lake | Chinook, Sockeye, Coho, Pink, Chum | Cook Inlet |
+| 2803 | Chelatna Lake | Chinook, Sockeye, Coho, Pink, Chum | Cook Inlet |
+| 2804 | Judd Lake | Chinook, Sockeye, Coho, Pink, Chum | Cook Inlet |
+| 2805 | Crescent River | Chinook, Sockeye, Coho, Pink, Chum | Cook Inlet |
+
 ## Species Coverage
 
 The dataset includes data for 21 fish species:

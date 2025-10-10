@@ -9,12 +9,18 @@
     },
     "format": "organized_by_location_year_species",
     "generated_date": "2025-10-06T14:45:00Z",
-    "description": "Complete manifest for SASAP Dataset - covers ALL data files"
+    "description": "Complete manifest for SASAP Dataset - covers ALL data files",
+    "last_updated": "2025-10-10T08:17:16.808097Z",
+    "location_name_fixes": {
+      "date": "2025-10-10T08:17:16.808106Z",
+      "fixes_applied": 148,
+      "description": "Fixed generic Station XXXX names to proper location names"
+    }
   },
   "organized": {
     "2013": {
-      "name": "Station 2013",
-      "slug": "station-2013",
+      "name": "Lake Louise",
+      "slug": "lake-louise",
       "region": "Unknown",
       "total_files": 31,
       "species": {
@@ -140,8 +146,8 @@
       "method": "SASAP"
     },
     "2014": {
-      "name": "Station 2014",
-      "slug": "station-2014",
+      "name": "Little Waterfall",
+      "slug": "little-waterfall",
       "region": "Unknown",
       "total_files": 39,
       "species": {
@@ -283,8 +289,8 @@
       "method": "SASAP"
     },
     "2022": {
-      "name": "Station 2022",
-      "slug": "station-2022",
+      "name": "Sturgeon River Steelhead",
+      "slug": "sturgeon-river-steelhead",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -322,8 +328,8 @@
       "method": "SASAP"
     },
     "2024": {
-      "name": "Station 2024",
-      "slug": "station-2024",
+      "name": "Big Kitoi Creek",
+      "slug": "big-kitoi-creek",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -346,8 +352,8 @@
       "method": "SASAP"
     },
     "2023": {
-      "name": "Station 2023",
-      "slug": "station-2023",
+      "name": "Red Lake",
+      "slug": "red-lake",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -394,8 +400,8 @@
       "method": "SASAP"
     },
     "2015": {
-      "name": "Station 2015",
-      "slug": "station-2015",
+      "name": "Little Kitoi",
+      "slug": "little-kitoi",
       "region": "Unknown",
       "total_files": 26,
       "species": {
@@ -484,8 +490,8 @@
       "method": "SASAP"
     },
     "2012": {
-      "name": "Station 2012",
-      "slug": "station-2012",
+      "name": "Big Bay Creek",
+      "slug": "big-bay-creek",
       "region": "Unknown",
       "total_files": 53,
       "species": {
@@ -646,8 +652,8 @@
       "method": "SASAP"
     },
     "2160": {
-      "name": "Station 2160",
-      "slug": "station-2160",
+      "name": "Eek Lake",
+      "slug": "eek-lake",
       "region": "Unknown",
       "total_files": 6,
       "species": {
@@ -696,8 +702,8 @@
       "method": "SASAP"
     },
     "2158": {
-      "name": "Station 2158",
-      "slug": "station-2158",
+      "name": "Falls Lake Trap",
+      "slug": "falls-lake-trap",
       "region": "Unknown",
       "total_files": 11,
       "species": {
@@ -774,8 +780,8 @@
       "method": "SASAP"
     },
     "2167": {
-      "name": "Station 2167",
-      "slug": "station-2167",
+      "name": "Cripple Ck Unuk R",
+      "slug": "cripple-ck-unuk-r",
       "region": "Unknown",
       "total_files": 6,
       "species": {
@@ -824,8 +830,8 @@
       "method": "SASAP"
     },
     "2151": {
-      "name": "Station 2151",
-      "slug": "station-2151",
+      "name": "Kegan Cove",
+      "slug": "kegan-cove",
       "region": "Unknown",
       "total_files": 8,
       "species": {
@@ -887,8 +893,8 @@
       "method": "SASAP"
     },
     "2169": {
-      "name": "Station 2169",
-      "slug": "station-2169",
+      "name": "Peterson Creek Steelhead",
+      "slug": "peterson-creek-steelhead",
       "region": "Unknown",
       "total_files": 3,
       "species": {
@@ -913,8 +919,8 @@
       "method": "SASAP"
     },
     "2156": {
-      "name": "Station 2156",
-      "slug": "station-2156",
+      "name": "Slippery Creek",
+      "slug": "slippery-creek",
       "region": "Unknown",
       "total_files": 22,
       "species": {
@@ -1022,8 +1028,8 @@
       "method": "SASAP"
     },
     "2700": {
-      "name": "Station 2700",
-      "slug": "station-2700",
+      "name": "Miles Lake",
+      "slug": "miles-lake",
       "region": "Unknown",
       "total_files": 9,
       "species": {
@@ -1069,8 +1075,8 @@
       "method": "SASAP"
     },
     "2102": {
-      "name": "Station 2102",
-      "slug": "station-2102",
+      "name": "Chilkoot Lake",
+      "slug": "chilkoot-lake",
       "region": "Unknown",
       "total_files": 215,
       "species": {
@@ -1564,8 +1570,8 @@
       "method": "SASAP"
     },
     "2105": {
-      "name": "Station 2105",
-      "slug": "station-2105",
+      "name": "Redoubt Lake",
+      "slug": "redoubt-lake",
       "region": "Unknown",
       "total_files": 167,
       "species": {
@@ -1972,8 +1978,8 @@
       "method": "SASAP"
     },
     "2308": {
-      "name": "Station 2308",
-      "slug": "station-2308",
+      "name": "Summer Bay",
+      "slug": "summer-bay",
       "region": "Unknown",
       "total_files": 12,
       "species": {
@@ -2034,8 +2040,8 @@
       "method": "SASAP"
     },
     "2301": {
-      "name": "Station 2301",
-      "slug": "station-2301",
+      "name": "Bear River",
+      "slug": "bear-river",
       "region": "Unknown",
       "total_files": 142,
       "species": {
@@ -2374,8 +2380,8 @@
       "method": "SASAP"
     },
     "2133": {
-      "name": "Station 2133",
-      "slug": "station-2133",
+      "name": "Anan Creek",
+      "slug": "anan-creek",
       "region": "Unknown",
       "total_files": 29,
       "species": {
@@ -2488,8 +2494,8 @@
       "method": "SASAP"
     },
     "2134": {
-      "name": "Station 2134",
-      "slug": "station-2134",
+      "name": "Fish Creek Hyder",
+      "slug": "fish-creek-hyder",
       "region": "Unknown",
       "total_files": 20,
       "species": {
@@ -2584,8 +2590,8 @@
       "method": "SASAP"
     },
     "2306": {
-      "name": "Station 2306",
-      "slug": "station-2306",
+      "name": "Mclees",
+      "slug": "mclees",
       "region": "Unknown",
       "total_files": 29,
       "species": {
@@ -2698,8 +2704,8 @@
       "method": "SASAP"
     },
     "2168": {
-      "name": "Station 2168",
-      "slug": "station-2168",
+      "name": "Kah Sheets",
+      "slug": "kah-sheets",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -2744,8 +2750,8 @@
       "method": "SASAP"
     },
     "2157": {
-      "name": "Station 2157",
-      "slug": "station-2157",
+      "name": "Politofski Lake",
+      "slug": "politofski-lake",
       "region": "Unknown",
       "total_files": 11,
       "species": {
@@ -2840,8 +2846,8 @@
       "method": "SASAP"
     },
     "2701": {
-      "name": "Station 2701",
-      "slug": "station-2701",
+      "name": "Coghill River",
+      "slug": "coghill-river",
       "region": "Unknown",
       "total_files": 23,
       "species": {
@@ -2951,8 +2957,8 @@
       "method": "SASAP"
     },
     "2150": {
-      "name": "Station 2150",
-      "slug": "station-2150",
+      "name": "Yehring",
+      "slug": "yehring",
       "region": "Unknown",
       "total_files": 17,
       "species": {
@@ -3032,8 +3038,8 @@
       "method": "SASAP"
     },
     "2159": {
-      "name": "Station 2159",
-      "slug": "station-2159",
+      "name": "Mill Creek",
+      "slug": "mill-creek",
       "region": "Unknown",
       "total_files": 15,
       "species": {
@@ -3136,8 +3142,8 @@
       "method": "SASAP"
     },
     "2166": {
-      "name": "Station 2166",
-      "slug": "station-2166",
+      "name": "Jordan Creek Smolt",
+      "slug": "jordan-creek-smolt",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -3191,8 +3197,8 @@
       "method": "SASAP"
     },
     "2502": {
-      "name": "Station 2502",
-      "slug": "station-2502",
+      "name": "Eagle Sonar Yukon Canadian Border",
+      "slug": "eagle-sonar-yukon-canadian-border",
       "region": "Unknown",
       "total_files": 23,
       "species": {
@@ -3266,8 +3272,8 @@
       "method": "SASAP"
     },
     "2161": {
-      "name": "Station 2161",
-      "slug": "station-2161",
+      "name": "Windfall Creek",
+      "slug": "windfall-creek",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -3332,8 +3338,8 @@
       "method": "SASAP"
     },
     "2307": {
-      "name": "Station 2307",
-      "slug": "station-2307",
+      "name": "Frosty Creek",
+      "slug": "frosty-creek",
       "region": "Unknown",
       "total_files": 9,
       "species": {
@@ -3406,8 +3412,8 @@
       "method": "SASAP"
     },
     "2135": {
-      "name": "Station 2135",
-      "slug": "station-2135",
+      "name": "Salmon Bay",
+      "slug": "salmon-bay",
       "region": "Unknown",
       "total_files": 16,
       "species": {
@@ -3485,8 +3491,8 @@
       "method": "SASAP"
     },
     "2132": {
-      "name": "Station 2132",
-      "slug": "station-2132",
+      "name": "Andrews Creek",
+      "slug": "andrews-creek",
       "region": "Unknown",
       "total_files": 50,
       "species": {
@@ -3659,8 +3665,8 @@
       "method": "SASAP"
     },
     "2300": {
-      "name": "Station 2300",
-      "slug": "station-2300",
+      "name": "Nelson River",
+      "slug": "nelson-river",
       "region": "Unknown",
       "total_files": 161,
       "species": {
@@ -4037,8 +4043,8 @@
       "method": "SASAP"
     },
     "2104": {
-      "name": "Station 2104",
-      "slug": "station-2104",
+      "name": "Klawock River",
+      "slug": "klawock-river",
       "region": "Unknown",
       "total_files": 130,
       "species": {
@@ -4371,8 +4377,8 @@
       "method": "SASAP"
     },
     "2309": {
-      "name": "Station 2309",
-      "slug": "station-2309",
+      "name": "Thin Point Cove",
+      "slug": "thin-point-cove",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -4401,8 +4407,8 @@
       "method": "SASAP"
     },
     "2103": {
-      "name": "Station 2103",
-      "slug": "station-2103",
+      "name": "Kluckshu Lake",
+      "slug": "kluckshu-lake",
       "region": "Unknown",
       "total_files": 112,
       "species": {
@@ -4663,8 +4669,8 @@
       "method": "SASAP"
     },
     "2121": {
-      "name": "Station 2121",
-      "slug": "station-2121",
+      "name": "Little Trapper Lake",
+      "slug": "little-trapper-lake",
       "region": "Unknown",
       "total_files": 34,
       "species": {
@@ -4751,8 +4757,8 @@
       "method": "SASAP"
     },
     "2119": {
-      "name": "Station 2119",
-      "slug": "station-2119",
+      "name": "Lake Eva",
+      "slug": "lake-eva",
       "region": "Unknown",
       "total_files": 23,
       "species": {
@@ -4862,8 +4868,8 @@
       "method": "SASAP"
     },
     "2126": {
-      "name": "Station 2126",
-      "slug": "station-2126",
+      "name": "Little Tatsamenie",
+      "slug": "little-tatsamenie",
       "region": "Unknown",
       "total_files": 30,
       "species": {
@@ -4960,8 +4966,8 @@
       "method": "SASAP"
     },
     "2110": {
-      "name": "Station 2110",
-      "slug": "station-2110",
+      "name": "Speel Lake",
+      "slug": "speel-lake",
       "region": "Unknown",
       "total_files": 106,
       "species": {
@@ -5237,8 +5243,8 @@
       "method": "SASAP"
     },
     "2128": {
-      "name": "Station 2128",
-      "slug": "station-2128",
+      "name": "Disappearance Creek",
+      "slug": "disappearance-creek",
       "region": "Unknown",
       "total_files": 53,
       "species": {
@@ -5390,8 +5396,8 @@
       "method": "SASAP"
     },
     "2117": {
-      "name": "Station 2117",
-      "slug": "station-2117",
+      "name": "Sitkoh Lake Creek",
+      "slug": "sitkoh-lake-creek",
       "region": "Unknown",
       "total_files": 40,
       "species": {
@@ -5535,8 +5541,8 @@
       "method": "SASAP"
     },
     "2143": {
-      "name": "Station 2143",
-      "slug": "station-2143",
+      "name": "Kanalku Lake",
+      "slug": "kanalku-lake",
       "region": "Unknown",
       "total_files": 10,
       "species": {
@@ -5575,8 +5581,8 @@
       "method": "SASAP"
     },
     "2144": {
-      "name": "Station 2144",
-      "slug": "station-2144",
+      "name": "Naha River",
+      "slug": "naha-river",
       "region": "Unknown",
       "total_files": 16,
       "species": {
@@ -5654,8 +5660,8 @@
       "method": "SASAP"
     },
     "2172": {
-      "name": "Station 2172",
-      "slug": "station-2172",
+      "name": "Kadashan Lower",
+      "slug": "kadashan-lower",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -5709,8 +5715,8 @@
       "method": "SASAP"
     },
     "2175": {
-      "name": "Station 2175",
-      "slug": "station-2175",
+      "name": "Natzuhini Creek Steelhead",
+      "slug": "natzuhini-creek-steelhead",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -5731,8 +5737,8 @@
       "method": "SASAP"
     },
     "2129": {
-      "name": "Station 2129",
-      "slug": "station-2129",
+      "name": "Kuthai Lake",
+      "slug": "kuthai-lake",
       "region": "Unknown",
       "total_files": 28,
       "species": {
@@ -5816,8 +5822,8 @@
       "method": "SASAP"
     },
     "2116": {
-      "name": "Station 2116",
-      "slug": "station-2116",
+      "name": "Warm Chuck Lake",
+      "slug": "warm-chuck-lake",
       "region": "Unknown",
       "total_files": 70,
       "species": {
@@ -6030,8 +6036,8 @@
       "method": "SASAP"
     },
     "2111": {
-      "name": "Station 2111",
-      "slug": "station-2111",
+      "name": "Sashin Creek",
+      "slug": "sashin-creek",
       "region": "Unknown",
       "total_files": 128,
       "species": {
@@ -6351,8 +6357,8 @@
       "method": "SASAP"
     },
     "2118": {
-      "name": "Station 2118",
-      "slug": "station-2118",
+      "name": "Klag Lake",
+      "slug": "klag-lake",
       "region": "Unknown",
       "total_files": 57,
       "species": {
@@ -6530,8 +6536,8 @@
       "method": "SASAP"
     },
     "2127": {
-      "name": "Station 2127",
-      "slug": "station-2127",
+      "name": "Kook Lake Outlet",
+      "slug": "kook-lake-outlet",
       "region": "Unknown",
       "total_files": 41,
       "species": {
@@ -6686,8 +6692,8 @@
       "method": "SASAP"
     },
     "2120": {
-      "name": "Station 2120",
-      "slug": "station-2120",
+      "name": "Falls Lake",
+      "slug": "falls-lake",
       "region": "Unknown",
       "total_files": 69,
       "species": {
@@ -6889,8 +6895,8 @@
       "method": "SASAP"
     },
     "2174": {
-      "name": "Station 2174",
-      "slug": "station-2174",
+      "name": "Snake Creek",
+      "slug": "snake-creek",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -6937,8 +6943,8 @@
       "method": "SASAP"
     },
     "2173": {
-      "name": "Station 2173",
-      "slug": "station-2173",
+      "name": "Italio River General Dolly",
+      "slug": "italio-river-general-dolly",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -6974,8 +6980,8 @@
       "method": "SASAP"
     },
     "2145": {
-      "name": "Station 2145",
-      "slug": "station-2145",
+      "name": "Hatchery Creek",
+      "slug": "hatchery-creek",
       "region": "Unknown",
       "total_files": 16,
       "species": {
@@ -7062,8 +7068,8 @@
       "method": "SASAP"
     },
     "2142": {
-      "name": "Station 2142",
-      "slug": "station-2142",
+      "name": "Crescent Lake",
+      "slug": "crescent-lake",
       "region": "Unknown",
       "total_files": 17,
       "species": {
@@ -7161,8 +7167,8 @@
       "method": "SASAP"
     },
     "2202": {
-      "name": "Station 2202",
-      "slug": "station-2202",
+      "name": "George River",
+      "slug": "george-river",
       "region": "Unknown",
       "total_files": 78,
       "species": {
@@ -7364,8 +7370,8 @@
       "method": "SASAP"
     },
     "2008": {
-      "name": "Station 2008",
-      "slug": "station-2008",
+      "name": "Saltery Creek",
+      "slug": "saltery-creek",
       "region": "Unknown",
       "total_files": 149,
       "species": {
@@ -7736,8 +7742,8 @@
       "method": "SASAP"
     },
     "2205": {
-      "name": "Station 2205",
-      "slug": "station-2205",
+      "name": "Salmon River Aniak",
+      "slug": "salmon-river-aniak",
       "region": "Unknown",
       "total_files": 32,
       "species": {
@@ -7847,8 +7853,8 @@
       "method": "SASAP"
     },
     "2802": {
-      "name": "Station 2802",
-      "slug": "station-2802",
+      "name": "Larson Lake",
+      "slug": "larson-lake",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -7875,8 +7881,8 @@
       "method": "SASAP"
     },
     "2001": {
-      "name": "Station 2001",
-      "slug": "station-2001",
+      "name": "Ayakulik River",
+      "slug": "ayakulik-river",
       "region": "Unknown",
       "total_files": 382,
       "species": {
@@ -8713,8 +8719,8 @@
       "method": "SASAP"
     },
     "2805": {
-      "name": "Station 2805",
-      "slug": "station-2805",
+      "name": "Crescent River",
+      "slug": "crescent-river",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -8737,8 +8743,8 @@
       "method": "SASAP"
     },
     "2006": {
-      "name": "Station 2006",
-      "slug": "station-2006",
+      "name": "Frazer Lake",
+      "slug": "frazer-lake",
       "region": "Unknown",
       "total_files": 171,
       "species": {
@@ -9144,8 +9150,8 @@
       "method": "SASAP"
     },
     "2604": {
-      "name": "Station 2604",
-      "slug": "station-2604",
+      "name": "Kvichak River",
+      "slug": "kvichak-river",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -9174,8 +9180,8 @@
       "method": "SASAP"
     },
     "2603": {
-      "name": "Station 2603",
-      "slug": "station-2603",
+      "name": "Naknek River",
+      "slug": "naknek-river",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -9204,8 +9210,8 @@
       "method": "SASAP"
     },
     "2400": {
-      "name": "Station 2400",
-      "slug": "station-2400",
+      "name": "Chignik River",
+      "slug": "chignik-river",
       "region": "Unknown",
       "total_files": 218,
       "species": {
@@ -9696,8 +9702,8 @@
       "method": "SASAP"
     },
     "2804": {
-      "name": "Station 2804",
-      "slug": "station-2804",
+      "name": "Judd Lake",
+      "slug": "judd-lake",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -9724,8 +9730,8 @@
       "method": "SASAP"
     },
     "2007": {
-      "name": "Station 2007",
-      "slug": "station-2007",
+      "name": "Akalura Creek",
+      "slug": "akalura-creek",
       "region": "Unknown",
       "total_files": 176,
       "species": {
@@ -10150,8 +10156,8 @@
       "method": "SASAP"
     },
     "2803": {
-      "name": "Station 2803",
-      "slug": "station-2803",
+      "name": "Chelatna Lake",
+      "slug": "chelatna-lake",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -10178,8 +10184,8 @@
       "method": "SASAP"
     },
     "2000": {
-      "name": "Station 2000",
-      "slug": "station-2000",
+      "name": "Karluk",
+      "slug": "karluk",
       "region": "Unknown",
       "total_files": 458,
       "species": {
@@ -11168,8 +11174,8 @@
       "method": "SASAP"
     },
     "2009": {
-      "name": "Station 2009",
-      "slug": "station-2009",
+      "name": "Pauls Bay",
+      "slug": "pauls-bay",
       "region": "Unknown",
       "total_files": 102,
       "species": {
@@ -11446,8 +11452,8 @@
       "method": "SASAP"
     },
     "2204": {
-      "name": "Station 2204",
-      "slug": "station-2204",
+      "name": "Takotna River",
+      "slug": "takotna-river",
       "region": "Unknown",
       "total_files": 56,
       "species": {
@@ -11605,8 +11611,8 @@
       "method": "SASAP"
     },
     "2203": {
-      "name": "Station 2203",
-      "slug": "station-2203",
+      "name": "Tatlawiksuk River",
+      "slug": "tatlawiksuk-river",
       "region": "Unknown",
       "total_files": 67,
       "species": {
@@ -11786,8 +11792,8 @@
       "method": "SASAP"
     },
     "2401": {
-      "name": "Station 2401",
-      "slug": "station-2401",
+      "name": "Bear Creek",
+      "slug": "bear-creek",
       "region": "Unknown",
       "total_files": 39,
       "species": {
@@ -11911,8 +11917,8 @@
       "method": "SASAP"
     },
     "2602": {
-      "name": "Station 2602",
-      "slug": "station-2602",
+      "name": "Wood River",
+      "slug": "wood-river",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -11941,8 +11947,8 @@
       "method": "SASAP"
     },
     "2605": {
-      "name": "Station 2605",
-      "slug": "station-2605",
+      "name": "Togiak River",
+      "slug": "togiak-river",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -11971,8 +11977,8 @@
       "method": "SASAP"
     },
     "2017": {
-      "name": "Station 2017",
-      "slug": "station-2017",
+      "name": "Thorsheim",
+      "slug": "thorsheim",
       "region": "Unknown",
       "total_files": 13,
       "species": {
@@ -12071,8 +12077,8 @@
       "method": "SASAP"
     },
     "2010": {
-      "name": "Station 2010",
-      "slug": "station-2010",
+      "name": "Malina Creek",
+      "slug": "malina-creek",
       "region": "Unknown",
       "total_files": 43,
       "species": {
@@ -12222,8 +12228,8 @@
       "method": "SASAP"
     },
     "2019": {
-      "name": "Station 2019",
-      "slug": "station-2019",
+      "name": "Horse Marine Stream",
+      "slug": "horse-marine-stream",
       "region": "Unknown",
       "total_files": 15,
       "species": {
@@ -12299,8 +12305,8 @@
       "method": "SASAP"
     },
     "2021": {
-      "name": "Station 2021",
-      "slug": "station-2021",
+      "name": "Seal Bay Creek",
+      "slug": "seal-bay-creek",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -12347,8 +12353,8 @@
       "method": "SASAP"
     },
     "2020": {
-      "name": "Station 2020",
-      "slug": "station-2020",
+      "name": "Little River Steelhead",
+      "slug": "little-river-steelhead",
       "region": "Unknown",
       "total_files": 6,
       "species": {
@@ -12397,8 +12403,8 @@
       "method": "SASAP"
     },
     "2018": {
-      "name": "Station 2018",
-      "slug": "station-2018",
+      "name": "Pasagshak River",
+      "slug": "pasagshak-river",
       "region": "Unknown",
       "total_files": 21,
       "species": {
@@ -12495,8 +12501,8 @@
       "method": "SASAP"
     },
     "2011": {
-      "name": "Station 2011",
-      "slug": "station-2011",
+      "name": "Uganik River",
+      "slug": "uganik-river",
       "region": "Unknown",
       "total_files": 37,
       "species": {
@@ -12643,8 +12649,8 @@
       "method": "SASAP"
     },
     "2016": {
-      "name": "Station 2016",
-      "slug": "station-2016",
+      "name": "Portage",
+      "slug": "portage",
       "region": "Unknown",
       "total_files": 23,
       "species": {
@@ -12754,8 +12760,8 @@
       "method": "SASAP"
     },
     "2106": {
-      "name": "Station 2106",
-      "slug": "station-2106",
+      "name": "Chilkat Lake",
+      "slug": "chilkat-lake",
       "region": "Unknown",
       "total_files": 120,
       "species": {
@@ -13050,8 +13056,8 @@
       "method": "SASAP"
     },
     "2139": {
-      "name": "Station 2139",
-      "slug": "station-2139",
+      "name": "Nakina River",
+      "slug": "nakina-river",
       "region": "Unknown",
       "total_files": 35,
       "species": {
@@ -13158,8 +13164,8 @@
       "method": "SASAP"
     },
     "2101": {
-      "name": "Station 2101",
-      "slug": "station-2101",
+      "name": "Auke Creek",
+      "slug": "auke-creek",
       "region": "Unknown",
       "total_files": 270,
       "species": {
@@ -13772,8 +13778,8 @@
       "method": "SASAP"
     },
     "2305": {
-      "name": "Station 2305",
-      "slug": "station-2305",
+      "name": "Mortensens Creek",
+      "slug": "mortensens-creek",
       "region": "Unknown",
       "total_files": 23,
       "species": {
@@ -13874,8 +13880,8 @@
       "method": "SASAP"
     },
     "2137": {
-      "name": "Station 2137",
-      "slug": "station-2137",
+      "name": "Whale Pass",
+      "slug": "whale-pass",
       "region": "Unknown",
       "total_files": 41,
       "species": {
@@ -14003,8 +14009,8 @@
       "method": "SASAP"
     },
     "2108": {
-      "name": "Station 2108",
-      "slug": "station-2108",
+      "name": "Ford Arm",
+      "slug": "ford-arm",
       "region": "Unknown",
       "total_files": 166,
       "species": {
@@ -14409,8 +14415,8 @@
       "method": "SASAP"
     },
     "2130": {
-      "name": "Station 2130",
-      "slug": "station-2130",
+      "name": "Tatsamenie Lake",
+      "slug": "tatsamenie-lake",
       "region": "Unknown",
       "total_files": 24,
       "species": {
@@ -14495,8 +14501,8 @@
       "method": "SASAP"
     },
     "2302": {
-      "name": "Station 2302",
-      "slug": "station-2302",
+      "name": "Ilnik River",
+      "slug": "ilnik-river",
       "region": "Unknown",
       "total_files": 78,
       "species": {
@@ -14707,8 +14713,8 @@
       "method": "SASAP"
     },
     "2164": {
-      "name": "Station 2164",
-      "slug": "station-2164",
+      "name": "Kutlaku Creek",
+      "slug": "kutlaku-creek",
       "region": "Unknown",
       "total_files": 7,
       "species": {
@@ -14795,8 +14801,8 @@
       "method": "SASAP"
     },
     "2500": {
-      "name": "Station 2500",
-      "slug": "station-2500",
+      "name": "Pilot Station Sonar Whitefish",
+      "slug": "pilot-station-sonar-whitefish",
       "region": "Unknown",
       "total_files": 185,
       "species": {
@@ -15257,8 +15263,8 @@
       "method": "SASAP"
     },
     "2163": {
-      "name": "Station 2163",
-      "slug": "station-2163",
+      "name": "Black Bear Creek",
+      "slug": "black-bear-creek",
       "region": "Unknown",
       "total_files": 7,
       "species": {
@@ -15318,8 +15324,8 @@
       "method": "SASAP"
     },
     "2155": {
-      "name": "Station 2155",
-      "slug": "station-2155",
+      "name": "Pleasant Bay",
+      "slug": "pleasant-bay",
       "region": "Unknown",
       "total_files": 9,
       "species": {
@@ -15383,8 +15389,8 @@
       "method": "SASAP"
     },
     "2152": {
-      "name": "Station 2152",
-      "slug": "station-2152",
+      "name": "Jordan Creek",
+      "slug": "jordan-creek",
       "region": "Unknown",
       "total_files": 17,
       "species": {
@@ -15482,8 +15488,8 @@
       "method": "SASAP"
     },
     "2303": {
-      "name": "Station 2303",
-      "slug": "station-2303",
+      "name": "Sandy River",
+      "slug": "sandy-river",
       "region": "Unknown",
       "total_files": 91,
       "species": {
@@ -15711,8 +15717,8 @@
       "method": "SASAP"
     },
     "2131": {
-      "name": "Station 2131",
-      "slug": "station-2131",
+      "name": "Mcdonald Lake",
+      "slug": "mcdonald-lake",
       "region": "Unknown",
       "total_files": 37,
       "species": {
@@ -15859,8 +15865,8 @@
       "method": "SASAP"
     },
     "2136": {
-      "name": "Station 2136",
-      "slug": "station-2136",
+      "name": "Redfish Bay",
+      "slug": "redfish-bay",
       "region": "Unknown",
       "total_files": 17,
       "species": {
@@ -15949,8 +15955,8 @@
       "method": "SASAP"
     },
     "2304": {
-      "name": "Station 2304",
-      "slug": "station-2304",
+      "name": "Orzinski River",
+      "slug": "orzinski-river",
       "region": "Unknown",
       "total_files": 66,
       "species": {
@@ -16137,8 +16143,8 @@
       "method": "SASAP"
     },
     "2109": {
-      "name": "Station 2109",
-      "slug": "station-2109",
+      "name": "Hetta Lake",
+      "slug": "hetta-lake",
       "region": "Unknown",
       "total_files": 81,
       "species": {
@@ -16373,8 +16379,8 @@
       "method": "SASAP"
     },
     "2100": {
-      "name": "Station 2100",
-      "slug": "station-2100",
+      "name": "Hugh Smith",
+      "slug": "hugh-smith",
       "region": "Unknown",
       "total_files": 222,
       "species": {
@@ -16891,8 +16897,8 @@
       "method": "SASAP"
     },
     "2107": {
-      "name": "Station 2107",
-      "slug": "station-2107",
+      "name": "Situk Lower",
+      "slug": "situk-lower",
       "region": "Unknown",
       "total_files": 158,
       "species": {
@@ -17281,8 +17287,8 @@
       "method": "SASAP"
     },
     "2138": {
-      "name": "Station 2138",
-      "slug": "station-2138",
+      "name": "Eagle Creek",
+      "slug": "eagle-creek",
       "region": "Unknown",
       "total_files": 16,
       "species": {
@@ -17360,8 +17366,8 @@
       "method": "SASAP"
     },
     "2153": {
-      "name": "Station 2153",
-      "slug": "station-2153",
+      "name": "Kanalku Lake Creek",
+      "slug": "kanalku-lake-creek",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -17390,8 +17396,8 @@
       "method": "SASAP"
     },
     "2154": {
-      "name": "Station 2154",
-      "slug": "station-2154",
+      "name": "Tahltan Lake Smolt",
+      "slug": "tahltan-lake-smolt",
       "region": "Unknown",
       "total_files": 9,
       "species": {
@@ -17437,8 +17443,8 @@
       "method": "SASAP"
     },
     "2702": {
-      "name": "Station 2702",
-      "slug": "station-2702",
+      "name": "Eshamy River",
+      "slug": "eshamy-river",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -17459,8 +17465,8 @@
       "method": "SASAP"
     },
     "2162": {
-      "name": "Station 2162",
-      "slug": "station-2162",
+      "name": "Sarkar",
+      "slug": "sarkar",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -17505,8 +17511,8 @@
       "method": "SASAP"
     },
     "2165": {
-      "name": "Station 2165",
-      "slug": "station-2165",
+      "name": "Ward Creek Steelhead",
+      "slug": "ward-creek-steelhead",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -17529,8 +17535,8 @@
       "method": "SASAP"
     },
     "2501": {
-      "name": "Station 2501",
-      "slug": "station-2501",
+      "name": "Anvik River",
+      "slug": "anvik-river",
       "region": "Unknown",
       "total_files": 48,
       "species": {
@@ -17654,8 +17660,8 @@
       "method": "SASAP"
     },
     "2147": {
-      "name": "Station 2147",
-      "slug": "station-2147",
+      "name": "Hackett River",
+      "slug": "hackett-river",
       "region": "Unknown",
       "total_files": 12,
       "species": {
@@ -17716,8 +17722,8 @@
       "method": "SASAP"
     },
     "2178": {
-      "name": "Station 2178",
-      "slug": "station-2178",
+      "name": "Mountain Lake",
+      "slug": "mountain-lake",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -17738,8 +17744,8 @@
       "method": "SASAP"
     },
     "2140": {
-      "name": "Station 2140",
-      "slug": "station-2140",
+      "name": "King Salmon River",
+      "slug": "king-salmon-river",
       "region": "Unknown",
       "total_files": 27,
       "species": {
@@ -17830,8 +17836,8 @@
       "method": "SASAP"
     },
     "2176": {
-      "name": "Station 2176",
-      "slug": "station-2176",
+      "name": "Harris Steelhead",
+      "slug": "harris-steelhead",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -17852,8 +17858,8 @@
       "method": "SASAP"
     },
     "2149": {
-      "name": "Station 2149",
-      "slug": "station-2149",
+      "name": "Ratz Creek",
+      "slug": "ratz-creek",
       "region": "Unknown",
       "total_files": 11,
       "species": {
@@ -17939,8 +17945,8 @@
       "method": "SASAP"
     },
     "2171": {
-      "name": "Station 2171",
-      "slug": "station-2171",
+      "name": "Duck Creek",
+      "slug": "duck-creek",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -17985,8 +17991,8 @@
       "method": "SASAP"
     },
     "2125": {
-      "name": "Station 2125",
-      "slug": "station-2125",
+      "name": "Little Tahltan River",
+      "slug": "little-tahltan-river",
       "region": "Unknown",
       "total_files": 31,
       "species": {
@@ -18076,8 +18082,8 @@
       "method": "SASAP"
     },
     "2310": {
-      "name": "Station 2310",
-      "slug": "station-2310",
+      "name": "Middle Lagoon",
+      "slug": "middle-lagoon",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -18100,8 +18106,8 @@
       "method": "SASAP"
     },
     "2122": {
-      "name": "Station 2122",
-      "slug": "station-2122",
+      "name": "Situk Nine Mile",
+      "slug": "situk-nine-mile",
       "region": "Unknown",
       "total_files": 32,
       "species": {
@@ -18220,8 +18226,8 @@
       "method": "SASAP"
     },
     "2114": {
-      "name": "Station 2114",
-      "slug": "station-2114",
+      "name": "Karta River",
+      "slug": "karta-river",
       "region": "Unknown",
       "total_files": 58,
       "species": {
@@ -18401,8 +18407,8 @@
       "method": "SASAP"
     },
     "2113": {
-      "name": "Station 2113",
-      "slug": "station-2113",
+      "name": "Salmon Lake Stream",
+      "slug": "salmon-lake-stream",
       "region": "Unknown",
       "total_files": 71,
       "species": {
@@ -18617,8 +18623,8 @@
       "method": "SASAP"
     },
     "2170": {
-      "name": "Station 2170",
-      "slug": "station-2170",
+      "name": "Salt Chuck Security",
+      "slug": "salt-chuck-security",
       "region": "Unknown",
       "total_files": 6,
       "species": {
@@ -18667,8 +18673,8 @@
       "method": "SASAP"
     },
     "2177": {
-      "name": "Station 2177",
-      "slug": "station-2177",
+      "name": "Duck Creek Smolt",
+      "slug": "duck-creek-smolt",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -18689,8 +18695,8 @@
       "method": "SASAP"
     },
     "2148": {
-      "name": "Station 2148",
-      "slug": "station-2148",
+      "name": "King Salmon Creek",
+      "slug": "king-salmon-creek",
       "region": "Unknown",
       "total_files": 12,
       "species": {
@@ -18733,8 +18739,8 @@
       "method": "SASAP"
     },
     "2141": {
-      "name": "Station 2141",
-      "slug": "station-2141",
+      "name": "Nahlin River",
+      "slug": "nahlin-river",
       "region": "Unknown",
       "total_files": 17,
       "species": {
@@ -18805,8 +18811,8 @@
       "method": "SASAP"
     },
     "2146": {
-      "name": "Station 2146",
-      "slug": "station-2146",
+      "name": "Klakas Lake",
+      "slug": "klakas-lake",
       "region": "Unknown",
       "total_files": 16,
       "species": {
@@ -18902,8 +18908,8 @@
       "method": "SASAP"
     },
     "2179": {
-      "name": "Station 2179",
-      "slug": "station-2179",
+      "name": "Ketili R Barns Lake",
+      "slug": "ketili-r-barns-lake",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -18926,8 +18932,8 @@
       "method": "SASAP"
     },
     "2112": {
-      "name": "Station 2112",
-      "slug": "station-2112",
+      "name": "Tahltan Lake",
+      "slug": "tahltan-lake",
       "region": "Unknown",
       "total_files": 55,
       "species": {
@@ -19056,8 +19062,8 @@
       "method": "SASAP"
     },
     "2115": {
-      "name": "Station 2115",
-      "slug": "station-2115",
+      "name": "Neva Creek",
+      "slug": "neva-creek",
       "region": "Unknown",
       "total_files": 65,
       "species": {
@@ -19260,8 +19266,8 @@
       "method": "SASAP"
     },
     "2123": {
-      "name": "Station 2123",
-      "slug": "station-2123",
+      "name": "Kadashan West",
+      "slug": "kadashan-west",
       "region": "Unknown",
       "total_files": 41,
       "species": {
@@ -19380,8 +19386,8 @@
       "method": "SASAP"
     },
     "2311": {
-      "name": "Station 2311",
-      "slug": "station-2311",
+      "name": "Morris Cove",
+      "slug": "morris-cove",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -19402,8 +19408,8 @@
       "method": "SASAP"
     },
     "2124": {
-      "name": "Station 2124",
-      "slug": "station-2124",
+      "name": "Kadashan East",
+      "slug": "kadashan-east",
       "region": "Unknown",
       "total_files": 39,
       "species": {
@@ -19518,8 +19524,8 @@
       "method": "SASAP"
     },
     "2600": {
-      "name": "Station 2600",
-      "slug": "station-2600",
+      "name": "Nushagak River",
+      "slug": "nushagak-river",
       "region": "Unknown",
       "total_files": 24,
       "species": {
@@ -19622,8 +19628,8 @@
       "method": "SASAP"
     },
     "2607": {
-      "name": "Station 2607",
-      "slug": "station-2607",
+      "name": "Ugashik River",
+      "slug": "ugashik-river",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -19652,8 +19658,8 @@
       "method": "SASAP"
     },
     "2206": {
-      "name": "Station 2206",
-      "slug": "station-2206",
+      "name": "Kanektok River Unknown",
+      "slug": "kanektok-river-unknown",
       "region": "Unknown",
       "total_files": 62,
       "species": {
@@ -19841,8 +19847,8 @@
       "method": "SASAP"
     },
     "2201": {
-      "name": "Station 2201",
-      "slug": "station-2201",
+      "name": "Goodnews River Middle Fork",
+      "slug": "goodnews-river-middle-fork",
       "region": "Unknown",
       "total_files": 91,
       "species": {
@@ -20079,8 +20085,8 @@
       "method": "SASAP"
     },
     "2005": {
-      "name": "Station 2005",
-      "slug": "station-2005",
+      "name": "Buskin River",
+      "slug": "buskin-river",
       "region": "Unknown",
       "total_files": 200,
       "species": {
@@ -20553,8 +20559,8 @@
       "method": "SASAP"
     },
     "2801": {
-      "name": "Station 2801",
-      "slug": "station-2801",
+      "name": "Kenai River",
+      "slug": "kenai-river",
       "region": "Unknown",
       "total_files": 6,
       "species": {
@@ -20585,8 +20591,8 @@
       "method": "SASAP"
     },
     "2002": {
-      "name": "Station 2002",
-      "slug": "station-2002",
+      "name": "Upper Station",
+      "slug": "upper-station",
       "region": "Unknown",
       "total_files": 312,
       "species": {
@@ -21283,8 +21289,8 @@
       "method": "SASAP"
     },
     "2402": {
-      "name": "Station 2402",
-      "slug": "station-2402",
+      "name": "Black Lake",
+      "slug": "black-lake",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -21305,8 +21311,8 @@
       "method": "SASAP"
     },
     "2606": {
-      "name": "Station 2606",
-      "slug": "station-2606",
+      "name": "Igushik River",
+      "slug": "igushik-river",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -21335,8 +21341,8 @@
       "method": "SASAP"
     },
     "2601": {
-      "name": "Station 2601",
-      "slug": "station-2601",
+      "name": "Egegik River",
+      "slug": "egegik-river",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -21365,8 +21371,8 @@
       "method": "SASAP"
     },
     "2800": {
-      "name": "Station 2800",
-      "slug": "station-2800",
+      "name": "Kasilof River",
+      "slug": "kasilof-river",
       "region": "Unknown",
       "total_files": 6,
       "species": {
@@ -21397,8 +21403,8 @@
       "method": "SASAP"
     },
     "2003": {
-      "name": "Station 2003",
-      "slug": "station-2003",
+      "name": "Litnik",
+      "slug": "litnik",
       "region": "Unknown",
       "total_files": 257,
       "species": {
@@ -21985,8 +21991,8 @@
       "method": "SASAP"
     },
     "2004": {
-      "name": "Station 2004",
-      "slug": "station-2004",
+      "name": "Dog Salmon Creek",
+      "slug": "dog-salmon-creek",
       "region": "Unknown",
       "total_files": 229,
       "species": {
@@ -22517,8 +22523,8 @@
       "method": "SASAP"
     },
     "2200": {
-      "name": "Station 2200",
-      "slug": "station-2200",
+      "name": "Kogrukluk River",
+      "slug": "kogrukluk-river",
       "region": "Unknown",
       "total_files": 130,
       "species": {
@@ -22824,8 +22830,8 @@
       "method": "SASAP"
     },
     "2207": {
-      "name": "Station 2207",
-      "slug": "station-2207",
+      "name": "Telaquana River",
+      "slug": "telaquana-river",
       "region": "Unknown",
       "total_files": 28,
       "species": {

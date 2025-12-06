@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "September, 20 2007 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2007,
+      "September, 28 2007 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2007,
+      "October, 08 2007 00:00:00",
+      7,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2007,
+      "October, 10 2007 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2007,
+      "October, 11 2007 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2007,
+      "October, 12 2007 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2007,
+      "October, 14 2007 00:00:00",
+      2,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2007,
+      "October, 15 2007 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2007,
+      "October, 18 2007 00:00:00",
+      5,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "480",
+    "year": "2007",
+    "totalRecords": 9,
+    "totalCount": 20,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.473538"
+  }
+}

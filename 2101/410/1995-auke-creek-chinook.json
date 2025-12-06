@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "August, 03 1995 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 04 1995 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 05 1995 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 06 1995 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 07 1995 00:00:00",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 08 1995 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 09 1995 00:00:00",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 10 1995 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 15 1995 00:00:00",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 16 1995 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      6,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "September, 02 1995 00:00:00",
+      9,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "September, 03 1995 00:00:00",
+      5,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "September, 04 1995 00:00:00",
+      5,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "September, 05 1995 00:00:00",
+      7,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "September, 06 1995 00:00:00",
+      3,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "September, 08 1995 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      1995,
+      "September, 18 1995 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 22,
+    "totalCount": 68,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.345925"
+  }
+}

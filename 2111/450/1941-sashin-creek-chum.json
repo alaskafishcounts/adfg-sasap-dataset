@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1941,
+      "August, 20 1941 00:00:00",
+      1,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1941,
+      "August, 21 1941 00:00:00",
+      4,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1941,
+      "August, 22 1941 00:00:00",
+      2,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1941,
+      "August, 23 1941 00:00:00",
+      3,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1941,
+      "August, 24 1941 00:00:00",
+      4,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1941,
+      "September, 02 1941 00:00:00",
+      1,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1941,
+      "September, 22 1941 00:00:00",
+      2,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1941,
+      "September, 23 1941 00:00:00",
+      1,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "450",
+    "year": "1941",
+    "totalRecords": 8,
+    "totalCount": 18,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.674750"
+  }
+}

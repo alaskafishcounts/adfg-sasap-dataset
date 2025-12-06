@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "September, 25 2013 00:00:00",
+      56,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 26 2013 00:00:00",
+      77,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 27 2013 00:00:00",
+      56,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 28 2013 00:00:00",
+      146,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 29 2013 00:00:00",
+      604,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 30 2013 00:00:00",
+      356,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "October, 01 2013 00:00:00",
+      746,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "October, 02 2013 00:00:00",
+      258,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "October, 03 2013 00:00:00",
+      213,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "October, 04 2013 00:00:00",
+      145,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "October, 05 2013 00:00:00",
+      131,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2013,
+      "October, 06 2013 00:00:00",
+      307,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "440",
+    "year": "2013",
+    "totalRecords": 12,
+    "totalCount": 3095,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.244994"
+  }
+}

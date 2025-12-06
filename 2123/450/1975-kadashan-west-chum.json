@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "July, 22 1975 00:00:00",
+      7,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "July, 24 1975 00:00:00",
+      1,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "July, 26 1975 00:00:00",
+      2,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "July, 27 1975 00:00:00",
+      1978,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 01 1975 00:00:00",
+      67,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 06 1975 00:00:00",
+      342,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 07 1975 00:00:00",
+      4,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 08 1975 00:00:00",
+      34,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 09 1975 00:00:00",
+      125,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 10 1975 00:00:00",
+      30,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 12 1975 00:00:00",
+      119,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 14 1975 00:00:00",
+      4,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 15 1975 00:00:00",
+      4,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 16 1975 00:00:00",
+      147,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ],
+    [
+      1975,
+      "August, 17 1975 00:00:00",
+      168,
+      450,
+      2123,
+      "Kadashan West",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2123,
+    "species_id": "450",
+    "year": "1975",
+    "totalRecords": 15,
+    "totalCount": 3032,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.579101"
+  }
+}

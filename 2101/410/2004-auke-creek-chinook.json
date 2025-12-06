@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 02 2004 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 28 2004 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 29 2004 00:00:00",
+      1,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 30 2004 00:00:00",
+      6,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 31 2004 00:00:00",
+      6,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "September, 01 2004 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "September, 02 2004 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "September, 03 2004 00:00:00",
+      6,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "September, 04 2004 00:00:00",
+      7,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "September, 05 2004 00:00:00",
+      5,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "September, 06 2004 00:00:00",
+      4,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ],
+    [
+      2004,
+      "September, 09 2004 00:00:00",
+      2,
+      430,
+      2101,
+      "Auke Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "430",
+    "year": "2004",
+    "totalRecords": 14,
+    "totalCount": 46,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.352336"
+  }
+}

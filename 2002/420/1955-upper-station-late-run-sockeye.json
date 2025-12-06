@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1955,
+      "July, 16 1955 00:00:00",
+      117,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 17 1955 00:00:00",
+      11,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 18 1955 00:00:00",
+      41,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 19 1955 00:00:00",
+      803,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 20 1955 00:00:00",
+      331,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 21 1955 00:00:00",
+      35,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 22 1955 00:00:00",
+      403,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 23 1955 00:00:00",
+      171,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 24 1955 00:00:00",
+      890,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 25 1955 00:00:00",
+      116,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 26 1955 00:00:00",
+      42,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 27 1955 00:00:00",
+      75,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 28 1955 00:00:00",
+      494,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 29 1955 00:00:00",
+      464,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 30 1955 00:00:00",
+      1004,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "July, 31 1955 00:00:00",
+      1955,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 01 1955 00:00:00",
+      1989,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 02 1955 00:00:00",
+      4075,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 03 1955 00:00:00",
+      1207,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 04 1955 00:00:00",
+      972,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 05 1955 00:00:00",
+      687,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 06 1955 00:00:00",
+      1757,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 07 1955 00:00:00",
+      807,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 08 1955 00:00:00",
+      1288,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 09 1955 00:00:00",
+      4104,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 10 1955 00:00:00",
+      2707,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 11 1955 00:00:00",
+      233,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 12 1955 00:00:00",
+      2932,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 13 1955 00:00:00",
+      866,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 14 1955 00:00:00",
+      4601,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 15 1955 00:00:00",
+      6854,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 16 1955 00:00:00",
+      3006,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 17 1955 00:00:00",
+      6853,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 18 1955 00:00:00",
+      2508,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 19 1955 00:00:00",
+      8504,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 20 1955 00:00:00",
+      3600,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 21 1955 00:00:00",
+      2878,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 22 1955 00:00:00",
+      1200,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 23 1955 00:00:00",
+      5910,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 24 1955 00:00:00",
+      931,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 25 1955 00:00:00",
+      4017,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 26 1955 00:00:00",
+      1710,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 27 1955 00:00:00",
+      3300,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 28 1955 00:00:00",
+      1480,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 29 1955 00:00:00",
+      3277,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 30 1955 00:00:00",
+      1880,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "August, 31 1955 00:00:00",
+      1000,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 01 1955 00:00:00",
+      1012,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 02 1955 00:00:00",
+      981,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 03 1955 00:00:00",
+      644,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 04 1955 00:00:00",
+      2864,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 05 1955 00:00:00",
+      1380,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 06 1955 00:00:00",
+      253,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 07 1955 00:00:00",
+      804,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 08 1955 00:00:00",
+      1183,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 09 1955 00:00:00",
+      346,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 10 1955 00:00:00",
+      716,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 11 1955 00:00:00",
+      248,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 12 1955 00:00:00",
+      222,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 13 1955 00:00:00",
+      414,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 14 1955 00:00:00",
+      168,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 15 1955 00:00:00",
+      107,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 16 1955 00:00:00",
+      160,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1955,
+      "September, 17 1955 00:00:00",
+      139,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1955",
+    "totalRecords": 64,
+    "totalCount": 105726,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.144230"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      5,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      7,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 02 2007 00:00:00",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "420",
+    "year": "2007",
+    "totalRecords": 8,
+    "totalCount": 24,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.482718"
+  }
+}

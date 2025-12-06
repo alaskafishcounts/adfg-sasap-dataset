@@ -1,0 +1,382 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      2,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      27,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      14,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      6,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      3,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      21,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      23,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      85,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      11,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 01 2002 00:00:00",
+      47,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 02 2002 00:00:00",
+      11,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 03 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 04 2002 00:00:00",
+      58,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 05 2002 00:00:00",
+      82,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 06 2002 00:00:00",
+      14,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 07 2002 00:00:00",
+      9,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 08 2002 00:00:00",
+      20,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 09 2002 00:00:00",
+      2,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      5,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 12 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 13 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 14 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 17 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 19 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 20 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 21 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 22 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 23 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 24 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 25 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 26 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 27 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 28 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 29 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 30 2002 00:00:00",
+      0,
+      430,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2401,
+    "species_id": "440",
+    "year": "2002",
+    "totalRecords": 40,
+    "totalCount": 440,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.092335"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1963,
+      "July, 21 1963 00:00:00",
+      2,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 22 1963 00:00:00",
+      1,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 23 1963 00:00:00",
+      0,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 24 1963 00:00:00",
+      0,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 25 1963 00:00:00",
+      2,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 26 1963 00:00:00",
+      0,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 27 1963 00:00:00",
+      4,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 28 1963 00:00:00",
+      7,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 29 1963 00:00:00",
+      0,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 30 1963 00:00:00",
+      1,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "July, 31 1963 00:00:00",
+      7,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "August, 01 1963 00:00:00",
+      9,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "August, 02 1963 00:00:00",
+      2,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "August, 03 1963 00:00:00",
+      3,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "August, 04 1963 00:00:00",
+      1,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ],
+    [
+      1963,
+      "August, 05 1963 00:00:00",
+      2,
+      450,
+      2004,
+      "Dog Salmon Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "450",
+    "year": "1963",
+    "totalRecords": 16,
+    "totalCount": 41,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.216315"
+  }
+}

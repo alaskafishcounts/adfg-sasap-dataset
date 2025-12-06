@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "September, 01 1987 00:00:00",
+      2,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 02 1987 00:00:00",
+      2,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 03 1987 00:00:00",
+      2,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 04 1987 00:00:00",
+      2,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 07 1987 00:00:00",
+      1,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 10 1987 00:00:00",
+      1,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 13 1987 00:00:00",
+      1,
+      450,
+      2111,
+      "Sashin Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "450",
+    "year": "1987",
+    "totalRecords": 7,
+    "totalCount": 11,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.675863"
+  }
+}

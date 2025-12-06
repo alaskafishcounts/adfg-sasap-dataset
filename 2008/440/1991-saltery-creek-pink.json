@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "July, 07 1991 00:00:00",
+      3,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 08 1991 00:00:00",
+      3,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 09 1991 00:00:00",
+      5,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 10 1991 00:00:00",
+      31,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 11 1991 00:00:00",
+      15,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 12 1991 00:00:00",
+      37,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      78,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      62,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      21,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      81,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      73,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      105,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      211,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      110,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      454,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      595,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      623,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 24 1991 00:00:00",
+      147,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 25 1991 00:00:00",
+      176,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      254,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      201,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      1078,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      736,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      1430,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 31 1991 00:00:00",
+      1291,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 01 1991 00:00:00",
+      1159,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 02 1991 00:00:00",
+      527,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 03 1991 00:00:00",
+      1336,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 04 1991 00:00:00",
+      910,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 05 1991 00:00:00",
+      1036,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 06 1991 00:00:00",
+      1736,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 07 1991 00:00:00",
+      842,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 08 1991 00:00:00",
+      1352,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 09 1991 00:00:00",
+      1710,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 10 1991 00:00:00",
+      3843,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 11 1991 00:00:00",
+      3062,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 12 1991 00:00:00",
+      658,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 13 1991 00:00:00",
+      682,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 14 1991 00:00:00",
+      536,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 15 1991 00:00:00",
+      586,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 16 1991 00:00:00",
+      270,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 17 1991 00:00:00",
+      598,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 18 1991 00:00:00",
+      338,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 19 1991 00:00:00",
+      414,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 20 1991 00:00:00",
+      276,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 21 1991 00:00:00",
+      103,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 22 1991 00:00:00",
+      191,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 23 1991 00:00:00",
+      209,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 24 1991 00:00:00",
+      177,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 25 1991 00:00:00",
+      466,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 26 1991 00:00:00",
+      220,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 27 1991 00:00:00",
+      168,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 28 1991 00:00:00",
+      124,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 29 1991 00:00:00",
+      143,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 30 1991 00:00:00",
+      114,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 31 1991 00:00:00",
+      108,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 01 1991 00:00:00",
+      144,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 02 1991 00:00:00",
+      137,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 03 1991 00:00:00",
+      1260,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 04 1991 00:00:00",
+      557,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 05 1991 00:00:00",
+      275,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 06 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 07 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 08 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 09 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 10 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 11 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 12 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 13 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 14 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 15 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 16 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 17 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 18 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 19 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 20 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 21 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 22 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 23 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 24 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 25 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 26 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 27 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 28 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 29 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 30 1991 00:00:00",
+      0,
+      420,
+      2008,
+      "Saltery Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2008,
+    "species_id": "420",
+    "year": "1991",
+    "totalRecords": 86,
+    "totalCount": 34087,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.901317"
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "June, 17 1995 00:00:00",
+      2,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 19 1995 00:00:00",
+      1,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 21 1995 00:00:00",
+      4,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 22 1995 00:00:00",
+      3,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 23 1995 00:00:00",
+      1,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 26 1995 00:00:00",
+      4,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 28 1995 00:00:00",
+      2,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 30 1995 00:00:00",
+      3,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 01 1995 00:00:00",
+      56,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 02 1995 00:00:00",
+      66,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 03 1995 00:00:00",
+      33,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 04 1995 00:00:00",
+      2,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 05 1995 00:00:00",
+      20,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 06 1995 00:00:00",
+      23,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 07 1995 00:00:00",
+      23,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 08 1995 00:00:00",
+      4,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 09 1995 00:00:00",
+      6,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 10 1995 00:00:00",
+      3,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 11 1995 00:00:00",
+      9,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 12 1995 00:00:00",
+      6,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 13 1995 00:00:00",
+      25,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 14 1995 00:00:00",
+      43,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 15 1995 00:00:00",
+      34,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 16 1995 00:00:00",
+      23,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 17 1995 00:00:00",
+      64,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 18 1995 00:00:00",
+      73,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 19 1995 00:00:00",
+      118,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 20 1995 00:00:00",
+      131,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 21 1995 00:00:00",
+      31,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 22 1995 00:00:00",
+      205,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 23 1995 00:00:00",
+      21,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 24 1995 00:00:00",
+      28,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 25 1995 00:00:00",
+      731,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 26 1995 00:00:00",
+      469,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 27 1995 00:00:00",
+      501,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 28 1995 00:00:00",
+      267,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 29 1995 00:00:00",
+      126,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 30 1995 00:00:00",
+      173,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 31 1995 00:00:00",
+      231,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 01 1995 00:00:00",
+      70,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 02 1995 00:00:00",
+      205,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 03 1995 00:00:00",
+      175,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 04 1995 00:00:00",
+      90,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 05 1995 00:00:00",
+      276,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 06 1995 00:00:00",
+      172,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 07 1995 00:00:00",
+      114,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 08 1995 00:00:00",
+      26,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 09 1995 00:00:00",
+      20,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 10 1995 00:00:00",
+      13,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 11 1995 00:00:00",
+      48,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 12 1995 00:00:00",
+      6,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 13 1995 00:00:00",
+      34,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 14 1995 00:00:00",
+      174,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 15 1995 00:00:00",
+      26,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 16 1995 00:00:00",
+      22,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 17 1995 00:00:00",
+      14,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      9,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      5,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      439,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      2,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      1,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      77,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 24 1995 00:00:00",
+      10,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 25 1995 00:00:00",
+      6,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 26 1995 00:00:00",
+      20,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 27 1995 00:00:00",
+      54,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 28 1995 00:00:00",
+      20,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 29 1995 00:00:00",
+      24,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 30 1995 00:00:00",
+      79,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 31 1995 00:00:00",
+      21,
+      410,
+      2127,
+      "Kook Lake Outlet",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "410",
+    "year": "1995",
+    "totalRecords": 70,
+    "totalCount": 5817,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.720011"
+  }
+}

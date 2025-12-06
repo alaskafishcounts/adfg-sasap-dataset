@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1950,
+      "September, 02 1950 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 05 1950 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 09 1950 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 14 1950 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 17 1950 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 19 1950 00:00:00",
+      3,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 21 1950 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 22 1950 00:00:00",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 23 1950 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      1950,
+      "September, 24 1950 00:00:00",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "450",
+    "year": "1950",
+    "totalRecords": 10,
+    "totalCount": 14,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.627598"
+  }
+}

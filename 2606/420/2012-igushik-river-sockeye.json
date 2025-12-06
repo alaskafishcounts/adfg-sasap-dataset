@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      84,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      48,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      102,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      3378,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      8526,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      7680,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      5412,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 01 2012 00:00:00",
+      3804,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      3594,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 03 2012 00:00:00",
+      2718,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 04 2012 00:00:00",
+      6870,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 05 2012 00:00:00",
+      7434,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 06 2012 00:00:00",
+      10974,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 07 2012 00:00:00",
+      10980,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 08 2012 00:00:00",
+      9144,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 09 2012 00:00:00",
+      12444,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      8514,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      12138,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      18858,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      16920,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      13728,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      11616,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      7842,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      4746,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      3636,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      1146,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      768,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      222,
+      410,
+      2606,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2606,
+    "species_id": "410",
+    "year": "2012",
+    "totalRecords": 28,
+    "totalCount": 193326,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.893599"
+  }
+}

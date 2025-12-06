@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "August, 23 2006 00:00:00",
+      3,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 24 2006 00:00:00",
+      0,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 25 2006 00:00:00",
+      18,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 26 2006 00:00:00",
+      2,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 27 2006 00:00:00",
+      1,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 28 2006 00:00:00",
+      0,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 29 2006 00:00:00",
+      13,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 30 2006 00:00:00",
+      0,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 31 2006 00:00:00",
+      4,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 01 2006 00:00:00",
+      4,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 02 2006 00:00:00",
+      0,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 03 2006 00:00:00",
+      1,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 04 2006 00:00:00",
+      7,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 05 2006 00:00:00",
+      10,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 06 2006 00:00:00",
+      147,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 07 2006 00:00:00",
+      2092,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 08 2006 00:00:00",
+      660,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 09 2006 00:00:00",
+      714,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 10 2006 00:00:00",
+      285,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 11 2006 00:00:00",
+      131,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 12 2006 00:00:00",
+      0,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 13 2006 00:00:00",
+      0,
+      430,
+      2305,
+      "Mortensens Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2305,
+    "species_id": "440",
+    "year": "2006",
+    "totalRecords": 22,
+    "totalCount": 4092,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.469794"
+  }
+}

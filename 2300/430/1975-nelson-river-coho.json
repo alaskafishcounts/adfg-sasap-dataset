@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "August, 13 1975 00:00:00",
+      24,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 14 1975 00:00:00",
+      108,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 15 1975 00:00:00",
+      27,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 16 1975 00:00:00",
+      84,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 17 1975 00:00:00",
+      372,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 18 1975 00:00:00",
+      282,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 19 1975 00:00:00",
+      1170,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 20 1975 00:00:00",
+      87,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 21 1975 00:00:00",
+      174,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 22 1975 00:00:00",
+      30,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 23 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 24 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 25 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 26 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 27 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 28 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 29 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 30 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1975,
+      "August, 31 1975 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "440",
+    "year": "1975",
+    "totalRecords": 19,
+    "totalCount": 2358,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.485277"
+  }
+}

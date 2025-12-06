@@ -1,0 +1,967 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "June, 24 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 25 1982 00:00:00",
+      8,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 26 1982 00:00:00",
+      23,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 27 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 28 1982 00:00:00",
+      65,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 29 1982 00:00:00",
+      41,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 30 1982 00:00:00",
+      79,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 01 1982 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 02 1982 00:00:00",
+      8,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 03 1982 00:00:00",
+      338,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 04 1982 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 05 1982 00:00:00",
+      18,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 06 1982 00:00:00",
+      90,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 07 1982 00:00:00",
+      440,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 08 1982 00:00:00",
+      8,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 09 1982 00:00:00",
+      35,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 10 1982 00:00:00",
+      12,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 11 1982 00:00:00",
+      249,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 12 1982 00:00:00",
+      111,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 13 1982 00:00:00",
+      30,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 14 1982 00:00:00",
+      39,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 15 1982 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      31,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      223,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      1174,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      525,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      179,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      335,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      50,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 24 1982 00:00:00",
+      29,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 25 1982 00:00:00",
+      503,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 26 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 27 1982 00:00:00",
+      1240,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 28 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 31 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 01 1982 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 02 1982 00:00:00",
+      341,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 03 1982 00:00:00",
+      477,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 04 1982 00:00:00",
+      729,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 05 1982 00:00:00",
+      467,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      32,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 07 1982 00:00:00",
+      1448,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      6,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      30,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      34,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 13 1982 00:00:00",
+      17,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      415,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 15 1982 00:00:00",
+      90,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      2085,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      696,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      6,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 20 1982 00:00:00",
+      82,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 21 1982 00:00:00",
+      1113,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 22 1982 00:00:00",
+      206,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      621,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      1006,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 25 1982 00:00:00",
+      16,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 26 1982 00:00:00",
+      145,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      3135,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      22,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      54,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      29,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      254,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      167,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      863,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      12,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      196,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      5068,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      1020,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      4000,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      12300,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 14 1982 00:00:00",
+      1685,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      150,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      178,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 18 1982 00:00:00",
+      2065,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      6529,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      1479,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      132,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 22 1982 00:00:00",
+      169,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      9104,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 24 1982 00:00:00",
+      4832,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 25 1982 00:00:00",
+      3271,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 26 1982 00:00:00",
+      4086,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 27 1982 00:00:00",
+      1599,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 28 1982 00:00:00",
+      240,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 29 1982 00:00:00",
+      1539,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 30 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "October, 02 1982 00:00:00",
+      3,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "October, 03 1982 00:00:00",
+      26,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "October, 04 1982 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "October, 05 1982 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "October, 06 1982 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "October, 07 1982 00:00:00",
+      43,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "410",
+    "year": "1982",
+    "totalRecords": 105,
+    "totalCount": 80221,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.255981"
+  }
+}

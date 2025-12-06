@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "August, 10 1996 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      1996,
+      "August, 12 1996 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      1996,
+      "August, 15 1996 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      1996,
+      "August, 16 1996 00:00:00",
+      2,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "430",
+    "year": "1996",
+    "totalRecords": 4,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.414381"
+  }
+}

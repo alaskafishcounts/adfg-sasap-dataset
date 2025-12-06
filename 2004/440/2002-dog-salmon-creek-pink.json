@@ -1,0 +1,886 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      1,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 01 2002 00:00:00",
+      2,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 02 2002 00:00:00",
+      1,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 03 2002 00:00:00",
+      1,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 04 2002 00:00:00",
+      3,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 05 2002 00:00:00",
+      6,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 06 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 07 2002 00:00:00",
+      18,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 08 2002 00:00:00",
+      22,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 09 2002 00:00:00",
+      13,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      14,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      7,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      33,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      3,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      87,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      98,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      69,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      362,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      304,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      339,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      685,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      458,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      4024,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      4130,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      4641,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      2285,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      2836,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      9200,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      9802,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      12601,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      8937,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      14804,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 01 2002 00:00:00",
+      17317,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 02 2002 00:00:00",
+      9759,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 03 2002 00:00:00",
+      21614,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 04 2002 00:00:00",
+      42038,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 05 2002 00:00:00",
+      38542,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 06 2002 00:00:00",
+      12703,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 07 2002 00:00:00",
+      31727,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 08 2002 00:00:00",
+      34090,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      38078,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      45262,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      9686,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      18514,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      11172,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      33680,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      10819,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      11739,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      9176,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      14281,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 19 2002 00:00:00",
+      7926,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 20 2002 00:00:00",
+      10197,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      2726,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      2555,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      1780,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      2075,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      3257,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      926,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      44025,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 01 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 02 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 03 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 04 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 05 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 06 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 07 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 08 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 09 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 12 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 13 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 14 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 17 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 19 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 20 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 21 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 22 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 23 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 24 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 25 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 26 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 27 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 28 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 29 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2002,
+      "September, 30 2002 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "420",
+    "year": "2002",
+    "totalRecords": 96,
+    "totalCount": 561450,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.134568"
+  }
+}

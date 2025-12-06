@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1931,
+      "August, 24 1931 00:00:00",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "August, 25 1931 00:00:00",
+      1,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "August, 26 1931 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "August, 27 1931 00:00:00",
+      1,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "August, 28 1931 00:00:00",
+      4,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "August, 29 1931 00:00:00",
+      2,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "August, 30 1931 00:00:00",
+      6,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "August, 31 1931 00:00:00",
+      4,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "September, 01 1931 00:00:00",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "September, 02 1931 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "September, 03 1931 00:00:00",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "September, 04 1931 00:00:00",
+      2,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1931,
+      "September, 05 1931 00:00:00",
+      2,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2019,
+    "species_id": "450",
+    "year": "1931",
+    "totalRecords": 13,
+    "totalCount": 31,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.185568"
+  }
+}

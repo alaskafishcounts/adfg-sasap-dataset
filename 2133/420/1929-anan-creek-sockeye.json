@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1929,
+      "July, 07 1929 00:00:00",
+      2,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "July, 14 1929 00:00:00",
+      6,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "July, 21 1929 00:00:00",
+      11,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "July, 27 1929 00:00:00",
+      3,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "August, 11 1929 00:00:00",
+      3,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "August, 18 1929 00:00:00",
+      8,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "August, 25 1929 00:00:00",
+      6,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "August, 31 1929 00:00:00",
+      8,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "September, 15 1929 00:00:00",
+      3,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1929,
+      "September, 22 1929 00:00:00",
+      11,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2133,
+    "species_id": "410",
+    "year": "1929",
+    "totalRecords": 10,
+    "totalCount": 61,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.292928"
+  }
+}

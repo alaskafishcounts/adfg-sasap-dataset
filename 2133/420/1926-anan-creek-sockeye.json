@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1926,
+      "July, 06 1926 00:00:00",
+      2,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1926,
+      "July, 08 1926 00:00:00",
+      2,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1926,
+      "July, 12 1926 00:00:00",
+      1,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1926,
+      "July, 18 1926 00:00:00",
+      1,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1926,
+      "August, 08 1926 00:00:00",
+      3,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1926,
+      "August, 21 1926 00:00:00",
+      6,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1926,
+      "August, 28 1926 00:00:00",
+      24,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ],
+    [
+      1926,
+      "September, 01 1926 00:00:00",
+      18,
+      410,
+      2133,
+      "Anan Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2133,
+    "species_id": "410",
+    "year": "1926",
+    "totalRecords": 8,
+    "totalCount": 57,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.292745"
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "June, 06 1998 00:00:00",
+      26,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "June, 07 1998 00:00:00",
+      37,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "June, 08 1998 00:00:00",
+      32,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "June, 30 1998 00:00:00",
+      292,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 09 1998 00:00:00",
+      138,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 14 1998 00:00:00",
+      47,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 15 1998 00:00:00",
+      48,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 16 1998 00:00:00",
+      36,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 17 1998 00:00:00",
+      26,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 18 1998 00:00:00",
+      21,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 19 1998 00:00:00",
+      38,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 20 1998 00:00:00",
+      24,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 21 1998 00:00:00",
+      30,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 22 1998 00:00:00",
+      22,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 23 1998 00:00:00",
+      23,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 24 1998 00:00:00",
+      29,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 25 1998 00:00:00",
+      246,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 26 1998 00:00:00",
+      197,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 27 1998 00:00:00",
+      199,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 28 1998 00:00:00",
+      129,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 29 1998 00:00:00",
+      123,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      228,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "July, 31 1998 00:00:00",
+      276,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 01 1998 00:00:00",
+      377,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 05 1998 00:00:00",
+      22,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 06 1998 00:00:00",
+      22,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 07 1998 00:00:00",
+      178,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 08 1998 00:00:00",
+      154,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 09 1998 00:00:00",
+      54,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 10 1998 00:00:00",
+      74,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 11 1998 00:00:00",
+      54,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 12 1998 00:00:00",
+      39,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 13 1998 00:00:00",
+      31,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 14 1998 00:00:00",
+      32,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 18 1998 00:00:00",
+      45,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 22 1998 00:00:00",
+      77,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 25 1998 00:00:00",
+      159,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 26 1998 00:00:00",
+      168,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 27 1998 00:00:00",
+      173,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 28 1998 00:00:00",
+      125,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 29 1998 00:00:00",
+      105,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 30 1998 00:00:00",
+      330,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "August, 31 1998 00:00:00",
+      334,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "September, 01 1998 00:00:00",
+      292,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "September, 02 1998 00:00:00",
+      265,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "September, 03 1998 00:00:00",
+      376,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "September, 04 1998 00:00:00",
+      114,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "September, 06 1998 00:00:00",
+      134,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "September, 07 1998 00:00:00",
+      240,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "September, 08 1998 00:00:00",
+      130,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      1998,
+      "September, 09 1998 00:00:00",
+      118,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "550",
+    "year": "1998",
+    "totalRecords": 51,
+    "totalCount": 6489,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.659213"
+  }
+}

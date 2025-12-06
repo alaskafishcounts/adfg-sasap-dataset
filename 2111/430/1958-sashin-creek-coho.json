@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1958,
+      "August, 20 1958 00:00:00",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "August, 22 1958 00:00:00",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "August, 23 1958 00:00:00",
+      11,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "August, 24 1958 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 03 1958 00:00:00",
+      11,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 04 1958 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 05 1958 00:00:00",
+      54,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 06 1958 00:00:00",
+      12,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 08 1958 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 16 1958 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 23 1958 00:00:00",
+      55,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 24 1958 00:00:00",
+      5,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 27 1958 00:00:00",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1958,
+      "September, 30 1958 00:00:00",
+      11,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "440",
+    "year": "1958",
+    "totalRecords": 14,
+    "totalCount": 169,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.644175"
+  }
+}

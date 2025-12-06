@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "August, 20 1980 00:00:00",
+      111,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 21 1980 00:00:00",
+      24,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 22 1980 00:00:00",
+      12,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 23 1980 00:00:00",
+      72,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 24 1980 00:00:00",
+      156,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 25 1980 00:00:00",
+      20,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 26 1980 00:00:00",
+      18,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 27 1980 00:00:00",
+      27,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 28 1980 00:00:00",
+      72,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 29 1980 00:00:00",
+      24,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 30 1980 00:00:00",
+      6,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 31 1980 00:00:00",
+      0,
+      440,
+      2300,
+      "Nelson River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "440",
+    "year": "1980",
+    "totalRecords": 12,
+    "totalCount": 542,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.485959"
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "August, 23 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 24 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 27 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 31 1989 00:00:00",
+      2,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 02 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 03 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 04 1989 00:00:00",
+      2,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 05 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 06 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 07 1989 00:00:00",
+      3,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 08 1989 00:00:00",
+      4,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 09 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 10 1989 00:00:00",
+      4,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 11 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 12 1989 00:00:00",
+      2,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 13 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 14 1989 00:00:00",
+      2,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 16 1989 00:00:00",
+      4,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 18 1989 00:00:00",
+      5,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 19 1989 00:00:00",
+      1,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 20 1989 00:00:00",
+      3,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 21 1989 00:00:00",
+      8,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 22 1989 00:00:00",
+      17,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 23 1989 00:00:00",
+      22,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 24 1989 00:00:00",
+      19,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 25 1989 00:00:00",
+      29,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 26 1989 00:00:00",
+      30,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 27 1989 00:00:00",
+      29,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 28 1989 00:00:00",
+      2,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 29 1989 00:00:00",
+      13,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 30 1989 00:00:00",
+      13,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 01 1989 00:00:00",
+      13,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 02 1989 00:00:00",
+      19,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 03 1989 00:00:00",
+      28,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 04 1989 00:00:00",
+      53,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 05 1989 00:00:00",
+      13,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 06 1989 00:00:00",
+      20,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 07 1989 00:00:00",
+      6,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 08 1989 00:00:00",
+      16,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 09 1989 00:00:00",
+      4,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 10 1989 00:00:00",
+      14,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 11 1989 00:00:00",
+      13,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 12 1989 00:00:00",
+      12,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 13 1989 00:00:00",
+      22,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 14 1989 00:00:00",
+      17,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 15 1989 00:00:00",
+      19,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 16 1989 00:00:00",
+      14,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 17 1989 00:00:00",
+      18,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 18 1989 00:00:00",
+      17,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 19 1989 00:00:00",
+      12,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 20 1989 00:00:00",
+      9,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 21 1989 00:00:00",
+      8,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 22 1989 00:00:00",
+      8,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 23 1989 00:00:00",
+      7,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 24 1989 00:00:00",
+      10,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 25 1989 00:00:00",
+      26,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 26 1989 00:00:00",
+      21,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 27 1989 00:00:00",
+      18,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 28 1989 00:00:00",
+      11,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 29 1989 00:00:00",
+      9,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 30 1989 00:00:00",
+      13,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1989,
+      "October, 31 1989 00:00:00",
+      18,
+      440,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2126,
+    "species_id": "440",
+    "year": "1989",
+    "totalRecords": 62,
+    "totalCount": 712,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.334906"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1976,
+      "August, 21 1976 00:00:00",
+      1,
+      440,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      1976,
+      "August, 22 1976 00:00:00",
+      0,
+      440,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      1976,
+      "August, 23 1976 00:00:00",
+      2,
+      440,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "420",
+    "year": "1976",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.250696"
+  }
+}

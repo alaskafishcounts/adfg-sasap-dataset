@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "July, 08 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 09 1982 00:00:00",
+      3,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      4,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      8,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 24 1982 00:00:00",
+      2,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 26 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 28 1982 00:00:00",
+      3,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      2,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      3,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      4,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      5,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      4,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      3,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 21 1982 00:00:00",
+      1,
+      450,
+      2105,
+      "Redoubt Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2105,
+    "species_id": "450",
+    "year": "1982",
+    "totalRecords": 20,
+    "totalCount": 50,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.148718"
+  }
+}

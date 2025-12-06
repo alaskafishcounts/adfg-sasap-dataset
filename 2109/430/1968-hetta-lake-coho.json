@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "August, 16 1968 00:00:00",
+      1,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 22 1968 00:00:00",
+      3,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 25 1968 00:00:00",
+      1,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 29 1968 00:00:00",
+      26,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 30 1968 00:00:00",
+      3,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 31 1968 00:00:00",
+      15,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 03 1968 00:00:00",
+      3,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 04 1968 00:00:00",
+      6,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 05 1968 00:00:00",
+      3,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 06 1968 00:00:00",
+      12,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 07 1968 00:00:00",
+      21,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 08 1968 00:00:00",
+      13,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 09 1968 00:00:00",
+      173,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 10 1968 00:00:00",
+      90,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 11 1968 00:00:00",
+      152,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "September, 12 1968 00:00:00",
+      167,
+      440,
+      2109,
+      "Hetta Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "440",
+    "year": "1968",
+    "totalRecords": 16,
+    "totalCount": 689,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.921275"
+  }
+}

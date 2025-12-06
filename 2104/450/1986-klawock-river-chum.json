@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "July, 28 1986 00:00:00",
+      4,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 05 1986 00:00:00",
+      49,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 06 1986 00:00:00",
+      3,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 07 1986 00:00:00",
+      6,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 17 1986 00:00:00",
+      43,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 18 1986 00:00:00",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 19 1986 00:00:00",
+      3,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 21 1986 00:00:00",
+      3,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 24 1986 00:00:00",
+      78,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 25 1986 00:00:00",
+      1,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 01 1986 00:00:00",
+      5,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 22 1986 00:00:00",
+      1026,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 23 1986 00:00:00",
+      36,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 24 1986 00:00:00",
+      433,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 25 1986 00:00:00",
+      86,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 26 1986 00:00:00",
+      1481,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 29 1986 00:00:00",
+      629,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 30 1986 00:00:00",
+      38,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 01 1986 00:00:00",
+      225,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 02 1986 00:00:00",
+      2,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 05 1986 00:00:00",
+      222,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 09 1986 00:00:00",
+      84,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 14 1986 00:00:00",
+      131,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 22 1986 00:00:00",
+      10,
+      450,
+      2104,
+      "Klawock River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "450",
+    "year": "1986",
+    "totalRecords": 24,
+    "totalCount": 4599,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.809988"
+  }
+}

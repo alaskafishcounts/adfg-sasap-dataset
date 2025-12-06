@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 04 2011 00:00:00",
+      154,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 05 2011 00:00:00",
+      276,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 06 2011 00:00:00",
+      97,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 07 2011 00:00:00",
+      215,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 08 2011 00:00:00",
+      448,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 09 2011 00:00:00",
+      190,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 10 2011 00:00:00",
+      87,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 13 2011 00:00:00",
+      428,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 20 2011 00:00:00",
+      285,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "June, 21 2011 00:00:00",
+      300,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      164,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      137,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      246,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      284,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      186,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      194,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      133,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      99,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      501,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      365,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      201,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 01 2011 00:00:00",
+      120,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 02 2011 00:00:00",
+      181,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 03 2011 00:00:00",
+      192,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 05 2011 00:00:00",
+      558,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 06 2011 00:00:00",
+      332,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 07 2011 00:00:00",
+      474,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 09 2011 00:00:00",
+      286,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      199,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      199,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      351,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      506,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      601,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      491,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 20 2011 00:00:00",
+      213,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 21 2011 00:00:00",
+      116,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 23 2011 00:00:00",
+      235,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 24 2011 00:00:00",
+      237,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 25 2011 00:00:00",
+      385,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 26 2011 00:00:00",
+      88,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 27 2011 00:00:00",
+      350,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 28 2011 00:00:00",
+      356,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 29 2011 00:00:00",
+      303,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "August, 30 2011 00:00:00",
+      333,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "September, 02 2011 00:00:00",
+      501,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "September, 03 2011 00:00:00",
+      227,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "September, 04 2011 00:00:00",
+      661,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "September, 05 2011 00:00:00",
+      162,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "September, 06 2011 00:00:00",
+      822,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2011,
+      "September, 07 2011 00:00:00",
+      202,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "550",
+    "year": "2011",
+    "totalRecords": 50,
+    "totalCount": 14671,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.678486"
+  }
+}

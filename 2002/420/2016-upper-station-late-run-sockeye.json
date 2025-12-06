@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      104,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      84,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      101,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      136,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      122,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      183,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      621,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      205,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      201,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      178,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      342,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      359,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      673,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 29 2016 00:00:00",
+      408,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 30 2016 00:00:00",
+      2023,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      1940,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 01 2016 00:00:00",
+      454,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 02 2016 00:00:00",
+      84,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 03 2016 00:00:00",
+      222,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 04 2016 00:00:00",
+      1073,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 05 2016 00:00:00",
+      1027,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 06 2016 00:00:00",
+      1350,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 07 2016 00:00:00",
+      3053,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 08 2016 00:00:00",
+      408,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 09 2016 00:00:00",
+      210,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 10 2016 00:00:00",
+      6384,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 11 2016 00:00:00",
+      3420,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 12 2016 00:00:00",
+      1417,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 13 2016 00:00:00",
+      6785,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 14 2016 00:00:00",
+      1021,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 15 2016 00:00:00",
+      6141,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 16 2016 00:00:00",
+      9475,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 17 2016 00:00:00",
+      10000,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 18 2016 00:00:00",
+      8250,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 19 2016 00:00:00",
+      7834,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 20 2016 00:00:00",
+      7828,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 21 2016 00:00:00",
+      12463,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 22 2016 00:00:00",
+      3181,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 23 2016 00:00:00",
+      1538,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 24 2016 00:00:00",
+      1937,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 25 2016 00:00:00",
+      2551,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 26 2016 00:00:00",
+      4001,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 27 2016 00:00:00",
+      1511,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 28 2016 00:00:00",
+      5338,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 29 2016 00:00:00",
+      5009,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 30 2016 00:00:00",
+      4313,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "August, 31 2016 00:00:00",
+      1901,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 01 2016 00:00:00",
+      3818,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 02 2016 00:00:00",
+      2544,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 03 2016 00:00:00",
+      1204,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 04 2016 00:00:00",
+      672,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 05 2016 00:00:00",
+      1291,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 06 2016 00:00:00",
+      1748,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 07 2016 00:00:00",
+      1658,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 08 2016 00:00:00",
+      715,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 09 2016 00:00:00",
+      1072,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 10 2016 00:00:00",
+      932,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2016,
+      "September, 11 2016 00:00:00",
+      1500,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 58,
+    "totalCount": 145013,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.198452"
+  }
+}

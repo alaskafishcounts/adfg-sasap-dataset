@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "August, 09 2011 00:00:00",
+      2,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      7,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      3,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 18 2011 00:00:00",
+      625,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      900,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 20 2011 00:00:00",
+      1163,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "440",
+    "year": "2011",
+    "totalRecords": 12,
+    "totalCount": 2700,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.909163"
+  }
+}

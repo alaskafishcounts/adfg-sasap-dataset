@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "September, 03 2010 00:00:00",
+      1,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 04 2010 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 07 2010 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 08 2010 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 09 2010 00:00:00",
+      1,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 11 2010 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      2010,
+      "September, 12 2010 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "450",
+    "year": "2010",
+    "totalRecords": 10,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.271327"
+  }
+}

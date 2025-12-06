@@ -1,0 +1,760 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 22 2002 00:00:00",
+      1,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 23 2002 00:00:00",
+      1,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      1,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      7,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      11,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      25,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 01 2002 00:00:00",
+      28,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 02 2002 00:00:00",
+      28,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 03 2002 00:00:00",
+      70,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 04 2002 00:00:00",
+      57,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 05 2002 00:00:00",
+      88,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 06 2002 00:00:00",
+      23,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 07 2002 00:00:00",
+      42,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 08 2002 00:00:00",
+      39,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 09 2002 00:00:00",
+      11,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      7,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      55,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      22,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      3,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      1,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      18,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      86,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      401,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      567,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      78,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      28,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      146,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      24,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      9,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      53,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      16,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      3,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      3,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      3,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      5,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 01 2002 00:00:00",
+      628,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 02 2002 00:00:00",
+      100,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 03 2002 00:00:00",
+      11,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 04 2002 00:00:00",
+      13,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 07 2002 00:00:00",
+      5105,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 08 2002 00:00:00",
+      3234,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      1026,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      333,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      259,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      217,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      595,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      1315,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      355,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      236,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      138,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      133,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 19 2002 00:00:00",
+      195,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 20 2002 00:00:00",
+      46,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      1775,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      633,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      430,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      92,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      16,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      694,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      74,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      122,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      19,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      10,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      925,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 01 2002 00:00:00",
+      1224,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 02 2002 00:00:00",
+      44,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 03 2002 00:00:00",
+      163,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 04 2002 00:00:00",
+      190,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 05 2002 00:00:00",
+      13,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 06 2002 00:00:00",
+      42,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 07 2002 00:00:00",
+      492,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 08 2002 00:00:00",
+      57,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 09 2002 00:00:00",
+      34,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      63,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      40,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 12 2002 00:00:00",
+      38,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 13 2002 00:00:00",
+      32,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 14 2002 00:00:00",
+      7,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      119,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      307,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 17 2002 00:00:00",
+      142,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      935,
+      420,
+      2136,
+      "Redfish Bay",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2136,
+    "species_id": "410",
+    "year": "2002",
+    "totalRecords": 82,
+    "totalCount": 24631,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.872061"
+  }
+}

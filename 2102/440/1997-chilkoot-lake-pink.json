@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "July, 03 1997 00:00:00",
+      2,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 04 1997 00:00:00",
+      1,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 06 1997 00:00:00",
+      3,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 07 1997 00:00:00",
+      4,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 08 1997 00:00:00",
+      2,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 10 1997 00:00:00",
+      9,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 11 1997 00:00:00",
+      4,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 12 1997 00:00:00",
+      2,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 13 1997 00:00:00",
+      2,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 14 1997 00:00:00",
+      6,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 15 1997 00:00:00",
+      2,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 16 1997 00:00:00",
+      18,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 17 1997 00:00:00",
+      18,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 18 1997 00:00:00",
+      2,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 19 1997 00:00:00",
+      45,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 20 1997 00:00:00",
+      44,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 21 1997 00:00:00",
+      49,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 22 1997 00:00:00",
+      25,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 23 1997 00:00:00",
+      34,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 24 1997 00:00:00",
+      62,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 25 1997 00:00:00",
+      84,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 26 1997 00:00:00",
+      101,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 27 1997 00:00:00",
+      41,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 28 1997 00:00:00",
+      62,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 29 1997 00:00:00",
+      194,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 30 1997 00:00:00",
+      113,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 31 1997 00:00:00",
+      167,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 01 1997 00:00:00",
+      194,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 02 1997 00:00:00",
+      251,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 03 1997 00:00:00",
+      445,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 04 1997 00:00:00",
+      143,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 05 1997 00:00:00",
+      482,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 06 1997 00:00:00",
+      302,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 07 1997 00:00:00",
+      646,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 08 1997 00:00:00",
+      616,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 09 1997 00:00:00",
+      1069,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 10 1997 00:00:00",
+      2086,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 11 1997 00:00:00",
+      682,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 12 1997 00:00:00",
+      108,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 13 1997 00:00:00",
+      229,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 14 1997 00:00:00",
+      108,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 15 1997 00:00:00",
+      677,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 16 1997 00:00:00",
+      1456,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 17 1997 00:00:00",
+      1232,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 18 1997 00:00:00",
+      3245,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 19 1997 00:00:00",
+      2632,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 20 1997 00:00:00",
+      1440,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 21 1997 00:00:00",
+      788,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 22 1997 00:00:00",
+      260,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 23 1997 00:00:00",
+      515,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 24 1997 00:00:00",
+      480,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 25 1997 00:00:00",
+      303,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 26 1997 00:00:00",
+      375,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 27 1997 00:00:00",
+      266,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 28 1997 00:00:00",
+      383,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 29 1997 00:00:00",
+      438,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 30 1997 00:00:00",
+      491,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 31 1997 00:00:00",
+      399,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 01 1997 00:00:00",
+      645,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 02 1997 00:00:00",
+      746,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 03 1997 00:00:00",
+      271,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 04 1997 00:00:00",
+      205,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 05 1997 00:00:00",
+      48,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 06 1997 00:00:00",
+      187,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 07 1997 00:00:00",
+      109,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 08 1997 00:00:00",
+      91,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1997,
+      "September, 09 1997 00:00:00",
+      58,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "420",
+    "year": "1997",
+    "totalRecords": 67,
+    "totalCount": 26197,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.006972"
+  }
+}

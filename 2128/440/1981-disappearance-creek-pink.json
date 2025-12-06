@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "September, 05 1981 00:00:00",
+      783,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 06 1981 00:00:00",
+      157,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 07 1981 00:00:00",
+      31,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 08 1981 00:00:00",
+      323,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 09 1981 00:00:00",
+      38,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 10 1981 00:00:00",
+      151,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 11 1981 00:00:00",
+      95,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 12 1981 00:00:00",
+      140,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 13 1981 00:00:00",
+      16,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1981,
+      "September, 14 1981 00:00:00",
+      750,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "420",
+    "year": "1981",
+    "totalRecords": 10,
+    "totalCount": 2484,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.515502"
+  }
+}

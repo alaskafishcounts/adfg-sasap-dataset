@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "July, 24 1995 00:00:00",
+      5,
+      440,
+      2119,
+      "Lake Eva",
+      "Pink"
+    ],
+    [
+      1995,
+      "July, 25 1995 00:00:00",
+      33,
+      440,
+      2119,
+      "Lake Eva",
+      "Pink"
+    ],
+    [
+      1995,
+      "July, 26 1995 00:00:00",
+      3,
+      440,
+      2119,
+      "Lake Eva",
+      "Pink"
+    ],
+    [
+      1995,
+      "July, 27 1995 00:00:00",
+      2,
+      440,
+      2119,
+      "Lake Eva",
+      "Pink"
+    ],
+    [
+      1995,
+      "July, 28 1995 00:00:00",
+      13,
+      440,
+      2119,
+      "Lake Eva",
+      "Pink"
+    ],
+    [
+      1995,
+      "July, 29 1995 00:00:00",
+      36,
+      440,
+      2119,
+      "Lake Eva",
+      "Pink"
+    ],
+    [
+      1995,
+      "July, 30 1995 00:00:00",
+      61,
+      440,
+      2119,
+      "Lake Eva",
+      "Pink"
+    ],
+    [
+      1995,
+      "July, 31 1995 00:00:00",
+      20,
+      440,
+      2119,
+      "Lake Eva",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2119,
+    "species_id": "420",
+    "year": "1995",
+    "totalRecords": 8,
+    "totalCount": 173,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.320025"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "August, 25 2009 00:00:00",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 01 2009 00:00:00",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 05 2009 00:00:00",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 09 2009 00:00:00",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 11 2009 00:00:00",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 13 2009 00:00:00",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 17 2009 00:00:00",
+      2,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 19 2009 00:00:00",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ],
+    [
+      2009,
+      "October, 17 2009 00:00:00",
+      1,
+      440,
+      2128,
+      "Disappearance Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "440",
+    "year": "2009",
+    "totalRecords": 9,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.498553"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "September, 03 2007 00:00:00",
+      1,
+      450,
+      2127,
+      "Kook Lake Outlet",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 10 2007 00:00:00",
+      1,
+      450,
+      2127,
+      "Kook Lake Outlet",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.727227"
+  }
+}

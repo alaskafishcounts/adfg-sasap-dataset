@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "July, 01 1982 00:00:00",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      1,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      3,
+      530,
+      2120,
+      "Falls Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "530",
+    "year": "1982",
+    "totalRecords": 4,
+    "totalCount": 6,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.738344"
+  }
+}

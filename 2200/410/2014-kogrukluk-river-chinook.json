@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      33,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      43,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      16,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      16,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 01 2014 00:00:00",
+      31,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 02 2014 00:00:00",
+      63,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 03 2014 00:00:00",
+      134,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 04 2014 00:00:00",
+      52,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 05 2014 00:00:00",
+      54,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 06 2014 00:00:00",
+      42,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 07 2014 00:00:00",
+      98,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 08 2014 00:00:00",
+      254,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 09 2014 00:00:00",
+      122,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      160,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      355,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      208,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      100,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      271,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      127,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      132,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      243,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      76,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      68,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      123,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      223,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      60,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      95,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      65,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      57,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      85,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      74,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      58,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      8,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      39,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      10,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 01 2014 00:00:00",
+      26,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 02 2014 00:00:00",
+      12,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 03 2014 00:00:00",
+      20,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      10,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      9,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      9,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 09 2014 00:00:00",
+      6,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      5,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 11 2014 00:00:00",
+      4,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 12 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 13 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 14 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 15 2014 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 16 2014 00:00:00",
+      4,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 17 2014 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 18 2014 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 19 2014 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 20 2014 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 21 2014 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 22 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 23 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 24 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 25 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 26 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 27 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 28 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 29 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 30 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 31 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 01 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 02 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 03 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 04 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 05 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 06 2014 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 07 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 08 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 09 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 10 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 11 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 12 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 13 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 14 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 15 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 16 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 17 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 18 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 19 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 20 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 21 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 22 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 23 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 24 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "September, 25 2014 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2200,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 92,
+    "totalCount": 3732,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.342990"
+  }
+}

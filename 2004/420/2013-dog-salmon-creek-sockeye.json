@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "May, 25 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 26 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 27 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 28 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 29 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 30 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 31 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 01 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 02 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 03 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 04 2013 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 05 2013 00:00:00",
+      2,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 06 2013 00:00:00",
+      1,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 07 2013 00:00:00",
+      1,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 08 2013 00:00:00",
+      9147,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 09 2013 00:00:00",
+      12679,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 10 2013 00:00:00",
+      1669,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 11 2013 00:00:00",
+      1132,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 12 2013 00:00:00",
+      2122,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 13 2013 00:00:00",
+      3839,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 14 2013 00:00:00",
+      863,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 15 2013 00:00:00",
+      174,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 16 2013 00:00:00",
+      1199,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 17 2013 00:00:00",
+      202,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 18 2013 00:00:00",
+      4068,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 19 2013 00:00:00",
+      3340,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 20 2013 00:00:00",
+      85,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 21 2013 00:00:00",
+      475,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 22 2013 00:00:00",
+      3487,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 23 2013 00:00:00",
+      4902,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      10309,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      2153,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      4628,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      285,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      2845,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      1331,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      8,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      2908,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      126,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      48,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      77,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      1467,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      5824,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      3012,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      10259,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      5334,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      6632,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      956,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      1202,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      1316,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      909,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      140,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      2218,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      2056,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      166,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      2159,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      958,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      1186,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      384,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      2105,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      613,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      1016,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      524,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      178,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      479,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      169,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      764,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      276,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      379,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      372,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      156,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      83,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      137,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      1066,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      57,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      17,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      177,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      77,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      79,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      48,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      63,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      5,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      46,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      200,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 84,
+    "totalCount": 129369,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.106955"
+  }
+}

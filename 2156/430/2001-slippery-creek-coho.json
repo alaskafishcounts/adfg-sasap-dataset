@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      3,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      9,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      14,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      37,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      20,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      54,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      46,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      58,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      52,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 01 2001 00:00:00",
+      32,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 02 2001 00:00:00",
+      10,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      34,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 04 2001 00:00:00",
+      63,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      27,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 06 2001 00:00:00",
+      26,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 07 2001 00:00:00",
+      326,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      329,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 09 2001 00:00:00",
+      142,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      53,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      111,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      89,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      1,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      90,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      88,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      111,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      123,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      101,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      85,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      67,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 22 2001 00:00:00",
+      111,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 23 2001 00:00:00",
+      59,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      13,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 25 2001 00:00:00",
+      144,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 26 2001 00:00:00",
+      65,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 28 2001 00:00:00",
+      39,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 29 2001 00:00:00",
+      21,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 30 2001 00:00:00",
+      72,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 03 2001 00:00:00",
+      84,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 04 2001 00:00:00",
+      5,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 07 2001 00:00:00",
+      230,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 08 2001 00:00:00",
+      142,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 09 2001 00:00:00",
+      112,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 10 2001 00:00:00",
+      18,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 11 2001 00:00:00",
+      11,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 12 2001 00:00:00",
+      45,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 13 2001 00:00:00",
+      17,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 15 2001 00:00:00",
+      23,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 16 2001 00:00:00",
+      1,
+      440,
+      2156,
+      "Slippery Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2156,
+    "species_id": "440",
+    "year": "2001",
+    "totalRecords": 48,
+    "totalCount": 3413,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.867259"
+  }
+}

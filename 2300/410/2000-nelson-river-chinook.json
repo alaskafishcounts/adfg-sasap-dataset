@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      180,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      256,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      150,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      177,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      181,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      160,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      166,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      141,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      594,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      211,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      119,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      143,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      142,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      113,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      136,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      180,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      119,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      172,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      80,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      76,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      45,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      50,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      29,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      15,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      3,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      5,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      11,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      135,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 02 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 05 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "430",
+    "year": "2000",
+    "totalRecords": 60,
+    "totalCount": 3789,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.512130"
+  }
+}

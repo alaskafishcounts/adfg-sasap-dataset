@@ -1,0 +1,688 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "March, 24 1989 00:00:00",
+      4,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "March, 25 1989 00:00:00",
+      5,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "March, 26 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "March, 27 1989 00:00:00",
+      4,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "March, 28 1989 00:00:00",
+      2,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "March, 29 1989 00:00:00",
+      10,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "March, 30 1989 00:00:00",
+      2,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "March, 31 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 01 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 02 1989 00:00:00",
+      0,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 03 1989 00:00:00",
+      9,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 04 1989 00:00:00",
+      5,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 05 1989 00:00:00",
+      0,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 06 1989 00:00:00",
+      18,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 07 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 08 1989 00:00:00",
+      28,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 09 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 10 1989 00:00:00",
+      0,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 11 1989 00:00:00",
+      24,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 12 1989 00:00:00",
+      16,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 13 1989 00:00:00",
+      13,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 14 1989 00:00:00",
+      31,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 15 1989 00:00:00",
+      31,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 16 1989 00:00:00",
+      42,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 17 1989 00:00:00",
+      23,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 18 1989 00:00:00",
+      34,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 19 1989 00:00:00",
+      38,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 20 1989 00:00:00",
+      35,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 21 1989 00:00:00",
+      46,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 22 1989 00:00:00",
+      23,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 23 1989 00:00:00",
+      24,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 24 1989 00:00:00",
+      65,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 25 1989 00:00:00",
+      63,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 26 1989 00:00:00",
+      77,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 27 1989 00:00:00",
+      42,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 28 1989 00:00:00",
+      37,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 29 1989 00:00:00",
+      36,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "April, 30 1989 00:00:00",
+      44,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 01 1989 00:00:00",
+      42,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 02 1989 00:00:00",
+      26,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 03 1989 00:00:00",
+      10,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 04 1989 00:00:00",
+      0,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 05 1989 00:00:00",
+      23,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 06 1989 00:00:00",
+      17,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 07 1989 00:00:00",
+      11,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 08 1989 00:00:00",
+      16,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 09 1989 00:00:00",
+      9,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 10 1989 00:00:00",
+      5,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 11 1989 00:00:00",
+      12,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 12 1989 00:00:00",
+      14,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 13 1989 00:00:00",
+      9,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 14 1989 00:00:00",
+      6,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 15 1989 00:00:00",
+      6,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 16 1989 00:00:00",
+      4,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 17 1989 00:00:00",
+      10,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 18 1989 00:00:00",
+      5,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 19 1989 00:00:00",
+      10,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 20 1989 00:00:00",
+      10,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 21 1989 00:00:00",
+      5,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 22 1989 00:00:00",
+      3,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 23 1989 00:00:00",
+      12,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 24 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 25 1989 00:00:00",
+      3,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 26 1989 00:00:00",
+      4,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 27 1989 00:00:00",
+      2,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 28 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 29 1989 00:00:00",
+      2,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 30 1989 00:00:00",
+      0,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 31 1989 00:00:00",
+      0,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 01 1989 00:00:00",
+      0,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 02 1989 00:00:00",
+      0,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 03 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 05 1989 00:00:00",
+      1,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 06 1989 00:00:00",
+      2,
+      480,
+      2114,
+      "Karta River",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2114,
+    "species_id": "480",
+    "year": "1989",
+    "totalRecords": 74,
+    "totalCount": 1118,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.423813"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "September, 13 1989 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "September, 15 1989 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "September, 18 1989 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "September, 20 1989 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "September, 22 1989 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "September, 25 1989 00:00:00",
+      5,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "September, 26 1989 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "September, 27 1989 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 01 1989 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 03 1989 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 04 1989 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 05 1989 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 08 1989 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 09 1989 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 10 1989 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 11 1989 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 13 1989 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 14 1989 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1989,
+      "October, 15 1989 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "450",
+    "year": "1989",
+    "totalRecords": 19,
+    "totalCount": 35,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.076433"
+  }
+}

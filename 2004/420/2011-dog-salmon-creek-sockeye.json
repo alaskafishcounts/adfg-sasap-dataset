@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "May, 23 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "May, 24 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "May, 25 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "May, 26 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "May, 27 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "May, 28 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "May, 29 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "May, 30 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "May, 31 2011 00:00:00",
+      3,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 01 2011 00:00:00",
+      1,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 02 2011 00:00:00",
+      13,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 03 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 04 2011 00:00:00",
+      3,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 05 2011 00:00:00",
+      1,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 06 2011 00:00:00",
+      1,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 07 2011 00:00:00",
+      0,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 08 2011 00:00:00",
+      10,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 09 2011 00:00:00",
+      4213,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 10 2011 00:00:00",
+      1564,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 11 2011 00:00:00",
+      780,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 12 2011 00:00:00",
+      799,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 13 2011 00:00:00",
+      1082,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 14 2011 00:00:00",
+      694,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 15 2011 00:00:00",
+      2773,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 16 2011 00:00:00",
+      351,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 17 2011 00:00:00",
+      3189,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 18 2011 00:00:00",
+      444,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 19 2011 00:00:00",
+      3159,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 20 2011 00:00:00",
+      6232,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 21 2011 00:00:00",
+      3759,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 22 2011 00:00:00",
+      6471,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 23 2011 00:00:00",
+      1287,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      606,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      1038,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      9437,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      88,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      1411,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      5069,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      2490,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 01 2011 00:00:00",
+      6612,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 02 2011 00:00:00",
+      13920,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 03 2011 00:00:00",
+      2408,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 04 2011 00:00:00",
+      7002,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 05 2011 00:00:00",
+      16216,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 06 2011 00:00:00",
+      4353,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 07 2011 00:00:00",
+      170,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 08 2011 00:00:00",
+      2108,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 09 2011 00:00:00",
+      4167,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      611,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      4542,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      4252,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      6405,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      5202,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      2221,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      4481,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      3564,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      2714,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      1164,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      3254,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      1018,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      1420,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      3326,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      1179,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      1172,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      299,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      1569,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      825,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      3241,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      652,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      1551,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 01 2011 00:00:00",
+      245,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 02 2011 00:00:00",
+      691,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 03 2011 00:00:00",
+      728,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 04 2011 00:00:00",
+      411,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 05 2011 00:00:00",
+      1790,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 06 2011 00:00:00",
+      234,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 07 2011 00:00:00",
+      1370,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 08 2011 00:00:00",
+      131,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 09 2011 00:00:00",
+      292,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      252,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      468,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      510,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      483,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      1020,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      1004,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      148,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      136,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 18 2011 00:00:00",
+      95,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      886,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 20 2011 00:00:00",
+      123,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 21 2011 00:00:00",
+      950,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 22 2011 00:00:00",
+      50,
+      410,
+      2004,
+      "Dog Salmon Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 92,
+    "totalCount": 180603,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.093199"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "August, 17 1987 00:00:00",
+      1,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 19 1987 00:00:00",
+      1,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 21 1987 00:00:00",
+      3,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 22 1987 00:00:00",
+      7,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 23 1987 00:00:00",
+      2,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 25 1987 00:00:00",
+      1,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 26 1987 00:00:00",
+      4,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 27 1987 00:00:00",
+      2,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 29 1987 00:00:00",
+      3,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 30 1987 00:00:00",
+      37,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 02 1987 00:00:00",
+      1,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 03 1987 00:00:00",
+      2,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 04 1987 00:00:00",
+      7,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 05 1987 00:00:00",
+      11,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 12 1987 00:00:00",
+      2,
+      450,
+      2163,
+      "Black Bear Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2163,
+    "species_id": "450",
+    "year": "1987",
+    "totalRecords": 15,
+    "totalCount": 84,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.802089"
+  }
+}

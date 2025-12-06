@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "August, 11 1981 00:00:00",
+      1,
+      440,
+      2131,
+      "McDonald Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "August, 22 1981 00:00:00",
+      3,
+      440,
+      2131,
+      "McDonald Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "August, 23 1981 00:00:00",
+      3,
+      440,
+      2131,
+      "McDonald Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "August, 24 1981 00:00:00",
+      3,
+      440,
+      2131,
+      "McDonald Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "August, 25 1981 00:00:00",
+      2,
+      440,
+      2131,
+      "McDonald Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "August, 26 1981 00:00:00",
+      3,
+      440,
+      2131,
+      "McDonald Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "August, 27 1981 00:00:00",
+      2,
+      440,
+      2131,
+      "McDonald Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "September, 01 1981 00:00:00",
+      2,
+      440,
+      2131,
+      "McDonald Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "440",
+    "year": "1981",
+    "totalRecords": 8,
+    "totalCount": 19,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.856585"
+  }
+}

@@ -1,0 +1,859 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 02 2009 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 03 2009 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 05 2009 00:00:00",
+      9,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 06 2009 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 07 2009 00:00:00",
+      12,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 08 2009 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 09 2009 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      5,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      5,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      7,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      14,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      29,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      82,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      98,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      38,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      19,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      113,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      156,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      64,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      60,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      37,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      212,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 01 2009 00:00:00",
+      24,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 02 2009 00:00:00",
+      26,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 03 2009 00:00:00",
+      15,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 04 2009 00:00:00",
+      10,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 05 2009 00:00:00",
+      43,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 06 2009 00:00:00",
+      16,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 07 2009 00:00:00",
+      44,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 08 2009 00:00:00",
+      11,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 09 2009 00:00:00",
+      10,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 10 2009 00:00:00",
+      24,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 11 2009 00:00:00",
+      12,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 13 2009 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 14 2009 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 15 2009 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 16 2009 00:00:00",
+      69,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 17 2009 00:00:00",
+      94,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 18 2009 00:00:00",
+      289,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 19 2009 00:00:00",
+      21,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 20 2009 00:00:00",
+      57,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 21 2009 00:00:00",
+      523,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 22 2009 00:00:00",
+      44,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 23 2009 00:00:00",
+      16,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 24 2009 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 25 2009 00:00:00",
+      268,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 26 2009 00:00:00",
+      19,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 28 2009 00:00:00",
+      220,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 29 2009 00:00:00",
+      65,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 30 2009 00:00:00",
+      190,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 31 2009 00:00:00",
+      175,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 01 2009 00:00:00",
+      170,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 02 2009 00:00:00",
+      241,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 03 2009 00:00:00",
+      66,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 04 2009 00:00:00",
+      48,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 05 2009 00:00:00",
+      276,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 06 2009 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 07 2009 00:00:00",
+      47,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 08 2009 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 09 2009 00:00:00",
+      154,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 10 2009 00:00:00",
+      125,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 11 2009 00:00:00",
+      118,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 12 2009 00:00:00",
+      68,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 13 2009 00:00:00",
+      31,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 14 2009 00:00:00",
+      54,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 15 2009 00:00:00",
+      19,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 16 2009 00:00:00",
+      57,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 17 2009 00:00:00",
+      73,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 18 2009 00:00:00",
+      9,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 19 2009 00:00:00",
+      22,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 20 2009 00:00:00",
+      5,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 21 2009 00:00:00",
+      5,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 22 2009 00:00:00",
+      22,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 23 2009 00:00:00",
+      85,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 24 2009 00:00:00",
+      40,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 25 2009 00:00:00",
+      22,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 26 2009 00:00:00",
+      192,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 27 2009 00:00:00",
+      21,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 28 2009 00:00:00",
+      23,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 29 2009 00:00:00",
+      10,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "September, 30 2009 00:00:00",
+      95,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "October, 01 2009 00:00:00",
+      307,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "410",
+    "year": "2009",
+    "totalRecords": 93,
+    "totalCount": 5712,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.911542"
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1972,
+      "July, 16 1972 00:00:00",
+      52,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 17 1972 00:00:00",
+      752,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 18 1972 00:00:00",
+      184,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 19 1972 00:00:00",
+      435,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 20 1972 00:00:00",
+      85,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 21 1972 00:00:00",
+      212,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 22 1972 00:00:00",
+      151,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 23 1972 00:00:00",
+      1271,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 24 1972 00:00:00",
+      2531,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 25 1972 00:00:00",
+      1269,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 26 1972 00:00:00",
+      575,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 27 1972 00:00:00",
+      504,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 28 1972 00:00:00",
+      1661,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 29 1972 00:00:00",
+      418,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 30 1972 00:00:00",
+      456,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "July, 31 1972 00:00:00",
+      4848,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 01 1972 00:00:00",
+      1433,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 02 1972 00:00:00",
+      72,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 03 1972 00:00:00",
+      201,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 04 1972 00:00:00",
+      1125,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 05 1972 00:00:00",
+      1834,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 06 1972 00:00:00",
+      596,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 07 1972 00:00:00",
+      359,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 08 1972 00:00:00",
+      105,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 09 1972 00:00:00",
+      248,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 10 1972 00:00:00",
+      747,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 11 1972 00:00:00",
+      877,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 12 1972 00:00:00",
+      660,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 13 1972 00:00:00",
+      1134,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 14 1972 00:00:00",
+      2327,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 15 1972 00:00:00",
+      3515,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 16 1972 00:00:00",
+      190,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 17 1972 00:00:00",
+      621,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 18 1972 00:00:00",
+      3480,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 19 1972 00:00:00",
+      7212,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 20 1972 00:00:00",
+      379,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 21 1972 00:00:00",
+      5265,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 22 1972 00:00:00",
+      1975,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 23 1972 00:00:00",
+      1796,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 24 1972 00:00:00",
+      1429,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 25 1972 00:00:00",
+      1924,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 26 1972 00:00:00",
+      778,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 27 1972 00:00:00",
+      1666,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 28 1972 00:00:00",
+      868,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 29 1972 00:00:00",
+      1128,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 30 1972 00:00:00",
+      181,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "August, 31 1972 00:00:00",
+      268,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 01 1972 00:00:00",
+      3412,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 02 1972 00:00:00",
+      592,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 03 1972 00:00:00",
+      958,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 04 1972 00:00:00",
+      1198,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 05 1972 00:00:00",
+      365,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 06 1972 00:00:00",
+      37,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 07 1972 00:00:00",
+      460,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 08 1972 00:00:00",
+      134,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 09 1972 00:00:00",
+      838,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 10 1972 00:00:00",
+      456,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 11 1972 00:00:00",
+      217,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 12 1972 00:00:00",
+      290,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 13 1972 00:00:00",
+      148,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 14 1972 00:00:00",
+      667,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 15 1972 00:00:00",
+      211,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 16 1972 00:00:00",
+      96,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 17 1972 00:00:00",
+      22,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 18 1972 00:00:00",
+      136,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 19 1972 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1972,
+      "September, 20 1972 00:00:00",
+      37,
+      420,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1972",
+    "totalRecords": 67,
+    "totalCount": 70071,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.916709"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "September, 16 2005 00:00:00",
+      2,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "September, 17 2005 00:00:00",
+      2,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "October, 07 2005 00:00:00",
+      1,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "October, 09 2005 00:00:00",
+      2,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "October, 18 2005 00:00:00",
+      1,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "October, 20 2005 00:00:00",
+      3,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "October, 22 2005 00:00:00",
+      1,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ],
+    [
+      2005,
+      "November, 03 2005 00:00:00",
+      3,
+      480,
+      2104,
+      "Klawock River",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "480",
+    "year": "2005",
+    "totalRecords": 8,
+    "totalCount": 15,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.702554"
+  }
+}

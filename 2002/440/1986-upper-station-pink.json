@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "July, 26 1986 00:00:00",
+      2,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 27 1986 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 28 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 29 1986 00:00:00",
+      5,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 30 1986 00:00:00",
+      3,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 31 1986 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 01 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 02 1986 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 03 1986 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 04 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 05 1986 00:00:00",
+      3,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 06 1986 00:00:00",
+      12,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 07 1986 00:00:00",
+      8,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 08 1986 00:00:00",
+      32,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 09 1986 00:00:00",
+      28,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 10 1986 00:00:00",
+      21,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 11 1986 00:00:00",
+      44,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 12 1986 00:00:00",
+      43,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 13 1986 00:00:00",
+      127,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 14 1986 00:00:00",
+      65,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 15 1986 00:00:00",
+      102,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 16 1986 00:00:00",
+      62,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 17 1986 00:00:00",
+      64,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 18 1986 00:00:00",
+      57,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 19 1986 00:00:00",
+      25,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 20 1986 00:00:00",
+      45,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 21 1986 00:00:00",
+      40,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 22 1986 00:00:00",
+      59,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 23 1986 00:00:00",
+      28,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 24 1986 00:00:00",
+      56,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 25 1986 00:00:00",
+      80,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 26 1986 00:00:00",
+      143,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 27 1986 00:00:00",
+      21,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 28 1986 00:00:00",
+      26,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 29 1986 00:00:00",
+      20,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 30 1986 00:00:00",
+      23,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 31 1986 00:00:00",
+      29,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 01 1986 00:00:00",
+      16,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 02 1986 00:00:00",
+      10,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 03 1986 00:00:00",
+      8,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 04 1986 00:00:00",
+      18,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 05 1986 00:00:00",
+      17,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 06 1986 00:00:00",
+      2,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 07 1986 00:00:00",
+      14,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 08 1986 00:00:00",
+      19,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 09 1986 00:00:00",
+      6,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 10 1986 00:00:00",
+      11,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 11 1986 00:00:00",
+      7,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 12 1986 00:00:00",
+      10,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 13 1986 00:00:00",
+      5,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 14 1986 00:00:00",
+      5,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 15 1986 00:00:00",
+      2250,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 16 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 17 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 18 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 19 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 20 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 21 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 22 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 23 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 24 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 25 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 26 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 27 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 28 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 29 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 30 1986 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "420",
+    "year": "1986",
+    "totalRecords": 67,
+    "totalCount": 3675,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.679421"
+  }
+}

@@ -1,0 +1,868 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1948,
+      "June, 16 1948 00:00:00",
+      75,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 17 1948 00:00:00",
+      5330,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 18 1948 00:00:00",
+      3410,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 19 1948 00:00:00",
+      1120,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 20 1948 00:00:00",
+      2178,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 21 1948 00:00:00",
+      2107,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 22 1948 00:00:00",
+      1365,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 23 1948 00:00:00",
+      769,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 24 1948 00:00:00",
+      2125,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 25 1948 00:00:00",
+      1101,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 26 1948 00:00:00",
+      806,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 27 1948 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 28 1948 00:00:00",
+      771,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 29 1948 00:00:00",
+      532,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "June, 30 1948 00:00:00",
+      605,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 01 1948 00:00:00",
+      1827,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 02 1948 00:00:00",
+      1422,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 03 1948 00:00:00",
+      295,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 04 1948 00:00:00",
+      1004,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 05 1948 00:00:00",
+      894,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 06 1948 00:00:00",
+      754,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 07 1948 00:00:00",
+      905,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 08 1948 00:00:00",
+      79,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 09 1948 00:00:00",
+      940,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 10 1948 00:00:00",
+      42,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 11 1948 00:00:00",
+      87,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 12 1948 00:00:00",
+      196,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 13 1948 00:00:00",
+      890,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 14 1948 00:00:00",
+      378,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 15 1948 00:00:00",
+      1317,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 16 1948 00:00:00",
+      2,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 17 1948 00:00:00",
+      788,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 18 1948 00:00:00",
+      7,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 19 1948 00:00:00",
+      2,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 20 1948 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 21 1948 00:00:00",
+      736,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 22 1948 00:00:00",
+      909,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 23 1948 00:00:00",
+      7,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 24 1948 00:00:00",
+      40,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 25 1948 00:00:00",
+      498,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 26 1948 00:00:00",
+      1558,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 27 1948 00:00:00",
+      457,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 28 1948 00:00:00",
+      364,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 29 1948 00:00:00",
+      107,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 30 1948 00:00:00",
+      332,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "July, 31 1948 00:00:00",
+      354,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 01 1948 00:00:00",
+      244,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 02 1948 00:00:00",
+      510,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 03 1948 00:00:00",
+      325,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 04 1948 00:00:00",
+      723,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 05 1948 00:00:00",
+      27,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 06 1948 00:00:00",
+      1046,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 07 1948 00:00:00",
+      190,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 08 1948 00:00:00",
+      9,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 09 1948 00:00:00",
+      218,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 10 1948 00:00:00",
+      326,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 11 1948 00:00:00",
+      407,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 12 1948 00:00:00",
+      295,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 13 1948 00:00:00",
+      1104,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 14 1948 00:00:00",
+      3424,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 15 1948 00:00:00",
+      14041,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 16 1948 00:00:00",
+      9376,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 17 1948 00:00:00",
+      9011,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 18 1948 00:00:00",
+      4768,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 19 1948 00:00:00",
+      2025,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 20 1948 00:00:00",
+      3651,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 21 1948 00:00:00",
+      2594,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 22 1948 00:00:00",
+      7207,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 23 1948 00:00:00",
+      20143,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 24 1948 00:00:00",
+      5531,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 25 1948 00:00:00",
+      6558,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 26 1948 00:00:00",
+      4011,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 27 1948 00:00:00",
+      3311,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 28 1948 00:00:00",
+      2017,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 29 1948 00:00:00",
+      1118,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 30 1948 00:00:00",
+      882,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "August, 31 1948 00:00:00",
+      2363,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 01 1948 00:00:00",
+      460,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 02 1948 00:00:00",
+      1129,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 03 1948 00:00:00",
+      5205,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 04 1948 00:00:00",
+      702,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 05 1948 00:00:00",
+      1342,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 06 1948 00:00:00",
+      561,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 07 1948 00:00:00",
+      1102,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 08 1948 00:00:00",
+      715,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 09 1948 00:00:00",
+      1528,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 10 1948 00:00:00",
+      506,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 11 1948 00:00:00",
+      613,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 12 1948 00:00:00",
+      510,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 13 1948 00:00:00",
+      150,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 14 1948 00:00:00",
+      205,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 15 1948 00:00:00",
+      207,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 16 1948 00:00:00",
+      428,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1948,
+      "September, 17 1948 00:00:00",
+      120,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1948",
+    "totalRecords": 94,
+    "totalCount": 162426,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.170295"
+  }
+}

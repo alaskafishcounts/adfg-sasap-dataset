@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "July, 23 1975 00:00:00",
+      12,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "July, 24 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "July, 25 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "July, 26 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "July, 27 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "July, 28 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "July, 29 1975 00:00:00",
+      6,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "July, 30 1975 00:00:00",
+      15,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "July, 31 1975 00:00:00",
+      4,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 01 1975 00:00:00",
+      9,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 02 1975 00:00:00",
+      2,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 03 1975 00:00:00",
+      3,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 04 1975 00:00:00",
+      6,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 05 1975 00:00:00",
+      35,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 06 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 07 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 08 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 09 1975 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 10 1975 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 11 1975 00:00:00",
+      4,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 12 1975 00:00:00",
+      17,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 13 1975 00:00:00",
+      24,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 14 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 15 1975 00:00:00",
+      39,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 16 1975 00:00:00",
+      15,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 17 1975 00:00:00",
+      11,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 18 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 19 1975 00:00:00",
+      5,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 20 1975 00:00:00",
+      17,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 21 1975 00:00:00",
+      9,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 22 1975 00:00:00",
+      17,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 23 1975 00:00:00",
+      9,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 24 1975 00:00:00",
+      8,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 25 1975 00:00:00",
+      32,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 26 1975 00:00:00",
+      13,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 27 1975 00:00:00",
+      42,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 28 1975 00:00:00",
+      46,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 29 1975 00:00:00",
+      153,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 30 1975 00:00:00",
+      233,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "August, 31 1975 00:00:00",
+      109,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 01 1975 00:00:00",
+      336,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 02 1975 00:00:00",
+      186,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 03 1975 00:00:00",
+      354,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 04 1975 00:00:00",
+      334,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 05 1975 00:00:00",
+      6524,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 06 1975 00:00:00",
+      -163,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 07 1975 00:00:00",
+      63,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 08 1975 00:00:00",
+      155,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 09 1975 00:00:00",
+      -218,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 10 1975 00:00:00",
+      600,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 11 1975 00:00:00",
+      128,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 12 1975 00:00:00",
+      113,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 13 1975 00:00:00",
+      55,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 14 1975 00:00:00",
+      8,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 15 1975 00:00:00",
+      3,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 16 1975 00:00:00",
+      83,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 17 1975 00:00:00",
+      276,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 18 1975 00:00:00",
+      52,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 19 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 20 1975 00:00:00",
+      11,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 21 1975 00:00:00",
+      3,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 22 1975 00:00:00",
+      6,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 23 1975 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 24 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 25 1975 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 26 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 27 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 28 1975 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 29 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "September, 30 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1975,
+      "October, 01 1975 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "420",
+    "year": "1975",
+    "totalRecords": 71,
+    "totalCount": 9809,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.620931"
+  }
+}

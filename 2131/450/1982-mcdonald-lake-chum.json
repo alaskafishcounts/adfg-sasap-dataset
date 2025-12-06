@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      3,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      3,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      5,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      6,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      6,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      38,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      5,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      7,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      12,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      13,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      4,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "450",
+    "year": "1982",
+    "totalRecords": 13,
+    "totalCount": 106,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.869151"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      0,
+      410,
+      2305,
+      "Mortensens Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2305,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.471717"
+  }
+}

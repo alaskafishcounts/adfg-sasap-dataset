@@ -1,0 +1,886 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1953,
+      "June, 08 1953 00:00:00",
+      53,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 09 1953 00:00:00",
+      275,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 10 1953 00:00:00",
+      51,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 11 1953 00:00:00",
+      149,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 12 1953 00:00:00",
+      21,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 13 1953 00:00:00",
+      2536,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 14 1953 00:00:00",
+      2579,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 15 1953 00:00:00",
+      1743,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 16 1953 00:00:00",
+      3032,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 17 1953 00:00:00",
+      8922,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 18 1953 00:00:00",
+      29812,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 19 1953 00:00:00",
+      21567,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 20 1953 00:00:00",
+      45725,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 21 1953 00:00:00",
+      20776,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 22 1953 00:00:00",
+      7558,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 23 1953 00:00:00",
+      4500,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 24 1953 00:00:00",
+      1305,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 25 1953 00:00:00",
+      1380,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 26 1953 00:00:00",
+      1663,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 27 1953 00:00:00",
+      1578,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 28 1953 00:00:00",
+      1527,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 29 1953 00:00:00",
+      1456,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "June, 30 1953 00:00:00",
+      2698,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 01 1953 00:00:00",
+      2698,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 02 1953 00:00:00",
+      2698,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 03 1953 00:00:00",
+      2698,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 04 1953 00:00:00",
+      219,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 05 1953 00:00:00",
+      197,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 06 1953 00:00:00",
+      859,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 07 1953 00:00:00",
+      4833,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 08 1953 00:00:00",
+      11634,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 09 1953 00:00:00",
+      4600,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 10 1953 00:00:00",
+      2023,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 11 1953 00:00:00",
+      3745,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 12 1953 00:00:00",
+      21877,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 13 1953 00:00:00",
+      11847,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 14 1953 00:00:00",
+      9165,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 15 1953 00:00:00",
+      14077,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 16 1953 00:00:00",
+      7813,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 17 1953 00:00:00",
+      10498,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 18 1953 00:00:00",
+      4328,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 19 1953 00:00:00",
+      4538,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 20 1953 00:00:00",
+      5275,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 21 1953 00:00:00",
+      4764,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 22 1953 00:00:00",
+      1232,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 23 1953 00:00:00",
+      711,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 24 1953 00:00:00",
+      355,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 25 1953 00:00:00",
+      937,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 26 1953 00:00:00",
+      1772,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 27 1953 00:00:00",
+      3229,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 28 1953 00:00:00",
+      3018,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 29 1953 00:00:00",
+      1839,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 30 1953 00:00:00",
+      1116,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "July, 31 1953 00:00:00",
+      1107,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 01 1953 00:00:00",
+      1082,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 02 1953 00:00:00",
+      1110,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 03 1953 00:00:00",
+      626,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 04 1953 00:00:00",
+      1186,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 05 1953 00:00:00",
+      1573,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 06 1953 00:00:00",
+      1265,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 07 1953 00:00:00",
+      1963,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 08 1953 00:00:00",
+      1933,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 09 1953 00:00:00",
+      1200,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 10 1953 00:00:00",
+      1266,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 11 1953 00:00:00",
+      1109,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 12 1953 00:00:00",
+      1673,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 13 1953 00:00:00",
+      1159,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 14 1953 00:00:00",
+      3427,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 15 1953 00:00:00",
+      2800,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 16 1953 00:00:00",
+      4847,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 17 1953 00:00:00",
+      3823,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 18 1953 00:00:00",
+      5990,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 19 1953 00:00:00",
+      4517,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 20 1953 00:00:00",
+      4480,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 21 1953 00:00:00",
+      4593,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 22 1953 00:00:00",
+      3610,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 23 1953 00:00:00",
+      1340,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 24 1953 00:00:00",
+      1233,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 25 1953 00:00:00",
+      2121,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 26 1953 00:00:00",
+      1137,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 27 1953 00:00:00",
+      1421,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 28 1953 00:00:00",
+      1404,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 29 1953 00:00:00",
+      707,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 30 1953 00:00:00",
+      1268,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "August, 31 1953 00:00:00",
+      861,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 01 1953 00:00:00",
+      1040,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 02 1953 00:00:00",
+      1097,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 03 1953 00:00:00",
+      449,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 04 1953 00:00:00",
+      355,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 05 1953 00:00:00",
+      334,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 06 1953 00:00:00",
+      767,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 07 1953 00:00:00",
+      614,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 08 1953 00:00:00",
+      848,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 09 1953 00:00:00",
+      561,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 10 1953 00:00:00",
+      368,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1953,
+      "September, 11 1953 00:00:00",
+      514,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "410",
+    "year": "1953",
+    "totalRecords": 96,
+    "totalCount": 380279,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.402878"
+  }
+}

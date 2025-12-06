@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      23,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      4,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      27,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      1817,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      1628,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      644,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      85,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      2153,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      6980,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      3154,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      1118,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      2215,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      6361,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      4495,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      4026,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      247,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 01 2012 00:00:00",
+      478,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 02 2012 00:00:00",
+      261,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 03 2012 00:00:00",
+      2778,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 04 2012 00:00:00",
+      1762,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 05 2012 00:00:00",
+      5711,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 06 2012 00:00:00",
+      3413,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 07 2012 00:00:00",
+      4942,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 08 2012 00:00:00",
+      7017,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 09 2012 00:00:00",
+      4299,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      4642,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      1347,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 12 2012 00:00:00",
+      6666,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      3244,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 14 2012 00:00:00",
+      360,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      7942,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 16 2012 00:00:00",
+      341,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 17 2012 00:00:00",
+      1428,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 18 2012 00:00:00",
+      668,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 19 2012 00:00:00",
+      1247,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 20 2012 00:00:00",
+      1660,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 21 2012 00:00:00",
+      581,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 22 2012 00:00:00",
+      462,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 23 2012 00:00:00",
+      2512,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 24 2012 00:00:00",
+      2448,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 25 2012 00:00:00",
+      3394,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 26 2012 00:00:00",
+      1934,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 27 2012 00:00:00",
+      1525,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 28 2012 00:00:00",
+      1682,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 29 2012 00:00:00",
+      864,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 30 2012 00:00:00",
+      2268,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "August, 31 2012 00:00:00",
+      1200,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "September, 01 2012 00:00:00",
+      700,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2012,
+      "September, 02 2012 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "2012",
+    "totalRecords": 49,
+    "totalCount": 114753,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.090377"
+  }
+}

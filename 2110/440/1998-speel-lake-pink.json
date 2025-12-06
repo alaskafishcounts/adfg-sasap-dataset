@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "August, 04 1998 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 07 1998 00:00:00",
+      120,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 13 1998 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 15 1998 00:00:00",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 16 1998 00:00:00",
+      5,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 18 1998 00:00:00",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 20 1998 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 21 1998 00:00:00",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 23 1998 00:00:00",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 24 1998 00:00:00",
+      16,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 25 1998 00:00:00",
+      5,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 26 1998 00:00:00",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 27 1998 00:00:00",
+      5,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "420",
+    "year": "1998",
+    "totalRecords": 13,
+    "totalCount": 166,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.474848"
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 26 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 01 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 02 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 03 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 04 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 05 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 06 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 07 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 08 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 09 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      0,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      7,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      6,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      4,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      8,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      12,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 01 2002 00:00:00",
+      1,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 02 2002 00:00:00",
+      41,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 03 2002 00:00:00",
+      32,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 04 2002 00:00:00",
+      9,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 05 2002 00:00:00",
+      16,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 06 2002 00:00:00",
+      4,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 07 2002 00:00:00",
+      35,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 08 2002 00:00:00",
+      26,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      63,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      2,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      52,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      135,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      170,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      20,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      133,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      157,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      30,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      411,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 19 2002 00:00:00",
+      911,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 20 2002 00:00:00",
+      37,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      676,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      399,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      61,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      87,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      525,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      516,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      2810,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      1771,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      78,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      161,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      1177,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 01 2002 00:00:00",
+      1001,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 02 2002 00:00:00",
+      653,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 03 2002 00:00:00",
+      2563,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 04 2002 00:00:00",
+      786,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 05 2002 00:00:00",
+      2025,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 06 2002 00:00:00",
+      2540,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 07 2002 00:00:00",
+      2334,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 08 2002 00:00:00",
+      615,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 09 2002 00:00:00",
+      53,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      117,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      190,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 12 2002 00:00:00",
+      2555,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 13 2002 00:00:00",
+      695,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 14 2002 00:00:00",
+      275,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      181,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      124,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 17 2002 00:00:00",
+      47,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      306,
+      440,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "440",
+    "year": "2002",
+    "totalRecords": 86,
+    "totalCount": 27643,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.653708"
+  }
+}

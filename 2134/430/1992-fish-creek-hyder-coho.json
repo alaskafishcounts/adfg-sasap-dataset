@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "September, 05 1992 00:00:00",
+      1,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "September, 09 1992 00:00:00",
+      1,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "September, 18 1992 00:00:00",
+      1,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "September, 21 1992 00:00:00",
+      1,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "September, 23 1992 00:00:00",
+      1,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 02 1992 00:00:00",
+      1,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 05 1992 00:00:00",
+      1,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 09 1992 00:00:00",
+      3,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 10 1992 00:00:00",
+      3,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 19 1992 00:00:00",
+      16,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 20 1992 00:00:00",
+      31,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 22 1992 00:00:00",
+      5,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 23 1992 00:00:00",
+      34,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 24 1992 00:00:00",
+      5,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ],
+    [
+      1992,
+      "October, 25 1992 00:00:00",
+      4,
+      430,
+      2134,
+      "Fish Creek (Hyder)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2134,
+    "species_id": "440",
+    "year": "1992",
+    "totalRecords": 15,
+    "totalCount": 108,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.301988"
+  }
+}

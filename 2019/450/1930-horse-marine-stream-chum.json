@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1930,
+      "August, 24 1930 00:00:00",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "August, 25 1930 00:00:00",
+      1,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "August, 26 1930 00:00:00",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "August, 27 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "August, 28 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "August, 29 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "August, 30 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "August, 31 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 01 1930 00:00:00",
+      2,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 02 1930 00:00:00",
+      3,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 03 1930 00:00:00",
+      167,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 04 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 05 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 06 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 07 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 08 1930 00:00:00",
+      0,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ],
+    [
+      1930,
+      "September, 09 1930 00:00:00",
+      1,
+      450,
+      2019,
+      "Horse Marine Stream",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2019,
+    "species_id": "450",
+    "year": "1930",
+    "totalRecords": 17,
+    "totalCount": 180,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.185877"
+  }
+}

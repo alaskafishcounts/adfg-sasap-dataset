@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "September, 10 2005 00:00:00",
+      3,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 12 2005 00:00:00",
+      4,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 13 2005 00:00:00",
+      17,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 14 2005 00:00:00",
+      9,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 15 2005 00:00:00",
+      4,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 21 2005 00:00:00",
+      13,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 22 2005 00:00:00",
+      12,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 23 2005 00:00:00",
+      28,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 24 2005 00:00:00",
+      12,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 25 2005 00:00:00",
+      36,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 26 2005 00:00:00",
+      15,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 27 2005 00:00:00",
+      1,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 28 2005 00:00:00",
+      5,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 29 2005 00:00:00",
+      5,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "September, 30 2005 00:00:00",
+      5,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "October, 01 2005 00:00:00",
+      20,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "October, 03 2005 00:00:00",
+      17,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "October, 04 2005 00:00:00",
+      8,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "October, 05 2005 00:00:00",
+      38,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "October, 07 2005 00:00:00",
+      39,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "October, 08 2005 00:00:00",
+      32,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2005,
+      "October, 11 2005 00:00:00",
+      4,
+      430,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "440",
+    "year": "2005",
+    "totalRecords": 22,
+    "totalCount": 327,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.231322"
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 31 1982 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 01 1982 00:00:00",
+      5,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 02 1982 00:00:00",
+      3,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 03 1982 00:00:00",
+      3,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 04 1982 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 05 1982 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 07 1982 00:00:00",
+      5,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      11,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      5,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      26,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      4,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 15 1982 00:00:00",
+      9,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      25,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      74,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      16,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      12,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 25 1982 00:00:00",
+      12,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      34,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      82,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      3,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      13,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      20,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      449,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      161,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      173,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      118,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      157,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      254,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      130,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      172,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      54,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      36,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      51,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      334,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      38,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      4,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      6,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      5,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 18 1982 00:00:00",
+      25,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      17,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      5,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      3,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 22 1982 00:00:00",
+      5,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 02 1982 00:00:00",
+      18,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 04 1982 00:00:00",
+      57,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 05 1982 00:00:00",
+      413,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 06 1982 00:00:00",
+      108,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 07 1982 00:00:00",
+      47,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 09 1982 00:00:00",
+      128,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 11 1982 00:00:00",
+      55,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "440",
+    "year": "1982",
+    "totalRecords": 60,
+    "totalCount": 3406,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.263344"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "June, 08 1999 00:00:00",
+      6,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 09 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 10 1999 00:00:00",
+      84,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 11 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 12 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 13 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 14 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 15 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 16 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 17 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 18 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 19 1999 00:00:00",
+      0,
+      410,
+      2016,
+      "Portage",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2016,
+    "species_id": "410",
+    "year": "1999",
+    "totalRecords": 12,
+    "totalCount": 90,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.225468"
+  }
+}

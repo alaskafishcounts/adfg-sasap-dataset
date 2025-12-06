@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 14 2003 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2003,
+      "September, 06 2003 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ],
+    [
+      2003,
+      "October, 25 2003 00:00:00",
+      1,
+      480,
+      2113,
+      "Salmon Lake Stream",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "480",
+    "year": "2003",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.473858"
+  }
+}

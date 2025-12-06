@@ -1,0 +1,904 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "June, 25 1997 00:00:00",
+      81,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 26 1997 00:00:00",
+      308,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 27 1997 00:00:00",
+      911,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 28 1997 00:00:00",
+      371,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 29 1997 00:00:00",
+      600,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 30 1997 00:00:00",
+      947,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 01 1997 00:00:00",
+      624,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 02 1997 00:00:00",
+      1038,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 03 1997 00:00:00",
+      1081,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 04 1997 00:00:00",
+      1203,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 05 1997 00:00:00",
+      874,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 06 1997 00:00:00",
+      1144,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 07 1997 00:00:00",
+      935,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 08 1997 00:00:00",
+      916,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 09 1997 00:00:00",
+      781,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 10 1997 00:00:00",
+      651,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 11 1997 00:00:00",
+      162,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 12 1997 00:00:00",
+      862,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 13 1997 00:00:00",
+      631,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 14 1997 00:00:00",
+      601,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 15 1997 00:00:00",
+      110,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 16 1997 00:00:00",
+      214,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 17 1997 00:00:00",
+      3064,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 18 1997 00:00:00",
+      1000,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 19 1997 00:00:00",
+      500,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 20 1997 00:00:00",
+      500,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 21 1997 00:00:00",
+      650,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 22 1997 00:00:00",
+      48,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 23 1997 00:00:00",
+      385,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 24 1997 00:00:00",
+      232,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 25 1997 00:00:00",
+      404,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 26 1997 00:00:00",
+      750,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 27 1997 00:00:00",
+      264,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 28 1997 00:00:00",
+      504,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 29 1997 00:00:00",
+      300,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 30 1997 00:00:00",
+      555,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 31 1997 00:00:00",
+      372,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 01 1997 00:00:00",
+      414,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 02 1997 00:00:00",
+      536,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 03 1997 00:00:00",
+      232,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 04 1997 00:00:00",
+      239,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 05 1997 00:00:00",
+      308,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 06 1997 00:00:00",
+      703,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 07 1997 00:00:00",
+      183,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 08 1997 00:00:00",
+      1004,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 09 1997 00:00:00",
+      417,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 10 1997 00:00:00",
+      105,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 11 1997 00:00:00",
+      255,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 12 1997 00:00:00",
+      330,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 13 1997 00:00:00",
+      158,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 14 1997 00:00:00",
+      115,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 15 1997 00:00:00",
+      102,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 16 1997 00:00:00",
+      121,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 17 1997 00:00:00",
+      99,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 18 1997 00:00:00",
+      106,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 19 1997 00:00:00",
+      100,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 20 1997 00:00:00",
+      87,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 21 1997 00:00:00",
+      132,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 22 1997 00:00:00",
+      87,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 23 1997 00:00:00",
+      93,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 24 1997 00:00:00",
+      79,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 25 1997 00:00:00",
+      72,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 26 1997 00:00:00",
+      46,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 27 1997 00:00:00",
+      52,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 28 1997 00:00:00",
+      58,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 29 1997 00:00:00",
+      46,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 30 1997 00:00:00",
+      35,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 31 1997 00:00:00",
+      21,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 01 1997 00:00:00",
+      23,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 02 1997 00:00:00",
+      22,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 03 1997 00:00:00",
+      31,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 04 1997 00:00:00",
+      11,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 05 1997 00:00:00",
+      7,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 06 1997 00:00:00",
+      14,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 07 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 08 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 09 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 10 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 11 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 12 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 13 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 14 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 15 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 16 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 17 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 18 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 19 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 20 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 21 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 22 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 23 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 24 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 25 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 26 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 27 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 28 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 29 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 30 1997 00:00:00",
+      0,
+      410,
+      2008,
+      "Saltery Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2008,
+    "species_id": "410",
+    "year": "1997",
+    "totalRecords": 98,
+    "totalCount": 31016,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.886057"
+  }
+}

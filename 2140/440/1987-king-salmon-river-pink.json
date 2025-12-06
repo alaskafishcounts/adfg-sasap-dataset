@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "July, 01 1987 00:00:00",
+      2,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 02 1987 00:00:00",
+      2,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 03 1987 00:00:00",
+      7,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 04 1987 00:00:00",
+      3,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 07 1987 00:00:00",
+      10,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 08 1987 00:00:00",
+      26,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 09 1987 00:00:00",
+      43,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      46,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      141,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      389,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      2273,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      438,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      4014,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      1660,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      1336,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      383,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      1083,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      700,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      426,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      335,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      1294,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 24 1987 00:00:00",
+      2563,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 25 1987 00:00:00",
+      11082,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 26 1987 00:00:00",
+      15330,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 27 1987 00:00:00",
+      2265,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 28 1987 00:00:00",
+      11073,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 29 1987 00:00:00",
+      15000,
+      420,
+      2140,
+      "King Salmon River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2140,
+    "species_id": "420",
+    "year": "1987",
+    "totalRecords": 27,
+    "totalCount": 71924,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.309432"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      1,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      4,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      10,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      2,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      3,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 21 2008 00:00:00",
+      5,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 22 2008 00:00:00",
+      10,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 24 2008 00:00:00",
+      8,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 25 2008 00:00:00",
+      23,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 28 2008 00:00:00",
+      2,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 04 2008 00:00:00",
+      2,
+      420,
+      2115,
+      "Neva Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2115,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 11,
+    "totalCount": 70,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.557448"
+  }
+}

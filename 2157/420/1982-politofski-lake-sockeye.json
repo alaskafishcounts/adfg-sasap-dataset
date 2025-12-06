@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "August, 22 1982 00:00:00",
+      3,
+      420,
+      2157,
+      "Politofski Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      17,
+      420,
+      2157,
+      "Politofski Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      7,
+      420,
+      2157,
+      "Politofski Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 26 1982 00:00:00",
+      7,
+      420,
+      2157,
+      "Politofski Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      5,
+      420,
+      2157,
+      "Politofski Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      1,
+      420,
+      2157,
+      "Politofski Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      1,
+      420,
+      2157,
+      "Politofski Lake",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 30 1982 00:00:00",
+      2,
+      420,
+      2157,
+      "Politofski Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2157,
+    "species_id": "410",
+    "year": "1982",
+    "totalRecords": 8,
+    "totalCount": 43,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.356949"
+  }
+}

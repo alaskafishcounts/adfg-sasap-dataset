@@ -1,0 +1,904 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "June, 25 1990 00:00:00",
+      15,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 26 1990 00:00:00",
+      78,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 27 1990 00:00:00",
+      4062,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 28 1990 00:00:00",
+      27657,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 29 1990 00:00:00",
+      37429,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 30 1990 00:00:00",
+      10904,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 01 1990 00:00:00",
+      14424,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 02 1990 00:00:00",
+      24152,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 03 1990 00:00:00",
+      23403,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 04 1990 00:00:00",
+      10728,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 05 1990 00:00:00",
+      969,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 06 1990 00:00:00",
+      1511,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 07 1990 00:00:00",
+      3685,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 08 1990 00:00:00",
+      777,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 09 1990 00:00:00",
+      131,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 10 1990 00:00:00",
+      678,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 11 1990 00:00:00",
+      800,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 12 1990 00:00:00",
+      341,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 13 1990 00:00:00",
+      109,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 14 1990 00:00:00",
+      312,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 15 1990 00:00:00",
+      686,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 16 1990 00:00:00",
+      5594,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 17 1990 00:00:00",
+      1761,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 18 1990 00:00:00",
+      5297,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 19 1990 00:00:00",
+      936,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 20 1990 00:00:00",
+      638,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 21 1990 00:00:00",
+      3292,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 22 1990 00:00:00",
+      7947,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 23 1990 00:00:00",
+      837,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 24 1990 00:00:00",
+      328,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 25 1990 00:00:00",
+      6756,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 26 1990 00:00:00",
+      276,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 27 1990 00:00:00",
+      1634,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 28 1990 00:00:00",
+      6049,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 29 1990 00:00:00",
+      4523,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 30 1990 00:00:00",
+      5312,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 31 1990 00:00:00",
+      1553,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 01 1990 00:00:00",
+      2493,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 02 1990 00:00:00",
+      950,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 03 1990 00:00:00",
+      770,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 04 1990 00:00:00",
+      214,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 05 1990 00:00:00",
+      474,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 06 1990 00:00:00",
+      103,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 07 1990 00:00:00",
+      611,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 08 1990 00:00:00",
+      396,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 09 1990 00:00:00",
+      431,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 10 1990 00:00:00",
+      73,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 11 1990 00:00:00",
+      138,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 12 1990 00:00:00",
+      2295,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 13 1990 00:00:00",
+      1081,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 14 1990 00:00:00",
+      347,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 15 1990 00:00:00",
+      800,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 16 1990 00:00:00",
+      200,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 17 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 18 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 19 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 20 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 21 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 22 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 23 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 24 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 25 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 26 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 27 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 28 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 29 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 30 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 31 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 01 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 02 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 03 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 04 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 05 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 06 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 07 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 08 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 09 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 10 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 11 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 12 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 13 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 14 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 15 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 16 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 17 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 18 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 19 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 20 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 21 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 22 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 23 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 24 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 25 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 26 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 27 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 28 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 29 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "September, 30 1990 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "410",
+    "year": "1990",
+    "totalRecords": 98,
+    "totalCount": 226960,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.221206"
+  }
+}

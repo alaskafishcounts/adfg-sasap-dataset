@@ -1,0 +1,1210 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "May, 22 2000 00:00:00",
+      7,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 23 2000 00:00:00",
+      7,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 24 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 25 2000 00:00:00",
+      2,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 26 2000 00:00:00",
+      6,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 27 2000 00:00:00",
+      17,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 28 2000 00:00:00",
+      11,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 29 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 30 2000 00:00:00",
+      3,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "May, 31 2000 00:00:00",
+      3,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 01 2000 00:00:00",
+      1321,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 02 2000 00:00:00",
+      60,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 03 2000 00:00:00",
+      785,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 04 2000 00:00:00",
+      1190,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 05 2000 00:00:00",
+      7950,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 06 2000 00:00:00",
+      1586,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 07 2000 00:00:00",
+      332,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 08 2000 00:00:00",
+      156,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 09 2000 00:00:00",
+      37,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 10 2000 00:00:00",
+      2161,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 11 2000 00:00:00",
+      1558,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 12 2000 00:00:00",
+      12849,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 13 2000 00:00:00",
+      11857,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 14 2000 00:00:00",
+      4271,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 15 2000 00:00:00",
+      15720,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 16 2000 00:00:00",
+      27701,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 17 2000 00:00:00",
+      32843,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 18 2000 00:00:00",
+      3977,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 19 2000 00:00:00",
+      668,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 20 2000 00:00:00",
+      1105,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 21 2000 00:00:00",
+      213,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 22 2000 00:00:00",
+      647,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 23 2000 00:00:00",
+      239,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      967,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      557,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      211,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      581,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      2264,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      3392,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      3405,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      347,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      2940,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      1203,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      177,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      1793,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      2264,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      18,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      20,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      1052,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      5386,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      3311,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      7166,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      4865,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      2993,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      103,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      2569,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      129,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      55,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      3657,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      4475,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      5362,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      1124,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      2062,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      1638,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      449,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      97,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      828,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      964,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      668,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      611,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      1065,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      437,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 02 2000 00:00:00",
+      42,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      1850,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      83,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 05 2000 00:00:00",
+      475,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      974,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      195,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      61,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      41,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      208,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      858,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      487,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      160,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      259,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      167,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      99,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      350,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      79,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      148,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      748,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      194,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      152,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      346,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      91,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 25 2000 00:00:00",
+      60,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      37,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 27 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 29 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 31 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 01 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 02 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 03 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 04 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 05 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 06 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 07 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 08 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 09 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 10 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 11 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 12 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 13 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 14 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 15 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 16 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 17 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 18 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 19 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 20 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 21 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 22 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 23 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 24 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 25 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 26 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 27 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 28 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 29 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 30 2000 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "2000",
+    "totalRecords": 132,
+    "totalCount": 208651,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.077000"
+  }
+}

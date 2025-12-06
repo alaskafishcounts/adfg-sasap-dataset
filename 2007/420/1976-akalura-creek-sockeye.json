@@ -1,0 +1,931 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1976,
+      "June, 20 1976 00:00:00",
+      1,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 21 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 22 1976 00:00:00",
+      21,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 23 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 24 1976 00:00:00",
+      11,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 25 1976 00:00:00",
+      23,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 26 1976 00:00:00",
+      2,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 27 1976 00:00:00",
+      42,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 28 1976 00:00:00",
+      94,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 29 1976 00:00:00",
+      15,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 30 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 01 1976 00:00:00",
+      34,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 02 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 03 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 04 1976 00:00:00",
+      10,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 05 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 06 1976 00:00:00",
+      1,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 07 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 08 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 09 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 10 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 11 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 12 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 13 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 14 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 15 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 16 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 17 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 18 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 19 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 20 1976 00:00:00",
+      3,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 21 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 22 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 23 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 24 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 25 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 26 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 27 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 28 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 29 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 30 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 31 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 01 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 02 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 03 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 04 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 05 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 06 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 07 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 08 1976 00:00:00",
+      46,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 09 1976 00:00:00",
+      1,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 10 1976 00:00:00",
+      39,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 11 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 12 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 13 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 14 1976 00:00:00",
+      4,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 15 1976 00:00:00",
+      8,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 16 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 17 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 18 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 19 1976 00:00:00",
+      7,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 20 1976 00:00:00",
+      11,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 21 1976 00:00:00",
+      13,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 22 1976 00:00:00",
+      2,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 23 1976 00:00:00",
+      8,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 24 1976 00:00:00",
+      32,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 25 1976 00:00:00",
+      6249,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 26 1976 00:00:00",
+      418,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 27 1976 00:00:00",
+      102,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 28 1976 00:00:00",
+      2,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 29 1976 00:00:00",
+      10,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 30 1976 00:00:00",
+      9,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 31 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 01 1976 00:00:00",
+      348,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 02 1976 00:00:00",
+      5,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 03 1976 00:00:00",
+      2,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 04 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 05 1976 00:00:00",
+      86,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 06 1976 00:00:00",
+      13,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 07 1976 00:00:00",
+      82,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 08 1976 00:00:00",
+      72,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 09 1976 00:00:00",
+      4,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 10 1976 00:00:00",
+      21,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 11 1976 00:00:00",
+      5,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 12 1976 00:00:00",
+      20,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 13 1976 00:00:00",
+      81,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 14 1976 00:00:00",
+      384,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 15 1976 00:00:00",
+      1841,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 16 1976 00:00:00",
+      13,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 17 1976 00:00:00",
+      457,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 18 1976 00:00:00",
+      6,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 19 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 20 1976 00:00:00",
+      2,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 21 1976 00:00:00",
+      1,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 22 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 23 1976 00:00:00",
+      10,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 24 1976 00:00:00",
+      2,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 25 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 26 1976 00:00:00",
+      20,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 27 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 28 1976 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "410",
+    "year": "1976",
+    "totalRecords": 101,
+    "totalCount": 10693,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.580561"
+  }
+}

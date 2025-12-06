@@ -1,0 +1,805 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 23 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 24 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 25 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 26 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 27 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 28 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 29 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 30 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 01 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 02 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 03 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 04 1987 00:00:00",
+      0,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 05 1987 00:00:00",
+      44,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 06 1987 00:00:00",
+      34,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 07 1987 00:00:00",
+      18,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 08 1987 00:00:00",
+      31,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 09 1987 00:00:00",
+      57,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      40,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      54,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      41,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      17,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      354,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      51,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      21,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      3,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      780,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      702,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      113,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      137,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      123,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      916,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 24 1987 00:00:00",
+      108,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 25 1987 00:00:00",
+      76,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 26 1987 00:00:00",
+      776,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 27 1987 00:00:00",
+      68,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 28 1987 00:00:00",
+      136,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 29 1987 00:00:00",
+      882,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 30 1987 00:00:00",
+      764,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 31 1987 00:00:00",
+      699,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 01 1987 00:00:00",
+      306,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 02 1987 00:00:00",
+      164,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 03 1987 00:00:00",
+      254,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 04 1987 00:00:00",
+      1457,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 05 1987 00:00:00",
+      112,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 06 1987 00:00:00",
+      243,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 07 1987 00:00:00",
+      5,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 08 1987 00:00:00",
+      98,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 09 1987 00:00:00",
+      2,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 10 1987 00:00:00",
+      21,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 11 1987 00:00:00",
+      43,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 12 1987 00:00:00",
+      18,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 13 1987 00:00:00",
+      21,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 14 1987 00:00:00",
+      1,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 15 1987 00:00:00",
+      20,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 16 1987 00:00:00",
+      60,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 17 1987 00:00:00",
+      674,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 18 1987 00:00:00",
+      287,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 19 1987 00:00:00",
+      84,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 20 1987 00:00:00",
+      209,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 21 1987 00:00:00",
+      90,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 22 1987 00:00:00",
+      138,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 23 1987 00:00:00",
+      372,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 24 1987 00:00:00",
+      119,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 25 1987 00:00:00",
+      77,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 26 1987 00:00:00",
+      16,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 27 1987 00:00:00",
+      61,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 28 1987 00:00:00",
+      67,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 29 1987 00:00:00",
+      120,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 30 1987 00:00:00",
+      3498,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 31 1987 00:00:00",
+      631,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 01 1987 00:00:00",
+      1536,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 02 1987 00:00:00",
+      705,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 03 1987 00:00:00",
+      91,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 04 1987 00:00:00",
+      143,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 05 1987 00:00:00",
+      116,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 06 1987 00:00:00",
+      117,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 07 1987 00:00:00",
+      50,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 08 1987 00:00:00",
+      133,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 09 1987 00:00:00",
+      33,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 10 1987 00:00:00",
+      27,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 11 1987 00:00:00",
+      38,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 12 1987 00:00:00",
+      511,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 13 1987 00:00:00",
+      25,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 14 1987 00:00:00",
+      9,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 15 1987 00:00:00",
+      66,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 16 1987 00:00:00",
+      3,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 17 1987 00:00:00",
+      44,
+      420,
+      2144,
+      "Naha River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2144,
+    "species_id": "410",
+    "year": "1987",
+    "totalRecords": 87,
+    "totalCount": 19960,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.570481"
+  }
+}

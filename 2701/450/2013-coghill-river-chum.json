@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      1,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      5,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      7,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      2,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      18,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      14,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      5,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      4,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      5,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      9,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      8,
+      450,
+      2701,
+      "Coghill River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2701,
+    "species_id": "450",
+    "year": "2013",
+    "totalRecords": 11,
+    "totalCount": 78,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.368045"
+  }
+}

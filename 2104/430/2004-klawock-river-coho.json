@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "August, 06 2004 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 07 2004 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 08 2004 00:00:00",
+      38,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 09 2004 00:00:00",
+      32,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      11,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      9,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      12,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      34,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      82,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      7,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 22 2004 00:00:00",
+      43,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 23 2004 00:00:00",
+      31,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 24 2004 00:00:00",
+      33,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 25 2004 00:00:00",
+      42,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 26 2004 00:00:00",
+      100,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 27 2004 00:00:00",
+      49,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 28 2004 00:00:00",
+      75,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 29 2004 00:00:00",
+      325,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 30 2004 00:00:00",
+      62,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 01 2004 00:00:00",
+      85,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 02 2004 00:00:00",
+      51,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 03 2004 00:00:00",
+      68,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 04 2004 00:00:00",
+      52,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 05 2004 00:00:00",
+      403,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 06 2004 00:00:00",
+      161,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 07 2004 00:00:00",
+      145,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 08 2004 00:00:00",
+      307,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 09 2004 00:00:00",
+      237,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 10 2004 00:00:00",
+      253,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 11 2004 00:00:00",
+      279,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 12 2004 00:00:00",
+      340,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 13 2004 00:00:00",
+      664,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 14 2004 00:00:00",
+      126,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 15 2004 00:00:00",
+      197,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 16 2004 00:00:00",
+      375,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 17 2004 00:00:00",
+      182,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 18 2004 00:00:00",
+      338,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 19 2004 00:00:00",
+      253,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 20 2004 00:00:00",
+      168,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 21 2004 00:00:00",
+      1505,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 22 2004 00:00:00",
+      488,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 23 2004 00:00:00",
+      383,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 24 2004 00:00:00",
+      882,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 25 2004 00:00:00",
+      39,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 26 2004 00:00:00",
+      191,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 27 2004 00:00:00",
+      99,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 28 2004 00:00:00",
+      235,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 29 2004 00:00:00",
+      28,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 30 2004 00:00:00",
+      130,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 01 2004 00:00:00",
+      177,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 02 2004 00:00:00",
+      118,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 03 2004 00:00:00",
+      212,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 04 2004 00:00:00",
+      222,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 05 2004 00:00:00",
+      2492,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 06 2004 00:00:00",
+      222,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 07 2004 00:00:00",
+      152,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 08 2004 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 09 2004 00:00:00",
+      30,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 10 2004 00:00:00",
+      12,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 11 2004 00:00:00",
+      40,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 12 2004 00:00:00",
+      31,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 13 2004 00:00:00",
+      251,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "440",
+    "year": "2004",
+    "totalRecords": 64,
+    "totalCount": 13615,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.255143"
+  }
+}

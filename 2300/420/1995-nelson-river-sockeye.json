@@ -1,0 +1,949 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "June, 05 1995 00:00:00",
+      3,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 06 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 07 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 08 1995 00:00:00",
+      1,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 09 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 10 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 11 1995 00:00:00",
+      2,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 12 1995 00:00:00",
+      213,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 13 1995 00:00:00",
+      202,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 14 1995 00:00:00",
+      62,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 15 1995 00:00:00",
+      875,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 16 1995 00:00:00",
+      673,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 17 1995 00:00:00",
+      556,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 18 1995 00:00:00",
+      252,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 19 1995 00:00:00",
+      2904,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 20 1995 00:00:00",
+      1038,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 21 1995 00:00:00",
+      602,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 22 1995 00:00:00",
+      709,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 23 1995 00:00:00",
+      3991,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 24 1995 00:00:00",
+      6371,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 25 1995 00:00:00",
+      10385,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 26 1995 00:00:00",
+      13171,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 27 1995 00:00:00",
+      10550,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 28 1995 00:00:00",
+      6388,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 29 1995 00:00:00",
+      6912,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 30 1995 00:00:00",
+      6026,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 01 1995 00:00:00",
+      6457,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 02 1995 00:00:00",
+      5016,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 03 1995 00:00:00",
+      4568,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 04 1995 00:00:00",
+      3233,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 05 1995 00:00:00",
+      10282,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 06 1995 00:00:00",
+      24312,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 07 1995 00:00:00",
+      13731,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 08 1995 00:00:00",
+      13222,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 09 1995 00:00:00",
+      18602,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 10 1995 00:00:00",
+      17332,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 11 1995 00:00:00",
+      17149,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 12 1995 00:00:00",
+      15375,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 13 1995 00:00:00",
+      12629,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 14 1995 00:00:00",
+      6345,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 15 1995 00:00:00",
+      14323,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 16 1995 00:00:00",
+      18421,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 17 1995 00:00:00",
+      13324,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 18 1995 00:00:00",
+      7442,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 19 1995 00:00:00",
+      5547,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 20 1995 00:00:00",
+      4840,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 21 1995 00:00:00",
+      4852,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 22 1995 00:00:00",
+      3267,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 23 1995 00:00:00",
+      2946,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 24 1995 00:00:00",
+      2959,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 25 1995 00:00:00",
+      2690,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 26 1995 00:00:00",
+      8650,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 27 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 28 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 29 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 30 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 31 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 01 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 02 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 03 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 04 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 05 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 06 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 07 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 08 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 09 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 10 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 11 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 12 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 13 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 14 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 15 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 16 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 17 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 24 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 25 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 26 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 27 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 28 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 29 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 30 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 31 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 01 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 02 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 03 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 04 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 05 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 06 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 07 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 08 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 09 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 10 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 11 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 12 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 13 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 14 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "September, 15 1995 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "410",
+    "year": "1995",
+    "totalRecords": 103,
+    "totalCount": 329400,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.613739"
+  }
+}

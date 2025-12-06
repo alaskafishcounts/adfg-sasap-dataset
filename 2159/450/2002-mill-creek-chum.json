@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      1,
+      450,
+      2159,
+      "Mill Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      1,
+      450,
+      2159,
+      "Mill Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      1,
+      450,
+      2159,
+      "Mill Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 07 2002 00:00:00",
+      1,
+      450,
+      2159,
+      "Mill Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2159,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 4,
+    "totalCount": 4,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.389935"
+  }
+}

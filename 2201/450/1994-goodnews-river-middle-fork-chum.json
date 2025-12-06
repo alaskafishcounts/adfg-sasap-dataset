@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "June, 25 1994 00:00:00",
+      31,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 26 1994 00:00:00",
+      17,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 27 1994 00:00:00",
+      98,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 28 1994 00:00:00",
+      77,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 29 1994 00:00:00",
+      293,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 30 1994 00:00:00",
+      326,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 01 1994 00:00:00",
+      288,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 02 1994 00:00:00",
+      207,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 03 1994 00:00:00",
+      54,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 04 1994 00:00:00",
+      80,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 05 1994 00:00:00",
+      369,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 06 1994 00:00:00",
+      323,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 07 1994 00:00:00",
+      1326,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 08 1994 00:00:00",
+      1627,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 09 1994 00:00:00",
+      69,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 10 1994 00:00:00",
+      1410,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 11 1994 00:00:00",
+      484,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 12 1994 00:00:00",
+      3071,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 13 1994 00:00:00",
+      1445,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 14 1994 00:00:00",
+      1480,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 15 1994 00:00:00",
+      1493,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 16 1994 00:00:00",
+      1488,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 17 1994 00:00:00",
+      1464,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 18 1994 00:00:00",
+      1098,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 19 1994 00:00:00",
+      1316,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      707,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      808,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      1693,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      1006,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      580,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      860,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      1977,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      539,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 28 1994 00:00:00",
+      1827,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 29 1994 00:00:00",
+      890,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 30 1994 00:00:00",
+      494,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 31 1994 00:00:00",
+      732,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 01 1994 00:00:00",
+      278,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 02 1994 00:00:00",
+      219,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 03 1994 00:00:00",
+      365,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 04 1994 00:00:00",
+      437,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 05 1994 00:00:00",
+      309,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 06 1994 00:00:00",
+      63,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 07 1994 00:00:00",
+      84,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 08 1994 00:00:00",
+      7,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 09 1994 00:00:00",
+      218,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 10 1994 00:00:00",
+      195,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 11 1994 00:00:00",
+      174,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 12 1994 00:00:00",
+      155,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 13 1994 00:00:00",
+      138,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 14 1994 00:00:00",
+      123,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 15 1994 00:00:00",
+      109,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 16 1994 00:00:00",
+      97,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 17 1994 00:00:00",
+      86,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 18 1994 00:00:00",
+      76,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 19 1994 00:00:00",
+      68,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 20 1994 00:00:00",
+      60,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 21 1994 00:00:00",
+      53,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 22 1994 00:00:00",
+      47,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 23 1994 00:00:00",
+      42,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 24 1994 00:00:00",
+      37,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 25 1994 00:00:00",
+      33,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 26 1994 00:00:00",
+      29,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 27 1994 00:00:00",
+      26,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 28 1994 00:00:00",
+      23,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 29 1994 00:00:00",
+      20,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 30 1994 00:00:00",
+      18,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 31 1994 00:00:00",
+      16,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 01 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 02 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 03 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 04 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 05 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 06 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 07 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 08 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 09 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 10 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 11 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 12 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 13 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 14 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 15 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 16 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 17 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1994,
+      "September, 18 1994 00:00:00",
+      0,
+      450,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "450",
+    "year": "1994",
+    "totalRecords": 86,
+    "totalCount": 35652,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.702046"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "July, 16 1988 00:00:00",
+      8,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 17 1988 00:00:00",
+      17,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 18 1988 00:00:00",
+      14,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 19 1988 00:00:00",
+      2,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 20 1988 00:00:00",
+      38,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 21 1988 00:00:00",
+      78,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 22 1988 00:00:00",
+      48,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 23 1988 00:00:00",
+      35,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 24 1988 00:00:00",
+      78,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 25 1988 00:00:00",
+      259,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 26 1988 00:00:00",
+      84,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 27 1988 00:00:00",
+      25,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 28 1988 00:00:00",
+      26,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 29 1988 00:00:00",
+      318,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 30 1988 00:00:00",
+      60,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "July, 31 1988 00:00:00",
+      10,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 01 1988 00:00:00",
+      10,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 02 1988 00:00:00",
+      28,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 03 1988 00:00:00",
+      56,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 04 1988 00:00:00",
+      22,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 05 1988 00:00:00",
+      14,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 06 1988 00:00:00",
+      15,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 07 1988 00:00:00",
+      13,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 08 1988 00:00:00",
+      54,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 09 1988 00:00:00",
+      12,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 10 1988 00:00:00",
+      5,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 13 1988 00:00:00",
+      4,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 14 1988 00:00:00",
+      9,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 17 1988 00:00:00",
+      5,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 18 1988 00:00:00",
+      9,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 19 1988 00:00:00",
+      12,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 21 1988 00:00:00",
+      1,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 24 1988 00:00:00",
+      5,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 25 1988 00:00:00",
+      2,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 27 1988 00:00:00",
+      7,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 28 1988 00:00:00",
+      3,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 29 1988 00:00:00",
+      3,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 30 1988 00:00:00",
+      1,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "August, 31 1988 00:00:00",
+      2,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "September, 02 1988 00:00:00",
+      1,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "September, 03 1988 00:00:00",
+      1,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "September, 06 1988 00:00:00",
+      2,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "September, 08 1988 00:00:00",
+      1,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ],
+    [
+      1988,
+      "September, 09 1988 00:00:00",
+      3,
+      450,
+      2155,
+      "Pleasant Bay",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2155,
+    "species_id": "450",
+    "year": "1988",
+    "totalRecords": 44,
+    "totalCount": 1400,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.805057"
+  }
+}

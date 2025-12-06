@@ -1,0 +1,913 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1976,
+      "June, 09 1976 00:00:00",
+      135,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 10 1976 00:00:00",
+      181,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 11 1976 00:00:00",
+      67,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 12 1976 00:00:00",
+      95,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 13 1976 00:00:00",
+      228,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 14 1976 00:00:00",
+      181,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 15 1976 00:00:00",
+      479,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 16 1976 00:00:00",
+      517,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 17 1976 00:00:00",
+      2,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 18 1976 00:00:00",
+      331,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 19 1976 00:00:00",
+      761,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 20 1976 00:00:00",
+      771,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 21 1976 00:00:00",
+      479,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 22 1976 00:00:00",
+      114,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 23 1976 00:00:00",
+      452,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 24 1976 00:00:00",
+      1007,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 25 1976 00:00:00",
+      490,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 26 1976 00:00:00",
+      275,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 27 1976 00:00:00",
+      257,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 28 1976 00:00:00",
+      600,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 29 1976 00:00:00",
+      400,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "June, 30 1976 00:00:00",
+      425,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 01 1976 00:00:00",
+      156,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 02 1976 00:00:00",
+      602,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 03 1976 00:00:00",
+      152,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 04 1976 00:00:00",
+      228,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 05 1976 00:00:00",
+      361,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 06 1976 00:00:00",
+      25,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 07 1976 00:00:00",
+      35,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 08 1976 00:00:00",
+      103,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 09 1976 00:00:00",
+      201,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 10 1976 00:00:00",
+      40,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 11 1976 00:00:00",
+      50,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 12 1976 00:00:00",
+      14,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 13 1976 00:00:00",
+      24,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 14 1976 00:00:00",
+      10,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 15 1976 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 16 1976 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 17 1976 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 18 1976 00:00:00",
+      789,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 19 1976 00:00:00",
+      268,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 20 1976 00:00:00",
+      2309,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 21 1976 00:00:00",
+      639,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 22 1976 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 23 1976 00:00:00",
+      20,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 24 1976 00:00:00",
+      2422,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 25 1976 00:00:00",
+      1329,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 26 1976 00:00:00",
+      2197,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 27 1976 00:00:00",
+      3004,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 28 1976 00:00:00",
+      3500,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 29 1976 00:00:00",
+      918,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 30 1976 00:00:00",
+      575,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "July, 31 1976 00:00:00",
+      346,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 01 1976 00:00:00",
+      250,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 02 1976 00:00:00",
+      88,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 03 1976 00:00:00",
+      2310,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 04 1976 00:00:00",
+      436,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 05 1976 00:00:00",
+      314,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 06 1976 00:00:00",
+      19,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 07 1976 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 08 1976 00:00:00",
+      6221,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 09 1976 00:00:00",
+      906,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 10 1976 00:00:00",
+      904,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 11 1976 00:00:00",
+      752,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 12 1976 00:00:00",
+      803,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 13 1976 00:00:00",
+      201,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 14 1976 00:00:00",
+      313,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 15 1976 00:00:00",
+      124,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 16 1976 00:00:00",
+      100,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 17 1976 00:00:00",
+      1002,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 18 1976 00:00:00",
+      930,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 19 1976 00:00:00",
+      85,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 20 1976 00:00:00",
+      40,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 21 1976 00:00:00",
+      75,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 22 1976 00:00:00",
+      134,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 23 1976 00:00:00",
+      202,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 24 1976 00:00:00",
+      1280,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 25 1976 00:00:00",
+      2142,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 26 1976 00:00:00",
+      1940,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 27 1976 00:00:00",
+      225,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 28 1976 00:00:00",
+      742,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 29 1976 00:00:00",
+      938,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 30 1976 00:00:00",
+      261,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "August, 31 1976 00:00:00",
+      402,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 01 1976 00:00:00",
+      3662,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 02 1976 00:00:00",
+      1421,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 03 1976 00:00:00",
+      615,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 04 1976 00:00:00",
+      274,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 05 1976 00:00:00",
+      305,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 06 1976 00:00:00",
+      735,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 07 1976 00:00:00",
+      834,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 08 1976 00:00:00",
+      332,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 09 1976 00:00:00",
+      139,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 10 1976 00:00:00",
+      51,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 11 1976 00:00:00",
+      23,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 12 1976 00:00:00",
+      205,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 13 1976 00:00:00",
+      447,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 14 1976 00:00:00",
+      403,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1976,
+      "September, 15 1976 00:00:00",
+      750,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1976",
+    "totalRecords": 99,
+    "totalCount": 62905,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.917890"
+  }
+}

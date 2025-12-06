@@ -1,0 +1,697 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "June, 17 2000 00:00:00",
+      22,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 18 2000 00:00:00",
+      235,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 19 2000 00:00:00",
+      224,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 20 2000 00:00:00",
+      296,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 21 2000 00:00:00",
+      303,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 22 2000 00:00:00",
+      837,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 23 2000 00:00:00",
+      818,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      461,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      392,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      327,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      403,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      1832,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      10035,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      4963,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      2427,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      1193,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      1193,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      1439,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      1366,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      932,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      893,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      628,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      899,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      690,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      574,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      539,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      515,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      285,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      353,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      513,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      328,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      185,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      315,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      157,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      206,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      225,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      314,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      189,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      2494,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 02 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 05 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 25 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 27 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 29 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2303,
+    "species_id": "410",
+    "year": "2000",
+    "totalRecords": 75,
+    "totalCount": 40000,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.828115"
+  }
+}

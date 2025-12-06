@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      14,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      18,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      3,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      6,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      4,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      1459,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      566,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      426,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      109,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      32,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      16,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 24 2010 00:00:00",
+      28,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      22,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      39,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      15,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 28 2010 00:00:00",
+      23,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 29 2010 00:00:00",
+      9,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 30 2010 00:00:00",
+      9,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 31 2010 00:00:00",
+      6,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 01 2010 00:00:00",
+      13,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 02 2010 00:00:00",
+      38,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 03 2010 00:00:00",
+      27,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 04 2010 00:00:00",
+      17,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      21,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      59,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 07 2010 00:00:00",
+      37,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 08 2010 00:00:00",
+      19,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 09 2010 00:00:00",
+      115,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      126,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 11 2010 00:00:00",
+      47,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 12 2010 00:00:00",
+      26,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 13 2010 00:00:00",
+      14,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 15 2010 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 24 2010 00:00:00",
+      29,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 25 2010 00:00:00",
+      46,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 26 2010 00:00:00",
+      11,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 27 2010 00:00:00",
+      7,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 28 2010 00:00:00",
+      6,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "October, 02 2010 00:00:00",
+      2,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "October, 03 2010 00:00:00",
+      2,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2010,
+      "October, 04 2010 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "420",
+    "year": "2010",
+    "totalRecords": 44,
+    "totalCount": 3471,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.472169"
+  }
+}

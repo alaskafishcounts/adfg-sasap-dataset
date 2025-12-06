@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      8,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      7,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      8,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      3,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "August, 31 2000 00:00:00",
+      3,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 04 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 05 2000 00:00:00",
+      2,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 08 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 10 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 18 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "September, 19 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "October, 06 2000 00:00:00",
+      1,
+      410,
+      2108,
+      "Ford Arm",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2108,
+    "species_id": "410",
+    "year": "2000",
+    "totalRecords": 18,
+    "totalCount": 44,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.531790"
+  }
+}

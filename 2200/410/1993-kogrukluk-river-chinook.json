@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "June, 26 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "June, 27 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "June, 28 1993 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "June, 29 1993 00:00:00",
+      25,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "June, 30 1993 00:00:00",
+      87,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 01 1993 00:00:00",
+      199,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 02 1993 00:00:00",
+      348,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 03 1993 00:00:00",
+      606,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 04 1993 00:00:00",
+      648,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 05 1993 00:00:00",
+      758,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 06 1993 00:00:00",
+      708,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 07 1993 00:00:00",
+      876,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 08 1993 00:00:00",
+      715,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 09 1993 00:00:00",
+      880,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 10 1993 00:00:00",
+      1004,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 11 1993 00:00:00",
+      683,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 12 1993 00:00:00",
+      653,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 13 1993 00:00:00",
+      688,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 14 1993 00:00:00",
+      426,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 15 1993 00:00:00",
+      367,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      409,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      334,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      411,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      162,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      272,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      200,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      59,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 23 1993 00:00:00",
+      101,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 24 1993 00:00:00",
+      88,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 25 1993 00:00:00",
+      52,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 26 1993 00:00:00",
+      76,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 27 1993 00:00:00",
+      77,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 28 1993 00:00:00",
+      121,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 29 1993 00:00:00",
+      50,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 30 1993 00:00:00",
+      43,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "July, 31 1993 00:00:00",
+      19,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 01 1993 00:00:00",
+      14,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 02 1993 00:00:00",
+      7,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 03 1993 00:00:00",
+      16,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 04 1993 00:00:00",
+      25,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 05 1993 00:00:00",
+      23,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 06 1993 00:00:00",
+      20,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 07 1993 00:00:00",
+      29,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 08 1993 00:00:00",
+      21,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 09 1993 00:00:00",
+      11,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 10 1993 00:00:00",
+      15,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 11 1993 00:00:00",
+      5,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 12 1993 00:00:00",
+      11,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 13 1993 00:00:00",
+      6,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 14 1993 00:00:00",
+      4,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 15 1993 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 16 1993 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 17 1993 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 18 1993 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 19 1993 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 20 1993 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 21 1993 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 22 1993 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 23 1993 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 24 1993 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 25 1993 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 26 1993 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 27 1993 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 28 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 29 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 30 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "August, 31 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 01 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 02 1993 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 03 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 04 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 05 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 06 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 07 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 08 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 09 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 10 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 11 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 12 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 13 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 14 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 15 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 16 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 17 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 18 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 19 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 20 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 21 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 22 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 23 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 24 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "September, 25 1993 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2200,
+    "species_id": "430",
+    "year": "1993",
+    "totalRecords": 92,
+    "totalCount": 12377,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.340824"
+  }
+}

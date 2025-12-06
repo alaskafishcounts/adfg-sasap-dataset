@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "September, 20 1985 00:00:00",
+      2,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 21 1985 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 22 1985 00:00:00",
+      1,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 23 1985 00:00:00",
+      5,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 24 1985 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 25 1985 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 26 1985 00:00:00",
+      13,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 27 1985 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 28 1985 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 29 1985 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      1985,
+      "September, 30 1985 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2008,
+    "species_id": "470",
+    "year": "1985",
+    "totalRecords": 11,
+    "totalCount": 21,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.855676"
+  }
+}

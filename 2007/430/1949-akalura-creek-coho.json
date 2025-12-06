@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1949,
+      "August, 21 1949 00:00:00",
+      231,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 22 1949 00:00:00",
+      0,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 23 1949 00:00:00",
+      28,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 24 1949 00:00:00",
+      22,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 25 1949 00:00:00",
+      0,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 26 1949 00:00:00",
+      0,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 27 1949 00:00:00",
+      0,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 28 1949 00:00:00",
+      23,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 29 1949 00:00:00",
+      781,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 30 1949 00:00:00",
+      128,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "August, 31 1949 00:00:00",
+      181,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 01 1949 00:00:00",
+      129,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 02 1949 00:00:00",
+      43,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 03 1949 00:00:00",
+      252,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 04 1949 00:00:00",
+      57,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 05 1949 00:00:00",
+      109,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 06 1949 00:00:00",
+      246,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 07 1949 00:00:00",
+      416,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 08 1949 00:00:00",
+      488,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 09 1949 00:00:00",
+      15,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 10 1949 00:00:00",
+      533,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 11 1949 00:00:00",
+      26,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 12 1949 00:00:00",
+      122,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 13 1949 00:00:00",
+      19,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 14 1949 00:00:00",
+      23,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 15 1949 00:00:00",
+      68,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 16 1949 00:00:00",
+      0,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1949,
+      "September, 17 1949 00:00:00",
+      28,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "440",
+    "year": "1949",
+    "totalRecords": 28,
+    "totalCount": 3968,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.478434"
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "August, 18 1990 00:00:00",
+      2,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 19 1990 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 20 1990 00:00:00",
+      2,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 21 1990 00:00:00",
+      3,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 22 1990 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 23 1990 00:00:00",
+      3,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 24 1990 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 25 1990 00:00:00",
+      4,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 26 1990 00:00:00",
+      8,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 27 1990 00:00:00",
+      13,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 28 1990 00:00:00",
+      3,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 29 1990 00:00:00",
+      14,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 30 1990 00:00:00",
+      3,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "August, 31 1990 00:00:00",
+      2,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 01 1990 00:00:00",
+      1,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 02 1990 00:00:00",
+      14,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 03 1990 00:00:00",
+      8,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 04 1990 00:00:00",
+      42,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 05 1990 00:00:00",
+      54,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 06 1990 00:00:00",
+      3,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 07 1990 00:00:00",
+      2,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 08 1990 00:00:00",
+      28,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 09 1990 00:00:00",
+      24,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 10 1990 00:00:00",
+      27,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 11 1990 00:00:00",
+      8,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 12 1990 00:00:00",
+      2545,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 13 1990 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 14 1990 00:00:00",
+      49,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 15 1990 00:00:00",
+      20,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 16 1990 00:00:00",
+      15,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 17 1990 00:00:00",
+      1207,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 18 1990 00:00:00",
+      3,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 19 1990 00:00:00",
+      220,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 20 1990 00:00:00",
+      314,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 21 1990 00:00:00",
+      200,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 22 1990 00:00:00",
+      100,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 23 1990 00:00:00",
+      6,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 24 1990 00:00:00",
+      28,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 25 1990 00:00:00",
+      2,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 26 1990 00:00:00",
+      2,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 27 1990 00:00:00",
+      100,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 28 1990 00:00:00",
+      50,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 29 1990 00:00:00",
+      50,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "September, 30 1990 00:00:00",
+      10,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 01 1990 00:00:00",
+      10,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 02 1990 00:00:00",
+      10,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 03 1990 00:00:00",
+      10,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 04 1990 00:00:00",
+      2,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 05 1990 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 06 1990 00:00:00",
+      4,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 07 1990 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 08 1990 00:00:00",
+      17,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 09 1990 00:00:00",
+      3,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 10 1990 00:00:00",
+      15,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 11 1990 00:00:00",
+      1,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 12 1990 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1990,
+      "October, 13 1990 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2011,
+    "species_id": "440",
+    "year": "1990",
+    "totalRecords": 57,
+    "totalCount": 5261,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.202039"
+  }
+}

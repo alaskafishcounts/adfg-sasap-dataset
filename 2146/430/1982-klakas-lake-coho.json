@@ -1,0 +1,967 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "August, 03 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 05 1982 00:00:00",
+      15,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      10,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 07 1982 00:00:00",
+      7,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      15,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      38,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      2,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      13,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      2,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 13 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      6,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 15 1982 00:00:00",
+      8,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      3,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      2,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      3,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 20 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 21 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 22 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      44,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      50,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      30,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      13,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      75,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      20,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      23,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      21,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      43,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      24,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 14 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 18 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      2,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 22 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 24 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 25 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 26 1982 00:00:00",
+      12,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 27 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 28 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 29 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 30 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 01 1982 00:00:00",
+      31,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 02 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 03 1982 00:00:00",
+      20,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 04 1982 00:00:00",
+      23,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 05 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 06 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 07 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 08 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 09 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 10 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 11 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 12 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 13 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 14 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 15 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 16 1982 00:00:00",
+      2,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 17 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 18 1982 00:00:00",
+      2,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 19 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 20 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 21 1982 00:00:00",
+      2,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 22 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 23 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 24 1982 00:00:00",
+      3,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 25 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 26 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 27 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 28 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 29 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 30 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 31 1982 00:00:00",
+      3,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 01 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 02 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 03 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 04 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 05 1982 00:00:00",
+      3,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 06 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 07 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 08 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 09 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 10 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 11 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 12 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 13 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 14 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 15 1982 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 16 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 17 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 18 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "November, 19 1982 00:00:00",
+      0,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2146,
+    "species_id": "440",
+    "year": "1982",
+    "totalRecords": 105,
+    "totalCount": 583,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.495457"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "September, 15 2004 00:00:00",
+      2,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 16 2004 00:00:00",
+      2,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 17 2004 00:00:00",
+      2,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 18 2004 00:00:00",
+      4,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 19 2004 00:00:00",
+      3,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 26 2004 00:00:00",
+      1,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 27 2004 00:00:00",
+      2,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 28 2004 00:00:00",
+      1,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 29 2004 00:00:00",
+      2,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 30 2004 00:00:00",
+      2,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "October, 02 2004 00:00:00",
+      2,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "October, 03 2004 00:00:00",
+      2,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "October, 04 2004 00:00:00",
+      4,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ],
+    [
+      2004,
+      "October, 05 2004 00:00:00",
+      1,
+      450,
+      2136,
+      "Redfish Bay",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2136,
+    "species_id": "450",
+    "year": "2004",
+    "totalRecords": 14,
+    "totalCount": 30,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.876871"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "August, 25 1994 00:00:00",
+      15,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      1994,
+      "August, 26 1994 00:00:00",
+      23,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      1994,
+      "August, 27 1994 00:00:00",
+      9,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      1994,
+      "August, 28 1994 00:00:00",
+      4,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      1994,
+      "August, 29 1994 00:00:00",
+      7,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      1994,
+      "August, 30 1994 00:00:00",
+      4,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      1994,
+      "August, 31 1994 00:00:00",
+      28,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ],
+    [
+      1994,
+      "September, 01 1994 00:00:00",
+      7,
+      420,
+      2127,
+      "Kook Lake Outlet",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "420",
+    "year": "1994",
+    "totalRecords": 8,
+    "totalCount": 97,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.725256"
+  }
+}

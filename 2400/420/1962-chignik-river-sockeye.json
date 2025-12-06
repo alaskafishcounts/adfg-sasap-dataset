@@ -1,0 +1,643 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1962,
+      "June, 06 1962 00:00:00",
+      500,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 07 1962 00:00:00",
+      1000,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 08 1962 00:00:00",
+      1500,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 09 1962 00:00:00",
+      2232,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 10 1962 00:00:00",
+      4434,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 11 1962 00:00:00",
+      6272,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 12 1962 00:00:00",
+      3043,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 13 1962 00:00:00",
+      7176,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 14 1962 00:00:00",
+      11532,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 15 1962 00:00:00",
+      8282,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 16 1962 00:00:00",
+      18221,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 17 1962 00:00:00",
+      13284,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 18 1962 00:00:00",
+      15330,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 19 1962 00:00:00",
+      8920,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 20 1962 00:00:00",
+      5968,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 21 1962 00:00:00",
+      20721,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 22 1962 00:00:00",
+      36065,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 23 1962 00:00:00",
+      6819,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 24 1962 00:00:00",
+      12802,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 25 1962 00:00:00",
+      9711,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 26 1962 00:00:00",
+      2670,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 27 1962 00:00:00",
+      6505,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 28 1962 00:00:00",
+      4628,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 29 1962 00:00:00",
+      3364,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 30 1962 00:00:00",
+      1863,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 01 1962 00:00:00",
+      1722,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 02 1962 00:00:00",
+      4854,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 03 1962 00:00:00",
+      9247,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 04 1962 00:00:00",
+      5526,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 05 1962 00:00:00",
+      12612,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 06 1962 00:00:00",
+      13242,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 07 1962 00:00:00",
+      15454,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 08 1962 00:00:00",
+      8496,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 09 1962 00:00:00",
+      15552,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 10 1962 00:00:00",
+      9730,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 11 1962 00:00:00",
+      15004,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 12 1962 00:00:00",
+      14942,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 13 1962 00:00:00",
+      3426,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 14 1962 00:00:00",
+      8622,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 15 1962 00:00:00",
+      8712,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 16 1962 00:00:00",
+      12351,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 17 1962 00:00:00",
+      19694,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 18 1962 00:00:00",
+      9736,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 19 1962 00:00:00",
+      11742,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 20 1962 00:00:00",
+      6498,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 21 1962 00:00:00",
+      4530,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 22 1962 00:00:00",
+      7470,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 23 1962 00:00:00",
+      6108,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 24 1962 00:00:00",
+      8930,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 25 1962 00:00:00",
+      4260,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 26 1962 00:00:00",
+      1842,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 27 1962 00:00:00",
+      1248,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 28 1962 00:00:00",
+      2064,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 29 1962 00:00:00",
+      1423,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 30 1962 00:00:00",
+      2412,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 31 1962 00:00:00",
+      2070,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 01 1962 00:00:00",
+      726,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 02 1962 00:00:00",
+      1110,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 03 1962 00:00:00",
+      1158,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 04 1962 00:00:00",
+      570,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 05 1962 00:00:00",
+      1110,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 06 1962 00:00:00",
+      918,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 07 1962 00:00:00",
+      624,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 08 1962 00:00:00",
+      944,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 09 1962 00:00:00",
+      390,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 10 1962 00:00:00",
+      966,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 11 1962 00:00:00",
+      1182,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 12 1962 00:00:00",
+      1197,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 13 1962 00:00:00",
+      552,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "410",
+    "year": "1962",
+    "totalRecords": 69,
+    "totalCount": 473808,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.351330"
+  }
+}

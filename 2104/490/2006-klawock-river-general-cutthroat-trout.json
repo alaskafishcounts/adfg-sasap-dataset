@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "July, 25 2006 00:00:00",
+      1,
+      490,
+      2104,
+      "Klawock River",
+      "General cutthroat trout"
+    ],
+    [
+      2006,
+      "August, 13 2006 00:00:00",
+      4,
+      490,
+      2104,
+      "Klawock River",
+      "General cutthroat trout"
+    ],
+    [
+      2006,
+      "August, 22 2006 00:00:00",
+      1,
+      490,
+      2104,
+      "Klawock River",
+      "General cutthroat trout"
+    ],
+    [
+      2006,
+      "September, 03 2006 00:00:00",
+      1,
+      490,
+      2104,
+      "Klawock River",
+      "General cutthroat trout"
+    ],
+    [
+      2006,
+      "September, 23 2006 00:00:00",
+      1,
+      490,
+      2104,
+      "Klawock River",
+      "General cutthroat trout"
+    ],
+    [
+      2006,
+      "October, 11 2006 00:00:00",
+      1,
+      490,
+      2104,
+      "Klawock River",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "490",
+    "year": "2006",
+    "totalRecords": 6,
+    "totalCount": 9,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.333024"
+  }
+}

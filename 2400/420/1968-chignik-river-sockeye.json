@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "June, 02 1968 00:00:00",
+      6,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 03 1968 00:00:00",
+      385,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 04 1968 00:00:00",
+      588,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 05 1968 00:00:00",
+      294,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 06 1968 00:00:00",
+      390,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 07 1968 00:00:00",
+      318,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 08 1968 00:00:00",
+      2490,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 09 1968 00:00:00",
+      2610,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 10 1968 00:00:00",
+      6084,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 11 1968 00:00:00",
+      20682,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 12 1968 00:00:00",
+      6726,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 13 1968 00:00:00",
+      828,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 14 1968 00:00:00",
+      9456,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 15 1968 00:00:00",
+      56184,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 16 1968 00:00:00",
+      10396,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 17 1968 00:00:00",
+      26040,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 18 1968 00:00:00",
+      18402,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 19 1968 00:00:00",
+      17514,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 20 1968 00:00:00",
+      21198,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 21 1968 00:00:00",
+      10518,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 22 1968 00:00:00",
+      7464,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 23 1968 00:00:00",
+      4548,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 24 1968 00:00:00",
+      21666,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 25 1968 00:00:00",
+      8892,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 26 1968 00:00:00",
+      12582,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 27 1968 00:00:00",
+      5352,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 28 1968 00:00:00",
+      21306,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 29 1968 00:00:00",
+      7470,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 30 1968 00:00:00",
+      5028,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 01 1968 00:00:00",
+      9162,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 02 1968 00:00:00",
+      9228,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 03 1968 00:00:00",
+      3534,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 04 1968 00:00:00",
+      0,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 05 1968 00:00:00",
+      4268,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 06 1968 00:00:00",
+      6702,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 07 1968 00:00:00",
+      2616,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 08 1968 00:00:00",
+      6438,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 09 1968 00:00:00",
+      8357,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 10 1968 00:00:00",
+      6120,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 11 1968 00:00:00",
+      7728,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 12 1968 00:00:00",
+      5814,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 13 1968 00:00:00",
+      30618,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 14 1968 00:00:00",
+      12840,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 15 1968 00:00:00",
+      21162,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 16 1968 00:00:00",
+      14508,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 17 1968 00:00:00",
+      12948,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 18 1968 00:00:00",
+      9012,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 19 1968 00:00:00",
+      4428,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 20 1968 00:00:00",
+      3342,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 21 1968 00:00:00",
+      2637,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 22 1968 00:00:00",
+      11730,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 23 1968 00:00:00",
+      7212,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 24 1968 00:00:00",
+      11460,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 25 1968 00:00:00",
+      11814,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 26 1968 00:00:00",
+      8286,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 27 1968 00:00:00",
+      1794,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 28 1968 00:00:00",
+      3516,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 29 1968 00:00:00",
+      3018,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 30 1968 00:00:00",
+      3306,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 31 1968 00:00:00",
+      516,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 01 1968 00:00:00",
+      1200,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 02 1968 00:00:00",
+      990,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 03 1968 00:00:00",
+      1068,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 04 1968 00:00:00",
+      2040,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 05 1968 00:00:00",
+      1380,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 06 1968 00:00:00",
+      1278,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 07 1968 00:00:00",
+      720,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 08 1968 00:00:00",
+      972,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "410",
+    "year": "1968",
+    "totalRecords": 68,
+    "totalCount": 559179,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.361424"
+  }
+}

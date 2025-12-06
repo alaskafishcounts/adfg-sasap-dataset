@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "May, 03 2007 00:00:00",
+      2,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 04 2007 00:00:00",
+      7,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 05 2007 00:00:00",
+      4,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 06 2007 00:00:00",
+      16,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 07 2007 00:00:00",
+      1,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 08 2007 00:00:00",
+      2,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 10 2007 00:00:00",
+      3,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 11 2007 00:00:00",
+      1,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 13 2007 00:00:00",
+      1,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 14 2007 00:00:00",
+      1,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 15 2007 00:00:00",
+      43,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 16 2007 00:00:00",
+      119,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 17 2007 00:00:00",
+      29,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 18 2007 00:00:00",
+      78,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 19 2007 00:00:00",
+      165,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 20 2007 00:00:00",
+      165,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 21 2007 00:00:00",
+      126,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 22 2007 00:00:00",
+      133,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 23 2007 00:00:00",
+      47,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 24 2007 00:00:00",
+      36,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 25 2007 00:00:00",
+      74,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 26 2007 00:00:00",
+      37,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 27 2007 00:00:00",
+      9,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 28 2007 00:00:00",
+      16,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 29 2007 00:00:00",
+      62,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 30 2007 00:00:00",
+      8,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "May, 31 2007 00:00:00",
+      4,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 01 2007 00:00:00",
+      13,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 02 2007 00:00:00",
+      9,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 03 2007 00:00:00",
+      31,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 04 2007 00:00:00",
+      36,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 05 2007 00:00:00",
+      26,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 06 2007 00:00:00",
+      7,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 07 2007 00:00:00",
+      16,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 08 2007 00:00:00",
+      3,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 09 2007 00:00:00",
+      28,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 10 2007 00:00:00",
+      42,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 11 2007 00:00:00",
+      34,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 12 2007 00:00:00",
+      27,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 13 2007 00:00:00",
+      13,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 14 2007 00:00:00",
+      44,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 15 2007 00:00:00",
+      74,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 16 2007 00:00:00",
+      23,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 17 2007 00:00:00",
+      62,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 18 2007 00:00:00",
+      22,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 19 2007 00:00:00",
+      75,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 20 2007 00:00:00",
+      87,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 21 2007 00:00:00",
+      68,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 22 2007 00:00:00",
+      61,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 23 2007 00:00:00",
+      15,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ],
+    [
+      2007,
+      "June, 24 2007 00:00:00",
+      6,
+      490,
+      2117,
+      "Sitkoh Lake Creek",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "490",
+    "year": "2007",
+    "totalRecords": 51,
+    "totalCount": 2011,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.534180"
+  }
+}

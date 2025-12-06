@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "September, 07 2006 00:00:00",
+      3,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 08 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 09 2006 00:00:00",
+      5,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 10 2006 00:00:00",
+      1,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 11 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 12 2006 00:00:00",
+      2,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 13 2006 00:00:00",
+      1,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 14 2006 00:00:00",
+      39,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 15 2006 00:00:00",
+      36,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 16 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 17 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 18 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 19 2006 00:00:00",
+      6,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 20 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 21 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 22 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 23 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 24 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 25 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ],
+    [
+      2006,
+      "September, 26 2006 00:00:00",
+      0,
+      470,
+      2000,
+      "Karluk",
+      "Steelhead Up"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "470",
+    "year": "2006",
+    "totalRecords": 20,
+    "totalCount": 93,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.705664"
+  }
+}

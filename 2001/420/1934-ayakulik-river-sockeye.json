@@ -1,0 +1,787 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1934,
+      "May, 23 1934 00:00:00",
+      1,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "May, 24 1934 00:00:00",
+      12,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "May, 25 1934 00:00:00",
+      1,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "May, 26 1934 00:00:00",
+      6,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "May, 27 1934 00:00:00",
+      941,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "May, 28 1934 00:00:00",
+      1102,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "May, 29 1934 00:00:00",
+      345,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "May, 30 1934 00:00:00",
+      36,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "May, 31 1934 00:00:00",
+      73,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 01 1934 00:00:00",
+      296,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 02 1934 00:00:00",
+      1325,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 03 1934 00:00:00",
+      1542,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 04 1934 00:00:00",
+      1520,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 05 1934 00:00:00",
+      1308,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 06 1934 00:00:00",
+      1755,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 07 1934 00:00:00",
+      964,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 08 1934 00:00:00",
+      78,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 09 1934 00:00:00",
+      260,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 10 1934 00:00:00",
+      302,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 11 1934 00:00:00",
+      6232,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 12 1934 00:00:00",
+      1275,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 13 1934 00:00:00",
+      46713,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 14 1934 00:00:00",
+      54747,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 15 1934 00:00:00",
+      29253,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 16 1934 00:00:00",
+      16747,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 17 1934 00:00:00",
+      28817,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 18 1934 00:00:00",
+      10393,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 19 1934 00:00:00",
+      5328,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 20 1934 00:00:00",
+      16876,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 21 1934 00:00:00",
+      19625,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 22 1934 00:00:00",
+      7364,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 23 1934 00:00:00",
+      34304,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 24 1934 00:00:00",
+      19807,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 25 1934 00:00:00",
+      11011,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 26 1934 00:00:00",
+      11280,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 27 1934 00:00:00",
+      29814,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 28 1934 00:00:00",
+      25843,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 29 1934 00:00:00",
+      14669,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "June, 30 1934 00:00:00",
+      14907,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 01 1934 00:00:00",
+      10042,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 02 1934 00:00:00",
+      9414,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 03 1934 00:00:00",
+      19804,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 04 1934 00:00:00",
+      11679,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 05 1934 00:00:00",
+      11517,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 06 1934 00:00:00",
+      12636,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 07 1934 00:00:00",
+      9495,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 08 1934 00:00:00",
+      5002,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 09 1934 00:00:00",
+      30332,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 10 1934 00:00:00",
+      16629,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 11 1934 00:00:00",
+      31771,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 12 1934 00:00:00",
+      16770,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 13 1934 00:00:00",
+      6986,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 14 1934 00:00:00",
+      38401,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 15 1934 00:00:00",
+      12122,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 16 1934 00:00:00",
+      22924,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 17 1934 00:00:00",
+      25517,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 18 1934 00:00:00",
+      24240,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 19 1934 00:00:00",
+      44026,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 20 1934 00:00:00",
+      36457,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 21 1934 00:00:00",
+      1430,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 22 1934 00:00:00",
+      3414,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 23 1934 00:00:00",
+      10710,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 24 1934 00:00:00",
+      5717,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 25 1934 00:00:00",
+      34272,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 26 1934 00:00:00",
+      16787,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 27 1934 00:00:00",
+      16787,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 28 1934 00:00:00",
+      8473,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 29 1934 00:00:00",
+      25072,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 30 1934 00:00:00",
+      37412,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "July, 31 1934 00:00:00",
+      21486,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 01 1934 00:00:00",
+      15787,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 02 1934 00:00:00",
+      46057,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 03 1934 00:00:00",
+      33856,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 04 1934 00:00:00",
+      23220,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 05 1934 00:00:00",
+      7661,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 06 1934 00:00:00",
+      1921,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 07 1934 00:00:00",
+      2980,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 08 1934 00:00:00",
+      2363,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 09 1934 00:00:00",
+      5588,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 10 1934 00:00:00",
+      6282,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 11 1934 00:00:00",
+      4454,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 12 1934 00:00:00",
+      5254,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 13 1934 00:00:00",
+      2250,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 14 1934 00:00:00",
+      4996,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1934,
+      "August, 15 1934 00:00:00",
+      3431,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "1934",
+    "totalRecords": 85,
+    "totalCount": 1160296,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.063135"
+  }
+}

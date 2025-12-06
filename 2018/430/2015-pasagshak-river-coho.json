@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "August, 13 2015 00:00:00",
+      1,
+      430,
+      2018,
+      "Pasagshak River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 14 2015 00:00:00",
+      0,
+      430,
+      2018,
+      "Pasagshak River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 15 2015 00:00:00",
+      0,
+      430,
+      2018,
+      "Pasagshak River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 16 2015 00:00:00",
+      0,
+      430,
+      2018,
+      "Pasagshak River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2018,
+    "species_id": "440",
+    "year": "2015",
+    "totalRecords": 4,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.192634"
+  }
+}

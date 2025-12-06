@@ -1,0 +1,706 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "September, 01 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 02 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 03 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 04 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 05 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 06 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 07 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 08 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 09 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 10 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 11 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 12 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 13 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 14 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 15 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 16 2004 00:00:00",
+      2,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 17 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 18 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 19 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 20 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 21 2004 00:00:00",
+      34,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 22 2004 00:00:00",
+      12,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 23 2004 00:00:00",
+      9,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 24 2004 00:00:00",
+      35,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 25 2004 00:00:00",
+      14,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 26 2004 00:00:00",
+      6,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 27 2004 00:00:00",
+      27,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 28 2004 00:00:00",
+      5,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 29 2004 00:00:00",
+      3,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 30 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 01 2004 00:00:00",
+      2,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 02 2004 00:00:00",
+      3,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 03 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 04 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 05 2004 00:00:00",
+      11,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 06 2004 00:00:00",
+      4,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 07 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 08 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 09 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 10 2004 00:00:00",
+      2,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 11 2004 00:00:00",
+      3,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 12 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 13 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 14 2004 00:00:00",
+      5,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 15 2004 00:00:00",
+      13,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 16 2004 00:00:00",
+      10,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 17 2004 00:00:00",
+      4,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 18 2004 00:00:00",
+      11,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 19 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 20 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 21 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 22 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 23 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 24 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 25 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 26 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 27 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 28 2004 00:00:00",
+      2,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 29 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 30 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 31 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 01 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 02 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 03 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 04 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 05 2004 00:00:00",
+      1,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 06 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 07 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 08 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 09 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 10 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 11 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 12 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 13 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 14 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ],
+    [
+      2004,
+      "November, 15 2004 00:00:00",
+      0,
+      440,
+      2152,
+      "Jordan Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2152,
+    "species_id": "440",
+    "year": "2004",
+    "totalRecords": 76,
+    "totalCount": 229,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.807642"
+  }
+}

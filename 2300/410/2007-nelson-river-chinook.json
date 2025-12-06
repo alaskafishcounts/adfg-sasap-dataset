@@ -1,0 +1,670 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 14 2007 00:00:00",
+      5,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 15 2007 00:00:00",
+      15,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 16 2007 00:00:00",
+      5,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 17 2007 00:00:00",
+      4,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 18 2007 00:00:00",
+      60,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 19 2007 00:00:00",
+      71,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 20 2007 00:00:00",
+      37,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 21 2007 00:00:00",
+      67,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 22 2007 00:00:00",
+      99,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 23 2007 00:00:00",
+      74,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 24 2007 00:00:00",
+      103,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 25 2007 00:00:00",
+      205,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 26 2007 00:00:00",
+      135,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 27 2007 00:00:00",
+      148,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 28 2007 00:00:00",
+      237,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 29 2007 00:00:00",
+      51,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "June, 30 2007 00:00:00",
+      55,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 01 2007 00:00:00",
+      139,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 02 2007 00:00:00",
+      74,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 03 2007 00:00:00",
+      71,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 04 2007 00:00:00",
+      108,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 05 2007 00:00:00",
+      60,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 06 2007 00:00:00",
+      73,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 07 2007 00:00:00",
+      59,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 08 2007 00:00:00",
+      64,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 09 2007 00:00:00",
+      15,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 10 2007 00:00:00",
+      36,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 11 2007 00:00:00",
+      38,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 12 2007 00:00:00",
+      30,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 13 2007 00:00:00",
+      30,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      15,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      60,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      101,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      15,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      4,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 19 2007 00:00:00",
+      6,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 20 2007 00:00:00",
+      6,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 21 2007 00:00:00",
+      2,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      6,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 23 2007 00:00:00",
+      20,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      20,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      11,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      32,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      25,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      1,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "July, 31 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 05 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 06 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 07 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 08 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 09 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 14 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 16 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 17 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 18 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 19 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 20 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      2007,
+      "August, 24 2007 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "430",
+    "year": "2007",
+    "totalRecords": 72,
+    "totalCount": 2492,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.502910"
+  }
+}

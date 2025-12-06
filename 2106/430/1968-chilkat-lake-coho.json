@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "July, 27 1968 00:00:00",
+      6,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "July, 28 1968 00:00:00",
+      90,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "July, 29 1968 00:00:00",
+      6,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "July, 30 1968 00:00:00",
+      45,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "July, 31 1968 00:00:00",
+      1,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 01 1968 00:00:00",
+      1,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 02 1968 00:00:00",
+      26,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 03 1968 00:00:00",
+      19,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 04 1968 00:00:00",
+      12,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 05 1968 00:00:00",
+      40,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 08 1968 00:00:00",
+      3,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "440",
+    "year": "1968",
+    "totalRecords": 11,
+    "totalCount": 249,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.234248"
+  }
+}

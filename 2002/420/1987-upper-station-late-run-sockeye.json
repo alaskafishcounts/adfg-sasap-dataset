@@ -1,0 +1,715 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      372,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      289,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      126,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      326,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      618,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      556,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      1136,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      1073,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 24 1987 00:00:00",
+      542,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 25 1987 00:00:00",
+      2158,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 26 1987 00:00:00",
+      6614,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 27 1987 00:00:00",
+      7855,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 28 1987 00:00:00",
+      9112,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 29 1987 00:00:00",
+      8555,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 30 1987 00:00:00",
+      5666,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "July, 31 1987 00:00:00",
+      4309,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 01 1987 00:00:00",
+      1170,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 02 1987 00:00:00",
+      1415,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 03 1987 00:00:00",
+      1832,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 04 1987 00:00:00",
+      4010,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 05 1987 00:00:00",
+      1266,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 06 1987 00:00:00",
+      348,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 07 1987 00:00:00",
+      2767,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 08 1987 00:00:00",
+      2892,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 09 1987 00:00:00",
+      4117,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 10 1987 00:00:00",
+      7492,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 11 1987 00:00:00",
+      4135,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 12 1987 00:00:00",
+      2693,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 13 1987 00:00:00",
+      2448,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 14 1987 00:00:00",
+      1482,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 15 1987 00:00:00",
+      1310,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 16 1987 00:00:00",
+      512,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 17 1987 00:00:00",
+      549,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 18 1987 00:00:00",
+      303,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 19 1987 00:00:00",
+      5853,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 20 1987 00:00:00",
+      3201,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 21 1987 00:00:00",
+      2456,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 22 1987 00:00:00",
+      1678,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 23 1987 00:00:00",
+      751,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 24 1987 00:00:00",
+      1251,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 25 1987 00:00:00",
+      1389,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 26 1987 00:00:00",
+      815,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 27 1987 00:00:00",
+      892,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 28 1987 00:00:00",
+      1022,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 29 1987 00:00:00",
+      1288,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 30 1987 00:00:00",
+      1288,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "August, 31 1987 00:00:00",
+      3341,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 01 1987 00:00:00",
+      3266,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 02 1987 00:00:00",
+      3509,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 03 1987 00:00:00",
+      3333,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 04 1987 00:00:00",
+      8059,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 05 1987 00:00:00",
+      7934,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 06 1987 00:00:00",
+      2962,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 07 1987 00:00:00",
+      2876,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 08 1987 00:00:00",
+      4923,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 09 1987 00:00:00",
+      1907,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 10 1987 00:00:00",
+      1073,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 11 1987 00:00:00",
+      1595,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 12 1987 00:00:00",
+      539,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 13 1987 00:00:00",
+      69,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 14 1987 00:00:00",
+      310,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 15 1987 00:00:00",
+      400,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 16 1987 00:00:00",
+      33,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 17 1987 00:00:00",
+      500,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 18 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 19 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 20 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 21 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 22 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 23 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 24 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 25 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 26 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 27 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 28 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 29 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1987,
+      "September, 30 1987 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1987",
+    "totalRecords": 77,
+    "totalCount": 158561,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.493840"
+  }
+}

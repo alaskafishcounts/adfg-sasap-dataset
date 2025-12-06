@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      17,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      32,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      3,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      11,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      9,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      5,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      5,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      3,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 09 2010 00:00:00",
+      5,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 11 2010 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 25 2010 00:00:00",
+      3,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 26 2010 00:00:00",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "October, 29 2010 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "410",
+    "year": "2010",
+    "totalRecords": 17,
+    "totalCount": 103,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.452664"
+  }
+}

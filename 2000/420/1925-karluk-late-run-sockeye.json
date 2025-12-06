@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1925,
+      "July, 16 1925 00:00:00",
+      3340,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 17 1925 00:00:00",
+      4178,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 18 1925 00:00:00",
+      2764,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 19 1925 00:00:00",
+      3115,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 20 1925 00:00:00",
+      3018,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 21 1925 00:00:00",
+      981,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 22 1925 00:00:00",
+      1432,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 23 1925 00:00:00",
+      1234,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 24 1925 00:00:00",
+      4721,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 25 1925 00:00:00",
+      6094,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 26 1925 00:00:00",
+      7002,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 27 1925 00:00:00",
+      10295,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 28 1925 00:00:00",
+      8748,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 29 1925 00:00:00",
+      11072,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 30 1925 00:00:00",
+      10128,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "July, 31 1925 00:00:00",
+      6932,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 01 1925 00:00:00",
+      5045,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 02 1925 00:00:00",
+      12532,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 03 1925 00:00:00",
+      5972,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 04 1925 00:00:00",
+      26486,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 05 1925 00:00:00",
+      9324,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 06 1925 00:00:00",
+      20124,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 07 1925 00:00:00",
+      24056,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 08 1925 00:00:00",
+      15196,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 09 1925 00:00:00",
+      9412,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 10 1925 00:00:00",
+      15703,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 11 1925 00:00:00",
+      11378,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 12 1925 00:00:00",
+      21597,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 13 1925 00:00:00",
+      13148,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 14 1925 00:00:00",
+      3901,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 15 1925 00:00:00",
+      12855,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 16 1925 00:00:00",
+      17282,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 17 1925 00:00:00",
+      7209,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 18 1925 00:00:00",
+      2147,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 19 1925 00:00:00",
+      4618,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 20 1925 00:00:00",
+      141,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 21 1925 00:00:00",
+      1076,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 22 1925 00:00:00",
+      3118,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 23 1925 00:00:00",
+      1396,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 24 1925 00:00:00",
+      256,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 25 1925 00:00:00",
+      212,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 26 1925 00:00:00",
+      5110,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 27 1925 00:00:00",
+      234,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 28 1925 00:00:00",
+      135,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 29 1925 00:00:00",
+      8441,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 30 1925 00:00:00",
+      19409,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "August, 31 1925 00:00:00",
+      20185,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 01 1925 00:00:00",
+      1933,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 02 1925 00:00:00",
+      39444,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 03 1925 00:00:00",
+      2065,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 04 1925 00:00:00",
+      74,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 05 1925 00:00:00",
+      126754,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 06 1925 00:00:00",
+      9794,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 07 1925 00:00:00",
+      776,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 08 1925 00:00:00",
+      2535,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 09 1925 00:00:00",
+      3639,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 10 1925 00:00:00",
+      8366,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 11 1925 00:00:00",
+      2044,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 12 1925 00:00:00",
+      15459,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 13 1925 00:00:00",
+      41911,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 14 1925 00:00:00",
+      14130,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 15 1925 00:00:00",
+      9765,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 16 1925 00:00:00",
+      2952,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 17 1925 00:00:00",
+      13771,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 18 1925 00:00:00",
+      55,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 19 1925 00:00:00",
+      2340,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 20 1925 00:00:00",
+      57418,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 21 1925 00:00:00",
+      13759,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 22 1925 00:00:00",
+      2366,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 23 1925 00:00:00",
+      9579,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 24 1925 00:00:00",
+      5197,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 25 1925 00:00:00",
+      3074,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 26 1925 00:00:00",
+      7853,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 27 1925 00:00:00",
+      9987,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 28 1925 00:00:00",
+      51351,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 29 1925 00:00:00",
+      27974,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "September, 30 1925 00:00:00",
+      4452,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 01 1925 00:00:00",
+      34166,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 02 1925 00:00:00",
+      57055,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 03 1925 00:00:00",
+      4811,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 04 1925 00:00:00",
+      2964,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 05 1925 00:00:00",
+      4385,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 06 1925 00:00:00",
+      234,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 07 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 08 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 09 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 10 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 11 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 12 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 13 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 14 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1925,
+      "October, 15 1925 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "410",
+    "year": "1925",
+    "totalRecords": 92,
+    "totalCount": 977184,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.782760"
+  }
+}

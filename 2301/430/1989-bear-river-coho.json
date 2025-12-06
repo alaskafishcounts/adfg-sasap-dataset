@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "August, 25 1989 00:00:00",
+      7,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 26 1989 00:00:00",
+      8,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 27 1989 00:00:00",
+      14,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 28 1989 00:00:00",
+      4,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 29 1989 00:00:00",
+      0,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 30 1989 00:00:00",
+      0,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      1989,
+      "August, 31 1989 00:00:00",
+      0,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      1989,
+      "September, 01 1989 00:00:00",
+      0,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2301,
+    "species_id": "440",
+    "year": "1989",
+    "totalRecords": 8,
+    "totalCount": 33,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.175842"
+  }
+}

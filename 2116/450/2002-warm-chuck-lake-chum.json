@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 08 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 09 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 19 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 20 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 21 2002 00:00:00",
+      3,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 22 2002 00:00:00",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 23 2002 00:00:00",
+      1,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "October, 06 2002 00:00:00",
+      2,
+      450,
+      2116,
+      "Warm Chuck Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 13,
+    "totalCount": 18,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.630115"
+  }
+}

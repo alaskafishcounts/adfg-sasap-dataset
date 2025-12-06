@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1965,
+      "August, 24 1965 00:00:00",
+      2,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "August, 25 1965 00:00:00",
+      5,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "August, 26 1965 00:00:00",
+      5,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "August, 27 1965 00:00:00",
+      6,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "August, 28 1965 00:00:00",
+      5,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "August, 29 1965 00:00:00",
+      6,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "August, 30 1965 00:00:00",
+      105,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "August, 31 1965 00:00:00",
+      159,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "September, 01 1965 00:00:00",
+      8,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "September, 02 1965 00:00:00",
+      7,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "September, 03 1965 00:00:00",
+      6,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "September, 04 1965 00:00:00",
+      7,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "September, 05 1965 00:00:00",
+      2,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ],
+    [
+      1965,
+      "September, 07 1965 00:00:00",
+      1,
+      440,
+      2135,
+      "Salmon Bay",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2135,
+    "species_id": "420",
+    "year": "1965",
+    "totalRecords": 14,
+    "totalCount": 324,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.441161"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1966,
+      "July, 22 1966 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 01 1966 00:00:00",
+      1,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 02 1966 00:00:00",
+      15,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 03 1966 00:00:00",
+      21,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 04 1966 00:00:00",
+      26,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 05 1966 00:00:00",
+      3,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 06 1966 00:00:00",
+      3,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 07 1966 00:00:00",
+      5,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 08 1966 00:00:00",
+      16,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 09 1966 00:00:00",
+      9,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 10 1966 00:00:00",
+      17,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 11 1966 00:00:00",
+      26,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 12 1966 00:00:00",
+      5,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 13 1966 00:00:00",
+      9,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 14 1966 00:00:00",
+      85,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 15 1966 00:00:00",
+      8,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 16 1966 00:00:00",
+      6,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 17 1966 00:00:00",
+      51,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 18 1966 00:00:00",
+      38,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 19 1966 00:00:00",
+      28,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 20 1966 00:00:00",
+      9,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ],
+    [
+      1966,
+      "August, 21 1966 00:00:00",
+      3,
+      430,
+      2146,
+      "Klakas Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2146,
+    "species_id": "440",
+    "year": "1966",
+    "totalRecords": 22,
+    "totalCount": 385,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.495081"
+  }
+}

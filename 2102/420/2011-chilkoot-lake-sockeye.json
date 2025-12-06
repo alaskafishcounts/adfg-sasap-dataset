@@ -1,0 +1,859 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 05 2011 00:00:00",
+      39,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 06 2011 00:00:00",
+      15,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 07 2011 00:00:00",
+      27,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 08 2011 00:00:00",
+      10,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 09 2011 00:00:00",
+      22,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 10 2011 00:00:00",
+      73,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 11 2011 00:00:00",
+      30,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 12 2011 00:00:00",
+      49,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 13 2011 00:00:00",
+      44,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 14 2011 00:00:00",
+      145,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 15 2011 00:00:00",
+      96,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 16 2011 00:00:00",
+      184,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 17 2011 00:00:00",
+      276,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 18 2011 00:00:00",
+      197,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 19 2011 00:00:00",
+      203,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 20 2011 00:00:00",
+      260,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 21 2011 00:00:00",
+      204,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 22 2011 00:00:00",
+      346,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 23 2011 00:00:00",
+      123,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      213,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      359,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      97,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      362,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      176,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      18,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      66,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 01 2011 00:00:00",
+      266,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 02 2011 00:00:00",
+      202,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 03 2011 00:00:00",
+      222,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 04 2011 00:00:00",
+      530,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 05 2011 00:00:00",
+      389,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 06 2011 00:00:00",
+      80,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 07 2011 00:00:00",
+      165,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 08 2011 00:00:00",
+      127,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 09 2011 00:00:00",
+      172,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      434,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      426,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      844,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      1266,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      1376,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      1020,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      1073,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      1048,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      1412,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      882,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      1217,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      1020,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      1446,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      1430,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      1582,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      1731,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      1528,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      1090,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      1030,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      529,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      1298,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      1932,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 01 2011 00:00:00",
+      915,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 02 2011 00:00:00",
+      2841,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 03 2011 00:00:00",
+      1738,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 04 2011 00:00:00",
+      2206,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 05 2011 00:00:00",
+      1212,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 06 2011 00:00:00",
+      4733,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 07 2011 00:00:00",
+      2541,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 08 2011 00:00:00",
+      1914,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 09 2011 00:00:00",
+      2410,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      1585,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      793,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      2871,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      1052,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      555,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      1562,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      649,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      551,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 18 2011 00:00:00",
+      440,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      197,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 20 2011 00:00:00",
+      560,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 21 2011 00:00:00",
+      79,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 22 2011 00:00:00",
+      33,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 23 2011 00:00:00",
+      22,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 24 2011 00:00:00",
+      53,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 25 2011 00:00:00",
+      347,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 26 2011 00:00:00",
+      390,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 27 2011 00:00:00",
+      436,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 28 2011 00:00:00",
+      475,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 29 2011 00:00:00",
+      333,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 30 2011 00:00:00",
+      226,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 31 2011 00:00:00",
+      133,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "September, 01 2011 00:00:00",
+      152,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "September, 02 2011 00:00:00",
+      175,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "September, 03 2011 00:00:00",
+      164,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "September, 04 2011 00:00:00",
+      106,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "September, 05 2011 00:00:00",
+      65,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 93,
+    "totalCount": 65915,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.960240"
+  }
+}

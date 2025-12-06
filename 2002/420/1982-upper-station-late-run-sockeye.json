@@ -1,0 +1,715 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      65,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      8,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      25,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      15,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      7,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      24,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      8,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 24 1982 00:00:00",
+      42,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 25 1982 00:00:00",
+      25,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 26 1982 00:00:00",
+      8,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 27 1982 00:00:00",
+      87,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 28 1982 00:00:00",
+      6,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      831,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      2099,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "July, 31 1982 00:00:00",
+      2909,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 01 1982 00:00:00",
+      7839,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 02 1982 00:00:00",
+      6838,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 03 1982 00:00:00",
+      7692,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 04 1982 00:00:00",
+      8288,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 05 1982 00:00:00",
+      11885,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      9025,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 07 1982 00:00:00",
+      9971,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      11622,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      12714,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      14143,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      12956,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      12693,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 13 1982 00:00:00",
+      13286,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      11774,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 15 1982 00:00:00",
+      10991,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      10162,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      7939,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      10158,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      10195,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 20 1982 00:00:00",
+      9914,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 21 1982 00:00:00",
+      11311,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 22 1982 00:00:00",
+      10339,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      5632,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      5367,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 25 1982 00:00:00",
+      6063,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 26 1982 00:00:00",
+      5667,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      5150,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      6206,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      6196,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      3236,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      2501,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      1398,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      1478,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      2264,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      2461,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      4796,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      3743,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      2032,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      1026,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      959,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      1212,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      1000,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 14 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 18 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 22 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 24 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 25 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 26 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 27 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 28 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 29 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1982,
+      "September, 30 1982 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1982",
+    "totalRecords": 77,
+    "totalCount": 306282,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.383878"
+  }
+}

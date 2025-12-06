@@ -1,0 +1,724 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "June, 15 1995 00:00:00",
+      11,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 16 1995 00:00:00",
+      41,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 17 1995 00:00:00",
+      29,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 18 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 19 1995 00:00:00",
+      47,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 20 1995 00:00:00",
+      6,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 21 1995 00:00:00",
+      6,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 22 1995 00:00:00",
+      1,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 23 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 24 1995 00:00:00",
+      60,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 25 1995 00:00:00",
+      167,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 26 1995 00:00:00",
+      28,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 27 1995 00:00:00",
+      84,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 28 1995 00:00:00",
+      36,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 29 1995 00:00:00",
+      8,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "June, 30 1995 00:00:00",
+      10,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 01 1995 00:00:00",
+      83,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 02 1995 00:00:00",
+      1,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 03 1995 00:00:00",
+      4,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 04 1995 00:00:00",
+      6,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 05 1995 00:00:00",
+      24,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 06 1995 00:00:00",
+      74,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 07 1995 00:00:00",
+      8,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 08 1995 00:00:00",
+      9,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 09 1995 00:00:00",
+      11,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 10 1995 00:00:00",
+      46,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 11 1995 00:00:00",
+      8,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 12 1995 00:00:00",
+      16,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 13 1995 00:00:00",
+      33,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 14 1995 00:00:00",
+      17,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 15 1995 00:00:00",
+      8,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 16 1995 00:00:00",
+      9,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 17 1995 00:00:00",
+      15,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 18 1995 00:00:00",
+      8,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 19 1995 00:00:00",
+      16,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 20 1995 00:00:00",
+      12,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 21 1995 00:00:00",
+      14,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 22 1995 00:00:00",
+      14,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 23 1995 00:00:00",
+      16,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 24 1995 00:00:00",
+      11,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 25 1995 00:00:00",
+      13,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 26 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 27 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 28 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 29 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 30 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "July, 31 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 01 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 02 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 03 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 04 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 05 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 06 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 07 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 08 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 09 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 10 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 11 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 12 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 13 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 14 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 15 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 16 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 17 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 24 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 25 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 26 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 27 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 28 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 29 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 30 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1995,
+      "August, 31 1995 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 78,
+    "totalCount": 1010,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.515577"
+  }
+}

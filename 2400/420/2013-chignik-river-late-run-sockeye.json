@@ -1,0 +1,814 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      2403,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      2644,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      1901,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      2421,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      2560,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      3011,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      582,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      2638,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      4264,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      29205,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      27768,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      21508,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      9686,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      3970,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      5509,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      2314,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      2271,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      2019,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      2115,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      2946,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      2623,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      4690,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      4636,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      10754,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      5131,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      24830,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      20170,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      15336,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      2773,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      2098,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      2609,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      814,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      1727,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      5516,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      3141,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      2018,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      2144,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      2637,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      3603,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      2352,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      2491,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      1842,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      1620,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      763,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      1010,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      2371,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 20 2013 00:00:00",
+      1848,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 21 2013 00:00:00",
+      2684,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 22 2013 00:00:00",
+      2500,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 23 2013 00:00:00",
+      1402,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 24 2013 00:00:00",
+      2608,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 25 2013 00:00:00",
+      1802,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 26 2013 00:00:00",
+      2228,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 27 2013 00:00:00",
+      3545,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 28 2013 00:00:00",
+      3954,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 29 2013 00:00:00",
+      1669,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 30 2013 00:00:00",
+      6986,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "August, 31 2013 00:00:00",
+      5548,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 01 2013 00:00:00",
+      5284,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 02 2013 00:00:00",
+      5119,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 03 2013 00:00:00",
+      3518,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 04 2013 00:00:00",
+      3381,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 05 2013 00:00:00",
+      3250,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 06 2013 00:00:00",
+      3124,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 07 2013 00:00:00",
+      3002,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 08 2013 00:00:00",
+      2886,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 09 2013 00:00:00",
+      2774,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 10 2013 00:00:00",
+      2666,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 11 2013 00:00:00",
+      2563,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 12 2013 00:00:00",
+      2463,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 13 2013 00:00:00",
+      2368,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 14 2013 00:00:00",
+      2276,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 15 2013 00:00:00",
+      2187,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 16 2013 00:00:00",
+      2102,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 17 2013 00:00:00",
+      2021,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 18 2013 00:00:00",
+      1942,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 19 2013 00:00:00",
+      1867,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 20 2013 00:00:00",
+      1794,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 21 2013 00:00:00",
+      1725,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 22 2013 00:00:00",
+      1658,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 23 2013 00:00:00",
+      1593,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 24 2013 00:00:00",
+      1531,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 25 2013 00:00:00",
+      1472,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 26 2013 00:00:00",
+      1415,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 27 2013 00:00:00",
+      1360,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 28 2013 00:00:00",
+      1307,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 29 2013 00:00:00",
+      1256,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ],
+    [
+      2013,
+      "September, 30 2013 00:00:00",
+      1208,
+      410,
+      2400,
+      "Chignik River",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 88,
+    "totalCount": 369320,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.400623"
+  }
+}

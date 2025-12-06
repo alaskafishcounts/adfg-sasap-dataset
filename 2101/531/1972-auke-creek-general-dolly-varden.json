@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1972,
+      "June, 16 1972 00:00:00",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "June, 26 1972 00:00:00",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "June, 27 1972 00:00:00",
+      10,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 03 1972 00:00:00",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 04 1972 00:00:00",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 05 1972 00:00:00",
+      7,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 07 1972 00:00:00",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 08 1972 00:00:00",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 10 1972 00:00:00",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 11 1972 00:00:00",
+      8,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 13 1972 00:00:00",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 17 1972 00:00:00",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 18 1972 00:00:00",
+      5,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 19 1972 00:00:00",
+      3,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 20 1972 00:00:00",
+      2,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "July, 22 1972 00:00:00",
+      1,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "August, 06 1972 00:00:00",
+      15,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ],
+    [
+      1972,
+      "August, 07 1972 00:00:00",
+      14,
+      530,
+      2101,
+      "Auke Creek",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "530",
+    "year": "1972",
+    "totalRecords": 18,
+    "totalCount": 95,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.365120"
+  }
+}

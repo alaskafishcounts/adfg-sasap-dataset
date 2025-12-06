@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1979,
+      "July, 17 1979 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "July, 19 1979 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "July, 20 1979 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "July, 21 1979 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "July, 29 1979 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "July, 31 1979 00:00:00",
+      7,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 01 1979 00:00:00",
+      39,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 02 1979 00:00:00",
+      240,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 03 1979 00:00:00",
+      264,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 04 1979 00:00:00",
+      324,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 05 1979 00:00:00",
+      819,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 06 1979 00:00:00",
+      1050,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 07 1979 00:00:00",
+      1233,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 08 1979 00:00:00",
+      1235,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 09 1979 00:00:00",
+      1840,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 10 1979 00:00:00",
+      1867,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 11 1979 00:00:00",
+      1659,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 12 1979 00:00:00",
+      1858,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 13 1979 00:00:00",
+      1695,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 14 1979 00:00:00",
+      1235,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 15 1979 00:00:00",
+      1637,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 16 1979 00:00:00",
+      1973,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 17 1979 00:00:00",
+      4184,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 18 1979 00:00:00",
+      3556,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 19 1979 00:00:00",
+      2394,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 20 1979 00:00:00",
+      1507,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 21 1979 00:00:00",
+      833,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 22 1979 00:00:00",
+      460,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 23 1979 00:00:00",
+      1163,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 24 1979 00:00:00",
+      282,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 25 1979 00:00:00",
+      79,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "August, 31 1979 00:00:00",
+      2852,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 01 1979 00:00:00",
+      4618,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 02 1979 00:00:00",
+      21562,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 03 1979 00:00:00",
+      22688,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 04 1979 00:00:00",
+      6998,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 05 1979 00:00:00",
+      454,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 06 1979 00:00:00",
+      3523,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 07 1979 00:00:00",
+      76,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 08 1979 00:00:00",
+      790,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 09 1979 00:00:00",
+      1075,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 10 1979 00:00:00",
+      763,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 11 1979 00:00:00",
+      2849,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 12 1979 00:00:00",
+      5428,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 13 1979 00:00:00",
+      3196,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 14 1979 00:00:00",
+      2159,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 15 1979 00:00:00",
+      998,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 16 1979 00:00:00",
+      676,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 17 1979 00:00:00",
+      173,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 18 1979 00:00:00",
+      67,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 20 1979 00:00:00",
+      5,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 21 1979 00:00:00",
+      19,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 22 1979 00:00:00",
+      23,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 23 1979 00:00:00",
+      3,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 26 1979 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 27 1979 00:00:00",
+      2,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 28 1979 00:00:00",
+      5,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1979,
+      "September, 29 1979 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "420",
+    "year": "1979",
+    "totalRecords": 58,
+    "totalCount": 114442,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.648154"
+  }
+}

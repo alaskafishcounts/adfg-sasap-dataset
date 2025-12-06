@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1930,
+      "July, 03 1930 00:00:00",
+      75,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 04 1930 00:00:00",
+      73,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 05 1930 00:00:00",
+      25,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 06 1930 00:00:00",
+      34,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 07 1930 00:00:00",
+      664,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 08 1930 00:00:00",
+      26,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 09 1930 00:00:00",
+      1920,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 10 1930 00:00:00",
+      3762,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 11 1930 00:00:00",
+      7662,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 12 1930 00:00:00",
+      15063,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 13 1930 00:00:00",
+      18014,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 14 1930 00:00:00",
+      11920,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 15 1930 00:00:00",
+      17604,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 16 1930 00:00:00",
+      21278,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 17 1930 00:00:00",
+      14760,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 18 1930 00:00:00",
+      25825,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 19 1930 00:00:00",
+      17835,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 20 1930 00:00:00",
+      23708,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 21 1930 00:00:00",
+      36757,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 22 1930 00:00:00",
+      43447,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 23 1930 00:00:00",
+      28358,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 24 1930 00:00:00",
+      25691,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 25 1930 00:00:00",
+      43806,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 26 1930 00:00:00",
+      25758,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 27 1930 00:00:00",
+      10135,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 28 1930 00:00:00",
+      24876,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 29 1930 00:00:00",
+      19829,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 30 1930 00:00:00",
+      34508,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "July, 31 1930 00:00:00",
+      18445,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 01 1930 00:00:00",
+      3953,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 02 1930 00:00:00",
+      17682,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 03 1930 00:00:00",
+      10425,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 04 1930 00:00:00",
+      5321,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 05 1930 00:00:00",
+      2262,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 06 1930 00:00:00",
+      7827,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 07 1930 00:00:00",
+      2737,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 08 1930 00:00:00",
+      3993,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 09 1930 00:00:00",
+      4371,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 10 1930 00:00:00",
+      4857,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 11 1930 00:00:00",
+      4995,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 12 1930 00:00:00",
+      16547,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 13 1930 00:00:00",
+      12088,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 14 1930 00:00:00",
+      1329,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 15 1930 00:00:00",
+      512,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 16 1930 00:00:00",
+      239,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 17 1930 00:00:00",
+      574,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 18 1930 00:00:00",
+      822,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 19 1930 00:00:00",
+      1868,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 20 1930 00:00:00",
+      1198,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 21 1930 00:00:00",
+      3679,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 22 1930 00:00:00",
+      3145,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 23 1930 00:00:00",
+      1637,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 24 1930 00:00:00",
+      1598,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 25 1930 00:00:00",
+      2296,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 26 1930 00:00:00",
+      678,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 27 1930 00:00:00",
+      387,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 28 1930 00:00:00",
+      442,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 29 1930 00:00:00",
+      190,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 30 1930 00:00:00",
+      208,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "August, 31 1930 00:00:00",
+      148,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      1930,
+      "September, 01 1930 00:00:00",
+      81,
+      420,
+      2001,
+      "Ayakulik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "420",
+    "year": "1930",
+    "totalRecords": 61,
+    "totalCount": 609947,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.119902"
+  }
+}

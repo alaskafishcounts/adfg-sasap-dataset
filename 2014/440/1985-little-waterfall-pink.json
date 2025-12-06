@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "July, 29 1985 00:00:00",
+      13,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "July, 30 1985 00:00:00",
+      1033,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "July, 31 1985 00:00:00",
+      921,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 01 1985 00:00:00",
+      830,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 02 1985 00:00:00",
+      1958,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 03 1985 00:00:00",
+      2101,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 04 1985 00:00:00",
+      2128,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 05 1985 00:00:00",
+      1876,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 06 1985 00:00:00",
+      1789,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 07 1985 00:00:00",
+      1178,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 08 1985 00:00:00",
+      4902,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 09 1985 00:00:00",
+      4100,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 10 1985 00:00:00",
+      5001,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 11 1985 00:00:00",
+      5656,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 12 1985 00:00:00",
+      5764,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 13 1985 00:00:00",
+      6306,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 14 1985 00:00:00",
+      6334,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 15 1985 00:00:00",
+      4863,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 16 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 17 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 18 1985 00:00:00",
+      2112,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 19 1985 00:00:00",
+      1308,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 20 1985 00:00:00",
+      3728,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 21 1985 00:00:00",
+      4212,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 22 1985 00:00:00",
+      3064,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 23 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 24 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 25 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 26 1985 00:00:00",
+      1588,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 27 1985 00:00:00",
+      1780,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 28 1985 00:00:00",
+      1482,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 29 1985 00:00:00",
+      3452,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 30 1985 00:00:00",
+      1774,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 31 1985 00:00:00",
+      3934,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 01 1985 00:00:00",
+      6304,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 02 1985 00:00:00",
+      5012,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 03 1985 00:00:00",
+      4302,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 04 1985 00:00:00",
+      2075,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 05 1985 00:00:00",
+      2255,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 06 1985 00:00:00",
+      2410,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 07 1985 00:00:00",
+      2030,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 08 1985 00:00:00",
+      3204,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 09 1985 00:00:00",
+      1833,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 10 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 11 1985 00:00:00",
+      830,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 12 1985 00:00:00",
+      1450,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 13 1985 00:00:00",
+      543,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 14 1985 00:00:00",
+      882,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 15 1985 00:00:00",
+      692,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 16 1985 00:00:00",
+      31,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 17 1985 00:00:00",
+      149,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 18 1985 00:00:00",
+      11,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 19 1985 00:00:00",
+      8,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 20 1985 00:00:00",
+      3,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 21 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 22 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 23 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 24 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 25 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 26 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 27 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 28 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 29 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 30 1985 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2014,
+    "species_id": "420",
+    "year": "1985",
+    "totalRecords": 64,
+    "totalCount": 119211,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.768864"
+  }
+}

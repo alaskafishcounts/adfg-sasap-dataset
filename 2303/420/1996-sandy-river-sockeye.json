@@ -1,0 +1,940 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "June, 06 1996 00:00:00",
+      13,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 07 1996 00:00:00",
+      1,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 08 1996 00:00:00",
+      1,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 09 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 10 1996 00:00:00",
+      6,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 11 1996 00:00:00",
+      10,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 12 1996 00:00:00",
+      75,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 13 1996 00:00:00",
+      146,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 14 1996 00:00:00",
+      283,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 15 1996 00:00:00",
+      514,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 16 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 17 1996 00:00:00",
+      570,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 18 1996 00:00:00",
+      446,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 19 1996 00:00:00",
+      1349,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 20 1996 00:00:00",
+      1232,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 21 1996 00:00:00",
+      678,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 22 1996 00:00:00",
+      1949,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 23 1996 00:00:00",
+      2209,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 24 1996 00:00:00",
+      2469,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 25 1996 00:00:00",
+      2729,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 26 1996 00:00:00",
+      2989,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 27 1996 00:00:00",
+      3100,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 28 1996 00:00:00",
+      3248,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 29 1996 00:00:00",
+      4035,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 30 1996 00:00:00",
+      3960,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 01 1996 00:00:00",
+      4396,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 02 1996 00:00:00",
+      5419,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 03 1996 00:00:00",
+      4907,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 04 1996 00:00:00",
+      3691,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 05 1996 00:00:00",
+      3364,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 06 1996 00:00:00",
+      1955,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 07 1996 00:00:00",
+      855,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 08 1996 00:00:00",
+      500,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 09 1996 00:00:00",
+      669,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 10 1996 00:00:00",
+      280,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 11 1996 00:00:00",
+      196,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 12 1996 00:00:00",
+      474,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 13 1996 00:00:00",
+      557,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 14 1996 00:00:00",
+      568,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 15 1996 00:00:00",
+      636,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 16 1996 00:00:00",
+      871,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 17 1996 00:00:00",
+      600,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 18 1996 00:00:00",
+      313,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 19 1996 00:00:00",
+      7,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 20 1996 00:00:00",
+      730,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 21 1996 00:00:00",
+      500,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 22 1996 00:00:00",
+      500,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 23 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 24 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 25 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 26 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 27 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 28 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 29 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 30 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 31 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 01 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 02 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 03 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 04 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 05 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 06 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 07 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 08 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 09 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 10 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 11 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 12 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 13 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 14 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 15 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 16 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 17 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 18 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 19 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 20 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 21 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 22 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 23 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 24 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 25 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 26 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 27 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 28 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 29 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 30 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 31 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 01 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 02 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 03 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 04 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 05 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 06 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 07 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 08 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 09 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 10 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 11 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 12 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 13 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 14 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "September, 15 1996 00:00:00",
+      0,
+      410,
+      2303,
+      "Sandy River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2303,
+    "species_id": "410",
+    "year": "1996",
+    "totalRecords": 102,
+    "totalCount": 64000,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.827178"
+  }
+}

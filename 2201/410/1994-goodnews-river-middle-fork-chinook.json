@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "June, 25 1994 00:00:00",
+      30,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "June, 26 1994 00:00:00",
+      15,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "June, 27 1994 00:00:00",
+      73,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "June, 28 1994 00:00:00",
+      18,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "June, 29 1994 00:00:00",
+      101,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "June, 30 1994 00:00:00",
+      211,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 01 1994 00:00:00",
+      683,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 02 1994 00:00:00",
+      54,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 03 1994 00:00:00",
+      3,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 04 1994 00:00:00",
+      18,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 05 1994 00:00:00",
+      131,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 06 1994 00:00:00",
+      41,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 07 1994 00:00:00",
+      81,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 08 1994 00:00:00",
+      291,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 09 1994 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 10 1994 00:00:00",
+      72,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 11 1994 00:00:00",
+      35,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 12 1994 00:00:00",
+      400,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 13 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 14 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 15 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 16 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 17 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 18 1994 00:00:00",
+      42,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 19 1994 00:00:00",
+      74,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      11,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      13,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      25,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      39,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      26,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      46,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      43,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      56,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 28 1994 00:00:00",
+      256,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 29 1994 00:00:00",
+      43,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 30 1994 00:00:00",
+      21,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 31 1994 00:00:00",
+      21,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 01 1994 00:00:00",
+      19,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 02 1994 00:00:00",
+      5,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 03 1994 00:00:00",
+      23,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 04 1994 00:00:00",
+      13,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 05 1994 00:00:00",
+      3,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 06 1994 00:00:00",
+      3,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 07 1994 00:00:00",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 08 1994 00:00:00",
+      12,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 09 1994 00:00:00",
+      5,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 10 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 11 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 12 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 13 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 14 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 15 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 16 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 17 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 18 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 19 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 20 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 21 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 22 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 23 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 24 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 25 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 26 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 27 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 28 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 29 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 30 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 31 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 01 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 02 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 03 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 04 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 05 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 06 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 07 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 08 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 09 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 10 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 11 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 12 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 13 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 14 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 15 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 16 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 17 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 18 1994 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "430",
+    "year": "1994",
+    "totalRecords": 86,
+    "totalCount": 3061,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.665783"
+  }
+}

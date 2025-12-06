@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 15 2011 00:00:00",
+      5521,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 16 2011 00:00:00",
+      3192,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 17 2011 00:00:00",
+      1927,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 18 2011 00:00:00",
+      2700,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 19 2011 00:00:00",
+      5808,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 20 2011 00:00:00",
+      5268,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 21 2011 00:00:00",
+      5340,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 22 2011 00:00:00",
+      5508,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 23 2011 00:00:00",
+      11358,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      11032,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      9162,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      768,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      2442,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      1344,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      6012,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      786,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 01 2011 00:00:00",
+      2994,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 02 2011 00:00:00",
+      6606,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 03 2011 00:00:00",
+      1362,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 04 2011 00:00:00",
+      2628,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 05 2011 00:00:00",
+      1392,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 06 2011 00:00:00",
+      3068,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 07 2011 00:00:00",
+      534,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 08 2011 00:00:00",
+      1938,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 09 2011 00:00:00",
+      2268,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      846,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      1398,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      786,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      1578,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      1146,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      1278,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      10302,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      13542,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      15042,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      5506,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      11838,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      3924,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      5856,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      11214,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      8178,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      7914,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      7351,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      5826,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      3191,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      2908,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      3102,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      2232,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 01 2011 00:00:00",
+      2214,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 02 2011 00:00:00",
+      1907,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 03 2011 00:00:00",
+      1730,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 04 2011 00:00:00",
+      1926,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 05 2011 00:00:00",
+      2173,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 06 2011 00:00:00",
+      2466,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 07 2011 00:00:00",
+      960,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 08 2011 00:00:00",
+      1215,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 09 2011 00:00:00",
+      1710,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      1908,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      1602,
+      410,
+      2800,
+      "Kasilof River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2800,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 58,
+    "totalCount": 245727,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.900321"
+  }
+}

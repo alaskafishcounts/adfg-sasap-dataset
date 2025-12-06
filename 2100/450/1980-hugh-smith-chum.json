@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "August, 18 1980 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1980,
+      "September, 19 1980 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1980,
+      "September, 20 1980 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1980,
+      "September, 22 1980 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      1980,
+      "October, 01 1980 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "450",
+    "year": "1980",
+    "totalRecords": 5,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.069849"
+  }
+}

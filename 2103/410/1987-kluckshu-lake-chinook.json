@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 21 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "June, 22 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "June, 26 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "June, 30 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 04 1987 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 06 1987 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 07 1987 00:00:00",
+      45,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 08 1987 00:00:00",
+      9,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 09 1987 00:00:00",
+      15,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      11,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      11,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      215,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      107,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      54,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      971,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      5,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      53,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      46,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      313,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      79,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      36,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 24 1987 00:00:00",
+      113,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 25 1987 00:00:00",
+      83,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 26 1987 00:00:00",
+      22,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 27 1987 00:00:00",
+      74,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 28 1987 00:00:00",
+      99,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 29 1987 00:00:00",
+      36,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 30 1987 00:00:00",
+      27,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 31 1987 00:00:00",
+      27,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 01 1987 00:00:00",
+      9,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 02 1987 00:00:00",
+      10,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 03 1987 00:00:00",
+      15,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 04 1987 00:00:00",
+      16,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 05 1987 00:00:00",
+      16,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 06 1987 00:00:00",
+      7,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 08 1987 00:00:00",
+      5,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 09 1987 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 10 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 11 1987 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 13 1987 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 14 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 15 1987 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 16 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 17 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 18 1987 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 19 1987 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 20 1987 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 21 1987 00:00:00",
+      12,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 22 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 23 1987 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 24 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 25 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 26 1987 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 27 1987 00:00:00",
+      5,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 28 1987 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 31 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "September, 01 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "September, 05 1987 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "September, 15 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ],
+    [
+      1987,
+      "September, 26 1987 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "430",
+    "year": "1987",
+    "totalRecords": 62,
+    "totalCount": 2616,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.849638"
+  }
+}

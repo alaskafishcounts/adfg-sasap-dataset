@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1928,
+      "August, 05 1928 00:00:00",
+      17,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 06 1928 00:00:00",
+      128,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 07 1928 00:00:00",
+      107,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 08 1928 00:00:00",
+      209,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 09 1928 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 10 1928 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 11 1928 00:00:00",
+      161,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 12 1928 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 13 1928 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1928,
+      "August, 14 1928 00:00:00",
+      211,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "440",
+    "year": "1928",
+    "totalRecords": 10,
+    "totalCount": 833,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.902213"
+  }
+}

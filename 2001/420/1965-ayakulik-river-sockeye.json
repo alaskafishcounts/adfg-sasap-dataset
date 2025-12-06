@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1965,
+      "June, 26 1965 00:00:00",
+      23000,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 27 1965 00:00:00",
+      1198,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 28 1965 00:00:00",
+      337,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 29 1965 00:00:00",
+      1508,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 30 1965 00:00:00",
+      157,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 01 1965 00:00:00",
+      2836,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 02 1965 00:00:00",
+      133,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 03 1965 00:00:00",
+      53,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 04 1965 00:00:00",
+      1,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 05 1965 00:00:00",
+      20,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 06 1965 00:00:00",
+      15,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 07 1965 00:00:00",
+      392,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 08 1965 00:00:00",
+      953,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 09 1965 00:00:00",
+      4461,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 10 1965 00:00:00",
+      95,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 11 1965 00:00:00",
+      53,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 12 1965 00:00:00",
+      14,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 13 1965 00:00:00",
+      144,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 14 1965 00:00:00",
+      282,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 15 1965 00:00:00",
+      29,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 16 1965 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 17 1965 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 18 1965 00:00:00",
+      20,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 19 1965 00:00:00",
+      20,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 20 1965 00:00:00",
+      20,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 21 1965 00:00:00",
+      20,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 22 1965 00:00:00",
+      20,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 23 1965 00:00:00",
+      6,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 24 1965 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 25 1965 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 26 1965 00:00:00",
+      2,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 27 1965 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 28 1965 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 29 1965 00:00:00",
+      1,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 30 1965 00:00:00",
+      2,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 31 1965 00:00:00",
+      15,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 01 1965 00:00:00",
+      371,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 02 1965 00:00:00",
+      7697,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 03 1965 00:00:00",
+      7,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 04 1965 00:00:00",
+      29,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 05 1965 00:00:00",
+      12,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 06 1965 00:00:00",
+      13949,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 07 1965 00:00:00",
+      8947,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 08 1965 00:00:00",
+      403,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 09 1965 00:00:00",
+      162,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 10 1965 00:00:00",
+      30,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 11 1965 00:00:00",
+      15,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 12 1965 00:00:00",
+      12,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 13 1965 00:00:00",
+      2,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 14 1965 00:00:00",
+      8,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 15 1965 00:00:00",
+      3770,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 16 1965 00:00:00",
+      3835,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 17 1965 00:00:00",
+      266,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 18 1965 00:00:00",
+      17,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 19 1965 00:00:00",
+      3,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 20 1965 00:00:00",
+      7,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 21 1965 00:00:00",
+      1,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 22 1965 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 23 1965 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "August, 24 1965 00:00:00",
+      6,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "1965",
+    "totalRecords": 60,
+    "totalCount": 75356,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.065469"
+  }
+}

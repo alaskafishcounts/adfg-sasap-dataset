@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      4,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      14,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      21,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      14,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 19 2002 00:00:00",
+      11,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 20 2002 00:00:00",
+      38,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 21 2002 00:00:00",
+      68,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 22 2002 00:00:00",
+      114,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 23 2002 00:00:00",
+      205,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 24 2002 00:00:00",
+      204,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 25 2002 00:00:00",
+      421,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 26 2002 00:00:00",
+      91,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 27 2002 00:00:00",
+      119,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 28 2002 00:00:00",
+      182,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 06 2002 00:00:00",
+      78,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 07 2002 00:00:00",
+      43,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 08 2002 00:00:00",
+      364,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 09 2002 00:00:00",
+      821,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 10 2002 00:00:00",
+      155,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 11 2002 00:00:00",
+      147,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 12 2002 00:00:00",
+      9,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 13 2002 00:00:00",
+      78,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 14 2002 00:00:00",
+      43,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 15 2002 00:00:00",
+      364,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 16 2002 00:00:00",
+      821,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 17 2002 00:00:00",
+      155,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 18 2002 00:00:00",
+      147,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      2002,
+      "October, 19 2002 00:00:00",
+      9,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "440",
+    "year": "2002",
+    "totalRecords": 28,
+    "totalCount": 4740,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.231882"
+  }
+}

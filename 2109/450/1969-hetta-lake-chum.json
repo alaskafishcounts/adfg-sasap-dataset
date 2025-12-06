@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1969,
+      "August, 11 1969 00:00:00",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "August, 19 1969 00:00:00",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "August, 21 1969 00:00:00",
+      2,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 01 1969 00:00:00",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 03 1969 00:00:00",
+      2,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 04 1969 00:00:00",
+      2,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 06 1969 00:00:00",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 07 1969 00:00:00",
+      7,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 08 1969 00:00:00",
+      14,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 09 1969 00:00:00",
+      13,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 10 1969 00:00:00",
+      64,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 11 1969 00:00:00",
+      46,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 12 1969 00:00:00",
+      19,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1969,
+      "September, 13 1969 00:00:00",
+      18,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "450",
+    "year": "1969",
+    "totalRecords": 14,
+    "totalCount": 191,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.944520"
+  }
+}

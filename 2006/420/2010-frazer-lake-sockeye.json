@@ -1,0 +1,787 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      438,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      145,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      88,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      18,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      2225,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      76,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      27,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      453,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      1320,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      30,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      67,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      65,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      246,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      3866,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      1154,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      75,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      99,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      7956,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      215,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      400,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      691,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      480,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      287,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      1933,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      141,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      1276,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      14,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      1216,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      3046,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      10448,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      7050,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      515,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      162,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      26,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      7,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      11947,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      5085,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      2,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      165,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      358,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      450,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      919,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      214,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      1435,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      369,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      526,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      366,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      735,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      1809,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      205,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      631,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      840,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      1163,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      972,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      25,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      231,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 17 2010 00:00:00",
+      3937,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      2421,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      1213,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      64,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      275,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      838,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      160,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 24 2010 00:00:00",
+      62,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      775,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      1795,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      241,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 28 2010 00:00:00",
+      310,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 29 2010 00:00:00",
+      650,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 30 2010 00:00:00",
+      935,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 31 2010 00:00:00",
+      1108,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 01 2010 00:00:00",
+      683,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 02 2010 00:00:00",
+      1005,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 03 2010 00:00:00",
+      827,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 04 2010 00:00:00",
+      210,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      738,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      559,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 07 2010 00:00:00",
+      606,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 08 2010 00:00:00",
+      199,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 09 2010 00:00:00",
+      126,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      111,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 11 2010 00:00:00",
+      130,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "September, 12 2010 00:00:00",
+      0,
+      410,
+      2006,
+      "Frazer Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "410",
+    "year": "2010",
+    "totalRecords": 85,
+    "totalCount": 94680,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.220579"
+  }
+}

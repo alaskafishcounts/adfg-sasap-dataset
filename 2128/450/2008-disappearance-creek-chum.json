@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "August, 25 2008 00:00:00",
+      19,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 26 2008 00:00:00",
+      68,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 27 2008 00:00:00",
+      353,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 28 2008 00:00:00",
+      282,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 29 2008 00:00:00",
+      121,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 30 2008 00:00:00",
+      192,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 31 2008 00:00:00",
+      278,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 01 2008 00:00:00",
+      215,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 02 2008 00:00:00",
+      680,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 03 2008 00:00:00",
+      103,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 04 2008 00:00:00",
+      288,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 05 2008 00:00:00",
+      576,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 06 2008 00:00:00",
+      153,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 07 2008 00:00:00",
+      178,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 08 2008 00:00:00",
+      190,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 09 2008 00:00:00",
+      264,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 10 2008 00:00:00",
+      352,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 11 2008 00:00:00",
+      903,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 12 2008 00:00:00",
+      601,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 13 2008 00:00:00",
+      699,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 14 2008 00:00:00",
+      788,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 15 2008 00:00:00",
+      861,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 16 2008 00:00:00",
+      4231,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 17 2008 00:00:00",
+      718,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 18 2008 00:00:00",
+      2900,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 19 2008 00:00:00",
+      631,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 20 2008 00:00:00",
+      1024,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 21 2008 00:00:00",
+      1001,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 22 2008 00:00:00",
+      979,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 23 2008 00:00:00",
+      304,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 24 2008 00:00:00",
+      1190,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 25 2008 00:00:00",
+      714,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 26 2008 00:00:00",
+      2710,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 27 2008 00:00:00",
+      3299,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 28 2008 00:00:00",
+      6491,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 29 2008 00:00:00",
+      3465,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "September, 30 2008 00:00:00",
+      1183,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 01 2008 00:00:00",
+      243,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 02 2008 00:00:00",
+      2377,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 03 2008 00:00:00",
+      1514,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 04 2008 00:00:00",
+      232,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 05 2008 00:00:00",
+      81,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 06 2008 00:00:00",
+      138,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 07 2008 00:00:00",
+      76,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 08 2008 00:00:00",
+      36,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 09 2008 00:00:00",
+      40,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 10 2008 00:00:00",
+      110,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 11 2008 00:00:00",
+      285,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 12 2008 00:00:00",
+      1162,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 13 2008 00:00:00",
+      497,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 14 2008 00:00:00",
+      164,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 15 2008 00:00:00",
+      196,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 16 2008 00:00:00",
+      55,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 17 2008 00:00:00",
+      1513,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 18 2008 00:00:00",
+      152,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 19 2008 00:00:00",
+      2304,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 20 2008 00:00:00",
+      262,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 21 2008 00:00:00",
+      177,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 22 2008 00:00:00",
+      17,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2008,
+      "October, 23 2008 00:00:00",
+      5,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "450",
+    "year": "2008",
+    "totalRecords": 60,
+    "totalCount": 50640,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.528026"
+  }
+}

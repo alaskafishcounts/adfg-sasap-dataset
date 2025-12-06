@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      2,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      38,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      31,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      9,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      9,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      1,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      3,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      2,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      3,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 24 2003 00:00:00",
+      3,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 30 2003 00:00:00",
+      1,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 31 2003 00:00:00",
+      7,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 01 2003 00:00:00",
+      2,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 03 2003 00:00:00",
+      2,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 14,
+    "totalCount": 113,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.751830"
+  }
+}

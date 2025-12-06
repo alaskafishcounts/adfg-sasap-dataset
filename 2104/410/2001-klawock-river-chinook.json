@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "August, 07 2001 00:00:00",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      3,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      2,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      3,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      2,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      11,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      3,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      1,
+      430,
+      2104,
+      "Klawock River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "430",
+    "year": "2001",
+    "totalRecords": 13,
+    "totalCount": 31,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.318158"
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      8,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      39,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      7,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      1,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 01 2001 00:00:00",
+      1,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 02 2001 00:00:00",
+      25,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      77,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 04 2001 00:00:00",
+      7,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      4,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 06 2001 00:00:00",
+      14,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 07 2001 00:00:00",
+      4,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      2,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      1,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      2,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      10,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      40,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      32,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      42,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      22,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      28,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      7,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      33,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      6,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 22 2001 00:00:00",
+      14,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 23 2001 00:00:00",
+      8,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      5,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 25 2001 00:00:00",
+      8,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 26 2001 00:00:00",
+      2,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 27 2001 00:00:00",
+      9,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 28 2001 00:00:00",
+      2,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 29 2001 00:00:00",
+      16,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 30 2001 00:00:00",
+      78,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 01 2001 00:00:00",
+      50,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 02 2001 00:00:00",
+      43,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 03 2001 00:00:00",
+      20,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 04 2001 00:00:00",
+      12,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 05 2001 00:00:00",
+      9,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 06 2001 00:00:00",
+      14,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 07 2001 00:00:00",
+      11,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 08 2001 00:00:00",
+      4,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 09 2001 00:00:00",
+      57,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 10 2001 00:00:00",
+      116,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 11 2001 00:00:00",
+      25,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 12 2001 00:00:00",
+      25,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 13 2001 00:00:00",
+      29,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 14 2001 00:00:00",
+      8,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 15 2001 00:00:00",
+      2,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 16 2001 00:00:00",
+      35,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 17 2001 00:00:00",
+      5,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 18 2001 00:00:00",
+      20,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 19 2001 00:00:00",
+      7,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 20 2001 00:00:00",
+      3,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 21 2001 00:00:00",
+      1,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 22 2001 00:00:00",
+      1,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 29 2001 00:00:00",
+      2,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 30 2001 00:00:00",
+      2,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ],
+    [
+      2001,
+      "October, 31 2001 00:00:00",
+      1,
+      440,
+      2113,
+      "Salmon Lake Stream",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "440",
+    "year": "2001",
+    "totalRecords": 57,
+    "totalCount": 1056,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.431669"
+  }
+}

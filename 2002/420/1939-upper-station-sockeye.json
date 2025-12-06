@@ -1,0 +1,931 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1939,
+      "June, 11 1939 00:00:00",
+      977,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 12 1939 00:00:00",
+      4705,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 13 1939 00:00:00",
+      4432,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 14 1939 00:00:00",
+      779,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 15 1939 00:00:00",
+      3914,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 16 1939 00:00:00",
+      1120,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 17 1939 00:00:00",
+      850,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 18 1939 00:00:00",
+      1156,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 19 1939 00:00:00",
+      713,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 20 1939 00:00:00",
+      578,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 21 1939 00:00:00",
+      883,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 22 1939 00:00:00",
+      555,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 23 1939 00:00:00",
+      605,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 24 1939 00:00:00",
+      200,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 25 1939 00:00:00",
+      71,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 26 1939 00:00:00",
+      39,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 27 1939 00:00:00",
+      49,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 28 1939 00:00:00",
+      65,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 29 1939 00:00:00",
+      67,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "June, 30 1939 00:00:00",
+      17,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 01 1939 00:00:00",
+      32,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 02 1939 00:00:00",
+      67,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 03 1939 00:00:00",
+      29,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 04 1939 00:00:00",
+      2,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 05 1939 00:00:00",
+      89,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 06 1939 00:00:00",
+      91,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 07 1939 00:00:00",
+      139,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 08 1939 00:00:00",
+      75,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 09 1939 00:00:00",
+      284,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 10 1939 00:00:00",
+      120,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 11 1939 00:00:00",
+      401,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 12 1939 00:00:00",
+      428,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 13 1939 00:00:00",
+      176,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 14 1939 00:00:00",
+      63,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 15 1939 00:00:00",
+      50,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 16 1939 00:00:00",
+      167,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 17 1939 00:00:00",
+      286,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 18 1939 00:00:00",
+      263,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 19 1939 00:00:00",
+      203,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 20 1939 00:00:00",
+      98,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 21 1939 00:00:00",
+      118,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 22 1939 00:00:00",
+      100,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 23 1939 00:00:00",
+      106,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 24 1939 00:00:00",
+      570,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 25 1939 00:00:00",
+      1121,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 26 1939 00:00:00",
+      1470,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 27 1939 00:00:00",
+      1951,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 28 1939 00:00:00",
+      53,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 29 1939 00:00:00",
+      300,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 30 1939 00:00:00",
+      908,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "July, 31 1939 00:00:00",
+      1155,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 01 1939 00:00:00",
+      1033,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 02 1939 00:00:00",
+      3855,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 03 1939 00:00:00",
+      2465,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 04 1939 00:00:00",
+      1507,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 05 1939 00:00:00",
+      1100,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 06 1939 00:00:00",
+      941,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 07 1939 00:00:00",
+      813,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 08 1939 00:00:00",
+      939,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 09 1939 00:00:00",
+      810,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 10 1939 00:00:00",
+      1881,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 11 1939 00:00:00",
+      1225,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 12 1939 00:00:00",
+      1545,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 13 1939 00:00:00",
+      4525,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 14 1939 00:00:00",
+      3137,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 15 1939 00:00:00",
+      3535,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 16 1939 00:00:00",
+      2127,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 17 1939 00:00:00",
+      1977,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 18 1939 00:00:00",
+      2929,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 19 1939 00:00:00",
+      5110,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 20 1939 00:00:00",
+      6548,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 21 1939 00:00:00",
+      17003,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 22 1939 00:00:00",
+      2820,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 23 1939 00:00:00",
+      13033,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 24 1939 00:00:00",
+      7386,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 25 1939 00:00:00",
+      9658,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 26 1939 00:00:00",
+      15820,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 27 1939 00:00:00",
+      16039,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 28 1939 00:00:00",
+      17277,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 29 1939 00:00:00",
+      4125,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 30 1939 00:00:00",
+      19003,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "August, 31 1939 00:00:00",
+      13984,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 01 1939 00:00:00",
+      16766,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 02 1939 00:00:00",
+      15107,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 03 1939 00:00:00",
+      13444,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 04 1939 00:00:00",
+      13373,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 05 1939 00:00:00",
+      7513,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 06 1939 00:00:00",
+      12997,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 07 1939 00:00:00",
+      5733,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 08 1939 00:00:00",
+      4136,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 09 1939 00:00:00",
+      7009,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 10 1939 00:00:00",
+      4127,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 11 1939 00:00:00",
+      379,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 12 1939 00:00:00",
+      787,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 13 1939 00:00:00",
+      3759,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 14 1939 00:00:00",
+      1158,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 15 1939 00:00:00",
+      209,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 16 1939 00:00:00",
+      187,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 17 1939 00:00:00",
+      3405,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 18 1939 00:00:00",
+      3678,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1939,
+      "September, 19 1939 00:00:00",
+      891,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1939",
+    "totalRecords": 101,
+    "totalCount": 331498,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.487438"
+  }
+}

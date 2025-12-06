@@ -1,0 +1,913 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 01 2010 00:00:00",
+      220,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 02 2010 00:00:00",
+      610,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 03 2010 00:00:00",
+      462,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 04 2010 00:00:00",
+      534,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 05 2010 00:00:00",
+      606,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 06 2010 00:00:00",
+      515,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 07 2010 00:00:00",
+      395,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 08 2010 00:00:00",
+      457,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 09 2010 00:00:00",
+      1884,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 10 2010 00:00:00",
+      1043,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 11 2010 00:00:00",
+      2034,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 12 2010 00:00:00",
+      278,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 13 2010 00:00:00",
+      816,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 14 2010 00:00:00",
+      1809,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 15 2010 00:00:00",
+      682,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 16 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 17 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      255,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 19 2010 00:00:00",
+      925,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      359,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      2511,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      204,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      347,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      887,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      1183,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      1263,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      637,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      3160,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      721,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      1793,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      2254,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      293,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      441,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      1539,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      160,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      44,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      715,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      393,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      838,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      505,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      144,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      124,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      177,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      160,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      56,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      49,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      77,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      96,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      574,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      113,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      94,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      337,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      319,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      346,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      241,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      327,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      390,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      125,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      537,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      305,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      145,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      893,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      359,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      369,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      156,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      238,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      590,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 17 2010 00:00:00",
+      183,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      210,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      178,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      165,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      328,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 24 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      88,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 28 2010 00:00:00",
+      124,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 29 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 30 2010 00:00:00",
+      127,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "August, 31 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "September, 01 2010 00:00:00",
+      69,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "September, 02 2010 00:00:00",
+      72,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "September, 03 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "September, 04 2010 00:00:00",
+      78,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      68,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2010,
+      "September, 07 2010 00:00:00",
+      283,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "999",
+    "year": "2010",
+    "totalRecords": 99,
+    "totalCount": 43086,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.679944"
+  }
+}

@@ -1,0 +1,967 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 01 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 02 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 03 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 04 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 05 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 06 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 07 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 08 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 09 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 10 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 11 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 12 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 13 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 14 2008 00:00:00",
+      21,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 15 2008 00:00:00",
+      19,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 16 2008 00:00:00",
+      342,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 17 2008 00:00:00",
+      163,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 18 2008 00:00:00",
+      471,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 19 2008 00:00:00",
+      3956,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 20 2008 00:00:00",
+      2906,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 21 2008 00:00:00",
+      1728,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 22 2008 00:00:00",
+      1283,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 23 2008 00:00:00",
+      2260,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 24 2008 00:00:00",
+      2826,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      2582,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      4037,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      4340,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      4327,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      5026,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      10302,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 01 2008 00:00:00",
+      7125,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 02 2008 00:00:00",
+      7076,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 03 2008 00:00:00",
+      7045,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 04 2008 00:00:00",
+      5071,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 05 2008 00:00:00",
+      6214,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 06 2008 00:00:00",
+      3426,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 07 2008 00:00:00",
+      13044,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 08 2008 00:00:00",
+      3672,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 09 2008 00:00:00",
+      2389,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      3712,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      3465,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      3857,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      1976,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      4568,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      2951,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      2321,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      1231,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      400,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      1900,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      1329,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      2215,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      1647,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      666,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      125,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      359,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      1038,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      39,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      650,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      800,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      800,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      800,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      700,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      600,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      500,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      500,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      400,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      300,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      100,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 08 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 09 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 10 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 11 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 12 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 20 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 21 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 22 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 23 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 24 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 25 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 26 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 27 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 28 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 29 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 30 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 31 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 01 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 02 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 03 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 04 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 05 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 06 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 07 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 08 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 09 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 10 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 11 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 12 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "September, 13 2008 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "410",
+    "year": "2008",
+    "totalRecords": 105,
+    "totalCount": 141600,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.666118"
+  }
+}

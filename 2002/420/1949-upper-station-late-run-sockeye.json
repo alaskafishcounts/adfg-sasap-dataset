@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1949,
+      "July, 16 1949 00:00:00",
+      42,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 17 1949 00:00:00",
+      43,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 18 1949 00:00:00",
+      31,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 19 1949 00:00:00",
+      4,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 20 1949 00:00:00",
+      5,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 21 1949 00:00:00",
+      5,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 22 1949 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 23 1949 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 24 1949 00:00:00",
+      6,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 25 1949 00:00:00",
+      14,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 26 1949 00:00:00",
+      705,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 27 1949 00:00:00",
+      352,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 28 1949 00:00:00",
+      245,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 29 1949 00:00:00",
+      640,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 30 1949 00:00:00",
+      600,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "July, 31 1949 00:00:00",
+      326,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 01 1949 00:00:00",
+      33,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 02 1949 00:00:00",
+      395,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 03 1949 00:00:00",
+      41,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 04 1949 00:00:00",
+      268,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 05 1949 00:00:00",
+      291,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 06 1949 00:00:00",
+      850,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 07 1949 00:00:00",
+      1058,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 08 1949 00:00:00",
+      434,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 09 1949 00:00:00",
+      390,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 10 1949 00:00:00",
+      730,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 11 1949 00:00:00",
+      1204,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 12 1949 00:00:00",
+      665,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 13 1949 00:00:00",
+      150,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 14 1949 00:00:00",
+      201,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 15 1949 00:00:00",
+      1358,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 16 1949 00:00:00",
+      5241,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 17 1949 00:00:00",
+      5315,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 18 1949 00:00:00",
+      2363,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 19 1949 00:00:00",
+      8116,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 20 1949 00:00:00",
+      9834,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 21 1949 00:00:00",
+      19182,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 22 1949 00:00:00",
+      1822,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 23 1949 00:00:00",
+      4508,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 24 1949 00:00:00",
+      3683,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 25 1949 00:00:00",
+      5526,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 26 1949 00:00:00",
+      5905,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 27 1949 00:00:00",
+      1425,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 28 1949 00:00:00",
+      4500,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 29 1949 00:00:00",
+      2637,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 30 1949 00:00:00",
+      4177,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "August, 31 1949 00:00:00",
+      4828,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 01 1949 00:00:00",
+      1711,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 02 1949 00:00:00",
+      1025,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 03 1949 00:00:00",
+      875,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 04 1949 00:00:00",
+      308,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 05 1949 00:00:00",
+      110,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 06 1949 00:00:00",
+      91,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 07 1949 00:00:00",
+      97,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 08 1949 00:00:00",
+      70,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 09 1949 00:00:00",
+      62,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 10 1949 00:00:00",
+      45,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 11 1949 00:00:00",
+      10,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 12 1949 00:00:00",
+      11,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 13 1949 00:00:00",
+      12,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 14 1949 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 15 1949 00:00:00",
+      34,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 16 1949 00:00:00",
+      94,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 17 1949 00:00:00",
+      91,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 18 1949 00:00:00",
+      111,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 19 1949 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1949,
+      "September, 20 1949 00:00:00",
+      63,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1949",
+    "totalRecords": 67,
+    "totalCount": 104970,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.188646"
+  }
+}

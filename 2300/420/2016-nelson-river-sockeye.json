@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "June, 04 2016 00:00:00",
+      9,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 05 2016 00:00:00",
+      39,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 06 2016 00:00:00",
+      6,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 07 2016 00:00:00",
+      0,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 08 2016 00:00:00",
+      129,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 09 2016 00:00:00",
+      3,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 10 2016 00:00:00",
+      25,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 11 2016 00:00:00",
+      34,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 12 2016 00:00:00",
+      21,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 13 2016 00:00:00",
+      6,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 14 2016 00:00:00",
+      132,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 15 2016 00:00:00",
+      139,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 16 2016 00:00:00",
+      194,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 17 2016 00:00:00",
+      3,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 18 2016 00:00:00",
+      331,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 19 2016 00:00:00",
+      44,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 20 2016 00:00:00",
+      71,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 21 2016 00:00:00",
+      1553,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 22 2016 00:00:00",
+      569,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 23 2016 00:00:00",
+      204,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 24 2016 00:00:00",
+      165,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 25 2016 00:00:00",
+      4173,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 26 2016 00:00:00",
+      2039,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 27 2016 00:00:00",
+      13368,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 28 2016 00:00:00",
+      18515,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 29 2016 00:00:00",
+      7062,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 30 2016 00:00:00",
+      4475,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 01 2016 00:00:00",
+      5577,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 02 2016 00:00:00",
+      8063,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 03 2016 00:00:00",
+      3740,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 04 2016 00:00:00",
+      7584,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 05 2016 00:00:00",
+      10911,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 06 2016 00:00:00",
+      18889,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 07 2016 00:00:00",
+      7305,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 08 2016 00:00:00",
+      10665,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 09 2016 00:00:00",
+      11936,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 10 2016 00:00:00",
+      10587,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 11 2016 00:00:00",
+      12519,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 12 2016 00:00:00",
+      8499,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 13 2016 00:00:00",
+      8450,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      8890,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      11133,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      8007,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      6991,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      7958,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      5487,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      9043,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      6849,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      5302,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      3282,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      5661,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      4529,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      3693,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      4141,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      4000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 29 2016 00:00:00",
+      3000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 30 2016 00:00:00",
+      3000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      5000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 01 2016 00:00:00",
+      4000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 02 2016 00:00:00",
+      3000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 03 2016 00:00:00",
+      3000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 04 2016 00:00:00",
+      2000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 05 2016 00:00:00",
+      2000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 06 2016 00:00:00",
+      1000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 07 2016 00:00:00",
+      1000,
+      410,
+      2300,
+      "Nelson River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 65,
+    "totalCount": 300000,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.579826"
+  }
+}

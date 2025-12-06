@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "August, 03 2014 00:00:00",
+      1,
+      430,
+      2008,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      1,
+      430,
+      2008,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 09 2014 00:00:00",
+      3,
+      430,
+      2008,
+      "Saltery Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2008,
+    "species_id": "440",
+    "year": "2014",
+    "totalRecords": 7,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.833671"
+  }
+}

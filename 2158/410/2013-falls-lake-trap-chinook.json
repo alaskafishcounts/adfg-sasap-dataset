@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      29,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      53,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      6,
+      410,
+      2158,
+      "Falls Lake Trap",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2158,
+    "species_id": "430",
+    "year": "2013",
+    "totalRecords": 3,
+    "totalCount": 88,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.845136"
+  }
+}

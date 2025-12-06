@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "July, 12 2016 00:00:00",
+      0,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 13 2016 00:00:00",
+      0,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      0,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      0,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      0,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      2,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      2,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      20,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      27,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      26,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      11,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      17,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      28,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 29 2016 00:00:00",
+      26,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 30 2016 00:00:00",
+      29,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      40,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 01 2016 00:00:00",
+      296,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 02 2016 00:00:00",
+      67,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 03 2016 00:00:00",
+      647,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 04 2016 00:00:00",
+      183,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 05 2016 00:00:00",
+      187,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 06 2016 00:00:00",
+      325,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 07 2016 00:00:00",
+      252,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 08 2016 00:00:00",
+      271,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 09 2016 00:00:00",
+      502,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 10 2016 00:00:00",
+      89,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 11 2016 00:00:00",
+      446,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 12 2016 00:00:00",
+      180,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 13 2016 00:00:00",
+      105,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 14 2016 00:00:00",
+      219,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 15 2016 00:00:00",
+      343,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 16 2016 00:00:00",
+      30,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 17 2016 00:00:00",
+      41,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 18 2016 00:00:00",
+      29,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 19 2016 00:00:00",
+      22,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 20 2016 00:00:00",
+      38,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 21 2016 00:00:00",
+      30,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 22 2016 00:00:00",
+      33,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 23 2016 00:00:00",
+      29,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 24 2016 00:00:00",
+      47,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 25 2016 00:00:00",
+      24,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 26 2016 00:00:00",
+      22,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 27 2016 00:00:00",
+      45,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 28 2016 00:00:00",
+      55,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 29 2016 00:00:00",
+      42,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 30 2016 00:00:00",
+      20,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 31 2016 00:00:00",
+      7,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 01 2016 00:00:00",
+      17,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 02 2016 00:00:00",
+      10,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 03 2016 00:00:00",
+      5,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 04 2016 00:00:00",
+      0,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 05 2016 00:00:00",
+      6,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 06 2016 00:00:00",
+      110,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 07 2016 00:00:00",
+      223,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 08 2016 00:00:00",
+      104,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 09 2016 00:00:00",
+      57,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 10 2016 00:00:00",
+      57,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 11 2016 00:00:00",
+      36,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 12 2016 00:00:00",
+      9,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 13 2016 00:00:00",
+      9,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 14 2016 00:00:00",
+      16,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 15 2016 00:00:00",
+      8,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 16 2016 00:00:00",
+      7,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 17 2016 00:00:00",
+      9,
+      410,
+      2110,
+      "Speel Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 65,
+    "totalCount": 5538,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.441034"
+  }
+}

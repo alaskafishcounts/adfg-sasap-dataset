@@ -1,0 +1,769 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1963,
+      "June, 13 1963 00:00:00",
+      1060,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 14 1963 00:00:00",
+      1498,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 15 1963 00:00:00",
+      1318,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 16 1963 00:00:00",
+      722,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 17 1963 00:00:00",
+      5025,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 18 1963 00:00:00",
+      1346,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 19 1963 00:00:00",
+      1379,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 20 1963 00:00:00",
+      2160,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 21 1963 00:00:00",
+      1560,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 22 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 23 1963 00:00:00",
+      252,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 24 1963 00:00:00",
+      120,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 25 1963 00:00:00",
+      856,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 26 1963 00:00:00",
+      232,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 27 1963 00:00:00",
+      276,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 28 1963 00:00:00",
+      43,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 29 1963 00:00:00",
+      1162,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 30 1963 00:00:00",
+      1340,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 01 1963 00:00:00",
+      134,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 02 1963 00:00:00",
+      225,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 03 1963 00:00:00",
+      215,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 04 1963 00:00:00",
+      120,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 05 1963 00:00:00",
+      131,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 06 1963 00:00:00",
+      157,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 07 1963 00:00:00",
+      28,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 08 1963 00:00:00",
+      8,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 09 1963 00:00:00",
+      28,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 10 1963 00:00:00",
+      14,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 11 1963 00:00:00",
+      56,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 12 1963 00:00:00",
+      97,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 13 1963 00:00:00",
+      220,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 14 1963 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 15 1963 00:00:00",
+      115,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 16 1963 00:00:00",
+      6,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 17 1963 00:00:00",
+      13,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 18 1963 00:00:00",
+      142,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 19 1963 00:00:00",
+      89,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 20 1963 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 21 1963 00:00:00",
+      5,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 22 1963 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 23 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 24 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 25 1963 00:00:00",
+      4,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 26 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 27 1963 00:00:00",
+      12,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 28 1963 00:00:00",
+      200,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 29 1963 00:00:00",
+      512,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 30 1963 00:00:00",
+      71,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 31 1963 00:00:00",
+      66,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 01 1963 00:00:00",
+      5,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 02 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 03 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 04 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 05 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 06 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 07 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 08 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 09 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 10 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 11 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 12 1963 00:00:00",
+      186,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 13 1963 00:00:00",
+      3867,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 14 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 15 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 16 1963 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 17 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 18 1963 00:00:00",
+      8,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 19 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 20 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 21 1963 00:00:00",
+      2161,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 22 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 23 1963 00:00:00",
+      26,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 24 1963 00:00:00",
+      121,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 25 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 26 1963 00:00:00",
+      37,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 27 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 28 1963 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 29 1963 00:00:00",
+      249,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 30 1963 00:00:00",
+      100,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "August, 31 1963 00:00:00",
+      381,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "September, 01 1963 00:00:00",
+      74,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "September, 02 1963 00:00:00",
+      27,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "September, 03 1963 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1963",
+    "totalRecords": 83,
+    "totalCount": 30270,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.445038"
+  }
+}

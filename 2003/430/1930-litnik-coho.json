@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1930,
+      "August, 13 1930 00:00:00",
+      7,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 14 1930 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 15 1930 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 16 1930 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 17 1930 00:00:00",
+      7,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 18 1930 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 19 1930 00:00:00",
+      14,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 20 1930 00:00:00",
+      26,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 21 1930 00:00:00",
+      18,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 22 1930 00:00:00",
+      17,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 23 1930 00:00:00",
+      28,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 24 1930 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 25 1930 00:00:00",
+      0,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ],
+    [
+      1930,
+      "August, 26 1930 00:00:00",
+      19,
+      440,
+      2003,
+      "Litnik",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "440",
+    "year": "1930",
+    "totalRecords": 14,
+    "totalCount": 136,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.987511"
+  }
+}

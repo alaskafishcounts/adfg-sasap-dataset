@@ -1,0 +1,904 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1924,
+      "July, 05 1924 00:00:00",
+      115000,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 06 1924 00:00:00",
+      4853,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 07 1924 00:00:00",
+      8091,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 08 1924 00:00:00",
+      3940,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 09 1924 00:00:00",
+      1168,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 10 1924 00:00:00",
+      6550,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 11 1924 00:00:00",
+      1699,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 12 1924 00:00:00",
+      3901,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 13 1924 00:00:00",
+      4301,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 14 1924 00:00:00",
+      15935,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 15 1924 00:00:00",
+      14293,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 16 1924 00:00:00",
+      15161,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 17 1924 00:00:00",
+      14661,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 18 1924 00:00:00",
+      19001,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 19 1924 00:00:00",
+      24797,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 20 1924 00:00:00",
+      26150,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 21 1924 00:00:00",
+      20216,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 22 1924 00:00:00",
+      15415,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 23 1924 00:00:00",
+      5009,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 24 1924 00:00:00",
+      4652,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 25 1924 00:00:00",
+      5113,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 26 1924 00:00:00",
+      4050,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 27 1924 00:00:00",
+      7156,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 28 1924 00:00:00",
+      15251,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 29 1924 00:00:00",
+      5457,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 30 1924 00:00:00",
+      5464,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "July, 31 1924 00:00:00",
+      5586,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 01 1924 00:00:00",
+      3138,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 02 1924 00:00:00",
+      2687,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 03 1924 00:00:00",
+      8652,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 04 1924 00:00:00",
+      12159,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 05 1924 00:00:00",
+      4981,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 06 1924 00:00:00",
+      2692,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 07 1924 00:00:00",
+      4340,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 08 1924 00:00:00",
+      11081,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 09 1924 00:00:00",
+      13007,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 10 1924 00:00:00",
+      23005,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 11 1924 00:00:00",
+      22780,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 12 1924 00:00:00",
+      13740,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 13 1924 00:00:00",
+      10438,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 14 1924 00:00:00",
+      11403,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 15 1924 00:00:00",
+      10005,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 16 1924 00:00:00",
+      9120,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 17 1924 00:00:00",
+      23234,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 18 1924 00:00:00",
+      34788,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 19 1924 00:00:00",
+      13191,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 20 1924 00:00:00",
+      11212,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 21 1924 00:00:00",
+      10683,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 22 1924 00:00:00",
+      16455,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 23 1924 00:00:00",
+      22297,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 24 1924 00:00:00",
+      22106,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 25 1924 00:00:00",
+      24854,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 26 1924 00:00:00",
+      12685,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 27 1924 00:00:00",
+      9502,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 28 1924 00:00:00",
+      12891,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 29 1924 00:00:00",
+      14130,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 30 1924 00:00:00",
+      12625,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "August, 31 1924 00:00:00",
+      12994,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 01 1924 00:00:00",
+      19389,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 02 1924 00:00:00",
+      8009,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 03 1924 00:00:00",
+      21051,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 04 1924 00:00:00",
+      24565,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 05 1924 00:00:00",
+      13827,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 06 1924 00:00:00",
+      12358,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 07 1924 00:00:00",
+      13735,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 08 1924 00:00:00",
+      13970,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 09 1924 00:00:00",
+      8334,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 10 1924 00:00:00",
+      9858,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 11 1924 00:00:00",
+      10692,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 12 1924 00:00:00",
+      8449,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 13 1924 00:00:00",
+      5393,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 14 1924 00:00:00",
+      5931,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 15 1924 00:00:00",
+      7906,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 16 1924 00:00:00",
+      6033,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 17 1924 00:00:00",
+      4334,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 18 1924 00:00:00",
+      3567,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 19 1924 00:00:00",
+      2876,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 20 1924 00:00:00",
+      2511,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 21 1924 00:00:00",
+      4524,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 22 1924 00:00:00",
+      3463,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 23 1924 00:00:00",
+      1652,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 24 1924 00:00:00",
+      948,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 25 1924 00:00:00",
+      1196,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 26 1924 00:00:00",
+      877,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 27 1924 00:00:00",
+      589,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 28 1924 00:00:00",
+      588,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 29 1924 00:00:00",
+      338,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "September, 30 1924 00:00:00",
+      375,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 01 1924 00:00:00",
+      287,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 02 1924 00:00:00",
+      209,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 03 1924 00:00:00",
+      165,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 04 1924 00:00:00",
+      360,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 05 1924 00:00:00",
+      918,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 06 1924 00:00:00",
+      398,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 07 1924 00:00:00",
+      165,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 08 1924 00:00:00",
+      208,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 09 1924 00:00:00",
+      310,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1924,
+      "October, 10 1924 00:00:00",
+      33,
+      420,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "410",
+    "year": "1924",
+    "totalRecords": 98,
+    "totalCount": 1010136,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.345781"
+  }
+}

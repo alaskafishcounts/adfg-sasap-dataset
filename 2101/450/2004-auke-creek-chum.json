@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      466,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      944,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      759,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      53,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 01 2004 00:00:00",
+      117,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 02 2004 00:00:00",
+      605,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 03 2004 00:00:00",
+      107,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 04 2004 00:00:00",
+      60,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 05 2004 00:00:00",
+      53,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 06 2004 00:00:00",
+      21,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 07 2004 00:00:00",
+      8,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 08 2004 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 27 2004 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 28 2004 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 29 2004 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 30 2004 00:00:00",
+      5,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 03 2004 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 04 2004 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      2004,
+      "September, 13 2004 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "450",
+    "year": "2004",
+    "totalRecords": 20,
+    "totalCount": 3211,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.467959"
+  }
+}

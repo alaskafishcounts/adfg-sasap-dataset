@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "August, 01 1980 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "August, 14 1980 00:00:00",
+      26,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "August, 15 1980 00:00:00",
+      25,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "August, 16 1980 00:00:00",
+      7,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "August, 17 1980 00:00:00",
+      33,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "August, 18 1980 00:00:00",
+      7,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "August, 21 1980 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "August, 25 1980 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "August, 27 1980 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "September, 04 1980 00:00:00",
+      8,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "September, 05 1980 00:00:00",
+      3,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "September, 06 1980 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1980,
+      "October, 27 1980 00:00:00",
+      118,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "450",
+    "year": "1980",
+    "totalRecords": 13,
+    "totalCount": 236,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.467058"
+  }
+}

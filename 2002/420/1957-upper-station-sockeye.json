@@ -1,0 +1,823 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1957,
+      "June, 02 1957 00:00:00",
+      8,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 03 1957 00:00:00",
+      113,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 04 1957 00:00:00",
+      72,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 05 1957 00:00:00",
+      553,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 06 1957 00:00:00",
+      431,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 07 1957 00:00:00",
+      211,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 08 1957 00:00:00",
+      1369,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 09 1957 00:00:00",
+      829,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 10 1957 00:00:00",
+      1215,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 11 1957 00:00:00",
+      545,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 12 1957 00:00:00",
+      635,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 13 1957 00:00:00",
+      1032,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 14 1957 00:00:00",
+      1374,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 15 1957 00:00:00",
+      862,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 16 1957 00:00:00",
+      3680,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 17 1957 00:00:00",
+      2621,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 18 1957 00:00:00",
+      1066,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 19 1957 00:00:00",
+      2225,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 20 1957 00:00:00",
+      1352,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 21 1957 00:00:00",
+      242,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 22 1957 00:00:00",
+      634,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 23 1957 00:00:00",
+      452,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 24 1957 00:00:00",
+      261,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 25 1957 00:00:00",
+      2008,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 26 1957 00:00:00",
+      2473,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 27 1957 00:00:00",
+      1600,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 28 1957 00:00:00",
+      1661,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 29 1957 00:00:00",
+      581,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 30 1957 00:00:00",
+      850,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 01 1957 00:00:00",
+      90,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 02 1957 00:00:00",
+      627,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 03 1957 00:00:00",
+      373,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 04 1957 00:00:00",
+      660,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 05 1957 00:00:00",
+      786,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 06 1957 00:00:00",
+      143,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 07 1957 00:00:00",
+      182,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 08 1957 00:00:00",
+      194,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 09 1957 00:00:00",
+      132,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 10 1957 00:00:00",
+      893,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 11 1957 00:00:00",
+      693,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 12 1957 00:00:00",
+      711,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 13 1957 00:00:00",
+      188,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 14 1957 00:00:00",
+      71,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 15 1957 00:00:00",
+      49,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 16 1957 00:00:00",
+      8,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 17 1957 00:00:00",
+      15,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 18 1957 00:00:00",
+      22,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 19 1957 00:00:00",
+      708,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 20 1957 00:00:00",
+      290,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 21 1957 00:00:00",
+      222,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 22 1957 00:00:00",
+      68,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 23 1957 00:00:00",
+      250,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 24 1957 00:00:00",
+      132,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 25 1957 00:00:00",
+      38,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 26 1957 00:00:00",
+      19,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 27 1957 00:00:00",
+      189,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 28 1957 00:00:00",
+      5,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 29 1957 00:00:00",
+      12,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 30 1957 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 31 1957 00:00:00",
+      26,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 01 1957 00:00:00",
+      4,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 02 1957 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 03 1957 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 04 1957 00:00:00",
+      837,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 05 1957 00:00:00",
+      1171,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 06 1957 00:00:00",
+      515,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 07 1957 00:00:00",
+      51,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 08 1957 00:00:00",
+      154,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 09 1957 00:00:00",
+      323,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 10 1957 00:00:00",
+      105,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 11 1957 00:00:00",
+      171,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 12 1957 00:00:00",
+      305,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 13 1957 00:00:00",
+      100,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 14 1957 00:00:00",
+      602,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 15 1957 00:00:00",
+      555,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 16 1957 00:00:00",
+      1604,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 17 1957 00:00:00",
+      1267,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 18 1957 00:00:00",
+      1573,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 19 1957 00:00:00",
+      657,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 20 1957 00:00:00",
+      3970,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 21 1957 00:00:00",
+      351,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 22 1957 00:00:00",
+      2039,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 23 1957 00:00:00",
+      525,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 24 1957 00:00:00",
+      313,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 25 1957 00:00:00",
+      2346,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 26 1957 00:00:00",
+      6677,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 27 1957 00:00:00",
+      5839,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 28 1957 00:00:00",
+      1588,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 29 1957 00:00:00",
+      813,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1957",
+    "totalRecords": 89,
+    "totalCount": 73207,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.469032"
+  }
+}

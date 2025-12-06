@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      14,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      1,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      6,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      3,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      5,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      66,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      242,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      42,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      38,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      2,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      166,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      100,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      45,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      32,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      100,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      390,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      133,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      59,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 14 1982 00:00:00",
+      23,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      54,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      415,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      327,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 18 1982 00:00:00",
+      175,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      203,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      192,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      147,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 22 1982 00:00:00",
+      39,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      245,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 24 1982 00:00:00",
+      157,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 25 1982 00:00:00",
+      97,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 26 1982 00:00:00",
+      100,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 27 1982 00:00:00",
+      141,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 28 1982 00:00:00",
+      87,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 29 1982 00:00:00",
+      58,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 30 1982 00:00:00",
+      1146,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 01 1982 00:00:00",
+      1000,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 02 1982 00:00:00",
+      381,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 03 1982 00:00:00",
+      124,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 04 1982 00:00:00",
+      122,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 05 1982 00:00:00",
+      60,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 06 1982 00:00:00",
+      165,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 07 1982 00:00:00",
+      94,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 08 1982 00:00:00",
+      81,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 09 1982 00:00:00",
+      451,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 10 1982 00:00:00",
+      254,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 11 1982 00:00:00",
+      54,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 12 1982 00:00:00",
+      7,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 13 1982 00:00:00",
+      145,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 14 1982 00:00:00",
+      162,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 15 1982 00:00:00",
+      31,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 16 1982 00:00:00",
+      34,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 17 1982 00:00:00",
+      30,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 18 1982 00:00:00",
+      34,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 19 1982 00:00:00",
+      3,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 21 1982 00:00:00",
+      3,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 22 1982 00:00:00",
+      12,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 25 1982 00:00:00",
+      3,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 26 1982 00:00:00",
+      3,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1982,
+      "October, 30 1982 00:00:00",
+      2,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 59,
+    "totalCount": 8305,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.620611"
+  }
+}

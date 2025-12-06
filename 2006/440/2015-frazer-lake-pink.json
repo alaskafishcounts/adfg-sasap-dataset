@@ -1,0 +1,229 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      1,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      3,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      2,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      13,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      13,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      14,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      22,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      5,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      199,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 30 2015 00:00:00",
+      296,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      190,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 01 2015 00:00:00",
+      162,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 02 2015 00:00:00",
+      197,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 03 2015 00:00:00",
+      132,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 04 2015 00:00:00",
+      43,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 05 2015 00:00:00",
+      67,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 06 2015 00:00:00",
+      106,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 07 2015 00:00:00",
+      147,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 08 2015 00:00:00",
+      61,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 09 2015 00:00:00",
+      44,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 10 2015 00:00:00",
+      63,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 11 2015 00:00:00",
+      74,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 12 2015 00:00:00",
+      37,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 23,
+    "totalCount": 1891,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.257111"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      2,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      5,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      2,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      4,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      4,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 01 2002 00:00:00",
+      1,
+      450,
+      2118,
+      "Klag Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2118,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 10,
+    "totalCount": 22,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.709645"
+  }
+}

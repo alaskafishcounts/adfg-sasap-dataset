@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "September, 06 1997 00:00:00",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "September, 22 1997 00:00:00",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "September, 23 1997 00:00:00",
+      15,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "September, 26 1997 00:00:00",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "September, 27 1997 00:00:00",
+      12,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "September, 28 1997 00:00:00",
+      4,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "October, 02 1997 00:00:00",
+      10,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "October, 04 1997 00:00:00",
+      15,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "October, 05 1997 00:00:00",
+      5,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "October, 06 1997 00:00:00",
+      4,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "October, 07 1997 00:00:00",
+      22,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "October, 08 1997 00:00:00",
+      2,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "October, 09 1997 00:00:00",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      1997,
+      "October, 10 1997 00:00:00",
+      14,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "440",
+    "year": "1997",
+    "totalRecords": 14,
+    "totalCount": 107,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.817748"
+  }
+}

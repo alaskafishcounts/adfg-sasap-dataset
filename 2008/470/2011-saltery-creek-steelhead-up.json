@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "August, 04 2011 00:00:00",
+      1,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      2011,
+      "August, 05 2011 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      2011,
+      "August, 06 2011 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      2011,
+      "August, 07 2011 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      2011,
+      "August, 08 2011 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ],
+    [
+      2011,
+      "August, 09 2011 00:00:00",
+      0,
+      470,
+      2008,
+      "Saltery Creek",
+      "Steelhead Up"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2008,
+    "species_id": "470",
+    "year": "2011",
+    "totalRecords": 6,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.854226"
+  }
+}

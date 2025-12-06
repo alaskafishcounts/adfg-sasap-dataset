@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "August, 23 1981 00:00:00",
+      0,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "September, 08 1981 00:00:00",
+      0,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "September, 17 1981 00:00:00",
+      2,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "September, 18 1981 00:00:00",
+      6,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "September, 19 1981 00:00:00",
+      4,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "September, 20 1981 00:00:00",
+      1,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "October, 15 1981 00:00:00",
+      6,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "October, 16 1981 00:00:00",
+      41,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "October, 17 1981 00:00:00",
+      17,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "October, 18 1981 00:00:00",
+      29,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "October, 20 1981 00:00:00",
+      18,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ],
+    [
+      1981,
+      "November, 03 1981 00:00:00",
+      0,
+      430,
+      2179,
+      "Ketili R./Barns Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2179,
+    "species_id": "440",
+    "year": "1981",
+    "totalRecords": 12,
+    "totalCount": 124,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.502070"
+  }
+}

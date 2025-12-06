@@ -1,0 +1,373 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      4,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 03 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 05 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 06 2001 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      8,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      8,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 25 2001 00:00:00",
+      7,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 26 2001 00:00:00",
+      9,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 27 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 28 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 29 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 30 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "October, 01 2001 00:00:00",
+      2,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "October, 02 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "October, 05 2001 00:00:00",
+      3,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ],
+    [
+      2001,
+      "October, 07 2001 00:00:00",
+      1,
+      450,
+      2100,
+      "Hugh Smith",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "450",
+    "year": "2001",
+    "totalRecords": 39,
+    "totalCount": 90,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.069502"
+  }
+}

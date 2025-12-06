@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "September, 09 1980 00:00:00",
+      300,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 10 1980 00:00:00",
+      6,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 11 1980 00:00:00",
+      4,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 12 1980 00:00:00",
+      30,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 13 1980 00:00:00",
+      12,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 14 1980 00:00:00",
+      17,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 15 1980 00:00:00",
+      111,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 16 1980 00:00:00",
+      6,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 17 1980 00:00:00",
+      3,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 18 1980 00:00:00",
+      2,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 19 1980 00:00:00",
+      27,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 20 1980 00:00:00",
+      16,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 21 1980 00:00:00",
+      7,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 22 1980 00:00:00",
+      8,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "September, 23 1980 00:00:00",
+      19,
+      420,
+      2128,
+      "Disappearance Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "420",
+    "year": "1980",
+    "totalRecords": 15,
+    "totalCount": 568,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.511909"
+  }
+}

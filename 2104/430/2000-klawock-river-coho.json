@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      3,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      20,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      108,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      3,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      4,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      34,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      24,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      305,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      13,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      33,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      42,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      7,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      4,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      28,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      7,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      20,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      120,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      435,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      26,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      222,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      176,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      389,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      1100,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      178,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      1,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 25 2000 00:00:00",
+      21,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      51,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 27 2000 00:00:00",
+      20,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      2,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 29 2000 00:00:00",
+      48,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      189,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 31 2000 00:00:00",
+      34,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 01 2000 00:00:00",
+      63,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 02 2000 00:00:00",
+      157,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 03 2000 00:00:00",
+      135,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 04 2000 00:00:00",
+      50,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 05 2000 00:00:00",
+      272,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 06 2000 00:00:00",
+      259,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 07 2000 00:00:00",
+      305,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 08 2000 00:00:00",
+      58,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 09 2000 00:00:00",
+      186,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 10 2000 00:00:00",
+      340,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 11 2000 00:00:00",
+      337,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 12 2000 00:00:00",
+      315,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 13 2000 00:00:00",
+      202,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 14 2000 00:00:00",
+      101,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 15 2000 00:00:00",
+      337,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 16 2000 00:00:00",
+      591,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 17 2000 00:00:00",
+      347,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 18 2000 00:00:00",
+      127,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 19 2000 00:00:00",
+      252,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 20 2000 00:00:00",
+      91,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 21 2000 00:00:00",
+      34,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 22 2000 00:00:00",
+      60,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 23 2000 00:00:00",
+      276,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 24 2000 00:00:00",
+      119,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 25 2000 00:00:00",
+      14,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 26 2000 00:00:00",
+      185,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 27 2000 00:00:00",
+      170,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 28 2000 00:00:00",
+      393,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 29 2000 00:00:00",
+      2134,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 30 2000 00:00:00",
+      276,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 01 2000 00:00:00",
+      182,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 02 2000 00:00:00",
+      18,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 03 2000 00:00:00",
+      22,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 04 2000 00:00:00",
+      54,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 05 2000 00:00:00",
+      62,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 06 2000 00:00:00",
+      17,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 07 2000 00:00:00",
+      352,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 08 2000 00:00:00",
+      117,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 09 2000 00:00:00",
+      59,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 10 2000 00:00:00",
+      31,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 11 2000 00:00:00",
+      18,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 12 2000 00:00:00",
+      87,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 13 2000 00:00:00",
+      91,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 14 2000 00:00:00",
+      43,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 15 2000 00:00:00",
+      58,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 16 2000 00:00:00",
+      100,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 18 2000 00:00:00",
+      45,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 19 2000 00:00:00",
+      8,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 21 2000 00:00:00",
+      63,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ],
+    [
+      2000,
+      "October, 22 2000 00:00:00",
+      50,
+      440,
+      2104,
+      "Klawock River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "440",
+    "year": "2000",
+    "totalRecords": 86,
+    "totalCount": 13336,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.251700"
+  }
+}

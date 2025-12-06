@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "June, 18 2015 00:00:00",
+      1,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 19 2015 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 20 2015 00:00:00",
+      7,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 21 2015 00:00:00",
+      5,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 22 2015 00:00:00",
+      20,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 23 2015 00:00:00",
+      9,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 24 2015 00:00:00",
+      10,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 25 2015 00:00:00",
+      18,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 26 2015 00:00:00",
+      88,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 27 2015 00:00:00",
+      49,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 28 2015 00:00:00",
+      49,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 29 2015 00:00:00",
+      29,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "June, 30 2015 00:00:00",
+      86,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 01 2015 00:00:00",
+      51,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 02 2015 00:00:00",
+      188,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 03 2015 00:00:00",
+      579,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 04 2015 00:00:00",
+      1047,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 05 2015 00:00:00",
+      1238,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 06 2015 00:00:00",
+      4484,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 07 2015 00:00:00",
+      5267,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 08 2015 00:00:00",
+      4902,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 09 2015 00:00:00",
+      6113,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 10 2015 00:00:00",
+      12859,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 11 2015 00:00:00",
+      12597,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 12 2015 00:00:00",
+      8909,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 13 2015 00:00:00",
+      11188,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 14 2015 00:00:00",
+      12135,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      13399,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 16 2015 00:00:00",
+      5158,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      2459,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 18 2015 00:00:00",
+      5582,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 19 2015 00:00:00",
+      16328,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 20 2015 00:00:00",
+      17945,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      12333,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      12493,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      8162,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      4119,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      5094,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      3940,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      4109,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      2028,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      4359,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 30 2015 00:00:00",
+      2341,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      923,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 01 2015 00:00:00",
+      1548,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 02 2015 00:00:00",
+      2773,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 03 2015 00:00:00",
+      1360,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 04 2015 00:00:00",
+      3545,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 05 2015 00:00:00",
+      1872,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 06 2015 00:00:00",
+      1768,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 07 2015 00:00:00",
+      2488,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 51,
+    "totalCount": 218054,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.116658"
+  }
+}

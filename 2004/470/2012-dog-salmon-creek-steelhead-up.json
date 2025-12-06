@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      1,
+      470,
+      2004,
+      "Dog Salmon Creek",
+      "Steelhead Up"
+    ],
+    [
+      2012,
+      "August, 16 2012 00:00:00",
+      0,
+      470,
+      2004,
+      "Dog Salmon Creek",
+      "Steelhead Up"
+    ],
+    [
+      2012,
+      "August, 17 2012 00:00:00",
+      0,
+      470,
+      2004,
+      "Dog Salmon Creek",
+      "Steelhead Up"
+    ],
+    [
+      2012,
+      "August, 18 2012 00:00:00",
+      0,
+      470,
+      2004,
+      "Dog Salmon Creek",
+      "Steelhead Up"
+    ],
+    [
+      2012,
+      "August, 19 2012 00:00:00",
+      0,
+      470,
+      2004,
+      "Dog Salmon Creek",
+      "Steelhead Up"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "470",
+    "year": "2012",
+    "totalRecords": 5,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.018975"
+  }
+}

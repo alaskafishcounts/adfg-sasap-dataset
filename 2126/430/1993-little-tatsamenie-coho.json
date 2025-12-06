@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "August, 25 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 03 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 05 1993 00:00:00",
+      2,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 06 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 07 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 11 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 12 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 13 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 15 1993 00:00:00",
+      3,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 16 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 20 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 21 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 22 1993 00:00:00",
+      2,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 23 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 24 1993 00:00:00",
+      2,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 25 1993 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 26 1993 00:00:00",
+      2,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 27 1993 00:00:00",
+      3,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "September, 29 1993 00:00:00",
+      18,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "October, 01 1993 00:00:00",
+      18,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "October, 02 1993 00:00:00",
+      16,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ],
+    [
+      1993,
+      "October, 03 1993 00:00:00",
+      9,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2126,
+    "species_id": "440",
+    "year": "1993",
+    "totalRecords": 22,
+    "totalCount": 87,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.333419"
+  }
+}

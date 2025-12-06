@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "June, 05 2006 00:00:00",
+      1873,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 06 2006 00:00:00",
+      432,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 07 2006 00:00:00",
+      1749,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 08 2006 00:00:00",
+      681,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 09 2006 00:00:00",
+      2071,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 10 2006 00:00:00",
+      1597,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 11 2006 00:00:00",
+      877,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 13 2006 00:00:00",
+      425,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 14 2006 00:00:00",
+      2120,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 15 2006 00:00:00",
+      3240,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 17 2006 00:00:00",
+      1216,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 19 2006 00:00:00",
+      227,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 20 2006 00:00:00",
+      795,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 21 2006 00:00:00",
+      547,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 22 2006 00:00:00",
+      758,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 23 2006 00:00:00",
+      1600,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 24 2006 00:00:00",
+      1117,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 25 2006 00:00:00",
+      1524,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 26 2006 00:00:00",
+      1122,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 27 2006 00:00:00",
+      1630,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 28 2006 00:00:00",
+      1703,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "June, 29 2006 00:00:00",
+      2357,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 01 2006 00:00:00",
+      1337,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 02 2006 00:00:00",
+      991,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 03 2006 00:00:00",
+      2071,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 04 2006 00:00:00",
+      852,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 05 2006 00:00:00",
+      5028,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 06 2006 00:00:00",
+      1868,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 07 2006 00:00:00",
+      1804,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 08 2006 00:00:00",
+      3263,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 09 2006 00:00:00",
+      3371,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 10 2006 00:00:00",
+      2248,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 11 2006 00:00:00",
+      5024,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 12 2006 00:00:00",
+      1554,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 13 2006 00:00:00",
+      1772,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 14 2006 00:00:00",
+      509,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 15 2006 00:00:00",
+      1875,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 16 2006 00:00:00",
+      589,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 17 2006 00:00:00",
+      2115,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 18 2006 00:00:00",
+      1319,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 19 2006 00:00:00",
+      626,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 20 2006 00:00:00",
+      2982,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 21 2006 00:00:00",
+      3591,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 22 2006 00:00:00",
+      3853,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 23 2006 00:00:00",
+      240,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 24 2006 00:00:00",
+      3773,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 25 2006 00:00:00",
+      1412,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 26 2006 00:00:00",
+      1422,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 27 2006 00:00:00",
+      4641,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 28 2006 00:00:00",
+      4339,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 29 2006 00:00:00",
+      4249,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 30 2006 00:00:00",
+      2862,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "July, 31 2006 00:00:00",
+      3316,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 01 2006 00:00:00",
+      6892,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 02 2006 00:00:00",
+      6099,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 03 2006 00:00:00",
+      6412,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 04 2006 00:00:00",
+      3102,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 05 2006 00:00:00",
+      6798,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 06 2006 00:00:00",
+      2786,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 07 2006 00:00:00",
+      4304,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 08 2006 00:00:00",
+      9225,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 09 2006 00:00:00",
+      7440,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 10 2006 00:00:00",
+      6126,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 11 2006 00:00:00",
+      3936,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 12 2006 00:00:00",
+      4921,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 13 2006 00:00:00",
+      2615,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 14 2006 00:00:00",
+      4215,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 15 2006 00:00:00",
+      6312,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 16 2006 00:00:00",
+      5537,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 17 2006 00:00:00",
+      7093,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 18 2006 00:00:00",
+      7583,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 19 2006 00:00:00",
+      5456,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 20 2006 00:00:00",
+      3321,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 21 2006 00:00:00",
+      7360,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 22 2006 00:00:00",
+      6859,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 23 2006 00:00:00",
+      1687,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 24 2006 00:00:00",
+      2025,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 25 2006 00:00:00",
+      4410,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 26 2006 00:00:00",
+      5547,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 27 2006 00:00:00",
+      3605,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 28 2006 00:00:00",
+      2321,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 29 2006 00:00:00",
+      4022,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 30 2006 00:00:00",
+      4657,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ],
+    [
+      2006,
+      "August, 31 2006 00:00:00",
+      1654,
+      510,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Least Cisco"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "510",
+    "year": "2006",
+    "totalRecords": 84,
+    "totalCount": 258877,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.723028"
+  }
+}

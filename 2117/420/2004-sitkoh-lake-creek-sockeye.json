@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "June, 09 2004 00:00:00",
+      1,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 12 2004 00:00:00",
+      1,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 14 2004 00:00:00",
+      3,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 15 2004 00:00:00",
+      6,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 16 2004 00:00:00",
+      37,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 17 2004 00:00:00",
+      115,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 18 2004 00:00:00",
+      208,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 19 2004 00:00:00",
+      228,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 20 2004 00:00:00",
+      276,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      310,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      338,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      345,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      389,
+      420,
+      2117,
+      "Sitkoh Lake Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2117,
+    "species_id": "410",
+    "year": "2004",
+    "totalRecords": 13,
+    "totalCount": 2257,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.542903"
+  }
+}

@@ -1,0 +1,886 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1933,
+      "May, 23 1933 00:00:00",
+      36,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "May, 24 1933 00:00:00",
+      88,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "May, 25 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "May, 26 1933 00:00:00",
+      29,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "May, 27 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "May, 28 1933 00:00:00",
+      60,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "May, 29 1933 00:00:00",
+      6,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "May, 30 1933 00:00:00",
+      28,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "May, 31 1933 00:00:00",
+      24,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 01 1933 00:00:00",
+      13,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 02 1933 00:00:00",
+      6,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 03 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 04 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 05 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 06 1933 00:00:00",
+      3,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 07 1933 00:00:00",
+      878,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 08 1933 00:00:00",
+      101,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 09 1933 00:00:00",
+      295,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 10 1933 00:00:00",
+      65,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 11 1933 00:00:00",
+      9,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 12 1933 00:00:00",
+      218,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 13 1933 00:00:00",
+      1206,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 14 1933 00:00:00",
+      205,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 15 1933 00:00:00",
+      1166,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 16 1933 00:00:00",
+      1301,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 17 1933 00:00:00",
+      542,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 18 1933 00:00:00",
+      573,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 19 1933 00:00:00",
+      408,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 20 1933 00:00:00",
+      316,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 21 1933 00:00:00",
+      536,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 22 1933 00:00:00",
+      614,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 23 1933 00:00:00",
+      635,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 24 1933 00:00:00",
+      176,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 25 1933 00:00:00",
+      466,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 26 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 27 1933 00:00:00",
+      29,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 28 1933 00:00:00",
+      327,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 29 1933 00:00:00",
+      97,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "June, 30 1933 00:00:00",
+      218,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 01 1933 00:00:00",
+      302,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 02 1933 00:00:00",
+      241,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 03 1933 00:00:00",
+      152,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 04 1933 00:00:00",
+      205,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 05 1933 00:00:00",
+      117,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 06 1933 00:00:00",
+      80,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 07 1933 00:00:00",
+      159,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 08 1933 00:00:00",
+      151,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 09 1933 00:00:00",
+      286,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 10 1933 00:00:00",
+      302,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 11 1933 00:00:00",
+      428,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 12 1933 00:00:00",
+      456,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 13 1933 00:00:00",
+      174,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 14 1933 00:00:00",
+      247,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 15 1933 00:00:00",
+      464,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 16 1933 00:00:00",
+      83,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 17 1933 00:00:00",
+      319,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 18 1933 00:00:00",
+      738,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 19 1933 00:00:00",
+      44,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 20 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 21 1933 00:00:00",
+      627,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 22 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 23 1933 00:00:00",
+      102,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 24 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 25 1933 00:00:00",
+      346,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 26 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 27 1933 00:00:00",
+      70,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 28 1933 00:00:00",
+      256,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 29 1933 00:00:00",
+      208,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 30 1933 00:00:00",
+      29,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "July, 31 1933 00:00:00",
+      96,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 01 1933 00:00:00",
+      18,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 02 1933 00:00:00",
+      32,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 03 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 04 1933 00:00:00",
+      2105,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 05 1933 00:00:00",
+      15329,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 06 1933 00:00:00",
+      10948,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 07 1933 00:00:00",
+      4082,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 08 1933 00:00:00",
+      1762,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 09 1933 00:00:00",
+      1231,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 10 1933 00:00:00",
+      1013,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 11 1933 00:00:00",
+      479,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 12 1933 00:00:00",
+      612,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 13 1933 00:00:00",
+      1114,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 14 1933 00:00:00",
+      658,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 15 1933 00:00:00",
+      194,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 16 1933 00:00:00",
+      5983,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 17 1933 00:00:00",
+      7384,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 18 1933 00:00:00",
+      754,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 19 1933 00:00:00",
+      1,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 20 1933 00:00:00",
+      9434,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 21 1933 00:00:00",
+      720,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 22 1933 00:00:00",
+      0,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 23 1933 00:00:00",
+      9176,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 24 1933 00:00:00",
+      12,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 25 1933 00:00:00",
+      19,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ],
+    [
+      1933,
+      "August, 26 1933 00:00:00",
+      32,
+      410,
+      2007,
+      "Akalura Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "410",
+    "year": "1933",
+    "totalRecords": 96,
+    "totalCount": 90448,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.493561"
+  }
+}

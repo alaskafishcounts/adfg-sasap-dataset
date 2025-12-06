@@ -1,0 +1,688 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 21 2012 00:00:00",
+      2,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 22 2012 00:00:00",
+      120,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 23 2012 00:00:00",
+      65,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      66,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      41,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      59,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      522,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      201,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      55,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      576,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 01 2012 00:00:00",
+      736,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      119,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 03 2012 00:00:00",
+      144,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 04 2012 00:00:00",
+      259,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 05 2012 00:00:00",
+      356,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 06 2012 00:00:00",
+      38,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 07 2012 00:00:00",
+      122,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 08 2012 00:00:00",
+      771,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 09 2012 00:00:00",
+      498,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      904,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      2015,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      923,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      660,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      1523,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      500,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      489,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      825,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      1184,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      1026,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      1002,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      2010,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      1740,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      589,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      954,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      1450,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      1659,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      518,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      1541,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      1797,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      1107,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      426,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 01 2012 00:00:00",
+      720,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 02 2012 00:00:00",
+      1278,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 03 2012 00:00:00",
+      760,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 04 2012 00:00:00",
+      1666,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 05 2012 00:00:00",
+      187,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 06 2012 00:00:00",
+      942,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 07 2012 00:00:00",
+      601,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 08 2012 00:00:00",
+      306,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 09 2012 00:00:00",
+      636,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      88,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      109,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 12 2012 00:00:00",
+      30,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      401,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 14 2012 00:00:00",
+      131,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      313,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 16 2012 00:00:00",
+      327,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 17 2012 00:00:00",
+      104,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 18 2012 00:00:00",
+      280,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 19 2012 00:00:00",
+      533,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 20 2012 00:00:00",
+      202,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 21 2012 00:00:00",
+      185,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 22 2012 00:00:00",
+      116,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 23 2012 00:00:00",
+      151,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 24 2012 00:00:00",
+      127,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 25 2012 00:00:00",
+      74,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 26 2012 00:00:00",
+      105,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 27 2012 00:00:00",
+      33,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 28 2012 00:00:00",
+      64,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 29 2012 00:00:00",
+      36,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 30 2012 00:00:00",
+      57,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 31 2012 00:00:00",
+      104,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "September, 01 2012 00:00:00",
+      4,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "September, 02 2012 00:00:00",
+      10,
+      410,
+      2105,
+      "Redoubt Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2105,
+    "species_id": "410",
+    "year": "2012",
+    "totalRecords": 74,
+    "totalCount": 40272,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.102808"
+  }
+}

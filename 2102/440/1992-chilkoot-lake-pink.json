@@ -1,0 +1,742 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "June, 29 1992 00:00:00",
+      3,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 08 1992 00:00:00",
+      5,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 10 1992 00:00:00",
+      5,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 11 1992 00:00:00",
+      1,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 12 1992 00:00:00",
+      3,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 13 1992 00:00:00",
+      11,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 14 1992 00:00:00",
+      5,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 16 1992 00:00:00",
+      6,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 17 1992 00:00:00",
+      2,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 18 1992 00:00:00",
+      4,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 19 1992 00:00:00",
+      4,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 20 1992 00:00:00",
+      11,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 21 1992 00:00:00",
+      9,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 22 1992 00:00:00",
+      13,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 23 1992 00:00:00",
+      19,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 24 1992 00:00:00",
+      9,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 25 1992 00:00:00",
+      14,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 26 1992 00:00:00",
+      13,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 27 1992 00:00:00",
+      21,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 28 1992 00:00:00",
+      15,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 29 1992 00:00:00",
+      18,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 30 1992 00:00:00",
+      19,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "July, 31 1992 00:00:00",
+      70,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 01 1992 00:00:00",
+      86,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 02 1992 00:00:00",
+      110,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 03 1992 00:00:00",
+      80,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 04 1992 00:00:00",
+      154,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 05 1992 00:00:00",
+      48,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 06 1992 00:00:00",
+      50,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 07 1992 00:00:00",
+      63,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 08 1992 00:00:00",
+      122,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 09 1992 00:00:00",
+      116,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 10 1992 00:00:00",
+      132,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 11 1992 00:00:00",
+      288,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 12 1992 00:00:00",
+      74,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 13 1992 00:00:00",
+      25,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 14 1992 00:00:00",
+      23,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 15 1992 00:00:00",
+      36,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 16 1992 00:00:00",
+      36,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 17 1992 00:00:00",
+      4,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 18 1992 00:00:00",
+      2,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 19 1992 00:00:00",
+      32,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 20 1992 00:00:00",
+      69,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 21 1992 00:00:00",
+      96,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 22 1992 00:00:00",
+      173,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 23 1992 00:00:00",
+      200,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 24 1992 00:00:00",
+      316,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 25 1992 00:00:00",
+      37,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 26 1992 00:00:00",
+      23,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 27 1992 00:00:00",
+      95,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 28 1992 00:00:00",
+      109,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 29 1992 00:00:00",
+      443,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 30 1992 00:00:00",
+      214,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "August, 31 1992 00:00:00",
+      226,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 01 1992 00:00:00",
+      255,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 02 1992 00:00:00",
+      121,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 03 1992 00:00:00",
+      217,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 04 1992 00:00:00",
+      394,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 05 1992 00:00:00",
+      498,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 06 1992 00:00:00",
+      311,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 07 1992 00:00:00",
+      203,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 08 1992 00:00:00",
+      198,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 09 1992 00:00:00",
+      160,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 10 1992 00:00:00",
+      107,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 11 1992 00:00:00",
+      216,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 12 1992 00:00:00",
+      134,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 13 1992 00:00:00",
+      219,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 14 1992 00:00:00",
+      232,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 15 1992 00:00:00",
+      152,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 16 1992 00:00:00",
+      129,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 17 1992 00:00:00",
+      54,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 18 1992 00:00:00",
+      142,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 19 1992 00:00:00",
+      74,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 20 1992 00:00:00",
+      62,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 21 1992 00:00:00",
+      28,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 22 1992 00:00:00",
+      33,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 23 1992 00:00:00",
+      16,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 24 1992 00:00:00",
+      63,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 25 1992 00:00:00",
+      50,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1992,
+      "September, 26 1992 00:00:00",
+      6,
+      420,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "420",
+    "year": "1992",
+    "totalRecords": 80,
+    "totalCount": 7836,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.026975"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "June, 17 2001 00:00:00",
+      130,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "June, 18 2001 00:00:00",
+      185,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "June, 26 2001 00:00:00",
+      363,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "June, 29 2001 00:00:00",
+      185,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 03 2001 00:00:00",
+      107,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 04 2001 00:00:00",
+      110,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      121,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      93,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      78,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      97,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      64,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      65,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      66,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      122,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      247,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      89,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      112,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      366,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      537,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      243,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      133,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      199,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      185,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      201,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      60,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      132,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      266,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      100,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      131,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      95,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      63,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      148,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      277,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      222,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      771,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      229,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      153,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      103,
+      550,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Broad"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "550",
+    "year": "2001",
+    "totalRecords": 38,
+    "totalCount": 6848,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.677674"
+  }
+}

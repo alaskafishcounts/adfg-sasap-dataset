@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1965,
+      "August, 24 1965 00:00:00",
+      6,
+      450,
+      2168,
+      "Kah Sheets",
+      "Chum"
+    ],
+    [
+      1965,
+      "August, 25 1965 00:00:00",
+      2,
+      450,
+      2168,
+      "Kah Sheets",
+      "Chum"
+    ],
+    [
+      1965,
+      "August, 26 1965 00:00:00",
+      24,
+      450,
+      2168,
+      "Kah Sheets",
+      "Chum"
+    ],
+    [
+      1965,
+      "August, 27 1965 00:00:00",
+      43,
+      450,
+      2168,
+      "Kah Sheets",
+      "Chum"
+    ],
+    [
+      1965,
+      "August, 28 1965 00:00:00",
+      21,
+      450,
+      2168,
+      "Kah Sheets",
+      "Chum"
+    ],
+    [
+      1965,
+      "August, 29 1965 00:00:00",
+      4,
+      450,
+      2168,
+      "Kah Sheets",
+      "Chum"
+    ],
+    [
+      1965,
+      "August, 30 1965 00:00:00",
+      4,
+      450,
+      2168,
+      "Kah Sheets",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2168,
+    "species_id": "450",
+    "year": "1965",
+    "totalRecords": 7,
+    "totalCount": 104,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.353224"
+  }
+}

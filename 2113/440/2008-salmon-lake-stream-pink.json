@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      4,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 12 2008 00:00:00",
+      13,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      73,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      59,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      122,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      58,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      25,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      45,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      37,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 20 2008 00:00:00",
+      49,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 21 2008 00:00:00",
+      69,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 22 2008 00:00:00",
+      41,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 23 2008 00:00:00",
+      454,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 24 2008 00:00:00",
+      403,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 25 2008 00:00:00",
+      3108,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 26 2008 00:00:00",
+      1587,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 27 2008 00:00:00",
+      543,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 28 2008 00:00:00",
+      259,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 29 2008 00:00:00",
+      112,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 30 2008 00:00:00",
+      99,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 31 2008 00:00:00",
+      135,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 01 2008 00:00:00",
+      97,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 02 2008 00:00:00",
+      114,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 03 2008 00:00:00",
+      105,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 04 2008 00:00:00",
+      125,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 05 2008 00:00:00",
+      60,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 06 2008 00:00:00",
+      90,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 07 2008 00:00:00",
+      111,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 08 2008 00:00:00",
+      756,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 09 2008 00:00:00",
+      570,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 10 2008 00:00:00",
+      214,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 11 2008 00:00:00",
+      329,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 12 2008 00:00:00",
+      117,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 13 2008 00:00:00",
+      51,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 14 2008 00:00:00",
+      41,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 15 2008 00:00:00",
+      130,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 16 2008 00:00:00",
+      75,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 17 2008 00:00:00",
+      94,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 18 2008 00:00:00",
+      85,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 19 2008 00:00:00",
+      22,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 20 2008 00:00:00",
+      25,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 21 2008 00:00:00",
+      2,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 22 2008 00:00:00",
+      2,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 23 2008 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 24 2008 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 26 2008 00:00:00",
+      2,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 28 2008 00:00:00",
+      3,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 30 2008 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "October, 04 2008 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "October, 08 2008 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ],
+    [
+      2008,
+      "October, 10 2008 00:00:00",
+      1,
+      420,
+      2113,
+      "Salmon Lake Stream",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 51,
+    "totalCount": 10521,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.470578"
+  }
+}

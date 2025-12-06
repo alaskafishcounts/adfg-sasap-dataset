@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "June, 15 2005 00:00:00",
+      34,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 16 2005 00:00:00",
+      10,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 17 2005 00:00:00",
+      7,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 20 2005 00:00:00",
+      8,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 21 2005 00:00:00",
+      10,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 22 2005 00:00:00",
+      25,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 23 2005 00:00:00",
+      13,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 28 2005 00:00:00",
+      12,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 29 2005 00:00:00",
+      8,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "June, 30 2005 00:00:00",
+      13,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 01 2005 00:00:00",
+      8,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 02 2005 00:00:00",
+      8,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 03 2005 00:00:00",
+      2,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 04 2005 00:00:00",
+      78,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 05 2005 00:00:00",
+      32,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 08 2005 00:00:00",
+      1,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 11 2005 00:00:00",
+      3,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 12 2005 00:00:00",
+      1,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 13 2005 00:00:00",
+      3,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 14 2005 00:00:00",
+      2,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      5,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      1,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "August, 18 2005 00:00:00",
+      2,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "August, 19 2005 00:00:00",
+      5,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "August, 20 2005 00:00:00",
+      2,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ],
+    [
+      2005,
+      "September, 28 2005 00:00:00",
+      72,
+      530,
+      2113,
+      "Salmon Lake Stream",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "530",
+    "year": "2005",
+    "totalRecords": 26,
+    "totalCount": 365,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.442363"
+  }
+}

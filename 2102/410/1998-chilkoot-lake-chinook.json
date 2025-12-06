@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "July, 02 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "July, 12 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "July, 18 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "July, 19 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "July, 22 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "July, 23 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "July, 31 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "August, 08 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "August, 11 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ],
+    [
+      1998,
+      "August, 28 1998 00:00:00",
+      1,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "430",
+    "year": "1998",
+    "totalRecords": 11,
+    "totalCount": 11,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.911703"
+  }
+}

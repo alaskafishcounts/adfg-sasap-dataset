@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "August, 01 2009 00:00:00",
+      1,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 02 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 03 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 04 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 05 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 06 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 07 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 08 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 09 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 10 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 11 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 12 2009 00:00:00",
+      0,
+      430,
+      2008,
+      "Saltery Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2008,
+    "species_id": "430",
+    "year": "2009",
+    "totalRecords": 12,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.866802"
+  }
+}

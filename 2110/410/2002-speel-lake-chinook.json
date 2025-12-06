@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      2,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      8,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      4,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      3,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      2,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      5,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      3,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "September, 01 2002 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "September, 02 2002 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "September, 04 2002 00:00:00",
+      1,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2002,
+      "September, 05 2002 00:00:00",
+      13,
+      410,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 15,
+    "totalCount": 47,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.415145"
+  }
+}

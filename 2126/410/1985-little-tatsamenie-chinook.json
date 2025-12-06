@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "September, 08 1985 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 09 1985 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 11 1985 00:00:00",
+      3,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 12 1985 00:00:00",
+      2,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 13 1985 00:00:00",
+      3,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 14 1985 00:00:00",
+      13,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 15 1985 00:00:00",
+      5,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 16 1985 00:00:00",
+      13,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 17 1985 00:00:00",
+      16,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 18 1985 00:00:00",
+      6,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 19 1985 00:00:00",
+      45,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 20 1985 00:00:00",
+      3,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 21 1985 00:00:00",
+      18,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 22 1985 00:00:00",
+      8,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 23 1985 00:00:00",
+      24,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 24 1985 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 25 1985 00:00:00",
+      5,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 26 1985 00:00:00",
+      37,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 27 1985 00:00:00",
+      86,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 28 1985 00:00:00",
+      10,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 29 1985 00:00:00",
+      25,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "September, 30 1985 00:00:00",
+      5,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "October, 02 1985 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ],
+    [
+      1985,
+      "October, 08 1985 00:00:00",
+      1,
+      430,
+      2126,
+      "Little Tatsamenie",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2126,
+    "species_id": "430",
+    "year": "1985",
+    "totalRecords": 24,
+    "totalCount": 332,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.357221"
+  }
+}

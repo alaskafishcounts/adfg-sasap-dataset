@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      2,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 23 2004 00:00:00",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 24 2004 00:00:00",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 27 2004 00:00:00",
+      1,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 31 2004 00:00:00",
+      2,
+      430,
+      2110,
+      "Speel Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "430",
+    "year": "2004",
+    "totalRecords": 6,
+    "totalCount": 8,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.427781"
+  }
+}

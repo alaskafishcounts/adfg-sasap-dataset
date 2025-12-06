@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "August, 11 1996 00:00:00",
+      6,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 12 1996 00:00:00",
+      446,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 13 1996 00:00:00",
+      170,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 14 1996 00:00:00",
+      58,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 15 1996 00:00:00",
+      10,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 16 1996 00:00:00",
+      12,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 17 1996 00:00:00",
+      1,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 18 1996 00:00:00",
+      1,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 19 1996 00:00:00",
+      21,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 20 1996 00:00:00",
+      90,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 21 1996 00:00:00",
+      382,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 22 1996 00:00:00",
+      17,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 23 1996 00:00:00",
+      10,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 24 1996 00:00:00",
+      88,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 25 1996 00:00:00",
+      56,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 26 1996 00:00:00",
+      226,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 27 1996 00:00:00",
+      25,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 28 1996 00:00:00",
+      92,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 29 1996 00:00:00",
+      61,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 30 1996 00:00:00",
+      22,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 31 1996 00:00:00",
+      26,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 01 1996 00:00:00",
+      1,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 02 1996 00:00:00",
+      7,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 03 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 04 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 05 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 06 1996 00:00:00",
+      2,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 07 1996 00:00:00",
+      225,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 08 1996 00:00:00",
+      170,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 09 1996 00:00:00",
+      107,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 10 1996 00:00:00",
+      150,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 11 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 12 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 13 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 14 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 15 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 16 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 17 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 18 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 19 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 20 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 21 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 22 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 23 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 24 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 25 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 26 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 27 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 28 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 29 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 30 1996 00:00:00",
+      0,
+      440,
+      2401,
+      "Bear Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2401,
+    "species_id": "440",
+    "year": "1996",
+    "totalRecords": 51,
+    "totalCount": 2482,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.095263"
+  }
+}

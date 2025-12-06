@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1940,
+      "August, 18 1940 00:00:00",
+      6,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 19 1940 00:00:00",
+      11,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 20 1940 00:00:00",
+      0,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 21 1940 00:00:00",
+      3,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 22 1940 00:00:00",
+      21,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 23 1940 00:00:00",
+      134,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 24 1940 00:00:00",
+      63,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 25 1940 00:00:00",
+      164,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 26 1940 00:00:00",
+      41,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 27 1940 00:00:00",
+      670,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 28 1940 00:00:00",
+      62,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 29 1940 00:00:00",
+      22,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 30 1940 00:00:00",
+      46,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "August, 31 1940 00:00:00",
+      82,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 01 1940 00:00:00",
+      46,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 02 1940 00:00:00",
+      683,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 03 1940 00:00:00",
+      288,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 04 1940 00:00:00",
+      237,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 05 1940 00:00:00",
+      217,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 06 1940 00:00:00",
+      71,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 07 1940 00:00:00",
+      143,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 08 1940 00:00:00",
+      190,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 09 1940 00:00:00",
+      121,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1940,
+      "September, 10 1940 00:00:00",
+      5,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "440",
+    "year": "1940",
+    "totalRecords": 24,
+    "totalCount": 3326,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.475014"
+  }
+}

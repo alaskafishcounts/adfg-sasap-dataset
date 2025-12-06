@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1971,
+      "July, 31 1971 00:00:00",
+      3,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 01 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 02 1971 00:00:00",
+      3,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 03 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 04 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 05 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 06 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 07 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 08 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 09 1971 00:00:00",
+      5,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 10 1971 00:00:00",
+      8,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 11 1971 00:00:00",
+      4,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 12 1971 00:00:00",
+      19,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 13 1971 00:00:00",
+      27,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 14 1971 00:00:00",
+      206,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 15 1971 00:00:00",
+      193,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 16 1971 00:00:00",
+      191,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 17 1971 00:00:00",
+      180,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 18 1971 00:00:00",
+      418,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 19 1971 00:00:00",
+      155,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 20 1971 00:00:00",
+      345,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 21 1971 00:00:00",
+      44,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 22 1971 00:00:00",
+      170,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 23 1971 00:00:00",
+      27,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 24 1971 00:00:00",
+      76,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 25 1971 00:00:00",
+      71,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 26 1971 00:00:00",
+      13,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 27 1971 00:00:00",
+      48,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 28 1971 00:00:00",
+      4,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 29 1971 00:00:00",
+      3,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 30 1971 00:00:00",
+      12,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "August, 31 1971 00:00:00",
+      6,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 01 1971 00:00:00",
+      8,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 02 1971 00:00:00",
+      24,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 03 1971 00:00:00",
+      3,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 04 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 05 1971 00:00:00",
+      6,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 06 1971 00:00:00",
+      13,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 07 1971 00:00:00",
+      1,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 08 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 09 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 10 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 11 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1971,
+      "September, 12 1971 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "440",
+    "year": "1971",
+    "totalRecords": 44,
+    "totalCount": 2286,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.849165"
+  }
+}

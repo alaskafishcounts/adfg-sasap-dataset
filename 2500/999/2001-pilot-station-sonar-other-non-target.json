@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "June, 12 2001 00:00:00",
+      148,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "June, 13 2001 00:00:00",
+      159,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "June, 17 2001 00:00:00",
+      60,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "June, 18 2001 00:00:00",
+      85,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "June, 19 2001 00:00:00",
+      129,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "June, 21 2001 00:00:00",
+      631,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "June, 29 2001 00:00:00",
+      131,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 02 2001 00:00:00",
+      116,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 06 2001 00:00:00",
+      188,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 07 2001 00:00:00",
+      170,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      338,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      260,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      218,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      270,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      178,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      180,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      183,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      91,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      81,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      710,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      1032,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      151,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      83,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      124,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      115,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      125,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      93,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 03 2001 00:00:00",
+      119,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 04 2001 00:00:00",
+      121,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 05 2001 00:00:00",
+      394,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 06 2001 00:00:00",
+      183,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 07 2001 00:00:00",
+      103,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 08 2001 00:00:00",
+      198,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 10 2001 00:00:00",
+      310,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      182,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 12 2001 00:00:00",
+      273,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      404,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 14 2001 00:00:00",
+      481,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 15 2001 00:00:00",
+      229,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      467,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      192,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      101,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      210,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      287,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      62,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      41,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      77,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      480,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      389,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      271,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      315,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      505,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      370,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      37,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      85,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "999",
+    "year": "2001",
+    "totalRecords": 55,
+    "totalCount": 12935,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.682698"
+  }
+}

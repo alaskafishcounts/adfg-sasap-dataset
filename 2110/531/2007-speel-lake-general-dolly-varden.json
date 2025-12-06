@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      5,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      2,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      2007,
+      "August, 07 2007 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "530",
+    "year": "2007",
+    "totalRecords": 6,
+    "totalCount": 11,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.430214"
+  }
+}

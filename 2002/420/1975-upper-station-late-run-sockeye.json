@@ -1,0 +1,733 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "July, 16 1975 00:00:00",
+      47,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 17 1975 00:00:00",
+      34,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 18 1975 00:00:00",
+      108,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 19 1975 00:00:00",
+      38,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 20 1975 00:00:00",
+      28,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 21 1975 00:00:00",
+      140,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 22 1975 00:00:00",
+      805,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 23 1975 00:00:00",
+      441,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 24 1975 00:00:00",
+      84,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 25 1975 00:00:00",
+      342,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 26 1975 00:00:00",
+      102,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 27 1975 00:00:00",
+      231,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 28 1975 00:00:00",
+      37,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 29 1975 00:00:00",
+      67,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 30 1975 00:00:00",
+      341,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "July, 31 1975 00:00:00",
+      358,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 01 1975 00:00:00",
+      320,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 02 1975 00:00:00",
+      218,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 03 1975 00:00:00",
+      126,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 04 1975 00:00:00",
+      315,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 05 1975 00:00:00",
+      3340,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 06 1975 00:00:00",
+      200,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 07 1975 00:00:00",
+      253,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 08 1975 00:00:00",
+      532,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 09 1975 00:00:00",
+      2156,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 10 1975 00:00:00",
+      560,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 11 1975 00:00:00",
+      1940,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 12 1975 00:00:00",
+      1315,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 13 1975 00:00:00",
+      3307,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 14 1975 00:00:00",
+      208,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 15 1975 00:00:00",
+      4926,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 16 1975 00:00:00",
+      2066,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 17 1975 00:00:00",
+      2053,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 18 1975 00:00:00",
+      855,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 19 1975 00:00:00",
+      1100,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 20 1975 00:00:00",
+      1757,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 21 1975 00:00:00",
+      1461,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 22 1975 00:00:00",
+      1325,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 23 1975 00:00:00",
+      2027,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 24 1975 00:00:00",
+      1003,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 25 1975 00:00:00",
+      1778,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 26 1975 00:00:00",
+      821,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 27 1975 00:00:00",
+      958,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 28 1975 00:00:00",
+      1559,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 29 1975 00:00:00",
+      2261,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 30 1975 00:00:00",
+      2217,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "August, 31 1975 00:00:00",
+      657,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 01 1975 00:00:00",
+      3629,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 02 1975 00:00:00",
+      1122,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 03 1975 00:00:00",
+      1330,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 04 1975 00:00:00",
+      818,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 05 1975 00:00:00",
+      7662,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 06 1975 00:00:00",
+      2479,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 07 1975 00:00:00",
+      626,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 08 1975 00:00:00",
+      583,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 09 1975 00:00:00",
+      242,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 10 1975 00:00:00",
+      1509,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 11 1975 00:00:00",
+      636,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 12 1975 00:00:00",
+      303,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 13 1975 00:00:00",
+      90,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 14 1975 00:00:00",
+      63,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 15 1975 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 16 1975 00:00:00",
+      137,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 17 1975 00:00:00",
+      625,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 18 1975 00:00:00",
+      489,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 19 1975 00:00:00",
+      17,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 20 1975 00:00:00",
+      374,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 21 1975 00:00:00",
+      521,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 22 1975 00:00:00",
+      848,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 23 1975 00:00:00",
+      737,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 24 1975 00:00:00",
+      665,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 25 1975 00:00:00",
+      344,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 26 1975 00:00:00",
+      266,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 27 1975 00:00:00",
+      505,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 28 1975 00:00:00",
+      462,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 29 1975 00:00:00",
+      451,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "September, 30 1975 00:00:00",
+      265,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "October, 01 1975 00:00:00",
+      235,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1975,
+      "October, 02 1975 00:00:00",
+      1000,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1975",
+    "totalRecords": 79,
+    "totalCount": 75851,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.471619"
+  }
+}

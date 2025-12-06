@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1939,
+      "August, 14 1939 00:00:00",
+      28,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 15 1939 00:00:00",
+      64,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 16 1939 00:00:00",
+      84,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 17 1939 00:00:00",
+      26,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 18 1939 00:00:00",
+      18,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 19 1939 00:00:00",
+      12,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 20 1939 00:00:00",
+      68,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 21 1939 00:00:00",
+      600,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 22 1939 00:00:00",
+      133,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 23 1939 00:00:00",
+      281,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1939,
+      "August, 24 1939 00:00:00",
+      310,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "440",
+    "year": "1939",
+    "totalRecords": 11,
+    "totalCount": 1624,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.978362"
+  }
+}

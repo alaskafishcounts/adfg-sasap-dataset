@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      1,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      26,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      12,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      3,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      5,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      28,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      151,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      38,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      30,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 05 2007 00:00:00",
+      17,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 06 2007 00:00:00",
+      28,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 07 2007 00:00:00",
+      12,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 08 2007 00:00:00",
+      13,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 09 2007 00:00:00",
+      6,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      12,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      9,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      4,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      17,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      2,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 16 2007 00:00:00",
+      3,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 17 2007 00:00:00",
+      6,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 18 2007 00:00:00",
+      10,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 19 2007 00:00:00",
+      4,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 20 2007 00:00:00",
+      3,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      4,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      5,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      4,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 24 2007 00:00:00",
+      4,
+      410,
+      2143,
+      "Kanalku Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2143,
+    "species_id": "410",
+    "year": "2007",
+    "totalRecords": 28,
+    "totalCount": 457,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.567464"
+  }
+}

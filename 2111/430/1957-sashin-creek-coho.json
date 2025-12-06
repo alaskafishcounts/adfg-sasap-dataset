@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1957,
+      "August, 07 1957 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "August, 23 1957 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "August, 25 1957 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "August, 31 1957 00:00:00",
+      8,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 01 1957 00:00:00",
+      5,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 05 1957 00:00:00",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 06 1957 00:00:00",
+      7,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 07 1957 00:00:00",
+      5,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 08 1957 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 29 1957 00:00:00",
+      22,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 30 1957 00:00:00",
+      14,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "440",
+    "year": "1957",
+    "totalRecords": 11,
+    "totalCount": 67,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.642773"
+  }
+}

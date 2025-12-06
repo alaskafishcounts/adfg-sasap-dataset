@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "July, 21 1983 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 10 1983 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 11 1983 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 13 1983 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 15 1983 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 16 1983 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 17 1983 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 18 1983 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 20 1983 00:00:00",
+      3,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 24 1983 00:00:00",
+      3,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "August, 29 1983 00:00:00",
+      3,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1983,
+      "September, 01 1983 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "450",
+    "year": "1983",
+    "totalRecords": 12,
+    "totalCount": 21,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.868743"
+  }
+}

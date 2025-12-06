@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "August, 08 1968 00:00:00",
+      18,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 09 1968 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 10 1968 00:00:00",
+      26,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 11 1968 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 12 1968 00:00:00",
+      13,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 13 1968 00:00:00",
+      35,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 14 1968 00:00:00",
+      10,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 15 1968 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 16 1968 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 17 1968 00:00:00",
+      4,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 18 1968 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 19 1968 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 20 1968 00:00:00",
+      27,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 21 1968 00:00:00",
+      96,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 22 1968 00:00:00",
+      210,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 23 1968 00:00:00",
+      173,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      1968,
+      "August, 24 1968 00:00:00",
+      210,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "440",
+    "year": "1968",
+    "totalRecords": 17,
+    "totalCount": 822,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.873340"
+  }
+}

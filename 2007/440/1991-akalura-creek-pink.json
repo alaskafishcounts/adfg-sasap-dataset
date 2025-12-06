@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      1,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      2,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "July, 31 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 01 1991 00:00:00",
+      200,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 02 1991 00:00:00",
+      3,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 03 1991 00:00:00",
+      3,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 04 1991 00:00:00",
+      1,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 05 1991 00:00:00",
+      15,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 06 1991 00:00:00",
+      149,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 07 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 08 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 09 1991 00:00:00",
+      15,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 10 1991 00:00:00",
+      15,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 11 1991 00:00:00",
+      322,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 12 1991 00:00:00",
+      138,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 13 1991 00:00:00",
+      1287,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 14 1991 00:00:00",
+      11,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 15 1991 00:00:00",
+      1,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 16 1991 00:00:00",
+      13,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 17 1991 00:00:00",
+      42,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 18 1991 00:00:00",
+      21,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 19 1991 00:00:00",
+      59,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 20 1991 00:00:00",
+      14,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 21 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 22 1991 00:00:00",
+      182,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 23 1991 00:00:00",
+      234,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 24 1991 00:00:00",
+      1232,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 25 1991 00:00:00",
+      28,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 26 1991 00:00:00",
+      84,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 27 1991 00:00:00",
+      3,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 28 1991 00:00:00",
+      26,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 29 1991 00:00:00",
+      79,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 30 1991 00:00:00",
+      108,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "August, 31 1991 00:00:00",
+      44,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 01 1991 00:00:00",
+      75,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 02 1991 00:00:00",
+      421,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 03 1991 00:00:00",
+      327,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 04 1991 00:00:00",
+      386,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 05 1991 00:00:00",
+      326,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 06 1991 00:00:00",
+      217,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 07 1991 00:00:00",
+      308,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 08 1991 00:00:00",
+      423,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 09 1991 00:00:00",
+      183,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 10 1991 00:00:00",
+      109,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 11 1991 00:00:00",
+      39,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 12 1991 00:00:00",
+      142,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 13 1991 00:00:00",
+      63,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 14 1991 00:00:00",
+      51,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 15 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 16 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 17 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 18 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 19 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 20 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 21 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 22 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 23 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 24 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 25 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 26 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 27 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 28 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 29 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ],
+    [
+      1991,
+      "September, 30 1991 00:00:00",
+      0,
+      420,
+      2007,
+      "Akalura Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "420",
+    "year": "1991",
+    "totalRecords": 67,
+    "totalCount": 7402,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.634291"
+  }
+}

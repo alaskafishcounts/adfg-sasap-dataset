@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "July, 31 1995 00:00:00",
+      0,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 01 1995 00:00:00",
+      0,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 02 1995 00:00:00",
+      0,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 05 1995 00:00:00",
+      1,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 10 1995 00:00:00",
+      5,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 11 1995 00:00:00",
+      14,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 12 1995 00:00:00",
+      1,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 13 1995 00:00:00",
+      10,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 17 1995 00:00:00",
+      9,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      10,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      27,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      0,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      0,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      21,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      0,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 24 1995 00:00:00",
+      0,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "August, 25 1995 00:00:00",
+      0,
+      410,
+      2139,
+      "Nakina River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2139,
+    "species_id": "410",
+    "year": "1995",
+    "totalRecords": 17,
+    "totalCount": 98,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.300249"
+  }
+}

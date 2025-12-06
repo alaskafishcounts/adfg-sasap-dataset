@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 13 2013 00:00:00",
+      1859,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 14 2013 00:00:00",
+      1860,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 15 2013 00:00:00",
+      1716,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 16 2013 00:00:00",
+      1672,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 17 2013 00:00:00",
+      6946,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 18 2013 00:00:00",
+      2184,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 19 2013 00:00:00",
+      1420,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 20 2013 00:00:00",
+      722,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 21 2013 00:00:00",
+      1391,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 22 2013 00:00:00",
+      244,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 23 2013 00:00:00",
+      502,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      584,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      1159,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      1240,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      1432,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      1990,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      867,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      330,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      782,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      1065,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      1357,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      1127,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      614,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      790,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      846,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      697,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      824,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      462,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      266,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      158,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      502,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      614,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      630,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      113,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      420,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      335,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      72,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      592,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      562,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      340,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      436,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      257,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      204,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      1056,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      1809,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      431,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      475,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      303,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      366,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      332,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      237,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      91,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      97,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      428,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      92,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      403,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      44,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 20 2013 00:00:00",
+      68,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 21 2013 00:00:00",
+      80,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 23 2013 00:00:00",
+      360,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 24 2013 00:00:00",
+      74,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 25 2013 00:00:00",
+      48,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 29 2013 00:00:00",
+      278,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 30 2013 00:00:00",
+      60,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "August, 31 2013 00:00:00",
+      43,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "September, 01 2013 00:00:00",
+      46,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "September, 03 2013 00:00:00",
+      90,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2013,
+      "September, 07 2013 00:00:00",
+      74,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "540",
+    "year": "2013",
+    "totalRecords": 68,
+    "totalCount": 49568,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.795340"
+  }
+}

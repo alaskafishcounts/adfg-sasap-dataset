@@ -1,0 +1,868 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "May, 30 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "May, 31 2015 00:00:00",
+      227,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 01 2015 00:00:00",
+      444,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 02 2015 00:00:00",
+      407,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 03 2015 00:00:00",
+      570,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 04 2015 00:00:00",
+      115,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 05 2015 00:00:00",
+      176,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 06 2015 00:00:00",
+      290,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 07 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 08 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 09 2015 00:00:00",
+      230,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 10 2015 00:00:00",
+      514,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 11 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 12 2015 00:00:00",
+      513,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 13 2015 00:00:00",
+      454,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 14 2015 00:00:00",
+      284,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 15 2015 00:00:00",
+      1222,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 16 2015 00:00:00",
+      484,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 17 2015 00:00:00",
+      393,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 18 2015 00:00:00",
+      523,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 19 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 20 2015 00:00:00",
+      792,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 21 2015 00:00:00",
+      444,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 22 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 23 2015 00:00:00",
+      2887,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 24 2015 00:00:00",
+      3339,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 25 2015 00:00:00",
+      1731,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 26 2015 00:00:00",
+      1356,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 27 2015 00:00:00",
+      970,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 28 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 29 2015 00:00:00",
+      1776,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "June, 30 2015 00:00:00",
+      1044,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 01 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 02 2015 00:00:00",
+      4242,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 03 2015 00:00:00",
+      3952,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 04 2015 00:00:00",
+      2136,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 05 2015 00:00:00",
+      1933,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 06 2015 00:00:00",
+      2247,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 07 2015 00:00:00",
+      2251,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 08 2015 00:00:00",
+      2556,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 09 2015 00:00:00",
+      642,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 10 2015 00:00:00",
+      753,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 11 2015 00:00:00",
+      878,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 12 2015 00:00:00",
+      548,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 13 2015 00:00:00",
+      1966,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 14 2015 00:00:00",
+      2080,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      258,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 16 2015 00:00:00",
+      162,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      1829,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 18 2015 00:00:00",
+      1581,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 19 2015 00:00:00",
+      1162,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 20 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      298,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      113,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      846,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      487,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      147,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      206,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      1145,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      504,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      505,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 30 2015 00:00:00",
+      98,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      810,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 01 2015 00:00:00",
+      591,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 02 2015 00:00:00",
+      416,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 03 2015 00:00:00",
+      556,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 04 2015 00:00:00",
+      1283,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 05 2015 00:00:00",
+      1205,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 06 2015 00:00:00",
+      107,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 07 2015 00:00:00",
+      735,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 08 2015 00:00:00",
+      734,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 09 2015 00:00:00",
+      692,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 10 2015 00:00:00",
+      456,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 11 2015 00:00:00",
+      874,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 12 2015 00:00:00",
+      167,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 13 2015 00:00:00",
+      301,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 14 2015 00:00:00",
+      1389,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 15 2015 00:00:00",
+      1552,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 16 2015 00:00:00",
+      1146,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 17 2015 00:00:00",
+      1245,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 18 2015 00:00:00",
+      861,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 19 2015 00:00:00",
+      899,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 20 2015 00:00:00",
+      978,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 21 2015 00:00:00",
+      1413,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 22 2015 00:00:00",
+      1603,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 23 2015 00:00:00",
+      563,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 24 2015 00:00:00",
+      405,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 25 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 26 2015 00:00:00",
+      0,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 27 2015 00:00:00",
+      601,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 28 2015 00:00:00",
+      784,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 29 2015 00:00:00",
+      664,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 30 2015 00:00:00",
+      213,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ],
+    [
+      2015,
+      "August, 31 2015 00:00:00",
+      105,
+      999,
+      2500,
+      "Pilot Station Sonar",
+      "Other (non-target)"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "999",
+    "year": "2015",
+    "totalRecords": 94,
+    "totalCount": 80058,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.688313"
+  }
+}

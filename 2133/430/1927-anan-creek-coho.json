@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1927,
+      "July, 16 1927 00:00:00",
+      2,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "July, 23 1927 00:00:00",
+      16,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "July, 30 1927 00:00:00",
+      24,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "August, 06 1927 00:00:00",
+      41,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "August, 13 1927 00:00:00",
+      41,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "August, 20 1927 00:00:00",
+      103,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "August, 27 1927 00:00:00",
+      189,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "September, 03 1927 00:00:00",
+      532,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "September, 10 1927 00:00:00",
+      511,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "September, 17 1927 00:00:00",
+      354,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "September, 21 1927 00:00:00",
+      69,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ],
+    [
+      1927,
+      "September, 23 1927 00:00:00",
+      129,
+      430,
+      2133,
+      "Anan Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2133,
+    "species_id": "440",
+    "year": "1927",
+    "totalRecords": 12,
+    "totalCount": 2011,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.288504"
+  }
+}

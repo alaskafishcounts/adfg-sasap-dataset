@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "August, 15 1999 00:00:00",
+      1,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 16 1999 00:00:00",
+      1,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 17 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 18 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 19 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 20 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 21 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 22 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 23 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 24 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 25 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 26 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 27 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 28 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 29 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 30 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 31 1999 00:00:00",
+      0,
+      430,
+      2301,
+      "Bear River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2301,
+    "species_id": "430",
+    "year": "1999",
+    "totalRecords": 17,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.183197"
+  }
+}

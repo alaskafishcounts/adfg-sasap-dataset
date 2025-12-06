@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "August, 03 1982 00:00:00",
+      11,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 04 1982 00:00:00",
+      1,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 05 1982 00:00:00",
+      75,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      700,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 07 1982 00:00:00",
+      2153,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      2822,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      2545,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      2844,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      2550,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      1565,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 13 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      1515,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 15 1982 00:00:00",
+      702,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      1601,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      1731,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      1189,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 20 1982 00:00:00",
+      1133,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 21 1982 00:00:00",
+      1200,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 22 1982 00:00:00",
+      600,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 25 1982 00:00:00",
+      1259,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 26 1982 00:00:00",
+      2500,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      2690,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      2565,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      2002,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      1561,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      2300,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      1291,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      402,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      130,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      3714,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      760,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      944,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      545,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      112,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      26,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      91,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 14 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 18 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 22 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 24 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 25 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 26 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 27 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 28 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 29 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 30 1982 00:00:00",
+      0,
+      420,
+      2014,
+      "Little Waterfall",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2014,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 59,
+    "totalCount": 47829,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.769342"
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "May, 30 2002 00:00:00",
+      110,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "May, 31 2002 00:00:00",
+      427,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 01 2002 00:00:00",
+      656,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 02 2002 00:00:00",
+      494,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 03 2002 00:00:00",
+      607,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 04 2002 00:00:00",
+      663,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 05 2002 00:00:00",
+      671,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 06 2002 00:00:00",
+      791,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 07 2002 00:00:00",
+      433,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 08 2002 00:00:00",
+      566,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 09 2002 00:00:00",
+      256,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 10 2002 00:00:00",
+      344,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 11 2002 00:00:00",
+      1316,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 12 2002 00:00:00",
+      1464,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 13 2002 00:00:00",
+      834,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 14 2002 00:00:00",
+      1052,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 15 2002 00:00:00",
+      886,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 16 2002 00:00:00",
+      1768,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 17 2002 00:00:00",
+      1224,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 18 2002 00:00:00",
+      260,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 19 2002 00:00:00",
+      975,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 20 2002 00:00:00",
+      331,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 21 2002 00:00:00",
+      697,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 22 2002 00:00:00",
+      785,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 23 2002 00:00:00",
+      2016,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 24 2002 00:00:00",
+      1222,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      1497,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 26 2002 00:00:00",
+      1783,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      1299,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      621,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      1249,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      2023,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 01 2002 00:00:00",
+      1394,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 02 2002 00:00:00",
+      533,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 03 2002 00:00:00",
+      1052,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 04 2002 00:00:00",
+      91,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 05 2002 00:00:00",
+      588,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 06 2002 00:00:00",
+      1466,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 07 2002 00:00:00",
+      976,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 08 2002 00:00:00",
+      401,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 09 2002 00:00:00",
+      586,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      1628,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      743,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      654,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      563,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      369,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      366,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      435,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      228,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      328,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      276,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      1003,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 01 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 02 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 03 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 04 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 05 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 06 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 07 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 08 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 19 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 20 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2302,
+    "species_id": "410",
+    "year": "2002",
+    "totalRecords": 88,
+    "totalCount": 43000,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.628133"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "September, 26 1985 00:00:00",
+      2,
+      450,
+      2003,
+      "Litnik",
+      "Chum"
+    ],
+    [
+      1985,
+      "September, 27 1985 00:00:00",
+      0,
+      450,
+      2003,
+      "Litnik",
+      "Chum"
+    ],
+    [
+      1985,
+      "September, 28 1985 00:00:00",
+      0,
+      450,
+      2003,
+      "Litnik",
+      "Chum"
+    ],
+    [
+      1985,
+      "September, 29 1985 00:00:00",
+      0,
+      450,
+      2003,
+      "Litnik",
+      "Chum"
+    ],
+    [
+      1985,
+      "September, 30 1985 00:00:00",
+      0,
+      450,
+      2003,
+      "Litnik",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "450",
+    "year": "1985",
+    "totalRecords": 5,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:47.875183"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1925,
+      "July, 05 1925 00:00:00",
+      5,
+      430,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1925,
+      "July, 11 1925 00:00:00",
+      6,
+      430,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1925,
+      "July, 25 1925 00:00:00",
+      6,
+      430,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1925,
+      "August, 01 1925 00:00:00",
+      9,
+      430,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1925,
+      "August, 08 1925 00:00:00",
+      12,
+      430,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1925,
+      "August, 29 1925 00:00:00",
+      22,
+      430,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2133,
+    "species_id": "430",
+    "year": "1925",
+    "totalRecords": 6,
+    "totalCount": 60,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.291266"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      268,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      239,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      689,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      396,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      140,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      202,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      284,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      92,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      50,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      75,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      70,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      76,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      265,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 13,
+    "totalCount": 2846,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.751108"
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "July, 27 1986 00:00:00",
+      4,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 28 1986 00:00:00",
+      1,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 29 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 30 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "July, 31 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 01 1986 00:00:00",
+      2,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 02 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 03 1986 00:00:00",
+      112,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 04 1986 00:00:00",
+      1,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 05 1986 00:00:00",
+      3,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 06 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 07 1986 00:00:00",
+      5,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 08 1986 00:00:00",
+      571,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 09 1986 00:00:00",
+      5,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 10 1986 00:00:00",
+      40,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 11 1986 00:00:00",
+      20,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 12 1986 00:00:00",
+      1039,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 13 1986 00:00:00",
+      871,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 14 1986 00:00:00",
+      5327,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 15 1986 00:00:00",
+      9308,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 16 1986 00:00:00",
+      4048,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 17 1986 00:00:00",
+      2657,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 18 1986 00:00:00",
+      10198,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 19 1986 00:00:00",
+      6362,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 20 1986 00:00:00",
+      11838,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 21 1986 00:00:00",
+      10581,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 22 1986 00:00:00",
+      21598,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 23 1986 00:00:00",
+      8835,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 24 1986 00:00:00",
+      10961,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 25 1986 00:00:00",
+      762,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 26 1986 00:00:00",
+      9919,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 27 1986 00:00:00",
+      3849,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 28 1986 00:00:00",
+      7051,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 29 1986 00:00:00",
+      2558,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 30 1986 00:00:00",
+      3963,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 31 1986 00:00:00",
+      3800,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 01 1986 00:00:00",
+      2370,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 02 1986 00:00:00",
+      2508,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 03 1986 00:00:00",
+      2907,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 04 1986 00:00:00",
+      2367,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 05 1986 00:00:00",
+      753,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 06 1986 00:00:00",
+      2000,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 07 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 08 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 09 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 10 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 11 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 12 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 13 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 14 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 15 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 16 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 17 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 18 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 19 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 20 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 21 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 22 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 23 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 24 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 25 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 26 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 27 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 28 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 29 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 30 1986 00:00:00",
+      0,
+      440,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "420",
+    "year": "1986",
+    "totalRecords": 66,
+    "totalCount": 149194,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.115462"
+  }
+}

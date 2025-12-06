@@ -1,0 +1,670 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "July, 21 1998 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 22 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 23 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 24 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 25 1998 00:00:00",
+      2,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 26 1998 00:00:00",
+      2,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 27 1998 00:00:00",
+      3,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 28 1998 00:00:00",
+      10,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 29 1998 00:00:00",
+      4,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      8,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 31 1998 00:00:00",
+      5,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 01 1998 00:00:00",
+      11,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 02 1998 00:00:00",
+      111,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 03 1998 00:00:00",
+      110,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 04 1998 00:00:00",
+      56,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 05 1998 00:00:00",
+      64,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 06 1998 00:00:00",
+      59,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 07 1998 00:00:00",
+      156,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 08 1998 00:00:00",
+      278,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 09 1998 00:00:00",
+      389,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 10 1998 00:00:00",
+      391,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 11 1998 00:00:00",
+      293,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 12 1998 00:00:00",
+      92,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 13 1998 00:00:00",
+      183,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 14 1998 00:00:00",
+      124,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 15 1998 00:00:00",
+      373,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 16 1998 00:00:00",
+      533,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 17 1998 00:00:00",
+      231,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 18 1998 00:00:00",
+      362,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 19 1998 00:00:00",
+      187,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 20 1998 00:00:00",
+      358,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 21 1998 00:00:00",
+      176,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 22 1998 00:00:00",
+      126,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 23 1998 00:00:00",
+      114,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 24 1998 00:00:00",
+      182,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 25 1998 00:00:00",
+      185,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 26 1998 00:00:00",
+      87,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 27 1998 00:00:00",
+      67,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 28 1998 00:00:00",
+      51,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 29 1998 00:00:00",
+      25,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 30 1998 00:00:00",
+      85,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "August, 31 1998 00:00:00",
+      78,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 01 1998 00:00:00",
+      35,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 02 1998 00:00:00",
+      78,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 03 1998 00:00:00",
+      34,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 04 1998 00:00:00",
+      21,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 05 1998 00:00:00",
+      14,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 06 1998 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 07 1998 00:00:00",
+      7,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 08 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 09 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 10 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 11 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 12 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 13 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 14 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 15 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 16 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 17 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 18 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 19 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 20 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 21 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 22 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 23 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 24 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 25 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 26 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 27 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 28 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 29 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1998,
+      "September, 30 1998 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "420",
+    "year": "1998",
+    "totalRecords": 72,
+    "totalCount": 5762,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.629395"
+  }
+}

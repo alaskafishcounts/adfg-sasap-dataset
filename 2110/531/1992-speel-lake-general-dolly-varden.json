@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "July, 18 1992 00:00:00",
+      2,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 20 1992 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 23 1992 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 24 1992 00:00:00",
+      2,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 25 1992 00:00:00",
+      3,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 26 1992 00:00:00",
+      12,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 27 1992 00:00:00",
+      15,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 28 1992 00:00:00",
+      6,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 02 1992 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 03 1992 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 09 1992 00:00:00",
+      1,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 11 1992 00:00:00",
+      2,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 17 1992 00:00:00",
+      13,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 18 1992 00:00:00",
+      6,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 19 1992 00:00:00",
+      14,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 20 1992 00:00:00",
+      5,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 21 1992 00:00:00",
+      2,
+      530,
+      2110,
+      "Speel Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "530",
+    "year": "1992",
+    "totalRecords": 17,
+    "totalCount": 87,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.430883"
+  }
+}

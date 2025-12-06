@@ -1,0 +1,733 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1949,
+      "June, 21 1949 00:00:00",
+      1,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 22 1949 00:00:00",
+      0,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 23 1949 00:00:00",
+      1,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 24 1949 00:00:00",
+      1,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 25 1949 00:00:00",
+      8,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 26 1949 00:00:00",
+      11,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 27 1949 00:00:00",
+      30,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 28 1949 00:00:00",
+      28,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 29 1949 00:00:00",
+      17,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "June, 30 1949 00:00:00",
+      32,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 01 1949 00:00:00",
+      40,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 02 1949 00:00:00",
+      57,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 03 1949 00:00:00",
+      85,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 04 1949 00:00:00",
+      71,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 05 1949 00:00:00",
+      79,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 06 1949 00:00:00",
+      78,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 07 1949 00:00:00",
+      62,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 08 1949 00:00:00",
+      83,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 09 1949 00:00:00",
+      54,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 10 1949 00:00:00",
+      13,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 11 1949 00:00:00",
+      52,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 12 1949 00:00:00",
+      63,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 13 1949 00:00:00",
+      60,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 14 1949 00:00:00",
+      31,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 15 1949 00:00:00",
+      77,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 16 1949 00:00:00",
+      53,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 17 1949 00:00:00",
+      122,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 18 1949 00:00:00",
+      59,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 19 1949 00:00:00",
+      31,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 20 1949 00:00:00",
+      51,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 21 1949 00:00:00",
+      41,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 22 1949 00:00:00",
+      50,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 23 1949 00:00:00",
+      61,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 24 1949 00:00:00",
+      272,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 25 1949 00:00:00",
+      151,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 26 1949 00:00:00",
+      105,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 27 1949 00:00:00",
+      147,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 28 1949 00:00:00",
+      93,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 29 1949 00:00:00",
+      100,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 30 1949 00:00:00",
+      71,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "July, 31 1949 00:00:00",
+      65,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 01 1949 00:00:00",
+      60,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 02 1949 00:00:00",
+      47,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 03 1949 00:00:00",
+      41,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 04 1949 00:00:00",
+      31,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 05 1949 00:00:00",
+      32,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 06 1949 00:00:00",
+      24,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 07 1949 00:00:00",
+      22,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 08 1949 00:00:00",
+      10,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 09 1949 00:00:00",
+      14,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 10 1949 00:00:00",
+      31,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 11 1949 00:00:00",
+      10,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 12 1949 00:00:00",
+      18,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 13 1949 00:00:00",
+      7,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 14 1949 00:00:00",
+      16,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 15 1949 00:00:00",
+      15,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 16 1949 00:00:00",
+      10,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 17 1949 00:00:00",
+      13,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 18 1949 00:00:00",
+      8,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 19 1949 00:00:00",
+      15,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 20 1949 00:00:00",
+      9,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 21 1949 00:00:00",
+      7,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 22 1949 00:00:00",
+      7,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 23 1949 00:00:00",
+      11,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 24 1949 00:00:00",
+      9,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 25 1949 00:00:00",
+      7,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 26 1949 00:00:00",
+      9,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 27 1949 00:00:00",
+      1,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 28 1949 00:00:00",
+      3,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 29 1949 00:00:00",
+      2,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 30 1949 00:00:00",
+      3,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "August, 31 1949 00:00:00",
+      3,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "September, 01 1949 00:00:00",
+      1,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "September, 02 1949 00:00:00",
+      2,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "September, 03 1949 00:00:00",
+      1,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "September, 04 1949 00:00:00",
+      0,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "September, 05 1949 00:00:00",
+      0,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "September, 06 1949 00:00:00",
+      1,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      1949,
+      "September, 07 1949 00:00:00",
+      1,
+      430,
+      2400,
+      "Chignik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "430",
+    "year": "1949",
+    "totalRecords": 79,
+    "totalCount": 3007,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.339747"
+  }
+}

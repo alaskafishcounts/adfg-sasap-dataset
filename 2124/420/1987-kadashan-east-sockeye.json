@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "August, 11 1987 00:00:00",
+      1,
+      420,
+      2124,
+      "Kadashan East",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 19 1987 00:00:00",
+      1,
+      420,
+      2124,
+      "Kadashan East",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2124,
+    "species_id": "410",
+    "year": "1987",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.581991"
+  }
+}

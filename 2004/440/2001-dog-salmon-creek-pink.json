@@ -1,0 +1,922 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "June, 23 2001 00:00:00",
+      3,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "June, 24 2001 00:00:00",
+      9,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "June, 25 2001 00:00:00",
+      3,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "June, 26 2001 00:00:00",
+      1,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "June, 27 2001 00:00:00",
+      7,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "June, 28 2001 00:00:00",
+      1,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "June, 29 2001 00:00:00",
+      5,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "June, 30 2001 00:00:00",
+      7,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 01 2001 00:00:00",
+      33,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 02 2001 00:00:00",
+      63,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 03 2001 00:00:00",
+      35,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 04 2001 00:00:00",
+      140,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 05 2001 00:00:00",
+      177,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 06 2001 00:00:00",
+      104,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 07 2001 00:00:00",
+      229,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 08 2001 00:00:00",
+      73,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 09 2001 00:00:00",
+      525,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      185,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      344,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      1795,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      213,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      427,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      123,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      442,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      860,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      412,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      2323,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      3201,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      2207,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      1226,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      1935,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      3731,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 26 2001 00:00:00",
+      1396,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      4731,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      3552,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      4209,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      1728,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      6979,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      2288,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      1255,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 03 2001 00:00:00",
+      2546,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 04 2001 00:00:00",
+      1941,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 05 2001 00:00:00",
+      1670,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 06 2001 00:00:00",
+      748,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 07 2001 00:00:00",
+      2481,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 08 2001 00:00:00",
+      798,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 09 2001 00:00:00",
+      973,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 10 2001 00:00:00",
+      1359,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      668,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 12 2001 00:00:00",
+      751,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      536,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 14 2001 00:00:00",
+      765,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 15 2001 00:00:00",
+      343,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      1433,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      1932,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      646,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      701,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      1538,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      208,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      152,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      96,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      108,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      3000,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 01 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 02 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 04 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 06 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 07 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 09 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 11 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 22 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 23 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 25 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 26 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 27 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 28 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 29 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 30 2001 00:00:00",
+      0,
+      420,
+      2004,
+      "Dog Salmon Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2004,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 100,
+    "totalCount": 72370,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.147337"
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "August, 20 2009 00:00:00",
+      1,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 21 2009 00:00:00",
+      4,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 22 2009 00:00:00",
+      33,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 23 2009 00:00:00",
+      12,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 24 2009 00:00:00",
+      135,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 25 2009 00:00:00",
+      133,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 26 2009 00:00:00",
+      82,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 27 2009 00:00:00",
+      23,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 28 2009 00:00:00",
+      117,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 29 2009 00:00:00",
+      111,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 30 2009 00:00:00",
+      49,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 31 2009 00:00:00",
+      41,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 01 2009 00:00:00",
+      23,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 02 2009 00:00:00",
+      38,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 03 2009 00:00:00",
+      46,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 04 2009 00:00:00",
+      628,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 05 2009 00:00:00",
+      55,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 06 2009 00:00:00",
+      175,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 07 2009 00:00:00",
+      78,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 08 2009 00:00:00",
+      359,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 09 2009 00:00:00",
+      825,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 10 2009 00:00:00",
+      794,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 11 2009 00:00:00",
+      839,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 12 2009 00:00:00",
+      168,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 13 2009 00:00:00",
+      225,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 14 2009 00:00:00",
+      564,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 15 2009 00:00:00",
+      613,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 16 2009 00:00:00",
+      3095,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 17 2009 00:00:00",
+      752,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 18 2009 00:00:00",
+      1765,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 19 2009 00:00:00",
+      1181,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 20 2009 00:00:00",
+      285,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 21 2009 00:00:00",
+      2241,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 22 2009 00:00:00",
+      4040,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 23 2009 00:00:00",
+      220,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 24 2009 00:00:00",
+      404,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 25 2009 00:00:00",
+      459,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 26 2009 00:00:00",
+      28,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 27 2009 00:00:00",
+      96,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 28 2009 00:00:00",
+      162,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 29 2009 00:00:00",
+      197,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 30 2009 00:00:00",
+      79,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 01 2009 00:00:00",
+      66,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 02 2009 00:00:00",
+      147,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 03 2009 00:00:00",
+      1738,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 04 2009 00:00:00",
+      17,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 05 2009 00:00:00",
+      1094,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 06 2009 00:00:00",
+      3146,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 07 2009 00:00:00",
+      732,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 08 2009 00:00:00",
+      1035,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 09 2009 00:00:00",
+      772,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 10 2009 00:00:00",
+      9847,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 11 2009 00:00:00",
+      2604,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 12 2009 00:00:00",
+      4557,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 13 2009 00:00:00",
+      1307,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 14 2009 00:00:00",
+      547,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 15 2009 00:00:00",
+      306,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 16 2009 00:00:00",
+      690,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 17 2009 00:00:00",
+      1456,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 18 2009 00:00:00",
+      622,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 19 2009 00:00:00",
+      216,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 20 2009 00:00:00",
+      297,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 21 2009 00:00:00",
+      2212,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 22 2009 00:00:00",
+      227,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 23 2009 00:00:00",
+      396,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 24 2009 00:00:00",
+      84,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 25 2009 00:00:00",
+      121,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 26 2009 00:00:00",
+      25,
+      450,
+      2128,
+      "Disappearance Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2128,
+    "species_id": "450",
+    "year": "2009",
+    "totalRecords": 68,
+    "totalCount": 55436,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.526133"
+  }
+}

@@ -1,0 +1,877 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1942,
+      "May, 20 1942 00:00:00",
+      5,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 21 1942 00:00:00",
+      216,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 22 1942 00:00:00",
+      857,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 23 1942 00:00:00",
+      729,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 24 1942 00:00:00",
+      905,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 25 1942 00:00:00",
+      201,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 26 1942 00:00:00",
+      654,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 27 1942 00:00:00",
+      2245,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 28 1942 00:00:00",
+      1490,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 29 1942 00:00:00",
+      1277,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 30 1942 00:00:00",
+      2341,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "May, 31 1942 00:00:00",
+      558,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 01 1942 00:00:00",
+      867,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 02 1942 00:00:00",
+      1552,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 03 1942 00:00:00",
+      1849,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 04 1942 00:00:00",
+      15405,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 05 1942 00:00:00",
+      11676,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 06 1942 00:00:00",
+      5132,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 07 1942 00:00:00",
+      6322,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 08 1942 00:00:00",
+      5862,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 09 1942 00:00:00",
+      7251,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 10 1942 00:00:00",
+      9530,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 11 1942 00:00:00",
+      7340,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 12 1942 00:00:00",
+      8188,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 13 1942 00:00:00",
+      2392,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 14 1942 00:00:00",
+      2678,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 15 1942 00:00:00",
+      2700,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 16 1942 00:00:00",
+      6022,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 17 1942 00:00:00",
+      5982,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 18 1942 00:00:00",
+      8675,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 19 1942 00:00:00",
+      6790,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 20 1942 00:00:00",
+      9052,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 21 1942 00:00:00",
+      8554,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 22 1942 00:00:00",
+      7266,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 23 1942 00:00:00",
+      8359,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 24 1942 00:00:00",
+      2426,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 25 1942 00:00:00",
+      3909,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 26 1942 00:00:00",
+      2395,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 27 1942 00:00:00",
+      2855,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 28 1942 00:00:00",
+      2788,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 29 1942 00:00:00",
+      4851,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "June, 30 1942 00:00:00",
+      3601,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 01 1942 00:00:00",
+      1765,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 02 1942 00:00:00",
+      2236,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 03 1942 00:00:00",
+      2741,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 04 1942 00:00:00",
+      1726,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 05 1942 00:00:00",
+      3285,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 06 1942 00:00:00",
+      4482,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 07 1942 00:00:00",
+      2794,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 08 1942 00:00:00",
+      3427,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 09 1942 00:00:00",
+      241,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 10 1942 00:00:00",
+      2999,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 11 1942 00:00:00",
+      1289,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 12 1942 00:00:00",
+      3207,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 13 1942 00:00:00",
+      3536,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 14 1942 00:00:00",
+      3421,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 15 1942 00:00:00",
+      2225,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 16 1942 00:00:00",
+      2284,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 17 1942 00:00:00",
+      4552,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 18 1942 00:00:00",
+      2641,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 19 1942 00:00:00",
+      2052,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 20 1942 00:00:00",
+      2510,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 21 1942 00:00:00",
+      1652,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 22 1942 00:00:00",
+      2525,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 23 1942 00:00:00",
+      2781,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 24 1942 00:00:00",
+      1755,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 25 1942 00:00:00",
+      2520,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 26 1942 00:00:00",
+      2260,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 27 1942 00:00:00",
+      2326,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 28 1942 00:00:00",
+      2107,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 29 1942 00:00:00",
+      1864,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 30 1942 00:00:00",
+      2110,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "July, 31 1942 00:00:00",
+      1899,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 01 1942 00:00:00",
+      1129,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 02 1942 00:00:00",
+      2480,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 03 1942 00:00:00",
+      2864,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 04 1942 00:00:00",
+      1328,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 05 1942 00:00:00",
+      1694,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 06 1942 00:00:00",
+      1233,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 07 1942 00:00:00",
+      1928,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 08 1942 00:00:00",
+      834,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 09 1942 00:00:00",
+      1134,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 10 1942 00:00:00",
+      623,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 11 1942 00:00:00",
+      507,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 12 1942 00:00:00",
+      1028,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 13 1942 00:00:00",
+      1866,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 14 1942 00:00:00",
+      1632,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 15 1942 00:00:00",
+      1285,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 16 1942 00:00:00",
+      873,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 17 1942 00:00:00",
+      539,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 18 1942 00:00:00",
+      254,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 19 1942 00:00:00",
+      217,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 20 1942 00:00:00",
+      336,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 21 1942 00:00:00",
+      167,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1942,
+      "August, 22 1942 00:00:00",
+      135,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "1942",
+    "totalRecords": 95,
+    "totalCount": 285045,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.042000"
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 05 2003 00:00:00",
+      588,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 06 2003 00:00:00",
+      635,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 07 2003 00:00:00",
+      232,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 08 2003 00:00:00",
+      335,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 09 2003 00:00:00",
+      538,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 15 2003 00:00:00",
+      469,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      283,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      148,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      144,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      142,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 02 2003 00:00:00",
+      518,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 03 2003 00:00:00",
+      656,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 04 2003 00:00:00",
+      704,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 05 2003 00:00:00",
+      1241,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 06 2003 00:00:00",
+      929,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 07 2003 00:00:00",
+      1410,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 08 2003 00:00:00",
+      1272,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 09 2003 00:00:00",
+      4836,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      877,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      5818,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      2895,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      671,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      4313,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      6853,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      11428,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      9659,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      4905,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      6199,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      4405,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      6422,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      6290,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      6465,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      7829,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      7977,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      5540,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      4786,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      3892,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 29 2003 00:00:00",
+      968,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 30 2003 00:00:00",
+      1254,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      954,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 01 2003 00:00:00",
+      5845,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 02 2003 00:00:00",
+      2548,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 03 2003 00:00:00",
+      2075,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 04 2003 00:00:00",
+      2070,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 05 2003 00:00:00",
+      897,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 06 2003 00:00:00",
+      1633,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 08 2003 00:00:00",
+      1072,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 09 2003 00:00:00",
+      2251,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 10 2003 00:00:00",
+      2427,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 12 2003 00:00:00",
+      3434,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 13 2003 00:00:00",
+      1445,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      1819,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      4117,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      1739,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      411,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      709,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      1124,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      159,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      911,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      1329,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      540,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 24 2003 00:00:00",
+      247,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 27 2003 00:00:00",
+      1513,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 28 2003 00:00:00",
+      706,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 29 2003 00:00:00",
+      108,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 30 2003 00:00:00",
+      1683,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      2003,
+      "August, 31 2003 00:00:00",
+      1131,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "520",
+    "year": "2003",
+    "totalRecords": 67,
+    "totalCount": 169423,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.735731"
+  }
+}

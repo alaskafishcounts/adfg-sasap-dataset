@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "August, 23 1987 00:00:00",
+      36,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "August, 24 1987 00:00:00",
+      67,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "August, 25 1987 00:00:00",
+      22,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "August, 26 1987 00:00:00",
+      50,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "August, 29 1987 00:00:00",
+      4,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "August, 30 1987 00:00:00",
+      17,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "August, 31 1987 00:00:00",
+      7,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 01 1987 00:00:00",
+      4,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 03 1987 00:00:00",
+      7,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 04 1987 00:00:00",
+      6,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 05 1987 00:00:00",
+      1,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 06 1987 00:00:00",
+      2,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 09 1987 00:00:00",
+      2,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 13 1987 00:00:00",
+      5,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 14 1987 00:00:00",
+      7,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ],
+    [
+      1987,
+      "September, 19 1987 00:00:00",
+      1,
+      420,
+      2150,
+      "Yehring",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2150,
+    "species_id": "420",
+    "year": "1987",
+    "totalRecords": 16,
+    "totalCount": 238,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.376353"
+  }
+}

@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "June, 26 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "June, 27 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "June, 28 1992 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "June, 29 1992 00:00:00",
+      4,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "June, 30 1992 00:00:00",
+      17,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 01 1992 00:00:00",
+      44,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 02 1992 00:00:00",
+      255,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 03 1992 00:00:00",
+      387,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 04 1992 00:00:00",
+      163,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 05 1992 00:00:00",
+      235,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 06 1992 00:00:00",
+      74,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 07 1992 00:00:00",
+      145,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 08 1992 00:00:00",
+      138,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 09 1992 00:00:00",
+      817,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 10 1992 00:00:00",
+      325,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 11 1992 00:00:00",
+      431,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 12 1992 00:00:00",
+      485,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 13 1992 00:00:00",
+      138,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 14 1992 00:00:00",
+      305,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 15 1992 00:00:00",
+      408,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 16 1992 00:00:00",
+      165,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 17 1992 00:00:00",
+      326,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 18 1992 00:00:00",
+      280,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 19 1992 00:00:00",
+      195,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 20 1992 00:00:00",
+      144,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 21 1992 00:00:00",
+      167,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 22 1992 00:00:00",
+      165,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 23 1992 00:00:00",
+      159,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 24 1992 00:00:00",
+      103,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 25 1992 00:00:00",
+      84,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 26 1992 00:00:00",
+      33,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 27 1992 00:00:00",
+      26,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 28 1992 00:00:00",
+      27,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 29 1992 00:00:00",
+      30,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 30 1992 00:00:00",
+      20,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "July, 31 1992 00:00:00",
+      21,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 01 1992 00:00:00",
+      17,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 02 1992 00:00:00",
+      25,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 03 1992 00:00:00",
+      10,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 04 1992 00:00:00",
+      28,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 05 1992 00:00:00",
+      24,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 06 1992 00:00:00",
+      21,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 07 1992 00:00:00",
+      19,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 08 1992 00:00:00",
+      16,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 09 1992 00:00:00",
+      15,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 10 1992 00:00:00",
+      7,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 11 1992 00:00:00",
+      7,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 12 1992 00:00:00",
+      7,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 13 1992 00:00:00",
+      8,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 14 1992 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 15 1992 00:00:00",
+      5,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 16 1992 00:00:00",
+      9,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 17 1992 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 18 1992 00:00:00",
+      4,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 19 1992 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 20 1992 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 21 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 22 1992 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 23 1992 00:00:00",
+      3,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 24 1992 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 25 1992 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 26 1992 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 27 1992 00:00:00",
+      2,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 28 1992 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 29 1992 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 30 1992 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "August, 31 1992 00:00:00",
+      1,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 01 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 02 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 03 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 04 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 05 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 06 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 07 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 08 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 09 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 10 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 11 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 12 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 13 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 14 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 15 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 16 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 17 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 18 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 19 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 20 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 21 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 22 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 23 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 24 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "September, 25 1992 00:00:00",
+      0,
+      430,
+      2200,
+      "Kogrukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2200,
+    "species_id": "430",
+    "year": "1992",
+    "totalRecords": 92,
+    "totalCount": 6563,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:48.248051"
+  }
+}

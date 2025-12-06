@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "July, 26 1997 00:00:00",
+      3,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 27 1997 00:00:00",
+      3,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 28 1997 00:00:00",
+      4,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 30 1997 00:00:00",
+      5,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 01 1997 00:00:00",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 02 1997 00:00:00",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 03 1997 00:00:00",
+      1,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 04 1997 00:00:00",
+      12,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 05 1997 00:00:00",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 07 1997 00:00:00",
+      2,
+      450,
+      2107,
+      "Situk Lower",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "450",
+    "year": "1997",
+    "totalRecords": 10,
+    "totalCount": 35,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.190542"
+  }
+}

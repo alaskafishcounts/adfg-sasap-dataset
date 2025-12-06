@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "August, 05 2002 00:00:00",
+      2,
+      430,
+      2100,
+      "Hugh Smith",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 06 2002 00:00:00",
+      1,
+      430,
+      2100,
+      "Hugh Smith",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      1,
+      430,
+      2100,
+      "Hugh Smith",
+      "Chinook"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      1,
+      430,
+      2100,
+      "Hugh Smith",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 4,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.979912"
+  }
+}

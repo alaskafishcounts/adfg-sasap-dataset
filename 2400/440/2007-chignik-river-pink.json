@@ -1,0 +1,922 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 19 2007 00:00:00",
+      18,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 20 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 21 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 22 2007 00:00:00",
+      6,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 23 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 24 2007 00:00:00",
+      6,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 25 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 26 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 27 2007 00:00:00",
+      6,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 28 2007 00:00:00",
+      5,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 29 2007 00:00:00",
+      18,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 30 2007 00:00:00",
+      6,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 01 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 02 2007 00:00:00",
+      12,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 03 2007 00:00:00",
+      12,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 04 2007 00:00:00",
+      18,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 05 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 06 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 07 2007 00:00:00",
+      18,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 08 2007 00:00:00",
+      12,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 09 2007 00:00:00",
+      6,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 10 2007 00:00:00",
+      18,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 11 2007 00:00:00",
+      18,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 12 2007 00:00:00",
+      48,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 13 2007 00:00:00",
+      18,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      7,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      7,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      25,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      24,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      54,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 19 2007 00:00:00",
+      44,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 20 2007 00:00:00",
+      66,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 21 2007 00:00:00",
+      54,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      24,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 23 2007 00:00:00",
+      63,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      149,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      32,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      138,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      74,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      131,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      60,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      31,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 31 2007 00:00:00",
+      91,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      121,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      100,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      55,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      162,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 05 2007 00:00:00",
+      126,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 06 2007 00:00:00",
+      174,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 07 2007 00:00:00",
+      162,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 08 2007 00:00:00",
+      160,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 09 2007 00:00:00",
+      132,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      146,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      216,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      163,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      242,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 14 2007 00:00:00",
+      364,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      400,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 16 2007 00:00:00",
+      636,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 17 2007 00:00:00",
+      1404,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 18 2007 00:00:00",
+      1092,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 19 2007 00:00:00",
+      2330,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 20 2007 00:00:00",
+      612,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      744,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      430,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      384,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 24 2007 00:00:00",
+      601,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 25 2007 00:00:00",
+      972,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 26 2007 00:00:00",
+      2720,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 27 2007 00:00:00",
+      1057,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 28 2007 00:00:00",
+      684,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 29 2007 00:00:00",
+      666,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 30 2007 00:00:00",
+      708,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 31 2007 00:00:00",
+      318,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 01 2007 00:00:00",
+      376,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 02 2007 00:00:00",
+      312,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 03 2007 00:00:00",
+      376,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 04 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 05 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 06 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 07 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 08 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 09 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 10 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 11 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 12 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 13 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 14 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 15 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 16 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 17 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 18 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 19 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 20 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 21 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 22 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 23 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 24 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 25 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 26 2007 00:00:00",
+      0,
+      420,
+      2400,
+      "Chignik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "420",
+    "year": "2007",
+    "totalRecords": 100,
+    "totalCount": 20464,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.438849"
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "July, 06 1983 00:00:00",
+      6,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 07 1983 00:00:00",
+      41,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 08 1983 00:00:00",
+      11,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 09 1983 00:00:00",
+      17,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 10 1983 00:00:00",
+      12,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 11 1983 00:00:00",
+      11,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 12 1983 00:00:00",
+      32,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 13 1983 00:00:00",
+      36,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 14 1983 00:00:00",
+      44,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 15 1983 00:00:00",
+      28,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 16 1983 00:00:00",
+      50,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 17 1983 00:00:00",
+      168,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 18 1983 00:00:00",
+      107,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 19 1983 00:00:00",
+      138,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 20 1983 00:00:00",
+      103,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 21 1983 00:00:00",
+      47,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 22 1983 00:00:00",
+      43,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 23 1983 00:00:00",
+      40,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 24 1983 00:00:00",
+      33,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 25 1983 00:00:00",
+      35,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 26 1983 00:00:00",
+      441,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 27 1983 00:00:00",
+      454,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 28 1983 00:00:00",
+      170,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 29 1983 00:00:00",
+      181,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 30 1983 00:00:00",
+      237,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "July, 31 1983 00:00:00",
+      235,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 01 1983 00:00:00",
+      102,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 02 1983 00:00:00",
+      248,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 03 1983 00:00:00",
+      267,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 04 1983 00:00:00",
+      252,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 05 1983 00:00:00",
+      227,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 06 1983 00:00:00",
+      240,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 07 1983 00:00:00",
+      223,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 08 1983 00:00:00",
+      664,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 09 1983 00:00:00",
+      1790,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 10 1983 00:00:00",
+      615,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 11 1983 00:00:00",
+      173,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 12 1983 00:00:00",
+      81,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 13 1983 00:00:00",
+      142,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 14 1983 00:00:00",
+      58,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 15 1983 00:00:00",
+      80,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 16 1983 00:00:00",
+      88,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 17 1983 00:00:00",
+      116,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 18 1983 00:00:00",
+      101,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 19 1983 00:00:00",
+      111,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 20 1983 00:00:00",
+      63,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 21 1983 00:00:00",
+      127,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 22 1983 00:00:00",
+      436,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 23 1983 00:00:00",
+      62,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 24 1983 00:00:00",
+      74,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 25 1983 00:00:00",
+      52,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 26 1983 00:00:00",
+      23,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 27 1983 00:00:00",
+      34,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 28 1983 00:00:00",
+      37,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 29 1983 00:00:00",
+      66,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 30 1983 00:00:00",
+      211,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "August, 31 1983 00:00:00",
+      243,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 01 1983 00:00:00",
+      218,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 02 1983 00:00:00",
+      28,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 03 1983 00:00:00",
+      28,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 04 1983 00:00:00",
+      54,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 05 1983 00:00:00",
+      82,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 06 1983 00:00:00",
+      56,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 07 1983 00:00:00",
+      138,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 08 1983 00:00:00",
+      120,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 09 1983 00:00:00",
+      91,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 10 1983 00:00:00",
+      196,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 11 1983 00:00:00",
+      34,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 12 1983 00:00:00",
+      75,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 13 1983 00:00:00",
+      89,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 14 1983 00:00:00",
+      41,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 15 1983 00:00:00",
+      29,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 16 1983 00:00:00",
+      65,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 17 1983 00:00:00",
+      40,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 18 1983 00:00:00",
+      35,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 19 1983 00:00:00",
+      33,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 20 1983 00:00:00",
+      17,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 21 1983 00:00:00",
+      11,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 22 1983 00:00:00",
+      10,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 23 1983 00:00:00",
+      5,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 28 1983 00:00:00",
+      6,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 29 1983 00:00:00",
+      5,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "September, 30 1983 00:00:00",
+      3,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ],
+    [
+      1983,
+      "October, 01 1983 00:00:00",
+      2,
+      440,
+      2102,
+      "Chilkoot Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "420",
+    "year": "1983",
+    "totalRecords": 84,
+    "totalCount": 11237,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.992430"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1927,
+      "July, 02 1927 00:00:00",
+      1,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "July, 09 1927 00:00:00",
+      12,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "July, 16 1927 00:00:00",
+      10,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "July, 23 1927 00:00:00",
+      5,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "July, 30 1927 00:00:00",
+      14,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "August, 06 1927 00:00:00",
+      5,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "August, 13 1927 00:00:00",
+      5,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "August, 27 1927 00:00:00",
+      7,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "September, 03 1927 00:00:00",
+      1,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "September, 10 1927 00:00:00",
+      6,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ],
+    [
+      1927,
+      "September, 17 1927 00:00:00",
+      1,
+      410,
+      2133,
+      "Anan Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2133,
+    "species_id": "430",
+    "year": "1927",
+    "totalRecords": 11,
+    "totalCount": 67,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.290448"
+  }
+}

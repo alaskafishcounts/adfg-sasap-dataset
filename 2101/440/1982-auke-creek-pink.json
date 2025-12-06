@@ -1,0 +1,382 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      73,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      17,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      13,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      125,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      22,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      118,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      59,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 20 1982 00:00:00",
+      58,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      195,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      380,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 25 1982 00:00:00",
+      545,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 26 1982 00:00:00",
+      1375,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      1720,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      526,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      13,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      567,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      588,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      634,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      1191,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      401,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      224,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      143,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      80,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      96,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      157,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      116,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      69,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 14 1982 00:00:00",
+      161,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      579,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      79,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      68,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      101,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      38,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      40,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 22 1982 00:00:00",
+      28,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      32,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 24 1982 00:00:00",
+      25,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 25 1982 00:00:00",
+      6,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 28 1982 00:00:00",
+      2,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 29 1982 00:00:00",
+      1,
+      420,
+      2101,
+      "Auke Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 40,
+    "totalCount": 10665,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.421650"
+  }
+}

@@ -1,0 +1,787 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1954,
+      "May, 29 1954 00:00:00",
+      28,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "May, 30 1954 00:00:00",
+      173,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "May, 31 1954 00:00:00",
+      101,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 01 1954 00:00:00",
+      102,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 02 1954 00:00:00",
+      188,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 03 1954 00:00:00",
+      190,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 04 1954 00:00:00",
+      678,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 05 1954 00:00:00",
+      1114,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 06 1954 00:00:00",
+      1119,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 07 1954 00:00:00",
+      561,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 08 1954 00:00:00",
+      1290,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 09 1954 00:00:00",
+      683,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 10 1954 00:00:00",
+      1141,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 11 1954 00:00:00",
+      916,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 12 1954 00:00:00",
+      1502,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 13 1954 00:00:00",
+      431,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 14 1954 00:00:00",
+      731,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 15 1954 00:00:00",
+      1239,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 16 1954 00:00:00",
+      2215,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 17 1954 00:00:00",
+      1114,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 18 1954 00:00:00",
+      808,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 19 1954 00:00:00",
+      503,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 20 1954 00:00:00",
+      2307,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 21 1954 00:00:00",
+      1329,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 22 1954 00:00:00",
+      565,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 23 1954 00:00:00",
+      1375,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 24 1954 00:00:00",
+      1328,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 25 1954 00:00:00",
+      586,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 26 1954 00:00:00",
+      1020,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 27 1954 00:00:00",
+      1100,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 28 1954 00:00:00",
+      566,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 29 1954 00:00:00",
+      344,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "June, 30 1954 00:00:00",
+      435,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 01 1954 00:00:00",
+      472,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 02 1954 00:00:00",
+      354,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 03 1954 00:00:00",
+      303,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 04 1954 00:00:00",
+      222,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 05 1954 00:00:00",
+      233,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 06 1954 00:00:00",
+      87,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 07 1954 00:00:00",
+      333,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 08 1954 00:00:00",
+      355,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 09 1954 00:00:00",
+      60,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 10 1954 00:00:00",
+      70,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 11 1954 00:00:00",
+      241,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 12 1954 00:00:00",
+      270,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 13 1954 00:00:00",
+      38,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 14 1954 00:00:00",
+      37,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 15 1954 00:00:00",
+      12,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 16 1954 00:00:00",
+      8,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 17 1954 00:00:00",
+      11,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 18 1954 00:00:00",
+      57,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 19 1954 00:00:00",
+      12,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 20 1954 00:00:00",
+      7,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 21 1954 00:00:00",
+      69,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 22 1954 00:00:00",
+      30,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 23 1954 00:00:00",
+      20,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 24 1954 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 25 1954 00:00:00",
+      13,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 26 1954 00:00:00",
+      27,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 27 1954 00:00:00",
+      16,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 28 1954 00:00:00",
+      73,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 29 1954 00:00:00",
+      302,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 30 1954 00:00:00",
+      265,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "July, 31 1954 00:00:00",
+      1345,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 01 1954 00:00:00",
+      55,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 02 1954 00:00:00",
+      161,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 03 1954 00:00:00",
+      1001,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 04 1954 00:00:00",
+      197,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 05 1954 00:00:00",
+      775,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 06 1954 00:00:00",
+      25,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 07 1954 00:00:00",
+      253,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 08 1954 00:00:00",
+      1918,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 09 1954 00:00:00",
+      1626,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 10 1954 00:00:00",
+      5155,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 11 1954 00:00:00",
+      1600,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 12 1954 00:00:00",
+      85,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 13 1954 00:00:00",
+      106,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 14 1954 00:00:00",
+      1769,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 15 1954 00:00:00",
+      552,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 16 1954 00:00:00",
+      2410,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 17 1954 00:00:00",
+      6852,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 18 1954 00:00:00",
+      4165,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 19 1954 00:00:00",
+      3500,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 20 1954 00:00:00",
+      6688,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1954,
+      "August, 21 1954 00:00:00",
+      3333,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1954",
+    "totalRecords": 85,
+    "totalCount": 75353,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.316978"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "July, 06 1995 00:00:00",
+      682,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "July, 07 1995 00:00:00",
+      495,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "July, 15 1995 00:00:00",
+      1657,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "July, 16 1995 00:00:00",
+      459,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "July, 17 1995 00:00:00",
+      291,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "July, 18 1995 00:00:00",
+      1784,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "July, 22 1995 00:00:00",
+      484,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "July, 27 1995 00:00:00",
+      7518,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "August, 13 1995 00:00:00",
+      2525,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "August, 14 1995 00:00:00",
+      1966,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      1784,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      3452,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      1577,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "August, 26 1995 00:00:00",
+      512,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "August, 28 1995 00:00:00",
+      991,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ],
+    [
+      1995,
+      "September, 02 1995 00:00:00",
+      1611,
+      520,
+      2500,
+      "Pilot Station Sonar",
+      "Whitefish, Humpback"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "520",
+    "year": "1995",
+    "totalRecords": 16,
+    "totalCount": 27788,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.729544"
+  }
+}

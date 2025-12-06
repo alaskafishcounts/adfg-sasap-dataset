@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "September, 28 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "September, 29 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "October, 02 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "October, 06 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "October, 11 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "October, 18 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "October, 26 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "October, 27 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ],
+    [
+      1983,
+      "October, 28 1983 00:00:00",
+      1,
+      480,
+      2157,
+      "Politofski Lake",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2157,
+    "species_id": "480",
+    "year": "1983",
+    "totalRecords": 9,
+    "totalCount": 9,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.358084"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "July, 15 1980 00:00:00",
+      2,
+      440,
+      2132,
+      "Andrews Creek",
+      "Pink"
+    ],
+    [
+      1980,
+      "July, 17 1980 00:00:00",
+      1,
+      440,
+      2132,
+      "Andrews Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2132,
+    "species_id": "420",
+    "year": "1980",
+    "totalRecords": 2,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.468398"
+  }
+}

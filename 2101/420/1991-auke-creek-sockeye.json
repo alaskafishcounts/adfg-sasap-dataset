@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "July, 03 1991 00:00:00",
+      266,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 04 1991 00:00:00",
+      169,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 05 1991 00:00:00",
+      120,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 06 1991 00:00:00",
+      23,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 08 1991 00:00:00",
+      2,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      282,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      559,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      257,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      58,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      29,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      202,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      209,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      41,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      8,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      70,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      89,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      145,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      1004,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      628,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 31 1991 00:00:00",
+      96,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 01 1991 00:00:00",
+      21,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 02 1991 00:00:00",
+      566,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 03 1991 00:00:00",
+      253,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 04 1991 00:00:00",
+      112,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 05 1991 00:00:00",
+      41,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 06 1991 00:00:00",
+      17,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 07 1991 00:00:00",
+      16,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 08 1991 00:00:00",
+      29,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 09 1991 00:00:00",
+      16,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 10 1991 00:00:00",
+      14,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 11 1991 00:00:00",
+      12,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 12 1991 00:00:00",
+      29,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 13 1991 00:00:00",
+      11,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 14 1991 00:00:00",
+      9,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 15 1991 00:00:00",
+      3,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 16 1991 00:00:00",
+      4,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 17 1991 00:00:00",
+      6,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 18 1991 00:00:00",
+      4,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 19 1991 00:00:00",
+      4,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 20 1991 00:00:00",
+      85,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 21 1991 00:00:00",
+      22,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 22 1991 00:00:00",
+      12,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 23 1991 00:00:00",
+      8,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 24 1991 00:00:00",
+      6,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 25 1991 00:00:00",
+      6,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 26 1991 00:00:00",
+      6,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 27 1991 00:00:00",
+      3,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 28 1991 00:00:00",
+      1,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 29 1991 00:00:00",
+      4,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 31 1991 00:00:00",
+      2,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 01 1991 00:00:00",
+      2,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 02 1991 00:00:00",
+      1,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 03 1991 00:00:00",
+      2,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 04 1991 00:00:00",
+      2,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 05 1991 00:00:00",
+      3,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 08 1991 00:00:00",
+      1,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 09 1991 00:00:00",
+      1,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 10 1991 00:00:00",
+      1,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 11 1991 00:00:00",
+      3,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 13 1991 00:00:00",
+      3,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 23 1991 00:00:00",
+      2,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "October, 01 1991 00:00:00",
+      1,
+      410,
+      2101,
+      "Auke Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "410",
+    "year": "1991",
+    "totalRecords": 62,
+    "totalCount": 5601,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.400610"
+  }
+}

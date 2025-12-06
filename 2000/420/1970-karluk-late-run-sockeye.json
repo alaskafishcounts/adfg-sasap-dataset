@@ -1,0 +1,823 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1970,
+      "July, 16 1970 00:00:00",
+      208,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 17 1970 00:00:00",
+      221,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 18 1970 00:00:00",
+      368,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 19 1970 00:00:00",
+      252,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 20 1970 00:00:00",
+      228,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 21 1970 00:00:00",
+      100,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 22 1970 00:00:00",
+      54,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 23 1970 00:00:00",
+      213,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 24 1970 00:00:00",
+      79,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 25 1970 00:00:00",
+      106,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 26 1970 00:00:00",
+      81,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 27 1970 00:00:00",
+      29,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 28 1970 00:00:00",
+      136,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 29 1970 00:00:00",
+      264,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 30 1970 00:00:00",
+      266,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "July, 31 1970 00:00:00",
+      315,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 01 1970 00:00:00",
+      66,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 02 1970 00:00:00",
+      46,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 03 1970 00:00:00",
+      198,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 04 1970 00:00:00",
+      271,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 05 1970 00:00:00",
+      259,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 06 1970 00:00:00",
+      319,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 07 1970 00:00:00",
+      165,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 08 1970 00:00:00",
+      353,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 09 1970 00:00:00",
+      161,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 10 1970 00:00:00",
+      197,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 11 1970 00:00:00",
+      86,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 12 1970 00:00:00",
+      147,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 13 1970 00:00:00",
+      258,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 14 1970 00:00:00",
+      81,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 15 1970 00:00:00",
+      146,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 16 1970 00:00:00",
+      167,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 17 1970 00:00:00",
+      260,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 18 1970 00:00:00",
+      160,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 19 1970 00:00:00",
+      118,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 20 1970 00:00:00",
+      146,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 21 1970 00:00:00",
+      76,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 22 1970 00:00:00",
+      73,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 23 1970 00:00:00",
+      176,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 24 1970 00:00:00",
+      37,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 25 1970 00:00:00",
+      57,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 26 1970 00:00:00",
+      80,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 27 1970 00:00:00",
+      163,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 28 1970 00:00:00",
+      303,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 29 1970 00:00:00",
+      603,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 30 1970 00:00:00",
+      1153,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "August, 31 1970 00:00:00",
+      1821,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 01 1970 00:00:00",
+      3619,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 02 1970 00:00:00",
+      6326,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 03 1970 00:00:00",
+      7074,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 04 1970 00:00:00",
+      9538,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 05 1970 00:00:00",
+      8326,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 06 1970 00:00:00",
+      7964,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 07 1970 00:00:00",
+      14749,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 08 1970 00:00:00",
+      26300,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 09 1970 00:00:00",
+      22310,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 10 1970 00:00:00",
+      5584,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 11 1970 00:00:00",
+      3620,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 12 1970 00:00:00",
+      3790,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 13 1970 00:00:00",
+      1693,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 14 1970 00:00:00",
+      10266,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 15 1970 00:00:00",
+      23084,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 16 1970 00:00:00",
+      16067,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 17 1970 00:00:00",
+      1926,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 18 1970 00:00:00",
+      1276,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 19 1970 00:00:00",
+      3142,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 20 1970 00:00:00",
+      1481,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 21 1970 00:00:00",
+      794,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 22 1970 00:00:00",
+      622,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 23 1970 00:00:00",
+      176,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 24 1970 00:00:00",
+      116,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 25 1970 00:00:00",
+      234,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 26 1970 00:00:00",
+      24,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 27 1970 00:00:00",
+      43,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 28 1970 00:00:00",
+      623,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 29 1970 00:00:00",
+      327,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "September, 30 1970 00:00:00",
+      131,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 01 1970 00:00:00",
+      18,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 02 1970 00:00:00",
+      347,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 03 1970 00:00:00",
+      89,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 04 1970 00:00:00",
+      173,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 05 1970 00:00:00",
+      123,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 06 1970 00:00:00",
+      512,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 07 1970 00:00:00",
+      565,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 08 1970 00:00:00",
+      50,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 09 1970 00:00:00",
+      36,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 10 1970 00:00:00",
+      7,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 11 1970 00:00:00",
+      255,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1970,
+      "October, 12 1970 00:00:00",
+      323,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "410",
+    "year": "1970",
+    "totalRecords": 89,
+    "totalCount": 194789,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.864083"
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "May, 14 1991 00:00:00",
+      6,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 15 1991 00:00:00",
+      84,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 16 1991 00:00:00",
+      500,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 17 1991 00:00:00",
+      160082,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 18 1991 00:00:00",
+      3914,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 19 1991 00:00:00",
+      65464,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 20 1991 00:00:00",
+      311716,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 21 1991 00:00:00",
+      482794,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 22 1991 00:00:00",
+      23280,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 23 1991 00:00:00",
+      10895,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 24 1991 00:00:00",
+      68642,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 25 1991 00:00:00",
+      2440,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 26 1991 00:00:00",
+      33880,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 27 1991 00:00:00",
+      2670,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 28 1991 00:00:00",
+      92106,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 29 1991 00:00:00",
+      38860,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 30 1991 00:00:00",
+      41094,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "May, 31 1991 00:00:00",
+      34166,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 01 1991 00:00:00",
+      3338,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 02 1991 00:00:00",
+      10642,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 03 1991 00:00:00",
+      16620,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 04 1991 00:00:00",
+      1246,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 05 1991 00:00:00",
+      844,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 06 1991 00:00:00",
+      9166,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 07 1991 00:00:00",
+      382,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 08 1991 00:00:00",
+      214,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 09 1991 00:00:00",
+      476,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 10 1991 00:00:00",
+      3174,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 11 1991 00:00:00",
+      3800,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 12 1991 00:00:00",
+      8824,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 13 1991 00:00:00",
+      8354,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      0,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      0,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      1,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      3623,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      4996,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      3749,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      2891,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      2665,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      1854,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 24 1991 00:00:00",
+      5166,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 25 1991 00:00:00",
+      3859,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      1909,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      1888,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      2225,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      2156,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      2400,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 31 1991 00:00:00",
+      983,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 01 1991 00:00:00",
+      1116,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 02 1991 00:00:00",
+      364,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 03 1991 00:00:00",
+      486,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 04 1991 00:00:00",
+      735,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 05 1991 00:00:00",
+      785,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 06 1991 00:00:00",
+      712,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 07 1991 00:00:00",
+      810,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 08 1991 00:00:00",
+      848,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 09 1991 00:00:00",
+      787,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 10 1991 00:00:00",
+      177,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 11 1991 00:00:00",
+      158,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 12 1991 00:00:00",
+      112,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 13 1991 00:00:00",
+      181,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 14 1991 00:00:00",
+      334,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 15 1991 00:00:00",
+      282,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 16 1991 00:00:00",
+      55,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 17 1991 00:00:00",
+      85,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 18 1991 00:00:00",
+      144,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 19 1991 00:00:00",
+      159,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 20 1991 00:00:00",
+      257,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 21 1991 00:00:00",
+      149,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 22 1991 00:00:00",
+      57,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 23 1991 00:00:00",
+      50,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 24 1991 00:00:00",
+      127,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 25 1991 00:00:00",
+      182,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 26 1991 00:00:00",
+      118,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 27 1991 00:00:00",
+      53,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 28 1991 00:00:00",
+      61,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 29 1991 00:00:00",
+      71,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 30 1991 00:00:00",
+      102,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 31 1991 00:00:00",
+      38,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 01 1991 00:00:00",
+      23,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 02 1991 00:00:00",
+      63,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 03 1991 00:00:00",
+      19,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 04 1991 00:00:00",
+      34,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "September, 05 1991 00:00:00",
+      36,
+      410,
+      2112,
+      "Tahltan Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2112,
+    "species_id": "410",
+    "year": "1991",
+    "totalRecords": 84,
+    "totalCount": 1489808,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.520363"
+  }
+}

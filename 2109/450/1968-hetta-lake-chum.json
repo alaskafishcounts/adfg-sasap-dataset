@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "September, 05 1968 00:00:00",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1968,
+      "September, 06 1968 00:00:00",
+      1,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1968,
+      "September, 09 1968 00:00:00",
+      61,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1968,
+      "September, 10 1968 00:00:00",
+      46,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1968,
+      "September, 11 1968 00:00:00",
+      73,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ],
+    [
+      1968,
+      "September, 12 1968 00:00:00",
+      67,
+      450,
+      2109,
+      "Hetta Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2109,
+    "species_id": "450",
+    "year": "1968",
+    "totalRecords": 6,
+    "totalCount": 249,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.946855"
+  }
+}

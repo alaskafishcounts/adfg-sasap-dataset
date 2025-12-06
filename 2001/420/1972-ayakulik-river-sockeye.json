@@ -1,0 +1,670 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1972,
+      "June, 03 1972 00:00:00",
+      2,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 04 1972 00:00:00",
+      92,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 05 1972 00:00:00",
+      154,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 06 1972 00:00:00",
+      405,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 07 1972 00:00:00",
+      329,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 08 1972 00:00:00",
+      620,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 09 1972 00:00:00",
+      860,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 10 1972 00:00:00",
+      1458,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 11 1972 00:00:00",
+      2145,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 12 1972 00:00:00",
+      3073,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 13 1972 00:00:00",
+      4075,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 14 1972 00:00:00",
+      8502,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 15 1972 00:00:00",
+      2630,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 16 1972 00:00:00",
+      1605,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 17 1972 00:00:00",
+      914,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 18 1972 00:00:00",
+      300,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 19 1972 00:00:00",
+      200,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 20 1972 00:00:00",
+      576,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 21 1972 00:00:00",
+      404,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 22 1972 00:00:00",
+      230,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 23 1972 00:00:00",
+      264,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 24 1972 00:00:00",
+      711,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 25 1972 00:00:00",
+      116,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 26 1972 00:00:00",
+      559,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 27 1972 00:00:00",
+      708,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 28 1972 00:00:00",
+      989,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 29 1972 00:00:00",
+      549,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "June, 30 1972 00:00:00",
+      682,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 01 1972 00:00:00",
+      3038,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 02 1972 00:00:00",
+      2002,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 03 1972 00:00:00",
+      2965,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 04 1972 00:00:00",
+      10725,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 05 1972 00:00:00",
+      2214,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 06 1972 00:00:00",
+      2766,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 07 1972 00:00:00",
+      7704,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 08 1972 00:00:00",
+      5202,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 09 1972 00:00:00",
+      1904,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 10 1972 00:00:00",
+      7344,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 11 1972 00:00:00",
+      804,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 12 1972 00:00:00",
+      2098,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 13 1972 00:00:00",
+      245,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 14 1972 00:00:00",
+      239,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 15 1972 00:00:00",
+      402,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 16 1972 00:00:00",
+      8281,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 17 1972 00:00:00",
+      928,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 18 1972 00:00:00",
+      2910,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 19 1972 00:00:00",
+      570,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 20 1972 00:00:00",
+      1261,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 21 1972 00:00:00",
+      1271,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 22 1972 00:00:00",
+      566,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 23 1972 00:00:00",
+      1336,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 24 1972 00:00:00",
+      1455,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 25 1972 00:00:00",
+      265,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 26 1972 00:00:00",
+      220,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 27 1972 00:00:00",
+      727,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 28 1972 00:00:00",
+      1135,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 29 1972 00:00:00",
+      1026,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 30 1972 00:00:00",
+      494,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "July, 31 1972 00:00:00",
+      963,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 01 1972 00:00:00",
+      1746,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 02 1972 00:00:00",
+      269,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 03 1972 00:00:00",
+      2315,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 04 1972 00:00:00",
+      1256,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 05 1972 00:00:00",
+      89,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 06 1972 00:00:00",
+      15,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 07 1972 00:00:00",
+      24,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 08 1972 00:00:00",
+      264,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 09 1972 00:00:00",
+      294,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 10 1972 00:00:00",
+      274,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 11 1972 00:00:00",
+      570,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 12 1972 00:00:00",
+      105,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1972,
+      "August, 13 1972 00:00:00",
+      300,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "1972",
+    "totalRecords": 72,
+    "totalCount": 113733,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.045633"
+  }
+}

@@ -1,0 +1,868 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "June, 19 1982 00:00:00",
+      6,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 20 1982 00:00:00",
+      23,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 21 1982 00:00:00",
+      1,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 22 1982 00:00:00",
+      2,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 23 1982 00:00:00",
+      131,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 24 1982 00:00:00",
+      177,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 25 1982 00:00:00",
+      49,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 26 1982 00:00:00",
+      114,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 27 1982 00:00:00",
+      49,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 28 1982 00:00:00",
+      27,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 29 1982 00:00:00",
+      127,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 30 1982 00:00:00",
+      61,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 01 1982 00:00:00",
+      245,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 02 1982 00:00:00",
+      268,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 03 1982 00:00:00",
+      201,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 04 1982 00:00:00",
+      112,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 05 1982 00:00:00",
+      417,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 06 1982 00:00:00",
+      185,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 07 1982 00:00:00",
+      296,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 08 1982 00:00:00",
+      25,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 09 1982 00:00:00",
+      270,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 10 1982 00:00:00",
+      145,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 11 1982 00:00:00",
+      93,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 12 1982 00:00:00",
+      371,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 13 1982 00:00:00",
+      568,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 14 1982 00:00:00",
+      275,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 15 1982 00:00:00",
+      182,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      82,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      246,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      76,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      518,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      232,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      141,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      56,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      170,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 24 1982 00:00:00",
+      151,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 25 1982 00:00:00",
+      0,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 26 1982 00:00:00",
+      31,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 27 1982 00:00:00",
+      53,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 28 1982 00:00:00",
+      122,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      249,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      59,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 31 1982 00:00:00",
+      38,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 01 1982 00:00:00",
+      18,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 02 1982 00:00:00",
+      15,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 03 1982 00:00:00",
+      75,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 04 1982 00:00:00",
+      38,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 05 1982 00:00:00",
+      21,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      315,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 07 1982 00:00:00",
+      19,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      93,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      361,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      412,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      142,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      317,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 13 1982 00:00:00",
+      258,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      142,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 15 1982 00:00:00",
+      531,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      336,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      313,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      354,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      18,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 20 1982 00:00:00",
+      147,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 21 1982 00:00:00",
+      210,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 22 1982 00:00:00",
+      228,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      354,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      132,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 25 1982 00:00:00",
+      205,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 26 1982 00:00:00",
+      303,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      299,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      188,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      87,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      121,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      96,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      88,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      66,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      126,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      112,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      155,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      126,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      227,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      168,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      58,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      61,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      197,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      37,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      35,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 14 1982 00:00:00",
+      52,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      18,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      33,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      30,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 18 1982 00:00:00",
+      51,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      30,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      23,
+      420,
+      2151,
+      "Kegan Cove",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2151,
+    "species_id": "410",
+    "year": "1982",
+    "totalRecords": 94,
+    "totalCount": 14485,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.853626"
+  }
+}

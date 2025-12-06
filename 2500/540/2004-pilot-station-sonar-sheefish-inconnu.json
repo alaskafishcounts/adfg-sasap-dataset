@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "May, 28 2004 00:00:00",
+      688,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "May, 29 2004 00:00:00",
+      1358,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "May, 30 2004 00:00:00",
+      141,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "May, 31 2004 00:00:00",
+      55,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 01 2004 00:00:00",
+      260,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 02 2004 00:00:00",
+      316,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 03 2004 00:00:00",
+      274,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 04 2004 00:00:00",
+      181,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 05 2004 00:00:00",
+      277,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 06 2004 00:00:00",
+      250,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 07 2004 00:00:00",
+      253,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 08 2004 00:00:00",
+      163,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 09 2004 00:00:00",
+      241,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 10 2004 00:00:00",
+      300,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 11 2004 00:00:00",
+      299,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 12 2004 00:00:00",
+      205,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 14 2004 00:00:00",
+      160,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 15 2004 00:00:00",
+      426,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 17 2004 00:00:00",
+      665,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 18 2004 00:00:00",
+      507,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 19 2004 00:00:00",
+      216,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 20 2004 00:00:00",
+      111,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      149,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      422,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      419,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      237,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      100,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      126,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      489,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      699,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 01 2004 00:00:00",
+      305,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 03 2004 00:00:00",
+      224,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 04 2004 00:00:00",
+      118,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 05 2004 00:00:00",
+      962,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 06 2004 00:00:00",
+      349,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 07 2004 00:00:00",
+      444,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 09 2004 00:00:00",
+      111,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      267,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      78,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      319,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      202,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      90,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      83,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      538,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      121,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      269,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      661,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      93,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      186,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      760,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 01 2004 00:00:00",
+      370,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 02 2004 00:00:00",
+      389,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 09 2004 00:00:00",
+      106,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      50,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      105,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      325,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      71,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      92,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      122,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      27,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 24 2004 00:00:00",
+      85,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ],
+    [
+      2004,
+      "August, 25 2004 00:00:00",
+      81,
+      540,
+      2500,
+      "Pilot Station Sonar",
+      "Sheefish (inconnu)"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "540",
+    "year": "2004",
+    "totalRecords": 62,
+    "totalCount": 17990,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.799845"
+  }
+}

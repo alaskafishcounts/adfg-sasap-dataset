@@ -1,0 +1,895 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "June, 08 1968 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 09 1968 00:00:00",
+      4,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 10 1968 00:00:00",
+      29,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 11 1968 00:00:00",
+      34,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 12 1968 00:00:00",
+      151,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 13 1968 00:00:00",
+      186,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 14 1968 00:00:00",
+      302,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 15 1968 00:00:00",
+      44,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 16 1968 00:00:00",
+      574,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 17 1968 00:00:00",
+      10,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 18 1968 00:00:00",
+      241,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 19 1968 00:00:00",
+      86,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 20 1968 00:00:00",
+      77,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 21 1968 00:00:00",
+      1020,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 22 1968 00:00:00",
+      285,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 23 1968 00:00:00",
+      1035,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 24 1968 00:00:00",
+      526,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 25 1968 00:00:00",
+      1943,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 26 1968 00:00:00",
+      561,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 27 1968 00:00:00",
+      887,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 28 1968 00:00:00",
+      1078,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 29 1968 00:00:00",
+      216,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "June, 30 1968 00:00:00",
+      1930,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 01 1968 00:00:00",
+      583,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 02 1968 00:00:00",
+      65,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 03 1968 00:00:00",
+      409,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 04 1968 00:00:00",
+      475,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 05 1968 00:00:00",
+      103,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 06 1968 00:00:00",
+      570,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 07 1968 00:00:00",
+      181,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 08 1968 00:00:00",
+      1170,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 09 1968 00:00:00",
+      197,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 10 1968 00:00:00",
+      1192,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 11 1968 00:00:00",
+      630,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 12 1968 00:00:00",
+      1682,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 13 1968 00:00:00",
+      374,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 14 1968 00:00:00",
+      99,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 15 1968 00:00:00",
+      1463,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 16 1968 00:00:00",
+      1189,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 17 1968 00:00:00",
+      1078,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 18 1968 00:00:00",
+      12,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 19 1968 00:00:00",
+      178,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 20 1968 00:00:00",
+      335,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 21 1968 00:00:00",
+      196,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 22 1968 00:00:00",
+      939,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 23 1968 00:00:00",
+      415,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 24 1968 00:00:00",
+      163,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 25 1968 00:00:00",
+      82,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 26 1968 00:00:00",
+      175,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 27 1968 00:00:00",
+      134,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 28 1968 00:00:00",
+      22,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 29 1968 00:00:00",
+      887,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 30 1968 00:00:00",
+      485,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 31 1968 00:00:00",
+      9,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 01 1968 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 02 1968 00:00:00",
+      153,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 03 1968 00:00:00",
+      75,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 04 1968 00:00:00",
+      149,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 05 1968 00:00:00",
+      725,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 06 1968 00:00:00",
+      346,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 07 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 08 1968 00:00:00",
+      173,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 09 1968 00:00:00",
+      10,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 10 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 11 1968 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 12 1968 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 13 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 14 1968 00:00:00",
+      52,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 15 1968 00:00:00",
+      1148,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 16 1968 00:00:00",
+      87,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 17 1968 00:00:00",
+      1042,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 18 1968 00:00:00",
+      144,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 19 1968 00:00:00",
+      1365,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 20 1968 00:00:00",
+      1328,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 21 1968 00:00:00",
+      313,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 22 1968 00:00:00",
+      26,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 23 1968 00:00:00",
+      2267,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 24 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 25 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 26 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 27 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 28 1968 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 29 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 30 1968 00:00:00",
+      48,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 31 1968 00:00:00",
+      3,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 01 1968 00:00:00",
+      82,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 02 1968 00:00:00",
+      547,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 03 1968 00:00:00",
+      102,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 04 1968 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 05 1968 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 06 1968 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 07 1968 00:00:00",
+      3,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 08 1968 00:00:00",
+      140,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 09 1968 00:00:00",
+      2273,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 10 1968 00:00:00",
+      80,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 11 1968 00:00:00",
+      1296,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "September, 12 1968 00:00:00",
+      533,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "410",
+    "year": "1968",
+    "totalRecords": 97,
+    "totalCount": 41246,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.274981"
+  }
+}

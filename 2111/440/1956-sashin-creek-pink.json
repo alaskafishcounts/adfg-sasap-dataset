@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1956,
+      "September, 09 1956 00:00:00",
+      53,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 10 1956 00:00:00",
+      50,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 11 1956 00:00:00",
+      69,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 12 1956 00:00:00",
+      63,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 13 1956 00:00:00",
+      21,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 14 1956 00:00:00",
+      153,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 15 1956 00:00:00",
+      29,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 16 1956 00:00:00",
+      25,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 17 1956 00:00:00",
+      60,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 18 1956 00:00:00",
+      200,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 19 1956 00:00:00",
+      80,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 20 1956 00:00:00",
+      56,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 21 1956 00:00:00",
+      37,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 22 1956 00:00:00",
+      25,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 23 1956 00:00:00",
+      4,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 24 1956 00:00:00",
+      2,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1956,
+      "September, 25 1956 00:00:00",
+      6,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "420",
+    "year": "1956",
+    "totalRecords": 17,
+    "totalCount": 933,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.660188"
+  }
+}

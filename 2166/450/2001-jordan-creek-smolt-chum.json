@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "April, 22 2001 00:00:00",
+      39,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "April, 23 2001 00:00:00",
+      4,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "April, 26 2001 00:00:00",
+      4,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "April, 29 2001 00:00:00",
+      133,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "April, 30 2001 00:00:00",
+      148,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 02 2001 00:00:00",
+      3,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 04 2001 00:00:00",
+      6,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 05 2001 00:00:00",
+      185,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 06 2001 00:00:00",
+      13,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 07 2001 00:00:00",
+      2,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 08 2001 00:00:00",
+      5,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 09 2001 00:00:00",
+      4,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 10 2001 00:00:00",
+      8,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 11 2001 00:00:00",
+      6,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 12 2001 00:00:00",
+      8,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 13 2001 00:00:00",
+      6,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 14 2001 00:00:00",
+      5,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 15 2001 00:00:00",
+      7,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 16 2001 00:00:00",
+      6,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 17 2001 00:00:00",
+      5,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 18 2001 00:00:00",
+      1,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 19 2001 00:00:00",
+      1,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 20 2001 00:00:00",
+      8,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 21 2001 00:00:00",
+      3,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 22 2001 00:00:00",
+      24,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 23 2001 00:00:00",
+      30,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 24 2001 00:00:00",
+      212,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 25 2001 00:00:00",
+      56,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 26 2001 00:00:00",
+      23,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 27 2001 00:00:00",
+      16,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 28 2001 00:00:00",
+      18,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 29 2001 00:00:00",
+      2,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 30 2001 00:00:00",
+      34,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "May, 31 2001 00:00:00",
+      844,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 01 2001 00:00:00",
+      250,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 02 2001 00:00:00",
+      44,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 03 2001 00:00:00",
+      53,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 04 2001 00:00:00",
+      224,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 05 2001 00:00:00",
+      489,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 06 2001 00:00:00",
+      129,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 07 2001 00:00:00",
+      296,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 08 2001 00:00:00",
+      220,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 09 2001 00:00:00",
+      30,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 10 2001 00:00:00",
+      22,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 11 2001 00:00:00",
+      601,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 12 2001 00:00:00",
+      410,
+      450,
+      2166,
+      "Jordan Creek Smolt",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2166,
+    "species_id": "450",
+    "year": "2001",
+    "totalRecords": 46,
+    "totalCount": 4637,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.395886"
+  }
+}

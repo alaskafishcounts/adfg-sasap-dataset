@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "June, 05 2015 00:00:00",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "June, 08 2015 00:00:00",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "June, 09 2015 00:00:00",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "June, 11 2015 00:00:00",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "June, 17 2015 00:00:00",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "June, 18 2015 00:00:00",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "June, 20 2015 00:00:00",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "June, 21 2015 00:00:00",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "July, 02 2015 00:00:00",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "July, 04 2015 00:00:00",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      2,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      1,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      3,
+      530,
+      2102,
+      "Chilkoot Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "530",
+    "year": "2015",
+    "totalRecords": 13,
+    "totalCount": 19,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.938602"
+  }
+}

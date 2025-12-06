@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1957,
+      "September, 08 1957 00:00:00",
+      129,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 09 1957 00:00:00",
+      0,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 10 1957 00:00:00",
+      449,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 11 1957 00:00:00",
+      0,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 12 1957 00:00:00",
+      49,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ],
+    [
+      1957,
+      "September, 13 1957 00:00:00",
+      52,
+      440,
+      2007,
+      "Akalura Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2007,
+    "species_id": "440",
+    "year": "1957",
+    "totalRecords": 6,
+    "totalCount": 679,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.471939"
+  }
+}

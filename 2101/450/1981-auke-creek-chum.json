@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "August, 04 1981 00:00:00",
+      53,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "August, 05 1981 00:00:00",
+      15,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "August, 17 1981 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "August, 20 1981 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "August, 21 1981 00:00:00",
+      19,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "August, 22 1981 00:00:00",
+      13,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "August, 29 1981 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "August, 31 1981 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "September, 02 1981 00:00:00",
+      3,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1981,
+      "September, 04 1981 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "450",
+    "year": "1981",
+    "totalRecords": 10,
+    "totalCount": 109,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.459354"
+  }
+}

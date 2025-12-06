@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      106,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      124,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 28 2010 00:00:00",
+      132,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 29 2010 00:00:00",
+      209,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 30 2010 00:00:00",
+      413,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 31 2010 00:00:00",
+      652,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 01 2010 00:00:00",
+      531,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 02 2010 00:00:00",
+      1454,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 03 2010 00:00:00",
+      1669,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 04 2010 00:00:00",
+      885,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      1219,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      1013,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 07 2010 00:00:00",
+      1353,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 08 2010 00:00:00",
+      682,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 09 2010 00:00:00",
+      421,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      425,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 11 2010 00:00:00",
+      163,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 12 2010 00:00:00",
+      0,
+      420,
+      2006,
+      "Frazer Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "420",
+    "year": "2010",
+    "totalRecords": 18,
+    "totalCount": 11451,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.254376"
+  }
+}

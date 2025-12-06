@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      1,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      0,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      0,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 24 2007 00:00:00",
+      0,
+      440,
+      2301,
+      "Bear River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2301,
+    "species_id": "440",
+    "year": "2007",
+    "totalRecords": 4,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.177382"
+  }
+}

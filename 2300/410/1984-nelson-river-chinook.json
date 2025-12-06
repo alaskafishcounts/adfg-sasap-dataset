@@ -1,0 +1,679 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "June, 20 1984 00:00:00",
+      96,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 21 1984 00:00:00",
+      72,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 22 1984 00:00:00",
+      30,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      48,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 24 1984 00:00:00",
+      87,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      39,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      18,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      18,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      30,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      84,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      120,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 01 1984 00:00:00",
+      141,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 02 1984 00:00:00",
+      234,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 03 1984 00:00:00",
+      261,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 04 1984 00:00:00",
+      48,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 05 1984 00:00:00",
+      234,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 06 1984 00:00:00",
+      24,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 07 1984 00:00:00",
+      99,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 08 1984 00:00:00",
+      105,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 09 1984 00:00:00",
+      168,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      72,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      78,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      66,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      48,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      54,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      53,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      84,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      60,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      80,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      84,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      45,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      39,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      82,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      150,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 25 1984 00:00:00",
+      59,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 26 1984 00:00:00",
+      353,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 27 1984 00:00:00",
+      230,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 28 1984 00:00:00",
+      -3,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 29 1984 00:00:00",
+      167,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 30 1984 00:00:00",
+      98,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "July, 31 1984 00:00:00",
+      96,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 01 1984 00:00:00",
+      214,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 02 1984 00:00:00",
+      129,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 03 1984 00:00:00",
+      277,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 04 1984 00:00:00",
+      102,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 05 1984 00:00:00",
+      72,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 06 1984 00:00:00",
+      22,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 07 1984 00:00:00",
+      48,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 08 1984 00:00:00",
+      90,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 09 1984 00:00:00",
+      18,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 10 1984 00:00:00",
+      24,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 11 1984 00:00:00",
+      105,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 12 1984 00:00:00",
+      123,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 13 1984 00:00:00",
+      33,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 14 1984 00:00:00",
+      99,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 15 1984 00:00:00",
+      102,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 16 1984 00:00:00",
+      15,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 17 1984 00:00:00",
+      -12,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 18 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 19 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 20 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 21 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 22 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 23 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 24 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 25 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 26 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 27 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 28 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 29 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 30 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ],
+    [
+      1984,
+      "August, 31 1984 00:00:00",
+      0,
+      430,
+      2300,
+      "Nelson River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2300,
+    "species_id": "430",
+    "year": "1984",
+    "totalRecords": 73,
+    "totalCount": 5412,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.495095"
+  }
+}

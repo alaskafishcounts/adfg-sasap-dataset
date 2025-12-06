@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1956,
+      "August, 30 1956 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "August, 31 1956 00:00:00",
+      7,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "September, 08 1956 00:00:00",
+      3,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "September, 09 1956 00:00:00",
+      1,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "September, 18 1956 00:00:00",
+      14,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "September, 19 1956 00:00:00",
+      46,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "September, 20 1956 00:00:00",
+      6,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "September, 21 1956 00:00:00",
+      2,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "September, 22 1956 00:00:00",
+      3,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ],
+    [
+      1956,
+      "September, 27 1956 00:00:00",
+      3,
+      440,
+      2111,
+      "Sashin Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "440",
+    "year": "1956",
+    "totalRecords": 10,
+    "totalCount": 86,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.643039"
+  }
+}

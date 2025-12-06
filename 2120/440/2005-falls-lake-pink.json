@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "August, 19 2005 00:00:00",
+      7,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 20 2005 00:00:00",
+      30,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 21 2005 00:00:00",
+      12,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 22 2005 00:00:00",
+      2,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 23 2005 00:00:00",
+      25,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 24 2005 00:00:00",
+      36,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 25 2005 00:00:00",
+      16,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 26 2005 00:00:00",
+      6,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 27 2005 00:00:00",
+      6,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 28 2005 00:00:00",
+      17,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ],
+    [
+      2005,
+      "August, 30 2005 00:00:00",
+      6,
+      420,
+      2120,
+      "Falls Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "420",
+    "year": "2005",
+    "totalRecords": 11,
+    "totalCount": 163,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.750378"
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "May, 26 1989 00:00:00",
+      30,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 27 1989 00:00:00",
+      64,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 28 1989 00:00:00",
+      42,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 29 1989 00:00:00",
+      295,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 30 1989 00:00:00",
+      599,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "May, 31 1989 00:00:00",
+      430,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 01 1989 00:00:00",
+      189,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 02 1989 00:00:00",
+      46,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 03 1989 00:00:00",
+      1034,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 04 1989 00:00:00",
+      62,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 05 1989 00:00:00",
+      116,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 06 1989 00:00:00",
+      87,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 07 1989 00:00:00",
+      8,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 08 1989 00:00:00",
+      87,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 09 1989 00:00:00",
+      59,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 10 1989 00:00:00",
+      121,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 11 1989 00:00:00",
+      126,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 12 1989 00:00:00",
+      326,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 13 1989 00:00:00",
+      48,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 14 1989 00:00:00",
+      10,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 15 1989 00:00:00",
+      58,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 16 1989 00:00:00",
+      6,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 17 1989 00:00:00",
+      220,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 18 1989 00:00:00",
+      88,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 19 1989 00:00:00",
+      5,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 20 1989 00:00:00",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 21 1989 00:00:00",
+      5,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 22 1989 00:00:00",
+      147,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 23 1989 00:00:00",
+      105,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 24 1989 00:00:00",
+      278,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 25 1989 00:00:00",
+      302,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 26 1989 00:00:00",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 27 1989 00:00:00",
+      131,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 28 1989 00:00:00",
+      57,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 29 1989 00:00:00",
+      76,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "June, 30 1989 00:00:00",
+      3,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 01 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 02 1989 00:00:00",
+      279,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 03 1989 00:00:00",
+      18,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 04 1989 00:00:00",
+      23,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 05 1989 00:00:00",
+      20,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 06 1989 00:00:00",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 07 1989 00:00:00",
+      29,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 09 1989 00:00:00",
+      41,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 10 1989 00:00:00",
+      76,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 11 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 12 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 13 1989 00:00:00",
+      9,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 14 1989 00:00:00",
+      3,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 16 1989 00:00:00",
+      10,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 18 1989 00:00:00",
+      4,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 19 1989 00:00:00",
+      140,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 20 1989 00:00:00",
+      17,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 21 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 22 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 24 1989 00:00:00",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 25 1989 00:00:00",
+      22,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 26 1989 00:00:00",
+      8,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 27 1989 00:00:00",
+      6,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 28 1989 00:00:00",
+      11,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 30 1989 00:00:00",
+      113,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "July, 31 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "August, 03 1989 00:00:00",
+      6,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "August, 04 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "August, 06 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "August, 09 1989 00:00:00",
+      3,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "August, 10 1989 00:00:00",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "August, 11 1989 00:00:00",
+      1,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ],
+    [
+      1989,
+      "August, 16 1989 00:00:00",
+      2,
+      480,
+      2107,
+      "Situk Lower",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2107,
+    "species_id": "480",
+    "year": "1989",
+    "totalRecords": 69,
+    "totalCount": 6119,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.187191"
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      160,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      61,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      76,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      138,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 24 2010 00:00:00",
+      268,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      370,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      508,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      593,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 28 2010 00:00:00",
+      723,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 29 2010 00:00:00",
+      751,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 30 2010 00:00:00",
+      653,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "August, 31 2010 00:00:00",
+      762,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 01 2010 00:00:00",
+      647,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 02 2010 00:00:00",
+      731,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 03 2010 00:00:00",
+      642,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 04 2010 00:00:00",
+      747,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      763,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      691,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 07 2010 00:00:00",
+      628,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 08 2010 00:00:00",
+      673,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 09 2010 00:00:00",
+      617,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      772,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 11 2010 00:00:00",
+      857,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 12 2010 00:00:00",
+      1102,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 13 2010 00:00:00",
+      1597,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 14 2010 00:00:00",
+      2060,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 15 2010 00:00:00",
+      3035,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 16 2010 00:00:00",
+      4167,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 17 2010 00:00:00",
+      5173,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 18 2010 00:00:00",
+      5755,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 19 2010 00:00:00",
+      8020,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 20 2010 00:00:00",
+      9273,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 21 2010 00:00:00",
+      8790,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 22 2010 00:00:00",
+      8204,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 23 2010 00:00:00",
+      7983,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 24 2010 00:00:00",
+      7398,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 25 2010 00:00:00",
+      5958,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 26 2010 00:00:00",
+      5529,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 27 2010 00:00:00",
+      4323,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 28 2010 00:00:00",
+      4026,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 29 2010 00:00:00",
+      3307,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "September, 30 2010 00:00:00",
+      3121,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 01 2010 00:00:00",
+      2905,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 02 2010 00:00:00",
+      2518,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 03 2010 00:00:00",
+      2136,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 04 2010 00:00:00",
+      2027,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 05 2010 00:00:00",
+      2208,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 06 2010 00:00:00",
+      2101,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 07 2010 00:00:00",
+      1765,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 08 2010 00:00:00",
+      1459,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 09 2010 00:00:00",
+      1182,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 10 2010 00:00:00",
+      934,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 11 2010 00:00:00",
+      715,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 12 2010 00:00:00",
+      525,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 13 2010 00:00:00",
+      365,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 14 2010 00:00:00",
+      234,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 15 2010 00:00:00",
+      132,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 16 2010 00:00:00",
+      59,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 17 2010 00:00:00",
+      14,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ],
+    [
+      2010,
+      "October, 18 2010 00:00:00",
+      0,
+      450,
+      2502,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum - Fall"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2502,
+    "species_id": "450",
+    "year": "2010",
+    "totalRecords": 60,
+    "totalCount": 132931,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.412340"
+  }
+}

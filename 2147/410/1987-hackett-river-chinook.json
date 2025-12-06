@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "August, 09 1987 00:00:00",
+      1,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 10 1987 00:00:00",
+      1,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 11 1987 00:00:00",
+      1,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 12 1987 00:00:00",
+      2,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 13 1987 00:00:00",
+      6,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 14 1987 00:00:00",
+      11,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 15 1987 00:00:00",
+      14,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 16 1987 00:00:00",
+      11,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 17 1987 00:00:00",
+      9,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 18 1987 00:00:00",
+      3,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 19 1987 00:00:00",
+      6,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 20 1987 00:00:00",
+      9,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 21 1987 00:00:00",
+      7,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "August, 22 1987 00:00:00",
+      1,
+      430,
+      2147,
+      "Hackett River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2147,
+    "species_id": "430",
+    "year": "1987",
+    "totalRecords": 14,
+    "totalCount": 82,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.299522"
+  }
+}

@@ -1,0 +1,805 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "June, 28 2005 00:00:00",
+      219,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 29 2005 00:00:00",
+      224,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 30 2005 00:00:00",
+      471,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 01 2005 00:00:00",
+      175,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 02 2005 00:00:00",
+      82,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 03 2005 00:00:00",
+      47,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 04 2005 00:00:00",
+      37,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 05 2005 00:00:00",
+      151,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 06 2005 00:00:00",
+      585,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 07 2005 00:00:00",
+      80,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 08 2005 00:00:00",
+      138,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 09 2005 00:00:00",
+      316,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 10 2005 00:00:00",
+      471,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 11 2005 00:00:00",
+      297,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 12 2005 00:00:00",
+      558,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 13 2005 00:00:00",
+      369,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 14 2005 00:00:00",
+      393,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 15 2005 00:00:00",
+      126,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 16 2005 00:00:00",
+      236,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      299,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 18 2005 00:00:00",
+      174,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 19 2005 00:00:00",
+      537,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 20 2005 00:00:00",
+      550,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      326,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 24 2005 00:00:00",
+      438,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 25 2005 00:00:00",
+      1381,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 26 2005 00:00:00",
+      514,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 27 2005 00:00:00",
+      65,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 28 2005 00:00:00",
+      110,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 29 2005 00:00:00",
+      74,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 30 2005 00:00:00",
+      658,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 31 2005 00:00:00",
+      508,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 01 2005 00:00:00",
+      489,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 02 2005 00:00:00",
+      173,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 03 2005 00:00:00",
+      464,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 04 2005 00:00:00",
+      195,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 05 2005 00:00:00",
+      35,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 06 2005 00:00:00",
+      532,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 07 2005 00:00:00",
+      20,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 11 2005 00:00:00",
+      5,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 16 2005 00:00:00",
+      18,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 17 2005 00:00:00",
+      128,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 18 2005 00:00:00",
+      91,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 19 2005 00:00:00",
+      193,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 20 2005 00:00:00",
+      278,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 21 2005 00:00:00",
+      104,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 22 2005 00:00:00",
+      824,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 23 2005 00:00:00",
+      123,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 29 2005 00:00:00",
+      211,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 30 2005 00:00:00",
+      240,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 31 2005 00:00:00",
+      165,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 01 2005 00:00:00",
+      650,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 02 2005 00:00:00",
+      434,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 03 2005 00:00:00",
+      137,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 04 2005 00:00:00",
+      344,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 05 2005 00:00:00",
+      502,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 06 2005 00:00:00",
+      148,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 08 2005 00:00:00",
+      380,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 09 2005 00:00:00",
+      10,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 10 2005 00:00:00",
+      188,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 11 2005 00:00:00",
+      68,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 12 2005 00:00:00",
+      425,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 13 2005 00:00:00",
+      44,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 14 2005 00:00:00",
+      1470,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 15 2005 00:00:00",
+      332,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 16 2005 00:00:00",
+      334,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 21 2005 00:00:00",
+      197,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 22 2005 00:00:00",
+      1449,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 23 2005 00:00:00",
+      771,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 24 2005 00:00:00",
+      677,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 25 2005 00:00:00",
+      1994,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 26 2005 00:00:00",
+      585,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 27 2005 00:00:00",
+      178,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 28 2005 00:00:00",
+      89,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 29 2005 00:00:00",
+      801,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 30 2005 00:00:00",
+      268,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 01 2005 00:00:00",
+      1404,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 02 2005 00:00:00",
+      46,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 03 2005 00:00:00",
+      116,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 04 2005 00:00:00",
+      92,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 05 2005 00:00:00",
+      77,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 06 2005 00:00:00",
+      1,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 07 2005 00:00:00",
+      587,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 08 2005 00:00:00",
+      139,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 09 2005 00:00:00",
+      33,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 11 2005 00:00:00",
+      107,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "October, 12 2005 00:00:00",
+      171,
+      420,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "410",
+    "year": "2005",
+    "totalRecords": 87,
+    "totalCount": 30145,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.249062"
+  }
+}

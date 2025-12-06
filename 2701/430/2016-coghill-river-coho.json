@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "July, 13 2016 00:00:00",
+      1,
+      430,
+      2701,
+      "Coghill River",
+      "Coho"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      1,
+      430,
+      2701,
+      "Coghill River",
+      "Coho"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      1,
+      430,
+      2701,
+      "Coghill River",
+      "Coho"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      0,
+      430,
+      2701,
+      "Coghill River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2701,
+    "species_id": "440",
+    "year": "2016",
+    "totalRecords": 4,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.359843"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      1,
+      480,
+      2145,
+      "Hatchery Creek",
+      "Steelhead trout"
+    ],
+    [
+      2012,
+      "July, 06 2012 00:00:00",
+      1,
+      480,
+      2145,
+      "Hatchery Creek",
+      "Steelhead trout"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      1,
+      480,
+      2145,
+      "Hatchery Creek",
+      "Steelhead trout"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      1,
+      480,
+      2145,
+      "Hatchery Creek",
+      "Steelhead trout"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      1,
+      480,
+      2145,
+      "Hatchery Creek",
+      "Steelhead trout"
+    ],
+    [
+      2012,
+      "August, 29 2012 00:00:00",
+      2,
+      480,
+      2145,
+      "Hatchery Creek",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2145,
+    "species_id": "480",
+    "year": "2012",
+    "totalRecords": 6,
+    "totalCount": 7,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.767205"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1966,
+      "June, 30 1966 00:00:00",
+      1,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "July, 02 1966 00:00:00",
+      14,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "July, 16 1966 00:00:00",
+      10,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "July, 17 1966 00:00:00",
+      1,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "July, 19 1966 00:00:00",
+      1,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "July, 21 1966 00:00:00",
+      1,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "July, 31 1966 00:00:00",
+      1,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "August, 18 1966 00:00:00",
+      2,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "August, 19 1966 00:00:00",
+      2,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ],
+    [
+      1966,
+      "August, 23 1966 00:00:00",
+      1,
+      480,
+      2146,
+      "Klakas Lake",
+      "Steelhead trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2146,
+    "species_id": "480",
+    "year": "1966",
+    "totalRecords": 10,
+    "totalCount": 34,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.501395"
+  }
+}

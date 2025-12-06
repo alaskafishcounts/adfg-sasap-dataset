@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "May, 03 2003 00:00:00",
+      1,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2003,
+      "May, 05 2003 00:00:00",
+      1,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ],
+    [
+      2003,
+      "May, 14 2003 00:00:00",
+      1,
+      490,
+      2100,
+      "Hugh Smith",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2100,
+    "species_id": "490",
+    "year": "2003",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.980753"
+  }
+}

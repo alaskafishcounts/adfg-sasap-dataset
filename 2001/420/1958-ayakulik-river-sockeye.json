@@ -1,0 +1,724 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1958,
+      "June, 14 1958 00:00:00",
+      3326,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 15 1958 00:00:00",
+      1231,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 16 1958 00:00:00",
+      46,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 17 1958 00:00:00",
+      386,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 18 1958 00:00:00",
+      162,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 19 1958 00:00:00",
+      337,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 20 1958 00:00:00",
+      13323,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 21 1958 00:00:00",
+      667,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 22 1958 00:00:00",
+      7115,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 23 1958 00:00:00",
+      14511,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 24 1958 00:00:00",
+      1044,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 25 1958 00:00:00",
+      631,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 26 1958 00:00:00",
+      213,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 27 1958 00:00:00",
+      1081,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 28 1958 00:00:00",
+      1215,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 29 1958 00:00:00",
+      514,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 30 1958 00:00:00",
+      641,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 01 1958 00:00:00",
+      1224,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 02 1958 00:00:00",
+      1438,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 03 1958 00:00:00",
+      420,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 04 1958 00:00:00",
+      853,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 05 1958 00:00:00",
+      1468,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 06 1958 00:00:00",
+      134,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 07 1958 00:00:00",
+      79,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 08 1958 00:00:00",
+      23,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 09 1958 00:00:00",
+      3966,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 10 1958 00:00:00",
+      1077,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 11 1958 00:00:00",
+      28,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 12 1958 00:00:00",
+      7,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 13 1958 00:00:00",
+      213,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 14 1958 00:00:00",
+      234,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 15 1958 00:00:00",
+      24,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 16 1958 00:00:00",
+      38,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 17 1958 00:00:00",
+      149,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 18 1958 00:00:00",
+      522,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 19 1958 00:00:00",
+      94,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 20 1958 00:00:00",
+      2521,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 21 1958 00:00:00",
+      6681,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 22 1958 00:00:00",
+      2226,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 23 1958 00:00:00",
+      162,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 24 1958 00:00:00",
+      1522,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 25 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 26 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 27 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 28 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 29 1958 00:00:00",
+      27,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 30 1958 00:00:00",
+      104,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 31 1958 00:00:00",
+      63,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 01 1958 00:00:00",
+      132,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 02 1958 00:00:00",
+      2262,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 03 1958 00:00:00",
+      767,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 04 1958 00:00:00",
+      56,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 05 1958 00:00:00",
+      1895,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 06 1958 00:00:00",
+      1174,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 07 1958 00:00:00",
+      237,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 08 1958 00:00:00",
+      16,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 09 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 10 1958 00:00:00",
+      19,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 11 1958 00:00:00",
+      23,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 12 1958 00:00:00",
+      64,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 13 1958 00:00:00",
+      317,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 14 1958 00:00:00",
+      2039,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 15 1958 00:00:00",
+      8194,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 16 1958 00:00:00",
+      1973,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 17 1958 00:00:00",
+      116,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 18 1958 00:00:00",
+      18,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 19 1958 00:00:00",
+      12,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 20 1958 00:00:00",
+      162,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 21 1958 00:00:00",
+      26,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 22 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 23 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 24 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 25 1958 00:00:00",
+      84,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 26 1958 00:00:00",
+      1226,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 27 1958 00:00:00",
+      1982,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 28 1958 00:00:00",
+      171,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 29 1958 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 30 1958 00:00:00",
+      150,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "1958",
+    "totalRecords": 78,
+    "totalCount": 94855,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.083971"
+  }
+}

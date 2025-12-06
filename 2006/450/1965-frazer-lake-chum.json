@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1965,
+      "July, 13 1965 00:00:00",
+      4,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 14 1965 00:00:00",
+      3,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 15 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 16 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 17 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 18 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 19 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 20 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 21 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 22 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 23 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 24 1965 00:00:00",
+      0,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 25 1965 00:00:00",
+      1,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ],
+    [
+      1965,
+      "July, 26 1965 00:00:00",
+      1,
+      450,
+      2006,
+      "Frazer Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2006,
+    "species_id": "450",
+    "year": "1965",
+    "totalRecords": 14,
+    "totalCount": 9,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.281162"
+  }
+}

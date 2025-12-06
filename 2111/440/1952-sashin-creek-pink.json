@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1952,
+      "September, 08 1952 00:00:00",
+      2,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "September, 13 1952 00:00:00",
+      6,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "September, 14 1952 00:00:00",
+      2,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "September, 15 1952 00:00:00",
+      8,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "September, 16 1952 00:00:00",
+      16,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "September, 17 1952 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "September, 19 1952 00:00:00",
+      5,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "September, 20 1952 00:00:00",
+      2,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "September, 25 1952 00:00:00",
+      2,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ],
+    [
+      1952,
+      "October, 02 1952 00:00:00",
+      1,
+      420,
+      2111,
+      "Sashin Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2111,
+    "species_id": "420",
+    "year": "1952",
+    "totalRecords": 10,
+    "totalCount": 45,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.663410"
+  }
+}

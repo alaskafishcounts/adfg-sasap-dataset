@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      12,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      182,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      81,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      70,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      11,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      5,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      76,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      311,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      67,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      59,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 24 2003 00:00:00",
+      56,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 25 2003 00:00:00",
+      159,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 26 2003 00:00:00",
+      131,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 27 2003 00:00:00",
+      347,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 28 2003 00:00:00",
+      535,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 29 2003 00:00:00",
+      396,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 30 2003 00:00:00",
+      3006,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 31 2003 00:00:00",
+      1241,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 01 2003 00:00:00",
+      28,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 03 2003 00:00:00",
+      50,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 04 2003 00:00:00",
+      221,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 05 2003 00:00:00",
+      240,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 06 2003 00:00:00",
+      166,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 07 2003 00:00:00",
+      509,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 08 2003 00:00:00",
+      539,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 09 2003 00:00:00",
+      298,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 10 2003 00:00:00",
+      2150,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 11 2003 00:00:00",
+      2565,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 12 2003 00:00:00",
+      917,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 13 2003 00:00:00",
+      747,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 15 2003 00:00:00",
+      152,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 16 2003 00:00:00",
+      174,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 17 2003 00:00:00",
+      297,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 18 2003 00:00:00",
+      246,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 19 2003 00:00:00",
+      179,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 20 2003 00:00:00",
+      183,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 21 2003 00:00:00",
+      351,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 22 2003 00:00:00",
+      187,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 23 2003 00:00:00",
+      134,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 24 2003 00:00:00",
+      702,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 25 2003 00:00:00",
+      201,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 26 2003 00:00:00",
+      314,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 27 2003 00:00:00",
+      216,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 28 2003 00:00:00",
+      156,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 29 2003 00:00:00",
+      293,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 30 2003 00:00:00",
+      298,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 01 2003 00:00:00",
+      191,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 02 2003 00:00:00",
+      123,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 03 2003 00:00:00",
+      58,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 04 2003 00:00:00",
+      59,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 05 2003 00:00:00",
+      49,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 06 2003 00:00:00",
+      89,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 07 2003 00:00:00",
+      67,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 08 2003 00:00:00",
+      20,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 09 2003 00:00:00",
+      38,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 10 2003 00:00:00",
+      39,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 11 2003 00:00:00",
+      13,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 12 2003 00:00:00",
+      10,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 13 2003 00:00:00",
+      10,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 14 2003 00:00:00",
+      8,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 15 2003 00:00:00",
+      2,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      2003,
+      "October, 16 2003 00:00:00",
+      2,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 62,
+    "totalCount": 20036,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.615171"
+  }
+}

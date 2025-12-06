@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1969,
+      "July, 16 1969 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 17 1969 00:00:00",
+      10,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 18 1969 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 19 1969 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 20 1969 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 21 1969 00:00:00",
+      1,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 22 1969 00:00:00",
+      104,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 23 1969 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 24 1969 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 25 1969 00:00:00",
+      200,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 26 1969 00:00:00",
+      75,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 27 1969 00:00:00",
+      37,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 28 1969 00:00:00",
+      210,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 29 1969 00:00:00",
+      64,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 30 1969 00:00:00",
+      300,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "July, 31 1969 00:00:00",
+      136,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 01 1969 00:00:00",
+      175,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 02 1969 00:00:00",
+      350,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 03 1969 00:00:00",
+      300,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 04 1969 00:00:00",
+      80,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 05 1969 00:00:00",
+      161,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 06 1969 00:00:00",
+      405,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 07 1969 00:00:00",
+      64,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 08 1969 00:00:00",
+      381,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 09 1969 00:00:00",
+      250,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 10 1969 00:00:00",
+      240,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 11 1969 00:00:00",
+      755,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 12 1969 00:00:00",
+      603,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 13 1969 00:00:00",
+      295,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 14 1969 00:00:00",
+      1003,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 15 1969 00:00:00",
+      675,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 16 1969 00:00:00",
+      3754,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 17 1969 00:00:00",
+      816,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 18 1969 00:00:00",
+      2486,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 19 1969 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 20 1969 00:00:00",
+      932,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 21 1969 00:00:00",
+      1745,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 22 1969 00:00:00",
+      3299,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 23 1969 00:00:00",
+      2002,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 24 1969 00:00:00",
+      11765,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 25 1969 00:00:00",
+      4460,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 26 1969 00:00:00",
+      2595,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 27 1969 00:00:00",
+      1495,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 28 1969 00:00:00",
+      2404,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 29 1969 00:00:00",
+      1668,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 30 1969 00:00:00",
+      3615,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "August, 31 1969 00:00:00",
+      3750,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 01 1969 00:00:00",
+      2081,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 02 1969 00:00:00",
+      3696,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 03 1969 00:00:00",
+      4195,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 04 1969 00:00:00",
+      989,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 05 1969 00:00:00",
+      407,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 06 1969 00:00:00",
+      688,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 07 1969 00:00:00",
+      1070,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 08 1969 00:00:00",
+      252,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 09 1969 00:00:00",
+      665,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 10 1969 00:00:00",
+      124,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 11 1969 00:00:00",
+      1170,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 12 1969 00:00:00",
+      160,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      1969,
+      "September, 13 1969 00:00:00",
+      5000,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1969",
+    "totalRecords": 60,
+    "totalCount": 74157,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.478593"
+  }
+}

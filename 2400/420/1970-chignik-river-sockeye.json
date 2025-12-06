@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1970,
+      "June, 01 1970 00:00:00",
+      637,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 02 1970 00:00:00",
+      312,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 03 1970 00:00:00",
+      3,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 04 1970 00:00:00",
+      9420,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 05 1970 00:00:00",
+      19171,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 06 1970 00:00:00",
+      16248,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 07 1970 00:00:00",
+      7977,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 08 1970 00:00:00",
+      11050,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 09 1970 00:00:00",
+      26924,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 10 1970 00:00:00",
+      22391,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 11 1970 00:00:00",
+      36846,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 12 1970 00:00:00",
+      45253,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 13 1970 00:00:00",
+      51436,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 14 1970 00:00:00",
+      26768,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 15 1970 00:00:00",
+      24098,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 16 1970 00:00:00",
+      27139,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 17 1970 00:00:00",
+      23241,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 18 1970 00:00:00",
+      10566,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 19 1970 00:00:00",
+      15675,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 20 1970 00:00:00",
+      29702,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 21 1970 00:00:00",
+      8195,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 22 1970 00:00:00",
+      31262,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 23 1970 00:00:00",
+      26179,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 24 1970 00:00:00",
+      13314,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 25 1970 00:00:00",
+      9946,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 26 1970 00:00:00",
+      8699,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 27 1970 00:00:00",
+      3084,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 28 1970 00:00:00",
+      4225,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 29 1970 00:00:00",
+      9213,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 30 1970 00:00:00",
+      6381,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 01 1970 00:00:00",
+      5105,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 02 1970 00:00:00",
+      366,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 03 1970 00:00:00",
+      1545,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 04 1970 00:00:00",
+      4146,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 05 1970 00:00:00",
+      2351,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 06 1970 00:00:00",
+      4349,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 07 1970 00:00:00",
+      2044,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 08 1970 00:00:00",
+      2850,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 09 1970 00:00:00",
+      2794,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 10 1970 00:00:00",
+      2724,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 11 1970 00:00:00",
+      2467,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 12 1970 00:00:00",
+      1248,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 13 1970 00:00:00",
+      1974,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 14 1970 00:00:00",
+      1395,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 15 1970 00:00:00",
+      2170,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 16 1970 00:00:00",
+      2130,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 17 1970 00:00:00",
+      1974,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 18 1970 00:00:00",
+      1480,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 19 1970 00:00:00",
+      7585,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 20 1970 00:00:00",
+      18111,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 21 1970 00:00:00",
+      10225,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 22 1970 00:00:00",
+      4616,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 23 1970 00:00:00",
+      6818,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 24 1970 00:00:00",
+      4200,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 25 1970 00:00:00",
+      3313,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 26 1970 00:00:00",
+      4957,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 27 1970 00:00:00",
+      3236,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 28 1970 00:00:00",
+      1101,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 29 1970 00:00:00",
+      5059,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 30 1970 00:00:00",
+      1814,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 31 1970 00:00:00",
+      1207,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "410",
+    "year": "1970",
+    "totalRecords": 61,
+    "totalCount": 640709,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.399899"
+  }
+}

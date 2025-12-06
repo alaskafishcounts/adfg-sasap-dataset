@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1929,
+      "July, 29 1929 00:00:00",
+      4,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "July, 30 1929 00:00:00",
+      2,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "July, 31 1929 00:00:00",
+      3,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 01 1929 00:00:00",
+      2,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 02 1929 00:00:00",
+      1,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 05 1929 00:00:00",
+      2,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 11 1929 00:00:00",
+      19,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 14 1929 00:00:00",
+      4,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 16 1929 00:00:00",
+      36,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 17 1929 00:00:00",
+      32,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 18 1929 00:00:00",
+      30,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 19 1929 00:00:00",
+      55,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 20 1929 00:00:00",
+      275,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 21 1929 00:00:00",
+      186,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 22 1929 00:00:00",
+      110,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 23 1929 00:00:00",
+      115,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 24 1929 00:00:00",
+      104,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 26 1929 00:00:00",
+      28,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 27 1929 00:00:00",
+      84,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 28 1929 00:00:00",
+      38,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 29 1929 00:00:00",
+      39,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 30 1929 00:00:00",
+      43,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 31 1929 00:00:00",
+      24,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 01 1929 00:00:00",
+      16,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 02 1929 00:00:00",
+      9,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 03 1929 00:00:00",
+      8,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 04 1929 00:00:00",
+      21,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 05 1929 00:00:00",
+      20,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 06 1929 00:00:00",
+      34,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 07 1929 00:00:00",
+      5,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 08 1929 00:00:00",
+      29,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 10 1929 00:00:00",
+      10,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 11 1929 00:00:00",
+      7,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 12 1929 00:00:00",
+      11,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 13 1929 00:00:00",
+      17,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 14 1929 00:00:00",
+      4,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 15 1929 00:00:00",
+      21,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 16 1929 00:00:00",
+      13,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 17 1929 00:00:00",
+      8,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 18 1929 00:00:00",
+      33,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 19 1929 00:00:00",
+      51,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 20 1929 00:00:00",
+      61,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 21 1929 00:00:00",
+      7,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 22 1929 00:00:00",
+      9,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 23 1929 00:00:00",
+      2,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 24 1929 00:00:00",
+      1,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 25 1929 00:00:00",
+      1,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 27 1929 00:00:00",
+      1,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 30 1929 00:00:00",
+      1,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "October, 01 1929 00:00:00",
+      1,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "October, 02 1929 00:00:00",
+      4,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "October, 03 1929 00:00:00",
+      152,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ],
+    [
+      1929,
+      "October, 05 1929 00:00:00",
+      68,
+      440,
+      2138,
+      "Eagle Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2138,
+    "species_id": "440",
+    "year": "1929",
+    "totalRecords": 53,
+    "totalCount": 1861,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.195431"
+  }
+}

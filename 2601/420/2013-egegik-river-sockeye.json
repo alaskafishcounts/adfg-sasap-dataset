@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 18 2013 00:00:00",
+      44892,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 19 2013 00:00:00",
+      92394,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 20 2013 00:00:00",
+      45366,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 21 2013 00:00:00",
+      47484,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 22 2013 00:00:00",
+      40314,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 23 2013 00:00:00",
+      72648,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      14952,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      44502,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      2814,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      19326,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      89592,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      89238,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      86610,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      8346,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      19776,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      35982,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      17010,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      19404,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      17046,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      6204,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      41448,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      118650,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      97584,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      26622,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      11082,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      3042,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      1302,
+      410,
+      2601,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2601,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 27,
+    "totalCount": 1113630,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.896111"
+  }
+}

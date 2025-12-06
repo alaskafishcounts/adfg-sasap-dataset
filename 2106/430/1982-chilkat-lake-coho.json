@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      1,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      15,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 24 1982 00:00:00",
+      34,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 25 1982 00:00:00",
+      11,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 26 1982 00:00:00",
+      23,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "September, 29 1982 00:00:00",
+      70,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 01 1982 00:00:00",
+      1,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 02 1982 00:00:00",
+      1,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 03 1982 00:00:00",
+      2,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "October, 07 1982 00:00:00",
+      5,
+      440,
+      2106,
+      "Chilkat Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "440",
+    "year": "1982",
+    "totalRecords": 10,
+    "totalCount": 163,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.239501"
+  }
+}

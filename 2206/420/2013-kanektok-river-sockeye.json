@@ -1,0 +1,490 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      288,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      1360,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      2982,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      2780,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      1872,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      3254,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      3903,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      2542,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      2890,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      2588,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      3380,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      2201,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      3661,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      9681,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      8086,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      9470,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      5552,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      9031,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      5437,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      5871,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      4490,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      3898,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      4204,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      3745,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      3254,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      3181,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      2316,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      2724,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      2281,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      1638,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      1555,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      1549,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      1236,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      1091,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      548,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      714,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      421,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      293,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      407,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      397,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      269,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      300,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      247,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      227,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      223,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      173,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      76,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      123,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      72,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      150,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      72,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      58,
+      410,
+      2206,
+      "Kanektok River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2206,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 52,
+    "totalCount": 128761,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.641746"
+  }
+}

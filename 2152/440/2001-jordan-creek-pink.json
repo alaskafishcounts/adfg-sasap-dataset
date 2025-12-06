@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "September, 09 2001 00:00:00",
+      3,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 11 2001 00:00:00",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      3,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      1,
+      420,
+      2152,
+      "Jordan Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2152,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 6,
+    "totalCount": 10,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.810358"
+  }
+}

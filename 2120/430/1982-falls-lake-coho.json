@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      1,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 03 1982 00:00:00",
+      2,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      1,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 07 1982 00:00:00",
+      1,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      3,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      5,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      1,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      2,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      1,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 21 1982 00:00:00",
+      2,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 22 1982 00:00:00",
+      10,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      12,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      56,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 25 1982 00:00:00",
+      26,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 26 1982 00:00:00",
+      9,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      5,
+      440,
+      2120,
+      "Falls Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "440",
+    "year": "1982",
+    "totalRecords": 16,
+    "totalCount": 137,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.732189"
+  }
+}

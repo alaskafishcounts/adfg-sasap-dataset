@@ -1,0 +1,958 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "June, 19 1993 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 02 1993 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 03 1993 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 04 1993 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 05 1993 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 06 1993 00:00:00",
+      20,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 07 1993 00:00:00",
+      269,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 08 1993 00:00:00",
+      697,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 09 1993 00:00:00",
+      218,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 10 1993 00:00:00",
+      313,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 11 1993 00:00:00",
+      372,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 12 1993 00:00:00",
+      313,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 13 1993 00:00:00",
+      416,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 14 1993 00:00:00",
+      419,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 15 1993 00:00:00",
+      193,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      65,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      155,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      197,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      174,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      39,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      192,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      73,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 23 1993 00:00:00",
+      102,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 24 1993 00:00:00",
+      118,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 25 1993 00:00:00",
+      44,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 26 1993 00:00:00",
+      55,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 27 1993 00:00:00",
+      64,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 28 1993 00:00:00",
+      158,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 29 1993 00:00:00",
+      39,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 30 1993 00:00:00",
+      68,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 31 1993 00:00:00",
+      33,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 01 1993 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 02 1993 00:00:00",
+      47,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 03 1993 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 04 1993 00:00:00",
+      31,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 05 1993 00:00:00",
+      81,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 06 1993 00:00:00",
+      102,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 07 1993 00:00:00",
+      80,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 08 1993 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 09 1993 00:00:00",
+      15,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 10 1993 00:00:00",
+      133,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 11 1993 00:00:00",
+      21,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 12 1993 00:00:00",
+      10,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 13 1993 00:00:00",
+      16,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 14 1993 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 15 1993 00:00:00",
+      10,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 16 1993 00:00:00",
+      7,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 17 1993 00:00:00",
+      42,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 18 1993 00:00:00",
+      166,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 19 1993 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 20 1993 00:00:00",
+      18,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 21 1993 00:00:00",
+      37,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 22 1993 00:00:00",
+      36,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 23 1993 00:00:00",
+      221,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 24 1993 00:00:00",
+      607,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 25 1993 00:00:00",
+      119,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 26 1993 00:00:00",
+      47,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 27 1993 00:00:00",
+      13,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 28 1993 00:00:00",
+      381,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 29 1993 00:00:00",
+      1072,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 30 1993 00:00:00",
+      347,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 31 1993 00:00:00",
+      2360,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 01 1993 00:00:00",
+      908,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 02 1993 00:00:00",
+      49,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 03 1993 00:00:00",
+      521,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 04 1993 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 05 1993 00:00:00",
+      99,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 06 1993 00:00:00",
+      9,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 07 1993 00:00:00",
+      1871,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 08 1993 00:00:00",
+      475,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 09 1993 00:00:00",
+      18,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 10 1993 00:00:00",
+      7,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 11 1993 00:00:00",
+      5,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 12 1993 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 13 1993 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 14 1993 00:00:00",
+      17,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 15 1993 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 16 1993 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 17 1993 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 18 1993 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 19 1993 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 20 1993 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 21 1993 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 22 1993 00:00:00",
+      7,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 23 1993 00:00:00",
+      4,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 24 1993 00:00:00",
+      2,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 25 1993 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 26 1993 00:00:00",
+      153,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 27 1993 00:00:00",
+      481,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 28 1993 00:00:00",
+      206,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 29 1993 00:00:00",
+      161,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 30 1993 00:00:00",
+      24,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 01 1993 00:00:00",
+      75,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 02 1993 00:00:00",
+      634,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 03 1993 00:00:00",
+      67,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 04 1993 00:00:00",
+      47,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 05 1993 00:00:00",
+      22,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 06 1993 00:00:00",
+      8,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 07 1993 00:00:00",
+      6,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 08 1993 00:00:00",
+      3,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 09 1993 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 10 1993 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 11 1993 00:00:00",
+      1,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "October, 12 1993 00:00:00",
+      0,
+      410,
+      2103,
+      "Kluckshu Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "410",
+    "year": "1993",
+    "totalRecords": 104,
+    "totalCount": 16740,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.916905"
+  }
+}

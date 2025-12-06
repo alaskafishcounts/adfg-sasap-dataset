@@ -1,0 +1,643 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      3,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      1,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "July, 29 2003 00:00:00",
+      2,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "July, 30 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 01 2003 00:00:00",
+      23,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 02 2003 00:00:00",
+      40,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 03 2003 00:00:00",
+      19,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 04 2003 00:00:00",
+      81,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 05 2003 00:00:00",
+      77,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 06 2003 00:00:00",
+      53,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 07 2003 00:00:00",
+      36,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 08 2003 00:00:00",
+      115,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 09 2003 00:00:00",
+      267,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 10 2003 00:00:00",
+      192,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 11 2003 00:00:00",
+      1714,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 12 2003 00:00:00",
+      1546,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 13 2003 00:00:00",
+      1578,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      3291,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      646,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      1909,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      1676,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      1837,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      238,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      1324,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      776,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      964,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      1118,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 24 2003 00:00:00",
+      733,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 25 2003 00:00:00",
+      144,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 26 2003 00:00:00",
+      187,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 27 2003 00:00:00",
+      42,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 28 2003 00:00:00",
+      52,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 29 2003 00:00:00",
+      63,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 30 2003 00:00:00",
+      87,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "August, 31 2003 00:00:00",
+      68,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 01 2003 00:00:00",
+      62,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 02 2003 00:00:00",
+      134,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 03 2003 00:00:00",
+      139,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 04 2003 00:00:00",
+      52,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 05 2003 00:00:00",
+      58,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 06 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 07 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 08 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 09 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 10 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 11 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 12 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 13 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 14 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 15 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 16 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 17 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 18 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 19 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 20 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 21 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 22 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 23 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 24 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 25 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 26 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 27 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 28 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "September, 29 2003 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 69,
+    "totalCount": 21347,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.626430"
+  }
+}

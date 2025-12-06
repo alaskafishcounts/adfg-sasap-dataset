@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "June, 25 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "June, 26 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "June, 27 2001 00:00:00",
+      61,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "June, 28 2001 00:00:00",
+      134,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "June, 29 2001 00:00:00",
+      162,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "June, 30 2001 00:00:00",
+      8,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 01 2001 00:00:00",
+      21,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 02 2001 00:00:00",
+      90,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 03 2001 00:00:00",
+      203,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 04 2001 00:00:00",
+      111,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 05 2001 00:00:00",
+      92,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 06 2001 00:00:00",
+      99,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 07 2001 00:00:00",
+      112,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 08 2001 00:00:00",
+      226,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 09 2001 00:00:00",
+      16,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      242,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      106,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      188,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      334,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      194,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      264,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      498,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      151,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      162,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      845,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      28,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      66,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      53,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      44,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      54,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      30,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 26 2001 00:00:00",
+      37,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      88,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      105,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      66,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      27,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      100,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      39,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      6,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 03 2001 00:00:00",
+      6,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 04 2001 00:00:00",
+      37,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 05 2001 00:00:00",
+      78,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 06 2001 00:00:00",
+      25,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 07 2001 00:00:00",
+      23,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 08 2001 00:00:00",
+      14,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 09 2001 00:00:00",
+      15,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 10 2001 00:00:00",
+      7,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 12 2001 00:00:00",
+      21,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 14 2001 00:00:00",
+      11,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 15 2001 00:00:00",
+      21,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      2,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      4,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 01 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 02 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 04 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      2,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 06 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 07 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 09 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 11 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      1,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      0,
+      430,
+      2201,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2201,
+    "species_id": "430",
+    "year": "2001",
+    "totalRecords": 86,
+    "totalCount": 5351,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.674779"
+  }
+}

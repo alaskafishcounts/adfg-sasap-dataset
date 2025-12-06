@@ -1,0 +1,985 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "June, 15 1980 00:00:00",
+      300,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 16 1980 00:00:00",
+      0,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 17 1980 00:00:00",
+      13,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 18 1980 00:00:00",
+      15,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 19 1980 00:00:00",
+      3,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 20 1980 00:00:00",
+      54,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 21 1980 00:00:00",
+      6,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 22 1980 00:00:00",
+      4,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 23 1980 00:00:00",
+      24,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 24 1980 00:00:00",
+      164,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 25 1980 00:00:00",
+      143,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 26 1980 00:00:00",
+      607,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 27 1980 00:00:00",
+      170,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 28 1980 00:00:00",
+      45,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 29 1980 00:00:00",
+      204,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 30 1980 00:00:00",
+      88,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 01 1980 00:00:00",
+      99,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 02 1980 00:00:00",
+      121,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 03 1980 00:00:00",
+      240,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 04 1980 00:00:00",
+      875,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 05 1980 00:00:00",
+      197,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 06 1980 00:00:00",
+      16,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 07 1980 00:00:00",
+      191,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 08 1980 00:00:00",
+      196,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 09 1980 00:00:00",
+      248,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 10 1980 00:00:00",
+      364,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 11 1980 00:00:00",
+      211,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 12 1980 00:00:00",
+      1015,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 13 1980 00:00:00",
+      727,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 14 1980 00:00:00",
+      1045,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 15 1980 00:00:00",
+      776,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 16 1980 00:00:00",
+      646,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 17 1980 00:00:00",
+      517,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 18 1980 00:00:00",
+      736,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 19 1980 00:00:00",
+      1447,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 20 1980 00:00:00",
+      2372,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 21 1980 00:00:00",
+      3305,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 22 1980 00:00:00",
+      2066,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 23 1980 00:00:00",
+      1056,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 24 1980 00:00:00",
+      1369,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 25 1980 00:00:00",
+      791,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 26 1980 00:00:00",
+      440,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 27 1980 00:00:00",
+      373,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 28 1980 00:00:00",
+      1827,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 29 1980 00:00:00",
+      2124,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 30 1980 00:00:00",
+      2113,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 31 1980 00:00:00",
+      782,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 01 1980 00:00:00",
+      556,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 02 1980 00:00:00",
+      519,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 03 1980 00:00:00",
+      1371,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 04 1980 00:00:00",
+      1623,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 05 1980 00:00:00",
+      4263,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 06 1980 00:00:00",
+      1685,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 07 1980 00:00:00",
+      1773,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 08 1980 00:00:00",
+      4566,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 09 1980 00:00:00",
+      5579,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 10 1980 00:00:00",
+      7767,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 11 1980 00:00:00",
+      5311,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 12 1980 00:00:00",
+      3566,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 13 1980 00:00:00",
+      650,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 14 1980 00:00:00",
+      1587,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 15 1980 00:00:00",
+      1596,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 16 1980 00:00:00",
+      856,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 17 1980 00:00:00",
+      1551,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 18 1980 00:00:00",
+      2004,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 19 1980 00:00:00",
+      4130,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 20 1980 00:00:00",
+      1272,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 21 1980 00:00:00",
+      416,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 22 1980 00:00:00",
+      1459,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 23 1980 00:00:00",
+      2136,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 24 1980 00:00:00",
+      2269,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 25 1980 00:00:00",
+      4294,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 26 1980 00:00:00",
+      1645,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 27 1980 00:00:00",
+      767,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 28 1980 00:00:00",
+      364,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 29 1980 00:00:00",
+      769,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 30 1980 00:00:00",
+      561,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "August, 31 1980 00:00:00",
+      160,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 01 1980 00:00:00",
+      368,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 02 1980 00:00:00",
+      83,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 03 1980 00:00:00",
+      17,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 04 1980 00:00:00",
+      121,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 05 1980 00:00:00",
+      250,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 06 1980 00:00:00",
+      78,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 07 1980 00:00:00",
+      137,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 08 1980 00:00:00",
+      38,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 09 1980 00:00:00",
+      143,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 10 1980 00:00:00",
+      78,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 11 1980 00:00:00",
+      45,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 12 1980 00:00:00",
+      17,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 13 1980 00:00:00",
+      21,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 14 1980 00:00:00",
+      8,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 15 1980 00:00:00",
+      9,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 16 1980 00:00:00",
+      12,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 17 1980 00:00:00",
+      3,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 18 1980 00:00:00",
+      12,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 20 1980 00:00:00",
+      2,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 21 1980 00:00:00",
+      3,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 22 1980 00:00:00",
+      2,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 23 1980 00:00:00",
+      8,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 24 1980 00:00:00",
+      5,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 25 1980 00:00:00",
+      7,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 26 1980 00:00:00",
+      4,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 27 1980 00:00:00",
+      7,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 28 1980 00:00:00",
+      3,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "September, 29 1980 00:00:00",
+      2,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "October, 03 1980 00:00:00",
+      0,
+      410,
+      2102,
+      "Chilkoot Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2102,
+    "species_id": "410",
+    "year": "1980",
+    "totalRecords": 107,
+    "totalCount": 98673,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:39.978003"
+  }
+}

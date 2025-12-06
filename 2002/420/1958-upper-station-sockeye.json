@@ -1,0 +1,922 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1958,
+      "June, 07 1958 00:00:00",
+      150,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 08 1958 00:00:00",
+      9,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 09 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 10 1958 00:00:00",
+      4309,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 11 1958 00:00:00",
+      401,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 12 1958 00:00:00",
+      177,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 13 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 14 1958 00:00:00",
+      25,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 15 1958 00:00:00",
+      712,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 16 1958 00:00:00",
+      1171,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 17 1958 00:00:00",
+      962,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 18 1958 00:00:00",
+      284,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 19 1958 00:00:00",
+      1294,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 20 1958 00:00:00",
+      297,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 21 1958 00:00:00",
+      70,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 22 1958 00:00:00",
+      204,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 23 1958 00:00:00",
+      763,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 24 1958 00:00:00",
+      839,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 25 1958 00:00:00",
+      730,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 26 1958 00:00:00",
+      629,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 27 1958 00:00:00",
+      652,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 28 1958 00:00:00",
+      329,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 29 1958 00:00:00",
+      254,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "June, 30 1958 00:00:00",
+      149,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 01 1958 00:00:00",
+      133,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 02 1958 00:00:00",
+      399,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 03 1958 00:00:00",
+      423,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 04 1958 00:00:00",
+      149,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 05 1958 00:00:00",
+      74,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 06 1958 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 07 1958 00:00:00",
+      129,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 08 1958 00:00:00",
+      137,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 09 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 10 1958 00:00:00",
+      19,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 11 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 12 1958 00:00:00",
+      19,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 13 1958 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 14 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 15 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 16 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 17 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 18 1958 00:00:00",
+      29,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 19 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 20 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 21 1958 00:00:00",
+      73,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 22 1958 00:00:00",
+      191,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 23 1958 00:00:00",
+      11,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 24 1958 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 25 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 26 1958 00:00:00",
+      83,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 27 1958 00:00:00",
+      4,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 28 1958 00:00:00",
+      55,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 29 1958 00:00:00",
+      106,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 30 1958 00:00:00",
+      827,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "July, 31 1958 00:00:00",
+      1055,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 01 1958 00:00:00",
+      127,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 02 1958 00:00:00",
+      599,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 03 1958 00:00:00",
+      647,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 04 1958 00:00:00",
+      90,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 05 1958 00:00:00",
+      63,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 06 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 07 1958 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 08 1958 00:00:00",
+      3702,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 09 1958 00:00:00",
+      1461,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 10 1958 00:00:00",
+      270,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 11 1958 00:00:00",
+      935,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 12 1958 00:00:00",
+      2682,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 13 1958 00:00:00",
+      522,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 14 1958 00:00:00",
+      341,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 15 1958 00:00:00",
+      1907,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 16 1958 00:00:00",
+      3822,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 17 1958 00:00:00",
+      2164,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 18 1958 00:00:00",
+      8272,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 19 1958 00:00:00",
+      2235,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 20 1958 00:00:00",
+      3216,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 21 1958 00:00:00",
+      2623,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 22 1958 00:00:00",
+      4668,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 23 1958 00:00:00",
+      295,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 24 1958 00:00:00",
+      2024,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 25 1958 00:00:00",
+      1609,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 26 1958 00:00:00",
+      1177,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 27 1958 00:00:00",
+      1293,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 28 1958 00:00:00",
+      1957,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 29 1958 00:00:00",
+      834,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 30 1958 00:00:00",
+      1071,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "August, 31 1958 00:00:00",
+      1590,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 01 1958 00:00:00",
+      1453,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 02 1958 00:00:00",
+      3432,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 03 1958 00:00:00",
+      2281,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 04 1958 00:00:00",
+      3220,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 05 1958 00:00:00",
+      209,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 06 1958 00:00:00",
+      432,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 07 1958 00:00:00",
+      1763,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 08 1958 00:00:00",
+      1583,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 09 1958 00:00:00",
+      369,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 10 1958 00:00:00",
+      394,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 11 1958 00:00:00",
+      2035,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 12 1958 00:00:00",
+      31,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 13 1958 00:00:00",
+      101,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ],
+    [
+      1958,
+      "September, 14 1958 00:00:00",
+      17,
+      410,
+      2002,
+      "Upper Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "1958",
+    "totalRecords": 100,
+    "totalCount": 87851,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.302457"
+  }
+}

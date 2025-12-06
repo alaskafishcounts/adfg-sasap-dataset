@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      10,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      4,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      3,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 24 2003 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 25 2003 00:00:00",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 29 2003 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 30 2003 00:00:00",
+      6,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "September, 01 2003 00:00:00",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "September, 02 2003 00:00:00",
+      3,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "September, 06 2003 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "September, 09 2003 00:00:00",
+      2,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "September, 15 2003 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "September, 17 2003 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ],
+    [
+      2003,
+      "September, 19 2003 00:00:00",
+      1,
+      410,
+      2113,
+      "Salmon Lake Stream",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2113,
+    "species_id": "430",
+    "year": "2003",
+    "totalRecords": 16,
+    "totalCount": 40,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.434688"
+  }
+}

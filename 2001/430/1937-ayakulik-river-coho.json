@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1937,
+      "August, 19 1937 00:00:00",
+      20,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 20 1937 00:00:00",
+      123,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 21 1937 00:00:00",
+      12,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 22 1937 00:00:00",
+      41,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 23 1937 00:00:00",
+      44,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 24 1937 00:00:00",
+      130,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 25 1937 00:00:00",
+      87,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 26 1937 00:00:00",
+      67,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 27 1937 00:00:00",
+      96,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1937,
+      "August, 28 1937 00:00:00",
+      53,
+      440,
+      2001,
+      "Ayakulik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "440",
+    "year": "1937",
+    "totalRecords": 10,
+    "totalCount": 673,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.972824"
+  }
+}

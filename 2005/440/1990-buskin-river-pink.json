@@ -1,0 +1,733 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "July, 14 1990 00:00:00",
+      1,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 15 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 16 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 17 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 18 1990 00:00:00",
+      1,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 19 1990 00:00:00",
+      4,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 20 1990 00:00:00",
+      38,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 21 1990 00:00:00",
+      492,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 22 1990 00:00:00",
+      69,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 23 1990 00:00:00",
+      21,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 24 1990 00:00:00",
+      52,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 25 1990 00:00:00",
+      65,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 26 1990 00:00:00",
+      8,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 27 1990 00:00:00",
+      145,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 28 1990 00:00:00",
+      937,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 29 1990 00:00:00",
+      758,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 30 1990 00:00:00",
+      729,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "July, 31 1990 00:00:00",
+      297,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 01 1990 00:00:00",
+      731,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 02 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 03 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 04 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 05 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 06 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 07 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 08 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 09 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 10 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 11 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 12 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 13 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 14 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 15 1990 00:00:00",
+      1422,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 16 1990 00:00:00",
+      1652,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 17 1990 00:00:00",
+      551,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 18 1990 00:00:00",
+      1151,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 19 1990 00:00:00",
+      1102,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 20 1990 00:00:00",
+      482,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 21 1990 00:00:00",
+      194,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 22 1990 00:00:00",
+      518,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 23 1990 00:00:00",
+      190,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 24 1990 00:00:00",
+      326,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 25 1990 00:00:00",
+      1001,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 26 1990 00:00:00",
+      538,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 27 1990 00:00:00",
+      1098,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 28 1990 00:00:00",
+      842,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 29 1990 00:00:00",
+      791,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 30 1990 00:00:00",
+      141,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "August, 31 1990 00:00:00",
+      376,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 01 1990 00:00:00",
+      367,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 02 1990 00:00:00",
+      521,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 03 1990 00:00:00",
+      2653,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 04 1990 00:00:00",
+      638,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 05 1990 00:00:00",
+      377,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 06 1990 00:00:00",
+      226,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 07 1990 00:00:00",
+      147,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 08 1990 00:00:00",
+      832,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 09 1990 00:00:00",
+      441,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 10 1990 00:00:00",
+      35,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 11 1990 00:00:00",
+      599,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 12 1990 00:00:00",
+      360,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 13 1990 00:00:00",
+      239,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 14 1990 00:00:00",
+      124,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 15 1990 00:00:00",
+      84,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 16 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 17 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 18 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 19 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 20 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 21 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 22 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 23 1990 00:00:00",
+      11,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 24 1990 00:00:00",
+      15,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 25 1990 00:00:00",
+      7,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 26 1990 00:00:00",
+      4,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 27 1990 00:00:00",
+      9818,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 28 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 29 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      1990,
+      "September, 30 1990 00:00:00",
+      0,
+      420,
+      2005,
+      "Buskin River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2005,
+    "species_id": "420",
+    "year": "1990",
+    "totalRecords": 79,
+    "totalCount": 52707,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.787897"
+  }
+}

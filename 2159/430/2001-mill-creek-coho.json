@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      1,
+      440,
+      2159,
+      "Mill Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      1,
+      440,
+      2159,
+      "Mill Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      1,
+      440,
+      2159,
+      "Mill Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      1,
+      440,
+      2159,
+      "Mill Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2159,
+    "species_id": "440",
+    "year": "2001",
+    "totalRecords": 4,
+    "totalCount": 4,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.379281"
+  }
+}

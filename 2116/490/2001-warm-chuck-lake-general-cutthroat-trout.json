@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      1,
+      490,
+      2116,
+      "Warm Chuck Lake",
+      "General cutthroat trout"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      1,
+      490,
+      2116,
+      "Warm Chuck Lake",
+      "General cutthroat trout"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      1,
+      490,
+      2116,
+      "Warm Chuck Lake",
+      "General cutthroat trout"
+    ],
+    [
+      2001,
+      "September, 29 2001 00:00:00",
+      1,
+      490,
+      2116,
+      "Warm Chuck Lake",
+      "General cutthroat trout"
+    ],
+    [
+      2001,
+      "September, 30 2001 00:00:00",
+      1,
+      490,
+      2116,
+      "Warm Chuck Lake",
+      "General cutthroat trout"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "490",
+    "year": "2001",
+    "totalRecords": 5,
+    "totalCount": 5,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.601697"
+  }
+}

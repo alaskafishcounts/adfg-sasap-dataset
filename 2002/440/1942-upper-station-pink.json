@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1942,
+      "August, 30 1942 00:00:00",
+      27,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "August, 31 1942 00:00:00",
+      42,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 01 1942 00:00:00",
+      189,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 02 1942 00:00:00",
+      264,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 03 1942 00:00:00",
+      192,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 04 1942 00:00:00",
+      216,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 05 1942 00:00:00",
+      165,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 06 1942 00:00:00",
+      114,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 07 1942 00:00:00",
+      133,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 08 1942 00:00:00",
+      169,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 09 1942 00:00:00",
+      225,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 10 1942 00:00:00",
+      151,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 11 1942 00:00:00",
+      57,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 12 1942 00:00:00",
+      78,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 13 1942 00:00:00",
+      92,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1942,
+      "September, 14 1942 00:00:00",
+      76,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "420",
+    "year": "1942",
+    "totalRecords": 16,
+    "totalCount": 2190,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.669340"
+  }
+}

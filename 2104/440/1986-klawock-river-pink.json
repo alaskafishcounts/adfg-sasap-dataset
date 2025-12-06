@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "August, 05 1986 00:00:00",
+      2,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 06 1986 00:00:00",
+      1,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 07 1986 00:00:00",
+      2,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 08 1986 00:00:00",
+      1,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 09 1986 00:00:00",
+      12,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 12 1986 00:00:00",
+      2,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 14 1986 00:00:00",
+      1,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 19 1986 00:00:00",
+      3,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 20 1986 00:00:00",
+      1,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 26 1986 00:00:00",
+      101,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "August, 27 1986 00:00:00",
+      26,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 03 1986 00:00:00",
+      391,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 24 1986 00:00:00",
+      20,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 25 1986 00:00:00",
+      527,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "September, 29 1986 00:00:00",
+      222,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "October, 02 1986 00:00:00",
+      135,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "October, 04 1986 00:00:00",
+      39,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ],
+    [
+      1986,
+      "October, 10 1986 00:00:00",
+      7,
+      420,
+      2104,
+      "Klawock River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2104,
+    "species_id": "420",
+    "year": "1986",
+    "totalRecords": 18,
+    "totalCount": 1493,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.648373"
+  }
+}

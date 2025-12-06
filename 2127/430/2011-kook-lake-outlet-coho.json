@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      3,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 28 2011 00:00:00",
+      2,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 29 2011 00:00:00",
+      2,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 31 2011 00:00:00",
+      2,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 01 2011 00:00:00",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 02 2011 00:00:00",
+      3,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 03 2011 00:00:00",
+      4,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 05 2011 00:00:00",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 06 2011 00:00:00",
+      2,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 07 2011 00:00:00",
+      1,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 09 2011 00:00:00",
+      5,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 11 2011 00:00:00",
+      3,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 14 2011 00:00:00",
+      4,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 15 2011 00:00:00",
+      2,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ],
+    [
+      2011,
+      "September, 16 2011 00:00:00",
+      4,
+      440,
+      2127,
+      "Kook Lake Outlet",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2127,
+    "species_id": "440",
+    "year": "2011",
+    "totalRecords": 17,
+    "totalCount": 41,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.713012"
+  }
+}

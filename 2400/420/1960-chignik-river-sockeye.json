@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1960,
+      "June, 10 1960 00:00:00",
+      5596,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 11 1960 00:00:00",
+      9453,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 12 1960 00:00:00",
+      8341,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 13 1960 00:00:00",
+      2639,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 14 1960 00:00:00",
+      24383,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 15 1960 00:00:00",
+      54999,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 16 1960 00:00:00",
+      31458,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 17 1960 00:00:00",
+      27228,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 18 1960 00:00:00",
+      9192,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 19 1960 00:00:00",
+      8724,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 20 1960 00:00:00",
+      18934,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 21 1960 00:00:00",
+      15184,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 22 1960 00:00:00",
+      12149,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 23 1960 00:00:00",
+      14718,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 24 1960 00:00:00",
+      32958,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 25 1960 00:00:00",
+      13418,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 26 1960 00:00:00",
+      6812,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 27 1960 00:00:00",
+      2741,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 28 1960 00:00:00",
+      1830,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 29 1960 00:00:00",
+      5474,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "June, 30 1960 00:00:00",
+      5368,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 01 1960 00:00:00",
+      5882,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 02 1960 00:00:00",
+      1538,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 03 1960 00:00:00",
+      1356,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 04 1960 00:00:00",
+      5629,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 05 1960 00:00:00",
+      1887,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 06 1960 00:00:00",
+      1806,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 07 1960 00:00:00",
+      2394,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 08 1960 00:00:00",
+      1470,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 09 1960 00:00:00",
+      1365,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 10 1960 00:00:00",
+      3978,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 11 1960 00:00:00",
+      7120,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 12 1960 00:00:00",
+      8525,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 13 1960 00:00:00",
+      17666,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 14 1960 00:00:00",
+      22402,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 15 1960 00:00:00",
+      12896,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 16 1960 00:00:00",
+      9644,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 17 1960 00:00:00",
+      5478,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 18 1960 00:00:00",
+      7866,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 19 1960 00:00:00",
+      6450,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 20 1960 00:00:00",
+      2405,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 21 1960 00:00:00",
+      1578,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 22 1960 00:00:00",
+      2812,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 23 1960 00:00:00",
+      1370,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 24 1960 00:00:00",
+      3690,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 25 1960 00:00:00",
+      1464,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 26 1960 00:00:00",
+      3022,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 27 1960 00:00:00",
+      2364,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 28 1960 00:00:00",
+      2114,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 29 1960 00:00:00",
+      882,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 30 1960 00:00:00",
+      866,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "July, 31 1960 00:00:00",
+      1572,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "August, 01 1960 00:00:00",
+      1531,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "August, 02 1960 00:00:00",
+      714,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "August, 03 1960 00:00:00",
+      1224,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "August, 04 1960 00:00:00",
+      912,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "August, 05 1960 00:00:00",
+      564,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "August, 06 1960 00:00:00",
+      978,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "August, 07 1960 00:00:00",
+      0,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      1960,
+      "August, 08 1960 00:00:00",
+      846,
+      410,
+      2400,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2400,
+    "species_id": "410",
+    "year": "1960",
+    "totalRecords": 60,
+    "totalCount": 467859,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.418839"
+  }
+}

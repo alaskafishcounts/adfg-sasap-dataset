@@ -1,0 +1,877 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "May, 29 2005 00:00:00",
+      2000,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "May, 30 2005 00:00:00",
+      846,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "May, 31 2005 00:00:00",
+      776,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 01 2005 00:00:00",
+      755,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 02 2005 00:00:00",
+      563,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 03 2005 00:00:00",
+      219,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 04 2005 00:00:00",
+      973,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 05 2005 00:00:00",
+      340,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 06 2005 00:00:00",
+      500,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 07 2005 00:00:00",
+      251,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 08 2005 00:00:00",
+      868,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 09 2005 00:00:00",
+      481,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 10 2005 00:00:00",
+      720,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 11 2005 00:00:00",
+      3017,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 12 2005 00:00:00",
+      1565,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 13 2005 00:00:00",
+      2712,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 14 2005 00:00:00",
+      2376,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 15 2005 00:00:00",
+      2000,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 16 2005 00:00:00",
+      2022,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 17 2005 00:00:00",
+      1850,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 18 2005 00:00:00",
+      3761,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 19 2005 00:00:00",
+      2597,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 20 2005 00:00:00",
+      3917,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 21 2005 00:00:00",
+      3024,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 22 2005 00:00:00",
+      3852,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 23 2005 00:00:00",
+      17593,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 24 2005 00:00:00",
+      11031,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 25 2005 00:00:00",
+      5135,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 26 2005 00:00:00",
+      6133,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 27 2005 00:00:00",
+      3396,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 28 2005 00:00:00",
+      2560,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 29 2005 00:00:00",
+      2415,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 30 2005 00:00:00",
+      2424,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 01 2005 00:00:00",
+      3716,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 02 2005 00:00:00",
+      2432,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 03 2005 00:00:00",
+      6204,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 04 2005 00:00:00",
+      6546,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 05 2005 00:00:00",
+      3891,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 06 2005 00:00:00",
+      1442,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 07 2005 00:00:00",
+      886,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 08 2005 00:00:00",
+      771,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 09 2005 00:00:00",
+      2111,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 10 2005 00:00:00",
+      1450,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 11 2005 00:00:00",
+      1208,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 12 2005 00:00:00",
+      523,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 13 2005 00:00:00",
+      321,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 14 2005 00:00:00",
+      671,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 15 2005 00:00:00",
+      1209,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 16 2005 00:00:00",
+      591,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      525,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 18 2005 00:00:00",
+      595,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 19 2005 00:00:00",
+      669,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 20 2005 00:00:00",
+      407,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      25160,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 22 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 23 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 24 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 25 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 26 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 27 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 28 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 29 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 30 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 31 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 01 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 02 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 03 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 04 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 05 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 06 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 07 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 08 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 09 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 10 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 11 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 12 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 13 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 14 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 15 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 16 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 17 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 18 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 19 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 20 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 21 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 22 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 23 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 24 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 25 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 26 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 27 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 28 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 29 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 30 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 31 2005 00:00:00",
+      0,
+      410,
+      2302,
+      "Ilnik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2302,
+    "species_id": "410",
+    "year": "2005",
+    "totalRecords": 95,
+    "totalCount": 154000,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.622351"
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "July, 26 1993 00:00:00",
+      1,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "July, 27 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "July, 28 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "July, 29 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "July, 30 1993 00:00:00",
+      1,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "July, 31 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 01 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 02 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 03 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 04 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 05 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 06 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 07 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 08 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 09 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 10 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 11 1993 00:00:00",
+      2200,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 12 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 13 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 14 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 15 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 16 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 17 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 18 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 19 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 20 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 21 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 22 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 23 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 24 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 25 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 26 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 27 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 28 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 29 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 30 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "August, 31 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 01 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 02 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 03 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 04 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 05 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 06 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 07 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 08 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 09 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 10 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 11 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 12 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 13 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 14 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 15 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 16 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 17 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 18 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 19 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 20 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 21 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 22 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 23 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 24 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 25 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 26 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 27 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 28 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 29 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ],
+    [
+      1993,
+      "September, 30 1993 00:00:00",
+      0,
+      440,
+      2010,
+      "Malina Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2010,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 67,
+    "totalCount": 2202,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.165025"
+  }
+}

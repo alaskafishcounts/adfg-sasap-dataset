@@ -1,0 +1,1363 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 19 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 20 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 21 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 22 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 23 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 24 1987 00:00:00",
+      38,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 25 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 26 1987 00:00:00",
+      33,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 27 1987 00:00:00",
+      17,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 28 1987 00:00:00",
+      153,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 29 1987 00:00:00",
+      501,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 30 1987 00:00:00",
+      262,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 01 1987 00:00:00",
+      261,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 02 1987 00:00:00",
+      18,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 03 1987 00:00:00",
+      568,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 04 1987 00:00:00",
+      14,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 05 1987 00:00:00",
+      67,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 06 1987 00:00:00",
+      24,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 07 1987 00:00:00",
+      662,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 08 1987 00:00:00",
+      56,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 09 1987 00:00:00",
+      1026,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      240,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      122,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      193,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      101,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      177,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      851,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      248,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      2223,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      2008,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      1279,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      560,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      703,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 24 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 25 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 26 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 27 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 28 1987 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 29 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 30 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 31 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 01 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 02 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 03 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 04 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 05 1987 00:00:00",
+      8,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 06 1987 00:00:00",
+      13,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 07 1987 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 08 1987 00:00:00",
+      100,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 09 1987 00:00:00",
+      568,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 10 1987 00:00:00",
+      839,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 11 1987 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 12 1987 00:00:00",
+      247,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 13 1987 00:00:00",
+      113,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 14 1987 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 15 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 16 1987 00:00:00",
+      20,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 17 1987 00:00:00",
+      58,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 18 1987 00:00:00",
+      78,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 19 1987 00:00:00",
+      277,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 20 1987 00:00:00",
+      947,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 21 1987 00:00:00",
+      440,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 22 1987 00:00:00",
+      55,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 23 1987 00:00:00",
+      423,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 24 1987 00:00:00",
+      2130,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 25 1987 00:00:00",
+      121,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 26 1987 00:00:00",
+      1021,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 27 1987 00:00:00",
+      337,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 28 1987 00:00:00",
+      753,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 29 1987 00:00:00",
+      1408,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 30 1987 00:00:00",
+      135,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 31 1987 00:00:00",
+      435,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 01 1987 00:00:00",
+      23,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 02 1987 00:00:00",
+      610,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 03 1987 00:00:00",
+      413,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 04 1987 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 05 1987 00:00:00",
+      26,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 06 1987 00:00:00",
+      26,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 07 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 08 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 09 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 10 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 11 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 12 1987 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 13 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 14 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 15 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 16 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 18 1987 00:00:00",
+      156,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 19 1987 00:00:00",
+      103,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 20 1987 00:00:00",
+      765,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 21 1987 00:00:00",
+      1213,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 22 1987 00:00:00",
+      2862,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 23 1987 00:00:00",
+      6621,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 24 1987 00:00:00",
+      4052,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 25 1987 00:00:00",
+      2352,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 26 1987 00:00:00",
+      178,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 27 1987 00:00:00",
+      378,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 28 1987 00:00:00",
+      1502,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 29 1987 00:00:00",
+      106,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "September, 30 1987 00:00:00",
+      4179,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 01 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 02 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 03 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 04 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 05 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 06 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 07 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 08 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 09 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 11 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 12 1987 00:00:00",
+      22,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 14 1987 00:00:00",
+      10,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 15 1987 00:00:00",
+      0,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 16 1987 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 17 1987 00:00:00",
+      17,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 18 1987 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 19 1987 00:00:00",
+      61,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 20 1987 00:00:00",
+      60,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 21 1987 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 22 1987 00:00:00",
+      11,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 23 1987 00:00:00",
+      4,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 24 1987 00:00:00",
+      11,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 25 1987 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 26 1987 00:00:00",
+      25,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 27 1987 00:00:00",
+      3,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 28 1987 00:00:00",
+      3,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 29 1987 00:00:00",
+      5,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 30 1987 00:00:00",
+      6,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "October, 31 1987 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 01 1987 00:00:00",
+      5,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 02 1987 00:00:00",
+      6,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 03 1987 00:00:00",
+      5,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 05 1987 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 06 1987 00:00:00",
+      8,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 07 1987 00:00:00",
+      7,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 08 1987 00:00:00",
+      1,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 09 1987 00:00:00",
+      5,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 10 1987 00:00:00",
+      9,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 11 1987 00:00:00",
+      4,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 12 1987 00:00:00",
+      22,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 13 1987 00:00:00",
+      4,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 14 1987 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 15 1987 00:00:00",
+      3,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 17 1987 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 18 1987 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "November, 20 1987 00:00:00",
+      2,
+      410,
+      2106,
+      "Chilkat Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "410",
+    "year": "1987",
+    "totalRecords": 149,
+    "totalCount": 48861,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.253548"
+  }
+}

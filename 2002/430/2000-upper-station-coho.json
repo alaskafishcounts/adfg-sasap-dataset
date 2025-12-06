@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      5,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      3,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      2,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      6,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      16,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      12,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      38,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      48,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      15,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      32,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      33,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      48,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      77,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      88,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      78,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      151,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      184,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      145,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      212,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 25 2000 00:00:00",
+      192,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      124,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 27 2000 00:00:00",
+      128,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      148,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 29 2000 00:00:00",
+      125,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      128,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 31 2000 00:00:00",
+      132,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 01 2000 00:00:00",
+      55,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 02 2000 00:00:00",
+      163,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 03 2000 00:00:00",
+      235,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 04 2000 00:00:00",
+      161,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 05 2000 00:00:00",
+      173,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 06 2000 00:00:00",
+      48,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 07 2000 00:00:00",
+      121,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 08 2000 00:00:00",
+      79,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 09 2000 00:00:00",
+      7,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 10 2000 00:00:00",
+      102,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 11 2000 00:00:00",
+      45,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 12 2000 00:00:00",
+      21,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 13 2000 00:00:00",
+      75,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 14 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 15 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 16 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 17 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 18 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 19 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 20 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 21 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 22 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 23 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 24 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 25 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 26 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 27 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 28 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 29 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 30 2000 00:00:00",
+      0,
+      440,
+      2002,
+      "Upper Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "440",
+    "year": "2000",
+    "totalRecords": 56,
+    "totalCount": 3455,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.854902"
+  }
+}

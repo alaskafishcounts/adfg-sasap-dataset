@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "August, 06 2002 00:00:00",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 08 2002 00:00:00",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      4,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      8,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      3,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      1,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      2,
+      420,
+      2110,
+      "Speel Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2110,
+    "species_id": "420",
+    "year": "2002",
+    "totalRecords": 15,
+    "totalCount": 40,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.482403"
+  }
+}

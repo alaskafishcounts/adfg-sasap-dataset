@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "July, 15 1992 00:00:00",
+      1,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 20 1992 00:00:00",
+      1,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 30 1992 00:00:00",
+      1,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "July, 31 1992 00:00:00",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 01 1992 00:00:00",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 02 1992 00:00:00",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 03 1992 00:00:00",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 07 1992 00:00:00",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 22 1992 00:00:00",
+      2,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 23 1992 00:00:00",
+      3,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 24 1992 00:00:00",
+      4,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 25 1992 00:00:00",
+      6,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ],
+    [
+      1992,
+      "August, 26 1992 00:00:00",
+      7,
+      530,
+      2142,
+      "Crescent Lake",
+      "General dolly varden"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2142,
+    "species_id": "530",
+    "year": "1992",
+    "totalRecords": 13,
+    "totalCount": 35,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.769605"
+  }
+}

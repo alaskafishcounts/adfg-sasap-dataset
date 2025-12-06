@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1929,
+      "August, 25 1929 00:00:00",
+      3,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 26 1929 00:00:00",
+      18,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 27 1929 00:00:00",
+      18,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 28 1929 00:00:00",
+      10,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 29 1929 00:00:00",
+      22,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 30 1929 00:00:00",
+      15,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "August, 31 1929 00:00:00",
+      24,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 01 1929 00:00:00",
+      117,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 02 1929 00:00:00",
+      62,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 03 1929 00:00:00",
+      61,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 04 1929 00:00:00",
+      27,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 05 1929 00:00:00",
+      21,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 06 1929 00:00:00",
+      10,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 07 1929 00:00:00",
+      11,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 08 1929 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 09 1929 00:00:00",
+      0,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 10 1929 00:00:00",
+      22,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ],
+    [
+      1929,
+      "September, 11 1929 00:00:00",
+      5,
+      440,
+      2011,
+      "Uganik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2011,
+    "species_id": "440",
+    "year": "1929",
+    "totalRecords": 18,
+    "totalCount": 446,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.202497"
+  }
+}

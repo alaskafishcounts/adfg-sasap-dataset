@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "September, 14 2006 00:00:00",
+      1,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 22 2006 00:00:00",
+      5,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 27 2006 00:00:00",
+      16,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 28 2006 00:00:00",
+      7,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 29 2006 00:00:00",
+      16,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "September, 30 2006 00:00:00",
+      16,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 01 2006 00:00:00",
+      9,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 02 2006 00:00:00",
+      2,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 03 2006 00:00:00",
+      3,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 04 2006 00:00:00",
+      4,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 05 2006 00:00:00",
+      66,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 06 2006 00:00:00",
+      39,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 07 2006 00:00:00",
+      10,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 09 2006 00:00:00",
+      37,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 10 2006 00:00:00",
+      41,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 11 2006 00:00:00",
+      132,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ],
+    [
+      2006,
+      "October, 12 2006 00:00:00",
+      16,
+      440,
+      2103,
+      "Kluckshu Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2103,
+    "species_id": "440",
+    "year": "2006",
+    "totalRecords": 17,
+    "totalCount": 420,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:41.843891"
+  }
+}

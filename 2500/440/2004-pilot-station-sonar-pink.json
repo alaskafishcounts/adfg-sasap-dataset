@@ -1,0 +1,670 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      237,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      230,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      297,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      2081,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      2294,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      2387,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      2249,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      1416,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 01 2004 00:00:00",
+      5791,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 02 2004 00:00:00",
+      4666,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 03 2004 00:00:00",
+      6524,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 04 2004 00:00:00",
+      7756,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 05 2004 00:00:00",
+      15032,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 06 2004 00:00:00",
+      8360,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 07 2004 00:00:00",
+      6299,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 08 2004 00:00:00",
+      17197,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 09 2004 00:00:00",
+      11513,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      12306,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      15965,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      12657,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      21290,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      17737,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      18093,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      16105,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      19760,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      23989,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      22375,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      17764,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      18927,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      7911,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      11182,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      5565,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      10283,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      6751,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      8333,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      4544,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      6214,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      5586,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      4261,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 01 2004 00:00:00",
+      1428,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 02 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 03 2004 00:00:00",
+      1888,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 04 2004 00:00:00",
+      597,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 05 2004 00:00:00",
+      3766,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 06 2004 00:00:00",
+      1311,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 07 2004 00:00:00",
+      1409,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 08 2004 00:00:00",
+      1611,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 09 2004 00:00:00",
+      589,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      2031,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      1594,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      123,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      87,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      717,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      56,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      51,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 22 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 23 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 24 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 25 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 26 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 27 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 28 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 29 2004 00:00:00",
+      154,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 30 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2004,
+      "August, 31 2004 00:00:00",
+      0,
+      420,
+      2500,
+      "Pilot Station Sonar",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2500,
+    "species_id": "420",
+    "year": "2004",
+    "totalRecords": 72,
+    "totalCount": 399339,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.755717"
+  }
+}

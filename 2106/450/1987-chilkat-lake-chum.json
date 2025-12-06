@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "September, 02 1987 00:00:00",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 23 1987 00:00:00",
+      2,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 19 1987 00:00:00",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 24 1987 00:00:00",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 29 1987 00:00:00",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 04 1987 00:00:00",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 05 1987 00:00:00",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 06 1987 00:00:00",
+      3,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 07 1987 00:00:00",
+      1,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 08 1987 00:00:00",
+      4,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 09 1987 00:00:00",
+      4,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 10 1987 00:00:00",
+      9,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 11 1987 00:00:00",
+      22,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 12 1987 00:00:00",
+      9,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 13 1987 00:00:00",
+      5,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 14 1987 00:00:00",
+      9,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 15 1987 00:00:00",
+      9,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 16 1987 00:00:00",
+      3,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 17 1987 00:00:00",
+      4,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 18 1987 00:00:00",
+      9,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 19 1987 00:00:00",
+      6,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ],
+    [
+      1987,
+      "November, 20 1987 00:00:00",
+      22,
+      450,
+      2106,
+      "Chilkat Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2106,
+    "species_id": "450",
+    "year": "1987",
+    "totalRecords": 22,
+    "totalCount": 127,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.291464"
+  }
+}

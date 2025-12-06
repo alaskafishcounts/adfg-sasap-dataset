@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "September, 16 1987 00:00:00",
+      2,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 17 1987 00:00:00",
+      1,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 18 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 19 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 20 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 21 1987 00:00:00",
+      1,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 22 1987 00:00:00",
+      42,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 23 1987 00:00:00",
+      18,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 24 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 25 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 26 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 27 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 28 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 29 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ],
+    [
+      1987,
+      "September, 30 1987 00:00:00",
+      0,
+      470,
+      2003,
+      "Litnik",
+      "Steelhead Up"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2003,
+    "species_id": "470",
+    "year": "1987",
+    "totalRecords": 15,
+    "totalCount": 64,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.994917"
+  }
+}

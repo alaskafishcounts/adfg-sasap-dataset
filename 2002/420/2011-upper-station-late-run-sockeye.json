@@ -1,0 +1,589 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      97,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      63,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      143,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      24,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      10,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      345,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      1497,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      601,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      227,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      5,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      49,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      250,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      554,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      9,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      96,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 01 2011 00:00:00",
+      1385,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 02 2011 00:00:00",
+      3745,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 03 2011 00:00:00",
+      2256,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 04 2011 00:00:00",
+      3,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 05 2011 00:00:00",
+      46,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 06 2011 00:00:00",
+      72,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 07 2011 00:00:00",
+      1220,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 08 2011 00:00:00",
+      98,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 09 2011 00:00:00",
+      58,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      1719,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      7885,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      6074,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      6541,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      6774,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      6359,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      5345,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      3734,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 18 2011 00:00:00",
+      4406,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      887,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 20 2011 00:00:00",
+      703,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 21 2011 00:00:00",
+      1048,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 22 2011 00:00:00",
+      1464,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 23 2011 00:00:00",
+      4058,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 24 2011 00:00:00",
+      2807,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 25 2011 00:00:00",
+      1146,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 26 2011 00:00:00",
+      4299,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 27 2011 00:00:00",
+      2341,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 28 2011 00:00:00",
+      1955,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 29 2011 00:00:00",
+      2598,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 30 2011 00:00:00",
+      1352,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "August, 31 2011 00:00:00",
+      2735,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 01 2011 00:00:00",
+      500,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 02 2011 00:00:00",
+      2391,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 03 2011 00:00:00",
+      1932,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 04 2011 00:00:00",
+      1140,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 05 2011 00:00:00",
+      35,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 06 2011 00:00:00",
+      1963,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 07 2011 00:00:00",
+      1139,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 08 2011 00:00:00",
+      377,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 09 2011 00:00:00",
+      722,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 10 2011 00:00:00",
+      749,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 11 2011 00:00:00",
+      901,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 12 2011 00:00:00",
+      547,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 13 2011 00:00:00",
+      20,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 14 2011 00:00:00",
+      250,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 15 2011 00:00:00",
+      141,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ],
+    [
+      2011,
+      "September, 16 2011 00:00:00",
+      0,
+      410,
+      2002,
+      "Upper Station",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 63,
+    "totalCount": 101893,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.373545"
+  }
+}

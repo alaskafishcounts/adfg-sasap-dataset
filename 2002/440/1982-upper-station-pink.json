@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      10,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      9,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "July, 31 1982 00:00:00",
+      6,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 01 1982 00:00:00",
+      34,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 02 1982 00:00:00",
+      37,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 03 1982 00:00:00",
+      25,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 04 1982 00:00:00",
+      22,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 05 1982 00:00:00",
+      97,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 06 1982 00:00:00",
+      112,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 07 1982 00:00:00",
+      147,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 08 1982 00:00:00",
+      163,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 09 1982 00:00:00",
+      223,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      221,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      319,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      225,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 13 1982 00:00:00",
+      230,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      232,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 15 1982 00:00:00",
+      748,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      392,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      213,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      212,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      334,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 20 1982 00:00:00",
+      264,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 21 1982 00:00:00",
+      284,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 22 1982 00:00:00",
+      920,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 23 1982 00:00:00",
+      259,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 24 1982 00:00:00",
+      314,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 25 1982 00:00:00",
+      337,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 26 1982 00:00:00",
+      245,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 27 1982 00:00:00",
+      331,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 28 1982 00:00:00",
+      344,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 29 1982 00:00:00",
+      196,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 30 1982 00:00:00",
+      124,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "August, 31 1982 00:00:00",
+      137,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 01 1982 00:00:00",
+      81,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 02 1982 00:00:00",
+      38,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 03 1982 00:00:00",
+      47,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 04 1982 00:00:00",
+      87,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 05 1982 00:00:00",
+      541,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 06 1982 00:00:00",
+      301,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 07 1982 00:00:00",
+      65,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 08 1982 00:00:00",
+      48,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 09 1982 00:00:00",
+      88,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 10 1982 00:00:00",
+      115,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 11 1982 00:00:00",
+      100,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 12 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 13 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 14 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 15 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 16 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 17 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 18 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 19 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 20 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 21 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 22 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 23 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 24 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 25 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 26 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 27 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 28 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 29 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ],
+    [
+      1982,
+      "September, 30 1982 00:00:00",
+      0,
+      420,
+      2002,
+      "Upper Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 64,
+    "totalCount": 9277,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:46.642006"
+  }
+}

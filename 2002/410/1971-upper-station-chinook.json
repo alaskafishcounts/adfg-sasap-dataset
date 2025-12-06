@@ -1,0 +1,823 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1971,
+      "June, 16 1971 00:00:00",
+      1,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 17 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 18 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 19 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 20 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 21 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 22 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 23 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 24 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 25 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 26 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 27 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 28 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 29 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "June, 30 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 01 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 02 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 03 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 04 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 05 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 06 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 07 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 08 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 09 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 10 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 11 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 12 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 13 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 14 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 15 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 16 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 17 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 18 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 19 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 20 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 21 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 22 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 23 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 24 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 25 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 26 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 27 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 28 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 29 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 30 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "July, 31 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 01 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 02 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 03 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 04 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 05 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 06 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 07 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 08 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 09 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 10 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 11 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 12 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 13 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 14 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 15 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 16 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 17 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 18 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 19 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 20 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 21 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 22 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 23 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 24 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 25 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 26 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 27 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 28 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 29 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 30 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "August, 31 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 01 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 02 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 03 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 04 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 05 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 06 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 07 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 08 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 09 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 10 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 11 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ],
+    [
+      1971,
+      "September, 12 1971 00:00:00",
+      0,
+      430,
+      2002,
+      "Upper Station",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2002,
+    "species_id": "430",
+    "year": "1971",
+    "totalRecords": 89,
+    "totalCount": 1,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:45.904420"
+  }
+}

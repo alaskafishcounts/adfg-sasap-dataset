@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "August, 13 1985 00:00:00",
+      0,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 14 1985 00:00:00",
+      6,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 15 1985 00:00:00",
+      6,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 16 1985 00:00:00",
+      23,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 17 1985 00:00:00",
+      19,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 18 1985 00:00:00",
+      11,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 19 1985 00:00:00",
+      43,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 20 1985 00:00:00",
+      130,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 21 1985 00:00:00",
+      91,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 22 1985 00:00:00",
+      124,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 23 1985 00:00:00",
+      103,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 24 1985 00:00:00",
+      15,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 25 1985 00:00:00",
+      26,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 26 1985 00:00:00",
+      21,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 27 1985 00:00:00",
+      113,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 28 1985 00:00:00",
+      238,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 29 1985 00:00:00",
+      122,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 30 1985 00:00:00",
+      58,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 31 1985 00:00:00",
+      35,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 01 1985 00:00:00",
+      46,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 02 1985 00:00:00",
+      37,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 03 1985 00:00:00",
+      11,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 04 1985 00:00:00",
+      71,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 05 1985 00:00:00",
+      17,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 06 1985 00:00:00",
+      5,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 07 1985 00:00:00",
+      9,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 08 1985 00:00:00",
+      28,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 09 1985 00:00:00",
+      7,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 11 1985 00:00:00",
+      4,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 12 1985 00:00:00",
+      3,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 13 1985 00:00:00",
+      8,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 14 1985 00:00:00",
+      23,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 15 1985 00:00:00",
+      129,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 16 1985 00:00:00",
+      47,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 17 1985 00:00:00",
+      14,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 18 1985 00:00:00",
+      7,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 19 1985 00:00:00",
+      9,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 20 1985 00:00:00",
+      233,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 21 1985 00:00:00",
+      18,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 22 1985 00:00:00",
+      9,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 23 1985 00:00:00",
+      19,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 24 1985 00:00:00",
+      11,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 25 1985 00:00:00",
+      18,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 26 1985 00:00:00",
+      7,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 27 1985 00:00:00",
+      9,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 28 1985 00:00:00",
+      8,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 29 1985 00:00:00",
+      4,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 30 1985 00:00:00",
+      1,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 01 1985 00:00:00",
+      6,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 02 1985 00:00:00",
+      18,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 03 1985 00:00:00",
+      8,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 04 1985 00:00:00",
+      1,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 05 1985 00:00:00",
+      3,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 06 1985 00:00:00",
+      1,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 07 1985 00:00:00",
+      3,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 08 1985 00:00:00",
+      0,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 09 1985 00:00:00",
+      1,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 10 1985 00:00:00",
+      4,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 12 1985 00:00:00",
+      1,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 13 1985 00:00:00",
+      1,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 14 1985 00:00:00",
+      1,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 15 1985 00:00:00",
+      2,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 16 1985 00:00:00",
+      0,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 17 1985 00:00:00",
+      0,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 19 1985 00:00:00",
+      0,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 20 1985 00:00:00",
+      0,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 22 1985 00:00:00",
+      0,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "October, 23 1985 00:00:00",
+      0,
+      410,
+      2116,
+      "Warm Chuck Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "410",
+    "year": "1985",
+    "totalRecords": 68,
+    "totalCount": 2046,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.611534"
+  }
+}

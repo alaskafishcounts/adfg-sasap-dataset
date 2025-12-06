@@ -1,0 +1,958 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1963,
+      "July, 16 1963 00:00:00",
+      735,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 17 1963 00:00:00",
+      86,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 18 1963 00:00:00",
+      15,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 19 1963 00:00:00",
+      833,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 20 1963 00:00:00",
+      157,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 21 1963 00:00:00",
+      1247,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 22 1963 00:00:00",
+      540,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 23 1963 00:00:00",
+      482,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 24 1963 00:00:00",
+      123,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 25 1963 00:00:00",
+      1154,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 26 1963 00:00:00",
+      1452,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 27 1963 00:00:00",
+      1322,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 28 1963 00:00:00",
+      460,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 29 1963 00:00:00",
+      2021,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 30 1963 00:00:00",
+      5215,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "July, 31 1963 00:00:00",
+      3417,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 01 1963 00:00:00",
+      2068,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 02 1963 00:00:00",
+      2156,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 03 1963 00:00:00",
+      171,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 04 1963 00:00:00",
+      1286,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 05 1963 00:00:00",
+      2143,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 06 1963 00:00:00",
+      690,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 07 1963 00:00:00",
+      666,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 08 1963 00:00:00",
+      761,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 09 1963 00:00:00",
+      204,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 10 1963 00:00:00",
+      1718,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 11 1963 00:00:00",
+      6520,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 12 1963 00:00:00",
+      4072,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 13 1963 00:00:00",
+      1450,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 14 1963 00:00:00",
+      149,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 15 1963 00:00:00",
+      8342,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 16 1963 00:00:00",
+      11249,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 17 1963 00:00:00",
+      2170,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 18 1963 00:00:00",
+      711,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 19 1963 00:00:00",
+      1014,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 20 1963 00:00:00",
+      2681,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 21 1963 00:00:00",
+      8343,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 22 1963 00:00:00",
+      8028,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 23 1963 00:00:00",
+      10141,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 24 1963 00:00:00",
+      42164,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 25 1963 00:00:00",
+      18048,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 26 1963 00:00:00",
+      6319,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 27 1963 00:00:00",
+      9283,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 28 1963 00:00:00",
+      2543,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 29 1963 00:00:00",
+      875,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 30 1963 00:00:00",
+      3424,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "August, 31 1963 00:00:00",
+      7316,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 01 1963 00:00:00",
+      2157,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 02 1963 00:00:00",
+      4051,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 03 1963 00:00:00",
+      2258,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 04 1963 00:00:00",
+      3122,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 05 1963 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 06 1963 00:00:00",
+      2190,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 07 1963 00:00:00",
+      416,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 08 1963 00:00:00",
+      245,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 09 1963 00:00:00",
+      1421,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 10 1963 00:00:00",
+      447,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 11 1963 00:00:00",
+      1024,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 12 1963 00:00:00",
+      918,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 13 1963 00:00:00",
+      329,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 14 1963 00:00:00",
+      412,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 15 1963 00:00:00",
+      1717,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 16 1963 00:00:00",
+      209,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 17 1963 00:00:00",
+      146,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 18 1963 00:00:00",
+      2203,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 19 1963 00:00:00",
+      1055,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 20 1963 00:00:00",
+      1236,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 21 1963 00:00:00",
+      30,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 22 1963 00:00:00",
+      1129,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 23 1963 00:00:00",
+      1333,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 24 1963 00:00:00",
+      1458,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 25 1963 00:00:00",
+      812,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 26 1963 00:00:00",
+      1006,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 27 1963 00:00:00",
+      1540,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 28 1963 00:00:00",
+      8749,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 29 1963 00:00:00",
+      1452,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "September, 30 1963 00:00:00",
+      1212,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 01 1963 00:00:00",
+      620,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 02 1963 00:00:00",
+      346,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 03 1963 00:00:00",
+      601,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 04 1963 00:00:00",
+      2592,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 05 1963 00:00:00",
+      1775,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 06 1963 00:00:00",
+      533,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 07 1963 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 08 1963 00:00:00",
+      102,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 09 1963 00:00:00",
+      210,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 10 1963 00:00:00",
+      380,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 11 1963 00:00:00",
+      200,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 12 1963 00:00:00",
+      406,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 13 1963 00:00:00",
+      198,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 14 1963 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 15 1963 00:00:00",
+      192,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 16 1963 00:00:00",
+      77,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 17 1963 00:00:00",
+      76,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 18 1963 00:00:00",
+      107,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 19 1963 00:00:00",
+      24,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 20 1963 00:00:00",
+      215,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 21 1963 00:00:00",
+      85,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 22 1963 00:00:00",
+      54,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 23 1963 00:00:00",
+      28,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 24 1963 00:00:00",
+      0,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 25 1963 00:00:00",
+      27,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 26 1963 00:00:00",
+      24,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ],
+    [
+      1963,
+      "October, 27 1963 00:00:00",
+      18,
+      410,
+      2000,
+      "Karluk",
+      "Late Run Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2000,
+    "species_id": "410",
+    "year": "1963",
+    "totalRecords": 104,
+    "totalCount": 239131,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.854484"
+  }
+}

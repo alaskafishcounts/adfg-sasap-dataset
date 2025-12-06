@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "July, 30 1984 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 02 1984 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 05 1984 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 06 1984 00:00:00",
+      4,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 09 1984 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 11 1984 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 15 1984 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 19 1984 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 20 1984 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 21 1984 00:00:00",
+      3,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 22 1984 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 23 1984 00:00:00",
+      1,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 24 1984 00:00:00",
+      5,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 25 1984 00:00:00",
+      77,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 26 1984 00:00:00",
+      31,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 27 1984 00:00:00",
+      22,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 28 1984 00:00:00",
+      3,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ],
+    [
+      1984,
+      "August, 29 1984 00:00:00",
+      2,
+      450,
+      2131,
+      "McDonald Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "450",
+    "year": "1984",
+    "totalRecords": 19,
+    "totalCount": 162,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.868508"
+  }
+}

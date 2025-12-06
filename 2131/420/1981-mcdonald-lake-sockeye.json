@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "June, 07 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 08 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 10 1981 00:00:00",
+      1,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 15 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 16 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 18 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 19 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 20 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 22 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 27 1981 00:00:00",
+      2,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 28 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 29 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 01 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 02 1981 00:00:00",
+      2,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 03 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 04 1981 00:00:00",
+      1,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 05 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 06 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 07 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 08 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 09 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 13 1981 00:00:00",
+      1,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 14 1981 00:00:00",
+      8,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 15 1981 00:00:00",
+      5,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 16 1981 00:00:00",
+      9,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 17 1981 00:00:00",
+      7,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 18 1981 00:00:00",
+      17,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 22 1981 00:00:00",
+      0,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 23 1981 00:00:00",
+      1,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 24 1981 00:00:00",
+      5,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 26 1981 00:00:00",
+      1,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 27 1981 00:00:00",
+      27,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 28 1981 00:00:00",
+      90,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 29 1981 00:00:00",
+      622,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 30 1981 00:00:00",
+      1449,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 31 1981 00:00:00",
+      1058,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 01 1981 00:00:00",
+      479,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 02 1981 00:00:00",
+      591,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 03 1981 00:00:00",
+      1151,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 04 1981 00:00:00",
+      34739,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 05 1981 00:00:00",
+      20740,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 06 1981 00:00:00",
+      28754,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 07 1981 00:00:00",
+      7823,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 08 1981 00:00:00",
+      5522,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 09 1981 00:00:00",
+      124,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 10 1981 00:00:00",
+      172,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 11 1981 00:00:00",
+      164,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 12 1981 00:00:00",
+      174,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 13 1981 00:00:00",
+      336,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 14 1981 00:00:00",
+      1910,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 15 1981 00:00:00",
+      128,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 16 1981 00:00:00",
+      175,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 17 1981 00:00:00",
+      85,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 18 1981 00:00:00",
+      176,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 19 1981 00:00:00",
+      94,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 20 1981 00:00:00",
+      45,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 21 1981 00:00:00",
+      18297,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 22 1981 00:00:00",
+      3318,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 23 1981 00:00:00",
+      703,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 24 1981 00:00:00",
+      329,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 25 1981 00:00:00",
+      46,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 26 1981 00:00:00",
+      226,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 27 1981 00:00:00",
+      29,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 28 1981 00:00:00",
+      5,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 29 1981 00:00:00",
+      3,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 30 1981 00:00:00",
+      8,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 31 1981 00:00:00",
+      1,
+      410,
+      2131,
+      "McDonald Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2131,
+    "species_id": "410",
+    "year": "1981",
+    "totalRecords": 67,
+    "totalCount": 129653,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.860364"
+  }
+}

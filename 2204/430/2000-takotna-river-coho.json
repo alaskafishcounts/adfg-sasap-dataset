@@ -1,0 +1,823 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 02 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      0,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      3,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 05 2000 00:00:00",
+      3,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      8,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      14,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      14,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      40,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      31,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      44,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      80,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      42,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      51,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      58,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      54,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      98,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      146,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      192,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      80,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      387,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      178,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      241,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      152,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 25 2000 00:00:00",
+      107,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      86,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 27 2000 00:00:00",
+      314,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      490,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 29 2000 00:00:00",
+      140,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      120,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 31 2000 00:00:00",
+      62,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 01 2000 00:00:00",
+      70,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 02 2000 00:00:00",
+      66,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 03 2000 00:00:00",
+      54,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 04 2000 00:00:00",
+      70,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 05 2000 00:00:00",
+      46,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 06 2000 00:00:00",
+      100,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 07 2000 00:00:00",
+      42,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 08 2000 00:00:00",
+      25,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 09 2000 00:00:00",
+      30,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 10 2000 00:00:00",
+      36,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 11 2000 00:00:00",
+      40,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 12 2000 00:00:00",
+      27,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 13 2000 00:00:00",
+      29,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 14 2000 00:00:00",
+      16,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 15 2000 00:00:00",
+      9,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 16 2000 00:00:00",
+      15,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 17 2000 00:00:00",
+      5,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 18 2000 00:00:00",
+      8,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 19 2000 00:00:00",
+      10,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 20 2000 00:00:00",
+      11,
+      440,
+      2204,
+      "Takotna River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2204,
+    "species_id": "440",
+    "year": "2000",
+    "totalRecords": 89,
+    "totalCount": 3944,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.024864"
+  }
+}

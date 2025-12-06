@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1972,
+      "August, 07 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "August, 09 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "August, 11 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "August, 16 1972 00:00:00",
+      6,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "August, 24 1972 00:00:00",
+      7,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "August, 25 1972 00:00:00",
+      10,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "August, 27 1972 00:00:00",
+      3,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "August, 29 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "August, 31 1972 00:00:00",
+      3,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "September, 01 1972 00:00:00",
+      6,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "September, 02 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "September, 06 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "September, 07 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "September, 13 1972 00:00:00",
+      2,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "September, 14 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ],
+    [
+      1972,
+      "September, 19 1972 00:00:00",
+      1,
+      450,
+      2101,
+      "Auke Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2101,
+    "species_id": "450",
+    "year": "1972",
+    "totalRecords": 16,
+    "totalCount": 46,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:44.460137"
+  }
+}

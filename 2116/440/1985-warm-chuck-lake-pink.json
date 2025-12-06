@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "August, 14 1985 00:00:00",
+      8,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 15 1985 00:00:00",
+      14,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 16 1985 00:00:00",
+      4,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 17 1985 00:00:00",
+      10,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 18 1985 00:00:00",
+      13,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 19 1985 00:00:00",
+      23,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 20 1985 00:00:00",
+      19,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 21 1985 00:00:00",
+      48,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 22 1985 00:00:00",
+      52,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 23 1985 00:00:00",
+      62,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 24 1985 00:00:00",
+      37,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 25 1985 00:00:00",
+      16,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 26 1985 00:00:00",
+      43,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 27 1985 00:00:00",
+      441,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 28 1985 00:00:00",
+      156,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 29 1985 00:00:00",
+      94,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 30 1985 00:00:00",
+      58,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "August, 31 1985 00:00:00",
+      63,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 01 1985 00:00:00",
+      124,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 02 1985 00:00:00",
+      204,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 03 1985 00:00:00",
+      104,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 04 1985 00:00:00",
+      785,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 05 1985 00:00:00",
+      172,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 06 1985 00:00:00",
+      97,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 07 1985 00:00:00",
+      122,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 08 1985 00:00:00",
+      179,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 09 1985 00:00:00",
+      116,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 10 1985 00:00:00",
+      105,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 11 1985 00:00:00",
+      91,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 12 1985 00:00:00",
+      90,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 13 1985 00:00:00",
+      141,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 14 1985 00:00:00",
+      378,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 15 1985 00:00:00",
+      1700,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 16 1985 00:00:00",
+      1243,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 17 1985 00:00:00",
+      386,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 18 1985 00:00:00",
+      245,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 19 1985 00:00:00",
+      84,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 20 1985 00:00:00",
+      1005,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 21 1985 00:00:00",
+      119,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 22 1985 00:00:00",
+      192,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 23 1985 00:00:00",
+      131,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 24 1985 00:00:00",
+      110,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 25 1985 00:00:00",
+      87,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 26 1985 00:00:00",
+      178,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 27 1985 00:00:00",
+      78,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 28 1985 00:00:00",
+      57,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 29 1985 00:00:00",
+      37,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "September, 30 1985 00:00:00",
+      94,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 01 1985 00:00:00",
+      82,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 02 1985 00:00:00",
+      302,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 03 1985 00:00:00",
+      245,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 04 1985 00:00:00",
+      101,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 05 1985 00:00:00",
+      159,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 06 1985 00:00:00",
+      93,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 07 1985 00:00:00",
+      91,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 08 1985 00:00:00",
+      80,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 09 1985 00:00:00",
+      142,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 10 1985 00:00:00",
+      159,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 11 1985 00:00:00",
+      108,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 12 1985 00:00:00",
+      33,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 13 1985 00:00:00",
+      54,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 14 1985 00:00:00",
+      87,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 15 1985 00:00:00",
+      28,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 16 1985 00:00:00",
+      47,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 17 1985 00:00:00",
+      40,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 18 1985 00:00:00",
+      23,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 19 1985 00:00:00",
+      18,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 20 1985 00:00:00",
+      15,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 21 1985 00:00:00",
+      7,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 22 1985 00:00:00",
+      11,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ],
+    [
+      1985,
+      "October, 23 1985 00:00:00",
+      6,
+      420,
+      2116,
+      "Warm Chuck Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2116,
+    "species_id": "420",
+    "year": "1985",
+    "totalRecords": 71,
+    "totalCount": 11546,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.617443"
+  }
+}

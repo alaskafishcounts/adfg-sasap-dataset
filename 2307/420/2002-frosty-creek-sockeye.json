@@ -1,0 +1,931 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      5,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 01 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 02 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 03 2002 00:00:00",
+      6,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 04 2002 00:00:00",
+      3,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 05 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 06 2002 00:00:00",
+      2,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 07 2002 00:00:00",
+      2,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 08 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 09 2002 00:00:00",
+      2,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      2,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      5,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      66,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      45,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      82,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      36,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      2,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      15,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      8,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      140,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      114,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      158,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      4,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      42,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      27,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      19,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      25,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      18,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      86,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      2,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 01 2002 00:00:00",
+      11,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 02 2002 00:00:00",
+      23,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 03 2002 00:00:00",
+      102,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 04 2002 00:00:00",
+      41,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 05 2002 00:00:00",
+      13,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 06 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 07 2002 00:00:00",
+      17,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 08 2002 00:00:00",
+      36,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      3,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      42,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      9,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      4,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      13,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      13,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      5,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 19 2002 00:00:00",
+      3,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 20 2002 00:00:00",
+      4,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      2,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 01 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 02 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 03 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 04 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 05 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 06 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 07 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 08 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 09 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 12 2002 00:00:00",
+      4,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 13 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 14 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 17 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 19 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 20 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 21 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 22 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 23 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 24 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 25 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 26 2002 00:00:00",
+      1,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 27 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 28 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 29 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 30 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "October, 01 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "October, 02 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "October, 03 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "October, 04 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "October, 05 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "October, 06 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "October, 07 2002 00:00:00",
+      0,
+      420,
+      2307,
+      "Frosty Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2307,
+    "species_id": "410",
+    "year": "2002",
+    "totalRecords": 101,
+    "totalCount": 1276,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:40.426067"
+  }
+}

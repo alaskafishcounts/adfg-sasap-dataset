@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "August, 12 1984 00:00:00",
+      1,
+      410,
+      2120,
+      "Falls Lake",
+      "Chinook"
+    ],
+    [
+      1984,
+      "September, 11 1984 00:00:00",
+      1,
+      410,
+      2120,
+      "Falls Lake",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2120,
+    "species_id": "430",
+    "year": "1984",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:42.732791"
+  }
+}

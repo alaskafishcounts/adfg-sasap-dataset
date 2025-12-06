@@ -1,0 +1,805 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1957,
+      "June, 05 1957 00:00:00",
+      276,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 06 1957 00:00:00",
+      207,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 07 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 08 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 09 1957 00:00:00",
+      15,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 10 1957 00:00:00",
+      758,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 11 1957 00:00:00",
+      1028,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 12 1957 00:00:00",
+      3,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 13 1957 00:00:00",
+      351,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 14 1957 00:00:00",
+      5451,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 15 1957 00:00:00",
+      26,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 16 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 17 1957 00:00:00",
+      379,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 18 1957 00:00:00",
+      27,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 19 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 20 1957 00:00:00",
+      16647,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 21 1957 00:00:00",
+      14046,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 22 1957 00:00:00",
+      1264,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 23 1957 00:00:00",
+      273,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 24 1957 00:00:00",
+      571,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 25 1957 00:00:00",
+      13442,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 26 1957 00:00:00",
+      17826,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 27 1957 00:00:00",
+      4846,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 28 1957 00:00:00",
+      311,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 29 1957 00:00:00",
+      416,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "June, 30 1957 00:00:00",
+      720,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 01 1957 00:00:00",
+      5,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 02 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 03 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 04 1957 00:00:00",
+      18,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 05 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 06 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 07 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 08 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 09 1957 00:00:00",
+      266,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 10 1957 00:00:00",
+      244,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 11 1957 00:00:00",
+      413,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 12 1957 00:00:00",
+      15626,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 13 1957 00:00:00",
+      4310,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 14 1957 00:00:00",
+      4746,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 15 1957 00:00:00",
+      682,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 16 1957 00:00:00",
+      38,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 17 1957 00:00:00",
+      15,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 18 1957 00:00:00",
+      32,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 19 1957 00:00:00",
+      58,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 20 1957 00:00:00",
+      2108,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 21 1957 00:00:00",
+      43,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 22 1957 00:00:00",
+      9,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 23 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 24 1957 00:00:00",
+      47,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 25 1957 00:00:00",
+      104,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 26 1957 00:00:00",
+      22,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 27 1957 00:00:00",
+      8,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 28 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 29 1957 00:00:00",
+      168,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 30 1957 00:00:00",
+      5222,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 31 1957 00:00:00",
+      2260,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 01 1957 00:00:00",
+      6737,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 02 1957 00:00:00",
+      583,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 03 1957 00:00:00",
+      397,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 04 1957 00:00:00",
+      96,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 05 1957 00:00:00",
+      437,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 06 1957 00:00:00",
+      954,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 07 1957 00:00:00",
+      857,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 08 1957 00:00:00",
+      792,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 09 1957 00:00:00",
+      1128,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 10 1957 00:00:00",
+      4224,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 11 1957 00:00:00",
+      324,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 12 1957 00:00:00",
+      22,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 13 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 14 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 15 1957 00:00:00",
+      0,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 16 1957 00:00:00",
+      167,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 17 1957 00:00:00",
+      2019,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 18 1957 00:00:00",
+      857,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 19 1957 00:00:00",
+      294,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 20 1957 00:00:00",
+      277,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 21 1957 00:00:00",
+      524,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 22 1957 00:00:00",
+      617,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 23 1957 00:00:00",
+      170,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 24 1957 00:00:00",
+      226,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 25 1957 00:00:00",
+      57,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 26 1957 00:00:00",
+      3537,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 27 1957 00:00:00",
+      9745,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 28 1957 00:00:00",
+      4356,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 29 1957 00:00:00",
+      128,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "August, 30 1957 00:00:00",
+      43,
+      410,
+      2001,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 2001,
+    "species_id": "410",
+    "year": "1957",
+    "totalRecords": 87,
+    "totalCount": 154895,
+    "source": "SASAP",
+    "last_updated": "2025-10-02T17:53:43.090806"
+  }
+}

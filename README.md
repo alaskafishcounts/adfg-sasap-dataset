@@ -2,6 +2,8 @@
 
 > **✅ DATASET UPDATED - JANUARY 2025**  
 > This dataset has been **UNARCHIVED** and **UPDATED** as of January 15, 2025. Time format consistency fixes and manifest structure improvements have been applied. This is a historical dataset covering 1921-2017 escapement data from the State of Alaska Salmon and People (SASAP) project.
+> 
+> **Last Updated: December 2025**
 
 ## Overview
 
